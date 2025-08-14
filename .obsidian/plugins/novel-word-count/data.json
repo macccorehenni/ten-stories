@@ -125,33 +125,6 @@
         "newlineCount": 0
       }
     },
-    "One-offs/One-offs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1754100887000,
-      "modifiedDate": 1754864529000,
-      "sizeInBytes": 44,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "One-offs/College of the Unheard Orientation.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -197,6 +170,33 @@
       "createdDate": 1753746726000,
       "modifiedDate": 1755093437000,
       "sizeInBytes": 9238,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "One-offs/One-offs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1754100887000,
+      "modifiedDate": 1754864529000,
+      "sizeInBytes": 44,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -341,31 +341,34 @@
         "newlineCount": 0
       }
     },
-    "Main Story/Main Story.md": {
+    "Main Story/Index.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1754100883000,
       "modifiedDate": 1754100883000,
       "sizeInBytes": 35,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
-        "characterCount": 0,
+        "characterCount": 1,
         "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//book-open"
       }
     },
     "Main Story/College of the Unheard Chapter Two.md": {
