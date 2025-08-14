@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiLinkGlyph",
+      "LiBookOpen",
+      "LiBrain",
+      "LiBook",
+      "LiArrowDownLeftFromSquare"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "One-offs/Daily Routine of the Ten.md": "LiEgg",
+  "One-offs/College of the Unheard Orientation.md": "LiInfo",
+  "One-offs/Descriptions of Characters.md": "LiPersonStanding",
+  "One-offs/The Ten and their Powers and Badges.md": "LiPowerCircle",
+  "One-offs": "LiMousePointerSquareDashed",
+  "Friend Stories": "LiLinkGlyph",
+  "Main Story": "LiBook",
+  "Main Story/The College of the Unheard Prologue.md": "LiBookOpen",
+  "Main Story/College of the Unheard Chapter Two.md": "LiBookOpen",
+  "Main Story/The College of the Unheard Chapter 1.md": "LiBookOpen"
+}

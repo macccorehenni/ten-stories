@@ -1,0 +1,35 @@
+{
+  "customFileOrder": {
+    "/": [
+      "LICENSE",
+      "README.md",
+      "Tags",
+      "Main Story",
+      "Friend Stories",
+      "One-offs"
+    ],
+    "Friend Stories": [
+      "Friend Stories/Friend Stories.md",
+      "Friend Stories/Soren sisters and Mariana.md"
+    ],
+    "Main Story": [
+      "Main Story/Untitled.md",
+      "Main Story/The College of the Unheard Prologue.md",
+      "Main Story/The College of the Unheard Chapter 1.md",
+      "Main Story/College of the Unheard Chapter Two.md",
+      "Main Story/Main Story.md"
+    ],
+    "One-offs": [
+      "One-offs/College of the Unheard Orientation.md",
+      "One-offs/Daily Routine of the Ten.md",
+      "One-offs/Descriptions of Characters.md",
+      "One-offs/One-offs.md",
+      "One-offs/The Ten and their Powers and Badges.md"
+    ],
+    "Tags": [
+      "Tags/Tags.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

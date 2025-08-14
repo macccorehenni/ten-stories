@@ -1,0 +1,52 @@
+{
+  "dayCounts": {
+    "2025-08-01": 1206,
+    "2025-08-02": 299,
+    "2025-08-03": 59,
+    "2025-08-05": 19,
+    "2025-08-06": 0,
+    "2025-08-08": 634,
+    "2025-08-09": 37,
+    "2025-08-10": 767,
+    "2025-08-11": 65,
+    "2025-08-12": 526,
+    "2025-08-13": 105,
+    "2025-08-14": 290
+  },
+  "todayWordCount": {
+    "Main Story/College of the Unheard Chapter Two.md": {
+      "initial": 1942,
+      "current": 2232
+    },
+    "One-offs 2/One-offs 2.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "Main Story 2/Main Story 2.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "Main Story/Main Story.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "Main Story/The College of the Unheard Prologue.md": {
+      "initial": 1742,
+      "current": 1742
+    },
+    "Main Story/The College of the Unheard Chapter 1.md": {
+      "initial": 3692,
+      "current": 3692
+    }
+  },
+  "weeklyPlan": {
+    "2025_33": 10000
+  },
+  "currentManuallyModifyWordCount": 0,
+  "dataFile": "",
+  "statisticsFolder": "",
+  "excludeFolder": "",
+  "statisticsWord": true,
+  "enablePlan": true,
+  "weekStart": 0
+}

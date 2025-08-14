@@ -1,0 +1,14 @@
+{
+  "colorPalette": "github",
+  "markingStyle": "colorUnderlining",
+  "miniSentenceColor": "#F87683",
+  "shortSentenceColor": "#DCDCAA",
+  "mediumSentenceColor": "#4EC9B0",
+  "longSentenceColor": "#4FC1FF",
+  "shortThreshold": 4,
+  "mediumThreshold": 9,
+  "longThreshold": 19,
+  "defaultHighlightingEnabled": false,
+  "showStatusBarItem": false,
+  "showRibbonIcon": true
+}

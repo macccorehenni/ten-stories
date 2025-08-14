@@ -1,0 +1,11 @@
+{
+  "addActionsToNewTabs": true,
+  "iconTextGap": 10,
+  "hideMessage": false,
+  "hideDefaultActions": "notHide",
+  "centerActionListVertically": false,
+  "deleteActionListMarginTop": false,
+  "quickActions": false,
+  "quickActionsIcon": "",
+  "actions": []
+}

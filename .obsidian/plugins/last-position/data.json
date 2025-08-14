@@ -1,0 +1,79 @@
+{
+  "myInterval": 3,
+  "myRetryCount": 30,
+  "scrollHeightData": {
+    "The College of the Unheard Chapter 1.md": {
+      "height": 123.74791666666667,
+      "lastAccessed": 1754020971658
+    },
+    "Tags/Tags.md": {
+      "height": 0.18840579710144928,
+      "lastAccessed": 1754708585960
+    },
+    "College of the Unheard Orientation.md": {
+      "height": 52.62109375,
+      "lastAccessed": 1754006329283
+    },
+    "The Ten and their Powers and Badges.md": {
+      "height": 18.63888888888889,
+      "lastAccessed": 1754020647582
+    },
+    "Daily Routine of the Ten.md": {
+      "height": 1,
+      "lastAccessed": 1753973330392
+    },
+    "Descriptions of Characters.md": {
+      "height": 15.692708333333334,
+      "lastAccessed": 1754020255194
+    },
+    "The Academy of the Unheard Prologue.md": {
+      "height": 33.583333333333336,
+      "lastAccessed": 1754020103942
+    },
+    "Main Story/The College of the Unheard Chapter 1.md": {
+      "height": 189.05208333333334,
+      "lastAccessed": 1754709733654
+    },
+    "One-offs/College of the Unheard Orientation.md": {
+      "height": 5.818181818181818,
+      "lastAccessed": 1754852376684
+    },
+    "Main Story/The Academy of the Unheard Prologue.md": {
+      "height": 6.591836734693878,
+      "lastAccessed": 1754100975418
+    },
+    "Main Story/The College of the Unheard Prologue.md": {
+      "height": 0.9219858156028369,
+      "lastAccessed": 1754861673642
+    },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "height": 31.833333333333332,
+      "lastAccessed": 1755093476174
+    },
+    "Main Story/Main Story.md": {
+      "height": 0.00974025974025974,
+      "lastAccessed": 1754706314617
+    },
+    "Main Story/College of the Unheard Chapter Two.md": {
+      "height": 115.10759943181819,
+      "lastAccessed": 1755178953616
+    },
+    "Friend Stories/Soren sisters and Mariana.md": {
+      "height": 15.979166666666666,
+      "lastAccessed": 1754850133051
+    },
+    "One-offs/One-offs.md": {
+      "height": 0.012244897959183673,
+      "lastAccessed": 1754864510159
+    },
+    "One-offs/Meeting a new friend.md": {
+      "height": 8.938988095238095,
+      "lastAccessed": 1754931415460
+    }
+  },
+  "listenEvent": "mouseover",
+  "pageSize": 10,
+  "enableAutoCleanup": false,
+  "cleanupDays": 30,
+  "dataManagementSettingsOpen": false
+}
