@@ -36,17 +36,17 @@ Collegiate badges are different from either scholastic or accomplishment badges 
 
 Unlike the other types of badges, all students have at least three identity badges: team, faction, and manifest.
 
-Team and faction badges are indicative of the group membership, whereas the manifest badge indicates the power they have manifested. A set of identity badges like Anna's (Ten, Misfits, Lightning) indicate her superior ability and skill in battle. Teams can also fashion their own identity badges to reflect their members'— and their in general— ideals, beliefs and goals. For example, both the younger Loud Ones wear a handmade badge representing their friendship made by Iris, and the pact that Givly and Ammareth swore to each other. 
+Team and faction badges are indicative of the group membership, whereas the manifest badge indicates the power they have manifested. A set of identity badges like Anna’s (Ten, Misfits, Lightning) indicate her superior ability and skill in battle. Teams can also fashion their own identity badges to reflect their members‘— and their in general— ideals, beliefs and goals. For example, both the younger Loud Ones wear a handmade badge representing their friendship made by Iris, and the pact that Givly and Ammareth swore to each other. 
 
 ## The Ten
 
 _Total badges_: 154
 
-The Ten are the leadership team. Originally compromised of the Misfits, Loud Ones and the remaining three of the Mindplayers, they were responsible for the downfall of Minden. ~~They then absorbed the Outcasts, two resonants and a moonelf, for Y2 per Anna's edict. Later in Y2, after Givly's abduction by the Parents, they absorbed the Passarines, all three mounts being birds.~~ (Other way around) The crest of the Ten is just that— the number ten. It's centered in the badge. 
+The Ten are the leadership team. Originally compromised of the Misfits, Loud Ones and the remaining three of the Mindplayers, they were responsible for the downfall of Minden. ~~They then absorbed the Outcasts, two resonants and a moonelf, for Y2 per Anna’s edict. Later in Y2, after Givly’s abduction by the Parents, they absorbed the Passarines, all three mounts being birds.~~ (Other way around) The crest of the Ten is just that— the number ten. It’s centered in the badge. 
 
 ### Misfits (2Y)
 
-The crest is an slanted "M", almost between oblique and slanted in its angle. When placed on the faction badge, it's hanging off the left. 
+The crest is an slanted “M”, almost between oblique and slanted in its angle. When placed on the faction badge, it’s hanging off the left. 
 
 #### Leader— Anna (Anne)
 
@@ -76,9 +76,9 @@ Age: 27
 
 Mount: Unicorn (Palten)
 
-Power: Telepathic Empathy— can feel others' emotions from a distance
+Power: Telepathic Empathy— can feel others’ emotions from a distance
 
-With Feydorian feybloom enhancement she also can use mindflay— the ability to change ones' thoughts
+With Feydorian feybloom enhancement she also can use mindflay— the ability to change ones’ thoughts
 
 Badges: Ten, Misfits, Telepathic Empathy, Mindflay, Honor, Two Snakes, 2nd 2Y Music Battle I, 1rst 2Y Music Battle II, 2Y Individual Battle Challenge I
 
@@ -158,7 +158,7 @@ Power: Mind reader
 
 Badges: Ten, Loud Ones, Mind reader, Honor, Two Snakes, Youngest Faction, 1st 2Y Music Battle I, 2nd 2Y Music Battle II, Friendship of the Orphans (Ten)
 
-Tryout song: Cole's Response/Yaekelore
+Tryout song: Cole’s Response/Yaekelore
 
 Species: Half dragonborne
 
@@ -371,7 +371,7 @@ Mount: Mist-Kirin (Serin)
 
 Badges: Ten, Overlands, Echoveil, Whisperfoot, Unique Mount, Unique Manifest
 
-Tryout song: Cole's Response/Yaekelore
+Tryout song: Cole’s Response/Yaekelore
 
 Species: Chinchilla girl
 
