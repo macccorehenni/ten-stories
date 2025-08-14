@@ -380,56 +380,26 @@
         "sticker": "lucide//hourglass"
       }
     },
-    "Main Story/index.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 188,
-      "nonWhitespaceCharacterCount": 159,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755198251269,
-      "modifiedDate": 1755198370080,
-      "sizeInBytes": 222,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 188,
-        "nonWhitespaceCharacterCount": 159,
-        "newlineCount": 7
-      },
-      "frontmatter": {
-        "sticker": "lucide//book-open"
-      }
-    },
     "Main Story/College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2819,
-      "wordCountTowardGoal": 2819,
+      "wordCount": 2829,
+      "wordCountTowardGoal": 2829,
       "wordGoal": 8000,
-      "pageCount": 9.396666666666667,
-      "characterCount": 16331,
-      "nonWhitespaceCharacterCount": 13338,
-      "newlineCount": 225,
-      "readingTimeInMinutes": 10.637735849056604,
+      "pageCount": 9.43,
+      "characterCount": 16380,
+      "nonWhitespaceCharacterCount": 13376,
+      "newlineCount": 227,
+      "readingTimeInMinutes": 10.675471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Parents"
       ],
       "createdDate": 1755199054874,
-      "modifiedDate": 1755204077920,
-      "sizeInBytes": 16988,
+      "modifiedDate": 1755204272714,
+      "sizeInBytes": 17039,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.37,
@@ -536,6 +506,33 @@
       },
       "frontmatter": {
         "tags": "MOCs"
+      }
+    },
+    "Main Story/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 190,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.10566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755198251269,
+      "modifiedDate": 1755204422917,
+      "sizeInBytes": 222,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

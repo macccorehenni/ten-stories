@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/index.md",
+                "file": "Main Story/College of the Unheard Chapter Two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "College of the Unheard Chapter Two"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Story/index.md",
+                "file": "Main Story/College of the Unheard Chapter Two.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of College of the Unheard Chapter Two"
             }
           },
           {
@@ -222,12 +222,13 @@
   },
   "active": "3d778e5987ee3977",
   "lastOpenFiles": [
+    "Main Story/index.md",
+    "Main Story/README.md",
     "Main Story/College of the Unheard Chapter Two.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Prologue.md",
     "One-offs/One-offs.md",
     "Main Story/Unconfirmed 853987.crdownload",
-    "Main Story/index.md",
     "Main Story/Untitled.md",
     "README.md",
     "LICENSE"
