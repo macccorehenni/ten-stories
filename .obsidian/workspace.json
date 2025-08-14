@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c5328bf8d50c40d",
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +224,13 @@
   },
   "active": "3d778e5987ee3977",
   "lastOpenFiles": [
+    "Main Story/The College of the Unheard Chapter 1.md",
+    "Main Story/The College of the Unheard Prologue.md",
+    "One-offs/College of the Unheard Orientation.md",
+    "Main Story/College of the Unheard Chapter Two.md",
     "Main Story/index.md",
     "Main Story/README.md",
-    "Main Story/College of the Unheard Chapter Two.md",
     "One-offs/The Ten and their Powers and Badges.md",
-    "Main Story/The College of the Unheard Prologue.md",
     "One-offs/One-offs.md",
     "Main Story/Unconfirmed 853987.crdownload",
     "Main Story/Untitled.md",

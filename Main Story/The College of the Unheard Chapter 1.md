@@ -12,7 +12,7 @@ _A few weeks after the graduation concert and the fight that broke out, Anna has
 
 "As far as I know, yes." The six students were walking to class on the outskirts of the college. 
 
-"Perhaps we should go to the cafe." Emmersun walked beside the two girls, Amber, Yae, Ildren and the rest of the factions' mounts behind the three.
+"Perhaps we should go to the cafe." Emmersun walked beside the two girls, Amber, Yae, Ilven and the rest of the factions' mounts behind the three.
 
 "No, and slip class? Come on, Emmersun, I thought you better than that. " Celesteia and Iris smiled as Givly came up beside the three, pulling the three into a hug. 
 
@@ -48,7 +48,7 @@ Smiling, the Headmistress said, "I already let Professor Ammares know you'll be 
 
 ---
 
-She looked much better. Much of the charring from the deathtouch had gone away, except for along her collarbone and her upper arms. 
+She looked much better. Much of the charring from the failed deathtouch had gone away, except for along her collarbone and her upper arms. 
 
 "Anna? So glad you're okay." Despite her overwhelming sadness over the last few weeks, Celesteia smiled, and broke down crying *happy* tears. "You know, girl, I'm happy for you, and the whole of— of— our *team* is as well."
 
@@ -58,7 +58,7 @@ Suddenly, in a blur of limbs and flight (no doubt assisted by Ammareth's power),
 
 They all laughed, and hugged (gently, unlike Givly) their friend. Givly refused to let anyone other than the Misfits and Loud Ones touch her. 
 
-This jubilation was short lived though, as the three people Anna nor her friends wanted to see the least walked in through the door— the Mindplayers. 
+This jubilation was short lived though, as the three people neither Anna nor her friends wanted to see the least walked in through the door— the Mindplayers. 
 
 But, Celesteia noticed, they meant no malice. 
 
@@ -74,7 +74,7 @@ Tarim stepped forward, to a growl from Emmersun.
 
 "Anna, the fight me and my squad took a part of that night— it wasn't okay of us. I, as the new leader of the Mindplayers take full responsibility. As you were probably aware, Minden was not the best person to follow. Power got to their brain _way_, way too easy, and you were a threat to their power. We blindly followed, against our best interests, and that then made us complacent. Amber had the right idea, defecting to you all. We— we understand if you don't want us around." He waited for Anna to respond, and when she didn't respond, Tarim ruefully smiled and turned to leave. 
 
-"Tarim. I understand your conflict. Do you wish to join—" she smiled at Celesteia, then at Givly, "our team?" Tarim, and his faction, 
+"Tarim. I understand your conflict. Do you wish to join—" she smiled at Celesteia, then at Givly, "our team?" Tarim, and his faction, all nodded together, unsure.
 
 "Because our friends— the Loud Ones— are allying with us."
 
@@ -98,7 +98,7 @@ Iris agreed, and Tarim shrugged his shoulders. "Thus, we are now known as the Te
 
 "Really?" Iris looked skeptical. 
 
-"Remember we can read minds. Well, mostly me, but anyways." 
+"Remember we can read minds. Well, mostly me, but anyways." Givly reminded the… former headmaster?
 
 "And what is your power saying, Givly?"
 
@@ -140,7 +140,7 @@ This was when they were seventeen. Now, six years later, as adults, they had now
 
 "How long until it's fixed?"
 
-"A month. In the meantime we will be sleeping in the offices next to mine. That's still something I'm getting used to saying by the way. "
+"A month. In the meantime we will be sleeping in the offices next to mine. That's still something I'm getting used to saying, by the way. "
 
 The rest of her team sighed. Anna had been super excited about her work, but it took up much of her mornings, what between leading the school and the year in academics. She had taken on a big job with this new title and she knew it. 
 
@@ -238,7 +238,7 @@ Anna smiled. "Good so far. Is there enough rooms for thirty?"
 
 "Ah, perfect." After making sure Givly wasn't in earshot, telepathically or physically, she whispered, "When's water going in?"
 
-"Today. We're finishing negotiating with Ilford River Water Company to bring _this_ much water into the College. Things are going well."
+"Today. We're finishing negotiating with Ilford Valley Approch Water Company to bring _this_ much water into the College. Things are going well."
 
 "Good. Hey, I heard you came here too. What power did you manifest?"
 
@@ -264,7 +264,7 @@ Later that afternoon, Anna turned the faucet. "Do we have water, Anna?" Ildren w
 
 "It looooks as much, Ildren. Hopefully we won't need River Water Co out today."
 
-"It does seem like you're much happier, Givly." Ildren noted through bonds. 
+"It does seem like you're much happier, Givly." Ilven noted through bonds. 
 
 "Much happier I am. Loving how you designed my little nook. Makes it easier to snuggle with Emmy." Givly smiled, her enthusiasm for what was now the Ten's new home rubbing off on the others. 
 

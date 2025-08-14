@@ -15,6 +15,12 @@
       "icon": "lucide-flower-2",
       "name": "Flowershow: Publish all notes",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-better-command-palette:open-better-commmand-palette-file-search",
+      "icon": "lucide-book-open",
+      "name": "Open file",
+      "mode": "any"
     }
   ],
   "leftRibbon": [

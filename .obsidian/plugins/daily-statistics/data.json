@@ -11,12 +11,12 @@
     "2025-08-11": 65,
     "2025-08-12": 526,
     "2025-08-13": 105,
-    "2025-08-14": 938
+    "2025-08-14": 1006
   },
   "todayWordCount": {
     "Main Story/College of the Unheard Chapter Two.md": {
       "initial": 1942,
-      "current": 2851
+      "current": 2886
     },
     "One-offs 2/One-offs 2.md": {
       "initial": 5,
@@ -32,11 +32,11 @@
     },
     "Main Story/The College of the Unheard Prologue.md": {
       "initial": 1742,
-      "current": 1742
+      "current": 1763
     },
     "Main Story/The College of the Unheard Chapter 1.md": {
       "initial": 3692,
-      "current": 3692
+      "current": 3704
     },
     "Main Story/Index.md": {
       "initial": 5,
@@ -61,6 +61,10 @@
     "One-offs/The Ten and their Powers and Badges.md": {
       "initial": 1415,
       "current": 1415
+    },
+    "One-offs/College of the Unheard Orientation.md": {
+      "initial": 949,
+      "current": 949
     }
   },
   "weeklyPlan": {

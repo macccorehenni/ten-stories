@@ -7,7 +7,7 @@ word-goal: 8000
 
 # The Parents
 
-Anna woke up right before Iris was supposed to be leaving for the Iron Blade. But where normally she’d hear Elvy’s hooves clomping down the hill and Iris saying “Morning, Anna” through bonds, there was radio silence. This bothered Anna, who was just as used to this routine as Iris was to granting it. A thought flashed through her head— *was Givly okay*? She got up, virtually pulling Ildren with her. She could hear only static through the bonds with the Ten, which only increased her anxiety more. Her heart beating, she raced up to the spunky girl’s alcove on the second floor. Her bed Anna had made the night before— was still weirdly made? Something wasn’t right. It was only then that she noticed the note on Givly’s bed: 
+Anna woke up right before Iris was supposed to be leaving for the Iron Blade. But where normally she’d hear Elvy’s hooves clomping down the hill and Iris saying “Morning, Anna” through bonds, there was radio silence. This bothered Anna, who was just as used to this routine as Iris was to granting it. A thought flashed through her head— *was Givly okay*? She got up, virtually pulling Ilven with her. She could hear only static through the bonds with the Ten, which only increased her anxiety more. Her heart beating, she raced up to the spunky girl’s alcove on the second floor. Her bed Anna had made the night before— was still weirdly made? Something wasn’t right. It was only then that she noticed the note on Givly’s bed: 
 
 > You thought you could protect our girl?
 > Meet us at the Illford Hotel. 
@@ -114,7 +114,7 @@ Anna didn’t think much about the seemingly ominous warning, or the fact that t
 
 ---
 
-“Sorry, Miss Headmaster, but without a mount? I’m not sure about it.” Anna stood with Ildren, her hands on her hips. A dragonspire resonant, Eukaryia, the leader of the newly formed faction, the Outcasts, spoke soflty, as Anna did. 
+“Sorry, Miss Headmaster, but without a mount? I’m not sure about it.” Anna stood with Ilven, her hands on her hips. A dragonspire resonant, Eukaryia, the leader of the newly formed faction, the Outcasts, spoke soflty, as Anna did. 
 
 “We have two members of our team in danger.” Anna looked over at Iris, who was hard at work resisting wielding her sound amplification to drive the point home. 
 
@@ -223,10 +223,10 @@ _The whisps of smoke that the little ones called the Parents watched over Givly 
 
 As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over 
 The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
-Newly bonded with the other mounts, Hades growled. "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
-"Were your mounts this irritable when bonded?" Ildren asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
-"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other."
+Newly bonded with the other mounts, Hades growled, prompting his handler to say, "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
+"Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's  asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the cope of trees mysteriously thinned, almost as if illusory.
 
-"Sorry to derail your conversation, hat's our plan of attack, Anna?"
+"Sorry to derail your conversation, what's our plan of attack, Anna?"
 
-"We'll fan out. Ildren, you, Ilven and I'll go flank the enterence. See if Giv is there. "
+"We'll fan out. Ildren, you, Ilven and I'll go flank the enterence. See if Giv is there."

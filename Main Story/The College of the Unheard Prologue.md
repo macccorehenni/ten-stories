@@ -8,21 +8,19 @@ sticker: lucide//list-end
 
 ## Prologue— Finale
 
-"Listen up, team!" Anna said, her eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Maren—"
+"Listen up, team!" Anna said, her bright blue eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Maren—"
 
-"The prick," Amber said, still upset over their  betrayal, their attempt to use their deathtouch power to _kill_ her. "I condone the use of that word in this case, Iris." As the Loud Ones returned to the green room with their mounts behind them, their heads down cast. 
+"The prick," Amber said, still upset over their  betrayal, their attempt to use their deathtouch power to _kill_ her. "I condone the use of that word in this case, Iris." she  the Loud Ones, another faction of students, and great friends of the Misfits, returned to the green room with their mounts behind them, their heads down cast. 
 
 "We'll be seeing you next year— as first years again." The middle of the youngest faction in Unspoken in 2025— and ever—  seemed heartbroken. Givly's tiger mount came and muzzled her hand, and Givly accepted Emmersun's snout without questioning it. 
 
 "Why? What happened?"
 
-"Somehow my power knocked over the lighting lamp. We're not moving through."
+"Somehow my power knocked over the lighting lamp. We're not moving through." Givly replied, a sour taste forming in her month
 
 This statement seemed off. Celesteia knew that Givly's power didn't have any physical manifestation — she's a mind reader. 
 
-Anna thought for a moment. "Huh. Waaait…
-
-Huddle up for a moment, Misfits."
+Anna thought for a moment. "Huh. Waaait… Huddle up for a moment, Misfits."
 
 Yae, Amber and Celesteia moved in to surround Anna. 
 
@@ -115,11 +113,11 @@ They tilted their head, waiting for Anna to continue.
 
 Meanwhile, the Loud Ones, their mounts and that of the Misfits stood backstage, willfully ignoring the pleas of their friends and handlers. Every heartbeat after the Mindplayers— except, mercifully, Minden— pushed them over en route to the stage was tense. The mounts were talking amongst themselves, and Givly, though she couldn't hear what they were talking about, could tell they were tense and just as worried as she and her factionmates were about their handlers. 
 
-"We _do not_ intervene during this concert! The handlers' professors explicitly forbade the entering of mounts!" Ildren, the most level headed yet rule following of the four faction mounts, glared at his fellow Misfits faction mounts. 
+"We _do not_ intervene during this concert! The handlers' professors explicitly forbade the entering of mounts!" Ilven, the most level headed yet rule following of the four faction mounts, glared at his fellow Misfits faction mounts. 
 
-"Yet, Ildren, our handlers— not to mention, my daughter— are in peril. Perhaps we shall intervene for their safety." Danche chipped in, his hoofs grating against the stone floor. 
+"Yet, Ilven, our handlers— not to mention, my daughter— are in peril. Perhaps we shall intervene for their safety." Danche chipped in, his hoofs grating against the stone floor. 
 
-"Sorry, Ildren, gonna agree with Danche. Normally I'd lean towards agreeing with you as the faction leader's mount, but why risk my beautiful two-tone haired girl's life? I'd rather give my own life— or wander, aimlessly, after being expelled by the College— than _die_. Choose what you want, Ildren, but, I _will_ save Celesteia. No questions asked, are we going?" Palten sighed, seeing no movement in the gryphon's stance to indicate he agreed. 
+"Sorry, Ilven, gonna agree with Danche. Normally I'd lean towards agreeing with you as the faction leader's mount, but why risk my beautiful two-tone haired girl's life? I'd rather give my own life— or wander, aimlessly, after being expelled by the College— than _die_. Choose what you want, Ilven, but, I _will_ save Celesteia. No questions asked, are we going?" Palten sighed, seeing no movement in the gryphon's stance to indicate he agreed. 
 
 "Honestly, if I were you four?" Emmersun smiled, his fangs baring. "Go. All four. If your handlers need to wield— and they will— you will need to help them."
 
@@ -135,11 +133,11 @@ But a scream that sounded quite a bit like Anna's screamed out. All seven mounts
 
 "Iris? Giv?" Yae looked confused, but then remembered— Minden wanted her dead. 
 
-Enraged and having the upper hand, Ildren struck with his barbed tail against Minden. They fell, but only just long enough for Iris and Emmersun to move out of harm's way. Their target lost, Minden moved over to attack Yae, who immediately wielded and threw a stone at them, knocking them off balance long enough for Yaereene to wield again. Before she could fully heave the light (she was struggling, as it was a bit out of her power's range), she was swept off her feet by Tarim— who looked to have been forced by his faction leader to wield. 
+Enraged and having the upper hand, Ilven struck with his barbed tail against Minden. They fell, but only just long enough for Iris and Emmersun to move out of harm's way. Their target lost, Minden moved over to attack Yae, who immediately wielded and threw a stone at them, knocking them off balance long enough for Yaereene to wield again. Before she could fully heave the light (she was struggling, as it was a bit out of her power's range), she was swept off her feet by Tarim— who looked to have been forced by his faction leader to wield. 
 
 Luckily for her, Ammareth slowed her fall and allowed Yaereene to finish her wielding and knock down Minden, but they got up. 
 
-No matter what they tried, the Misfits and Loud Ones could not knock Minden down. But suddenly, Ildren cried out in joy as his handler woke up, only to channel through him to cast a lightning bolt that finally did knock down the miscreant. 
+No matter what they tried, the Misfits and Loud Ones could not knock Minden down. But suddenly, Ilven cried out in joy as his handler woke up, only to channel through him to cast a lightning bolt that finally did knock down the miscreant. 
 
 Yae was then able to pick back up the stone and throw it at their bloodied body, dealing the final blow and killing them. Anna was alive, but didn't look well. The poison didn't work, or did it? Regardless, the show had to go on. 
 
