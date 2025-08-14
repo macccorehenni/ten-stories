@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -206,8 +206,9 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "b60d969ff0a22a3f",
+  "active": "3d778e5987ee3977",
   "lastOpenFiles": [
+    "Main Story/index.md",
     "Main Story/College of the Unheard Chapter Two.md",
     "README.md",
     "LICENSE"

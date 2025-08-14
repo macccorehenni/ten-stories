@@ -1,1 +1,1 @@
-# ten-stories-publish
+# ten-stories
