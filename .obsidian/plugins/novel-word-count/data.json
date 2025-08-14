@@ -418,8 +418,8 @@
       "wordCountTowardGoal": 2381,
       "wordGoal": 8000,
       "pageCount": 7.9366666666666665,
-      "characterCount": 13794,
-      "nonWhitespaceCharacterCount": 11248,
+      "characterCount": 13801,
+      "nonWhitespaceCharacterCount": 11254,
       "newlineCount": 210,
       "readingTimeInMinutes": 8.984905660377358,
       "linkCount": 0,
@@ -428,8 +428,8 @@
         "The Parents"
       ],
       "createdDate": 1755199054874,
-      "modifiedDate": 1755199073729,
-      "sizeInBytes": 14435,
+      "modifiedDate": 1755199601479,
+      "sizeInBytes": 14442,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.37,

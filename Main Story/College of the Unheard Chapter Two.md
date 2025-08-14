@@ -212,4 +212,4 @@ Yae smiled. After all, Mariana wasn't wrong.
 
 Yaereene's idea of a fun time was reading a book by the fireplace in Iron Blade. She grew up with her friend Irin, who was a human, rare in the pre-Lich Feydor Forest.  As the Forest fell, both Yae and Irin ran away to the same enclave of the Feyrun High Forest. They met back up as Yae prepared to leave the High Forest.
 
-If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she thought Irin had died in the coup and the resulting fallout, so some more time away from her wouldn't be too much. Yet, Irin was still her best friend, and her smile faltered a bit. She was stuck in though, fingers twi
+If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she thought Irin had died in the coup and the resulting fallout, so some more time away from her wouldn't be too much. Yet, Irin was still her best friend, and her smile faltered a bit. She was stuck in though, fingers twiddling, thinking about Irin, when she snapped to to hear Anna say, "Okay, so Yae, Imphe and Iris are going to ride with you and Hades, and Ilden and I will get to know "
