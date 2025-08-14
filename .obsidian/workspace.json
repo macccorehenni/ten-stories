@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "College of the Unheard Chapter Two"
             }
+          },
+          {
+            "id": "c56a0866b5ef2120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Ten and their Powers and Badges"
+            }
           }
         ]
       }
@@ -162,16 +176,6 @@
             }
           },
           {
-            "id": "4c33bb3cec94114f",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
-          },
-          {
             "id": "0f1d7b44bf7e776a",
             "type": "leaf",
             "state": {
@@ -180,9 +184,19 @@
               "icon": "component",
               "title": "Explorer"
             }
+          },
+          {
+            "id": "4c33bb3cec94114f",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,14 +220,14 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "3d778e5987ee3977",
+  "active": "4c33bb3cec94114f",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
-    "One-offs/One-offs.md",
     "Main Story/College of the Unheard Chapter Two.md",
+    "Main Story/The College of the Unheard Prologue.md",
+    "One-offs/One-offs.md",
     "Main Story/Unconfirmed 853987.crdownload",
     "Main Story/index.md",
-    "Main Story/The College of the Unheard Prologue.md",
     "Main Story/Untitled.md",
     "README.md",
     "LICENSE"

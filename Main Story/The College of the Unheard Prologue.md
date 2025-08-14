@@ -8,7 +8,7 @@ sticker: lucide//list-end
 
 ## Prologue— Finale
 
-"Listen up, team!" Anna said, her eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Marin—"
+"Listen up, team!" Anna said, her eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Maren—"
 
 "The prick," Amber said, still upset over their  betrayal, their attempt to use their deathtouch power to _kill_ her. "I condone the use of that word in this case, Iris." As the Loud Ones returned to the green room with their mounts behind them, their heads down cast. 
 

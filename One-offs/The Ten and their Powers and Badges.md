@@ -54,7 +54,7 @@ Portrait done
 
 Age: 27
 
-Mount: Gryphon (Ildren)
+Mount: Gryphon (Ilven)
 
 Power: Lightning
 

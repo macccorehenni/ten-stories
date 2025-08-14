@@ -166,7 +166,7 @@ Despite themselves, the members of the Ten laughed, leading Mariana to tentative
 
 “Oh, her? She’s in…”
 
-Iris suddenly darted towards the meeting room, leaving the man confused, laughing as she slowed down. Suddenly, another woman similar in build, height, and hairstyle to Anna joined him and Iris, walking though the wide frosted glass doors of the Callendor meeting room. Mariana, Anna, and Tarim smiled as they saw them, with the rest of the Ten sitting around the 
+Iris suddenly darted towards the meeting room, leaving the man confused, laughing as she slowed down. Suddenly, another woman similar in build, height, and hairstyle to Anna joined him and Iris, walking though the wide frosted glass doors of the Callendor meeting room. Mariana, Anna, and Tarim smiled as they saw them, with the rest of the Ten sitting around the table. 
 
 “Hey, Ten. Meet my teammates— Ildren and Emphelli.”
 
@@ -190,6 +190,8 @@ Iris suddenly darted towards the meeting room, leaving the man confused, laughin
 
 “One thing that makes me nervous is the proximity to the Crag just northwest of Central Ilford. We all should go up there tommorow. For now— are we a part of your team? Anna, Iris, Tarim?”
 
+"Wait— I have an idea, but it can wait."
+
 The leaders conversed through bonds, eventually agreeing to let them join the team. Now the Ten was thirteen.
 
 --- 
@@ -212,15 +214,19 @@ Yae smiled. After all, Mariana wasn't wrong.
 
 Yaereene's idea of a fun time was reading a book by the fireplace in Iron Blade. She grew up with her friend Irin, who was a human, rare in the pre-Lich Feydor Forest.  As the Forest fell, both Yae and Irin ran away to the same enclave of the Feyrun High Forest. They met back up as Yae prepared to leave the High Forest.
 
-If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she thought Irin had died in the coup and the resulting fallout, so some more time away from her wouldn't be too much. Yet, Irin was still her best friend, and her smile faltered a bit. She was stuck in though, fingers twiddling, thinking about Irin, when she snapped to hearing Anna say, "Okay, so Yae, Imphe and Iris are going to ride with you and Hades, and Ilden and I will get to know Ildren. Sounds good?"
+If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she thought Irin had died in the coup and the resulting fallout, so some more time away from her wouldn't be too much. Yet, Irin was still her best friend, and her smile faltered a bit. She was stuck in though, fingers twiddling, thinking about Irin, when she snapped to hearing Anna say, "Okay, so Yae, Imphe and Iris are going to ride with you and Hades, and Ilven and I will get to know Ildren. Sounds good?"
 "Sounds good!" Yae said, perhaps a bit too quickly for Anna, who gave a quick look towards her and nodded. She understood the feeling too well, and had talked about it with Yaereene before. As Celesteia joined the team, both her and her mount yawning from exhaustion, she looked and smiled. "Sorry… for being so late."
 "It's alright, shall we set off?" Anna replied, and quiet cheers— subdued not beacuse it was four in the morning, but beacuse they, especially the existing members of the Ten, were aware they may find their lives in danger— rang out through the meeting room. "Let's do it then!"
 
 ---
 _The whisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this? reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need_ more. _No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
 
-As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ildren, Hades, Palten?" Anna shouted over 
-The mounts assented, and started the turn. Ildren did it with flourish, his body barrel rolling across the path of Hades and Palten.
+As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over 
+The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
 Newly bonded with the other mounts, Hades growled. "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
-"Were your mounts this irritable when bonded?" Ildren asked after Palten managed to stabilize the two birds' emotions. 
-"I mean, Palten and Emmersun— Givly's dream tiger"
+"Were your mounts this irritable when bonded?" Ildren asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other."
+
+"Sorry to derail your conversation, hat's our plan of attack, Anna?"
+
+"We'll fan out. Ildren, you, Ilven and I'll go flank the enterence. See if Giv is there. "
