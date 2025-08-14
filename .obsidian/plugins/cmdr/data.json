@@ -52,7 +52,13 @@
     }
   ],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "backlink",
+      "sync",
+      "color-cycler",
+      "last-position",
+      "custom-sort"
+    ],
     "leftRibbon": [
       "Cycle accent color",
       "Open quick switcher",
