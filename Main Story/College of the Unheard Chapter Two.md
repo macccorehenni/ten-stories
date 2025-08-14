@@ -4,116 +4,212 @@ aliases:
 sticker: lucide//rocking-chair
 word-goal: 8000
 ---
+
 # The Parents
-Anna woke up right before Iris was supposed to be leaving for the Iron Blade. But where normally she'd hear Elvy's hooves clomping down the hill and Iris saying "Morning, Anna" through bonds, there was radio silence. This bothered Anna, who was just as used to this routine as Iris was to granting it. A thought flashed through her head— *was Givly okay*? She got up, virtually pulling Ildren with her. She could hear only static through the bonds with the Ten, which only increased her anxiety more. Her heart beating, she raced up to the spunky girl's alcove on the second floor. Her bed Anna had made the night before— was still weirdly made? Something wasn't right. It was only then that she noticed the note on Givly's bed: 
+
+Anna woke up right before Iris was supposed to be leaving for the Iron Blade. But where normally she’d hear Elvy’s hooves clomping down the hill and Iris saying “Morning, Anna” through bonds, there was radio silence. This bothered Anna, who was just as used to this routine as Iris was to granting it. A thought flashed through her head— *was Givly okay*? She got up, virtually pulling Ildren with her. She could hear only static through the bonds with the Ten, which only increased her anxiety more. Her heart beating, she raced up to the spunky girl’s alcove on the second floor. Her bed Anna had made the night before— was still weirdly made? Something wasn’t right. It was only then that she noticed the note on Givly’s bed: 
+
 > You thought you could protect our girl?
->Meet us at the Illford Hotel. 
+> Meet us at the Illford Hotel. 
 
 Our girl? This must be the Parents. But the bonds? She tried to reach over them but was once again met with static. Suddenly, over bonds, she heard Iris wail for Givly, followed by Ammereth. 
-"Girls, Misfits. Ready your mounts. We need to save our teammate."
+
+“Girls, Misfits. Ready your mounts. We need to save our teammate.”
 
 ---
-When they arrived at the Hotel, almost as opulent as Callendor dorm, the Ten's new home, they found a note stuck to the door— near Iris' height, notably. 
->Turn back towards the Connect, all eight of you. 
+
+When they arrived at the Hotel, almost as opulent as Callendor dorm, the Ten’s new home, they found a note stuck to the door— near Iris’ height, notably. 
+
+> Turn back towards the Connect, all eight of you. 
 
 They did as told, and suddenly saw black and felt static across the bonds. 
 
 ---
-A few moments later (due to the sensory and bond deprivation, no one could really tell *exactly* how long), their senses and connection returned. "The hell?" Celesteia exclaimed over bonds. 
 
-Another, snider voice— one of the Parents?— spoke through the bonds. "How nice of you to visit, Anna. Pity you felt it *kind* to not wake up the other half of the Ten. It's also a pity that this was just a… practice round."
-"I told you darling, picking right when the friend left would not work in our favor." Another unfamiliar voice crackled through the Misfits' and Loud Ones' heads. The mounts of the girls growled, but seemed not to be anywhere close enough to attempt any rescue. 
-"What do you want… Parents?"
-"We want our girls."
-"Yah right, you're not getting… Givly and I back. No way. You're evil." Ammereth kept her voice even. 
-The second Parent— the voices were exactly the same— cackled for a few moments. "Yes, we will. You remember your first seven years, Ammareth. That was us. Will you really just foresake us… for these magical wielders?"
-"Yeah, I will. You're evil."
-"They are _not_ your friends, they mean to take advantage of you."
-"*Stop*. I've heard enough. Where's Givly?" Anna frowned. 
+A few moments later (due to the sensory and bond deprivation, no one could really tell *exactly* how long), their senses and connection returned. “The hell?” Celesteia exclaimed over bonds. 
+
+Another, snider voice— one of the Parents?— spoke through the bonds. “How nice of you to visit, Anna. Pity you felt it *kind* to not wake up the other half of the Ten. It’s also a pity that this was just a… practice round.”
+
+“I told you darling, picking right when the friend left would not work in our favor.” Another unfamiliar voice crackled through the Misfits’ and Loud Ones’ heads. The mounts of the girls growled, but seemed not to be anywhere close enough to attempt any rescue. 
+
+“What do you want… Parents?”
+
+“We want our girls.”
+
+“Yah right, you’re not getting… Givly and I back. No way. You’re evil.” Ammereth kept her voice even. 
+
+The second Parent— the voices were exactly the same— cackled for a few moments. “Yes, we will. You remember your first seven years, Ammareth. That was us. Will you really just foresake us… for these magical wielders?”
+
+“Yeah, I will. You’re evil.”
+
+“They are _not_ your friends, they mean to take advantage of you.”
+
+“*Stop*. I’ve heard enough. Where’s Givly?” Anna frowned. 
+
 The first Parent looked at Anna through the darkness, its (hers? his?) eyes glinting. 
+
 Anna wanted desperately to end their lives right then and there, but found her powers useless. 
-"She's nearby. My partner will obtain her." 
-"Why'd you dull our bonds?"
-"Ohh, for our girls' and your safety. Wouldn't want them dead."
-"You're evil." Ammareth repeated, as if in a trance. 
-"Why would you dull our bonds?"
+
+“She’s nearby. My partner will obtain her.” 
+
+“Why’d you dull our bonds?”
+
+“Ohh, for our girls’ and your safety. Wouldn’t want them dead.”
+
+“You’re evil.” Ammareth repeated, as if in a trance. 
+
+“Why would you dull our bonds?”
+
 As if in response, suddenly the Ten heard the door to an previously unknown room. They looked up and saw Givly, safe and unharmed. 
-"Consider this a warning, Anna. She may be at the College, but she's *ours*." The first Parent who had gone to get Giv shoved her in front of her friends. They then did the same they did to bring Anna and the rest to this dungeon, dulled the six's bonds and returned them to the hotel. 
+
+“Consider this a warning, Anna. She may be at the College, but she’s *ours*.” The first Parent who had gone to get Giv shoved her in front of her friends. They then did the same they did to bring Anna and the rest to this dungeon, dulled the six’s bonds and returned them to the hotel. 
 
 ---
-"Didja find her?" As soon as they made it back within bonds' reach of the Callendor building, Yae shouted out audibly to her friends. As they arrived, Emmersun collapsed on the floor. 
-"Thank the *gods* you're still alive, little one. What happened? Why did I see you vanish out of thin air?" he asked Givly through the bonds, worry lining his purple and orange face. 
-"The Parents." Givly replied, panic washing away as she grabbed Emmy, replaced by comfort, the only comfort she could muster. Emmersum relaxed as well. 
-"They took her as some kind of— warning?" Anna said, her doubt just as strong as the others', but still…
-"We should consider a fourth faction *yesterday* then, for her saftey." Tarim chided.
-"Who do you suggest, then?"
-"Huh. The Outcasts."
-"Why?"
-"Just like you four. They don't belong here. They, unlike you four, are all Ethyrians. Two resonant and a moonelf."
-"Huh, those species are from here, right?" Anna honestly couldn't remember.
-"And thusly, Outcasts."
-"Fair enough. We should go let them know that we are interested. Cannot really pick someone until after Mount Selection, see who we get. Wonder what they will pick as mounts."
+
+“Didja find her?” As soon as they made it back within bonds’ reach of the Callendor building, Yae shouted out audibly to her friends. As they arrived, Emmersun collapsed on the floor. 
+
+“Thank the *gods* you’re still alive, little one. What happened? Why did I see you vanish out of thin air?” he asked Givly through the bonds, worry lining his purple and orange face. 
+
+“The Parents.” Givly replied, panic washing away as she grabbed Emmy, replaced by comfort, the only comfort she could muster. Emmersum relaxed as well. 
+
+“They took her as some kind of— warning?” Anna said, her doubt just as strong as the others‘, but still…
+
+“We should consider a fourth faction *yesterday* then, for her saftey.” Tarim chided.
+
+“Who do you suggest, then?”
+
+“Huh. The Outcasts.”
+
+“Why?”
+
+“Just like you four. They don’t belong here. They, unlike you four, are all Ethyrians. Two resonant and a moonelf.”
+
+“Huh, those species are from here, right?” Anna honestly couldn’t remember.
+
+“And thusly, Outcasts.”
+
+“Fair enough. We should go let them know that we are interested. Cannot really pick someone until after Mount Selection, see who we get. Wonder what they will pick as mounts.”
 
 ---
-Anna returned to Callendor Dorm to find it oddly quiet. It's fine, she reasoned. Giv and Ammy probaly just went out to visit with other students or go practice in the Valley. But— she noted that the sisters weren't here, no matter the reason why. But something— something wasn't right here. 
-"Giv? Ammy? Hey, Tarim, have you seen the Sorens?"
-"No, I haven't." Tarim was feeding his dragon. Unlike adult dragons, whose daily diet compromised of one, or perhaps two, sheep, the young Tagendezel's diet was simple, if still expensive. She was currently chewing on her half-pound of beef, when she stopped, startling her handler, sitting in his flying cape after a run with her
-"The Parents? You think—"
-As if summoned, the same snide voice that plagued Anna the first time, sounded in her head through the bonds. "Of course, we warned you. The girls are _ours_." That sent chills 
-Then that buzz that happened the first time— the incessant sound, that blurred their bonds— started, grating Anna's head. 
-"Tarim?" Anna immediately checked with the one member of her team she knew was within reach. 
-"Gods, Anna! What the frick is this accursed buzzing noise I'm hearing? Does it have something to do with the voice we just heard?"
-"One of the Parents seem to have a bond-dulling power. Pretty powerful if you may say so." Anna smiled, ruefully,  then realizing nothing could be done, went about her morning.
-Anna didn't think much about the seemingly ominous warning, or the fact that the Parents were nearby. A few hours later though, she heard the same blood-curling screams that she had heard when Givly had been stolen as a "warning". But it felt different— and Iris was silent. What— did the Parents steal Iris too? But she and Elevy appeared, their heads down cast. "They're gone." she said, frowning."We really should go find the Outcasts."
+
+Anna returned to Callendor Dorm to find it oddly quiet. It’s fine, she reasoned. Giv and Ammy probaly just went out to visit with other students or go practice in the Valley. But— she noted that the sisters weren’t here, no matter the reason why. But something— something wasn’t right here. 
+
+“Giv? Ammy? Hey, Tarim, have you seen the Sorens?”
+
+“No, I haven’t.” Tarim was feeding his dragon. Unlike adult dragons, whose daily diet compromised of one, or perhaps two, sheep, the young Tagendezel’s diet was simple, if still expensive. She was currently chewing on her half-pound of beef, when she stopped, startling her handler, sitting in his flying cape after a run with her
+
+“The Parents? You think—”
+
+As if summoned, the same snide voice that plagued Anna the first time, sounded in her head through the bonds. “Of course, we warned you. The girls are _ours_.” That sent chills 
+
+Then that buzz that happened the first time— the incessant sound, that blurred their bonds— started, grating Anna’s head. 
+
+“Tarim?” Anna immediately checked with the one member of her team she knew was within reach. 
+
+“Gods, Anna! What the frick is this accursed buzzing noise I’m hearing? Does it have something to do with the voice we just heard?”
+
+“One of the Parents seem to have a bond-dulling power. Pretty powerful if you may say so.” Anna smiled, ruefully,  then realizing nothing could be done, went about her morning.
+
+Anna didn’t think much about the seemingly ominous warning, or the fact that the Parents were nearby. A few hours later though, she heard the same blood-curling screams that she had heard when Givly had been stolen as a “warning”. But it felt different— and Iris was silent. What— did the Parents steal Iris too? But she and Elevy appeared, their heads down cast. “They’re gone.” she said, frowning.“We really should go find the Outcasts.”
 
 ---
-"Sorry, Miss Headmaster, but without a mount? I'm not sure about it." Anna stood with Ildren, her hands on her hips. A dragonspire resonant, Eukaryia, the leader of the newly formed faction, the Outcasts, spoke soflty, as Anna did. 
-"We have two members of our team in danger." Anna looked over at Iris, who was hard at work resisting wielding her sound amplification to drive the point home. 
-"It's affected their remaining faction member." Anna continued. 
-"Sorry, but I'm going to have to decline. Mount selection isn't for another couple weeks, and we don't have our own powers yet. Can't control my scales. We'd just be in your way."
-"Fair enough, then." Anna turned to Iris, who nodded. Through bonds, she sighed, "Guess we won't have anyone to protect our teammates and friends."
+
+“Sorry, Miss Headmaster, but without a mount? I’m not sure about it.” Anna stood with Ildren, her hands on her hips. A dragonspire resonant, Eukaryia, the leader of the newly formed faction, the Outcasts, spoke soflty, as Anna did. 
+
+“We have two members of our team in danger.” Anna looked over at Iris, who was hard at work resisting wielding her sound amplification to drive the point home. 
+
+“It’s affected their remaining faction member.” Anna continued. 
+
+“Sorry, but I’m going to have to decline. Mount selection isn’t for another couple weeks, and we don’t have our own powers yet. Can’t control my scales. We’d just be in your way.”
+
+“Fair enough, then.” Anna turned to Iris, who nodded. Through bonds, she sighed, “Guess we won’t have anyone to protect our teammates and friends.”
+
 Suddenly, the two ducked as a giant falcon, carrying a human marred with four claw marks over her shoulders, dove overhead. Her general countenance atop the falcon, who seemed to have an immense bond with her, was one of authority. 
-"Woah, Hades!" She called out to her mount, and it landed. 
-"Sorry— wait—_Headmaster Anna_?" The woman, slightly smaller than Anna, but perhaps a bit burlier 
-"That's me." Anna smiled politely, used to the reaction she elicited from this girl. 
-"I couldn't help but hear you need another faction." 
-"Perhaps, we should slow down and introduce ourselves?" Iris, still in shock from the Soren sisters' disappeance, unknowingly wielded at the girl, making her voice much 
-"Oh, you're right. Name's Mariana, and this eyas here is Hades. I've raised him from an egg." She grimaced as the sound hit her ears. 
-Iris brightened a bit when she recognized the type of the bird Hades was. "What's your power, Mariana? Seeing as you have a mount already? And one with a history of channeling?"
-"I'm not sure, though I may have already manifested."
-"If so, she would be the earliest to manifest at the College."
+
+“Woah, Hades!” She called out to her mount, and it landed. 
+
+“Sorry— wait—_Headmaster Anna_?” The woman, slightly smaller than Anna, but perhaps a bit burlier 
+
+“That’s me.” Anna smiled politely, used to the reaction she elicited from this girl. 
+
+“I couldn’t help but hear you need another faction.” 
+
+“Perhaps, we should slow down and introduce ourselves?” Iris, still in shock from the Soren sisters’ disappeance, unknowingly wielded at the girl, making her voice much 
+
+“Oh, you’re right. Name’s Mariana, and this eyas here is Hades. I’ve raised him from an egg.” She grimaced as the sound hit her ears. 
+
+Iris brightened a bit when she recognized the type of the bird Hades was. “What’s your power, Mariana? Seeing as you have a mount already? And one with a history of channeling?”
+
+“I’m not sure, though I may have already manifested.”
+
+“If so, she would be the earliest to manifest at the College.”
+
 The three turned around, and Iris and Anna, not so much Mariana, sighed. 
-Over bonds, Anna chided, "Don't scare us like that, Yae!"
-Yaereene chuckled, then replied,"Sorry, not sorry."
-Despite themselves, the members of the Ten laughed, leading Mariana to tentatively chuckle along. Only Anna stilled the jubilance by asking Mariana, "Have you already picked a team?"
-"Yeah, I'll go find them. Where do you wanna meet?" Mariana smiled. 
-"Let's meet at Callendor."
 
-"Hello? Anyone home?" A tall, white man stood in the foyer of the giant building the Ten called home. 
-"Coming down!" Iris said from her room. 
-"Hello— " Iris paused as she reached the stairwell the man was standing next to, and the man, dressed in traditional purple and gold wizard's garb, looked down at her. "Who, exactly, are you?"
-"I was asked to come find Callendor dorm and wait for Mariana."
-"Oh, her? She's in…"
+Over bonds, Anna chided, “Don’t scare us like that, Yae!”
+
+Yaereene chuckled, then replied,“Sorry, not sorry.”
+
+Despite themselves, the members of the Ten laughed, leading Mariana to tentatively chuckle along. Only Anna stilled the jubilance by asking Mariana, “Have you already picked a team?”
+
+“Yeah, I’ll go find them. Where do you wanna meet?” Mariana smiled. 
+
+“Let’s meet at Callendor.”
+
+“Hello? Anyone home?” A tall, white man stood in the foyer of the giant building the Ten called home. 
+
+“Coming down!” Iris said from her room. 
+
+“Hello— ” Iris paused as she reached the stairwell the man was standing next to, and the man, dressed in traditional purple and gold wizard’s garb, looked down at her. “Who, exactly, are you?”
+
+“I was asked to come find Callendor dorm and wait for Mariana.”
+
+“Oh, her? She’s in…”
+
 Iris suddenly darted towards the meeting room, leaving the man confused, laughing as she slowed down. Suddenly, another woman similar in build, height, and hairstyle to Anna joined him and Iris, walking though the wide frosted glass doors of the Callendor meeting room. Mariana, Anna, and Tarim smiled as they saw them, with the rest of the Ten sitting around the 
-"Hey, Ten. Meet my teammates— Ildren and Emphelli."
-"Nice to meet you both." Anna smiled, but, business was business, and she told the two humans and one half-elf what they needed their help with. 
 
-"We need to save Givly and Ammareth, two of our most vulnerable yet valued teammates. They are unsafe. Their… evil foster parents have taken them from us."
-"They are my— really my only friends here." Iris said, sniffling back tears at the idea. Her eyes still shone almost as if they were right here with her. But her eyes quickly seemed to dull as she rembered they were gone.
-"Goddesses and gods. I do miss them."
-"If we're being honest, I do too. That's why we need to save them."
-"How and where."
-"We start at the Illford Hotel. That's where they sent us, then they drugged us and took us… somewhere. Where, we don't know."
-"How long did it take?" Emphelli asked, motherly concern creasing her face, with much of her company present with similar faces. 
-"Im not sure, but somewhere around an hour?" Anna replied. 
-"One thing that makes me nervous is the proximity to the Crag just northwest of Central Ilford. We all should go up there tommorow. For now— are we a part of your team? Anna, Iris, Tarim?"
+“Hey, Ten. Meet my teammates— Ildren and Emphelli.”
+
+“Nice to meet you both.” Anna smiled, but, business was business, and she told the two humans and one half-elf what they needed their help with. 
+
+“We need to save Givly and Ammareth, two of our most vulnerable yet valued teammates. They are unsafe. Their… evil foster parents have taken them from us.”
+
+“They are my— really my only friends here.” Iris said, sniffling back tears at the idea. Her eyes still shone almost as if they were right here with her. But her eyes quickly seemed to dull as she rembered they were gone.
+
+“Goddesses and gods. I do miss them.”
+
+“If we’re being honest, I do too. That’s why we need to save them.”
+
+“How and where.”
+
+“We start at the Illford Hotel. That’s where they sent us, then they drugged us and took us… somewhere. Where, we don’t know.”
+
+“How long did it take?” Emphelli asked, motherly concern creasing her face, with much of her company present with similar faces. 
+
+“Im not sure, but somewhere around an hour?” Anna replied. 
+
+“One thing that makes me nervous is the proximity to the Crag just northwest of Central Ilford. We all should go up there tommorow. For now— are we a part of your team? Anna, Iris, Tarim?”
+
 The leaders conversed through bonds, eventually agreeing to let them join the team. Now the Ten was thirteen.
 
 --- 
+
 The Passarines— all three factionmates loved birds and loved Hades— woke up early. Iris had already went down to the Iron Blade, and the rest were still asleep. 
-"Are they all still asleep?" Mariana asked her factionmates. "Other than Iris." 
-"Psst, in here." Anna said, fatiuge and worry lining her eyes. "I think I figured out where on the Crag Givly and Ammareth are."
-She smiled, more an acknowledgement of the state of affairs than any form of joy.  "So, if we look here at the map of Central Illford, right here at the Triangle—" the intersection of Illford Connect and Riverfront Connect that much of the traffic from the Approch Valley the College sits upon flows through— "there's that statue of the Elder, right? It points _this_ way." She draws a line towards the spiky mountain range with her finger, then zooms in where her finger stopped. "Somewhere here is the Gold House, where it's said that the Council of the Elder voted to split apart what would become the Mythran people and the Populan people into their own islands. It's not shown on any maps, for what I hope are plenty obvious reasons. There's one access road to it, which it looks like the map creator is treating like a copyright road." She points to a singular road leading to what seemed to be empty space. "So, perhaps the Gold House is where they are. Reminding us we're lonely and forgotten."
-"Which I bet most of us, _especially_ Giv and Ammy, are. Didja figure it out?" Yae yawned, startling her teammates. "I couldn't sleep either," she admitted."I _had_ to figure out where they were." 
-"We did. But, the problem is, we'll have to use flying mounts. Of course, it's half the Crag, but also the unmaintained terrain will make it difficult to ambush the Parents and save the sisters, what with making noise from my potentially wielding to clear the Gold House neighborhood of sorts of trees."
-"Ah, well, that leaves"
+
+“Are they all still asleep?” Mariana asked her factionmates. “Other than Iris.” 
+
+“Psst, in here.” Anna said, fatiuge and worry lining her eyes. “I think I figured out where on the Crag Givly and Ammareth are.”
+
+She smiled, more an acknowledgement of the state of affairs than any form of joy.  “So, if we look here at the map of Central Illford, right here at the Triangle—” the intersection of Illford Connect and Riverfront Connect that much of the traffic from the Approch Valley the College sits upon flows through— “there’s that statue of the Elder, right? It points _this_ way.” She draws a line towards the spiky mountain range with her finger, then zooms in where her finger stopped. “Somewhere here is the Gold House, where it’s said that the Council of the Elder voted to split apart what would become the Mythran people and the Populan people into their own islands. It’s not shown on any maps, for what I hope are plenty obvious reasons. There’s one access road to it, which it looks like the map creator is treating like a copyright road.” She points to a singular road leading to what seemed to be empty space. “So, perhaps the Gold House is where they are. Reminding us we’re lonely and forgotten.”
+
+“Which I bet most of us, _especially_ Giv and Ammy, are. Didja figure it out?” Yae yawned, startling her teammates. “I couldn’t sleep either,” she admitted.“I _had_ to figure out where they were.” 
+
+“We did. But, the problem is, we’ll have to use flying mounts. Of course, it’s half the Crag we're climbing up, but also the unmaintained terrain will make it difficult to ambush the Parents and save the sisters, what with making noise from my potentially wielding to clear the Gold House neighborhood of sorts of trees.” Mariana frowned
+
+“Ah, well, that leaves Emphelle, Ildren, Iris and Yae with need for a mount. How do you suggest we do this? I can probably carry two of Emphe, Ildren, and Iris, maybe Yae, if she doesn't bring too many books." 
+
+Yae smiled. After all, Mariana wasn't wrong. 
+
+Yaereene's idea of a fun time was reading a book by the fireplace in Iron Blade. She grew up with her friend Irin, who was a human, rare in the pre-Lich Feydor Forest.  As the Forest fell, both Yae and Irin ran away to the same enclave of the Feyrun High Forest. They met back up as Yae prepared to leave the High Forest.
+
+If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she thought Irin had died in the coup and the resulting fallout, so some more time away from her wouldn't be too much. Yet, Irin was still her best friend, and her smile faltered a bit. She was stuck in though, fingers twi

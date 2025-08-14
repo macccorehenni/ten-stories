@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/index.md",
+                "file": "Main Story/College of the Unheard Chapter Two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "College of the Unheard Chapter Two"
             }
           }
         ]
@@ -206,11 +206,12 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "3d778e5987ee3977",
+  "active": "4c33bb3cec94114f",
   "lastOpenFiles": [
+    "Main Story/Unconfirmed 853987.crdownload",
+    "Main Story/index.md",
     "Main Story/The College of the Unheard Prologue.md",
     "Main Story/Untitled.md",
-    "Main Story/index.md",
     "README.md",
     "Main Story/College of the Unheard Chapter Two.md",
     "LICENSE"
