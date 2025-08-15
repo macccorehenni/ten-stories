@@ -230,3 +230,5 @@ Newly bonded with the other mounts, Hades growled, prompting his handler to say,
 "Sorry to derail your conversation, what's our plan of attack, Anna?"
 
 "We'll fan out. Ildren, you, Ilven and I'll go flank the entrance. See if Giv is there."
+"Gotcha, so Palden, Celeste, Hades, Mariana and I'll go to the back side." 
+"Yes, perfect," Anna said. 
