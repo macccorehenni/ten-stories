@@ -101,12 +101,12 @@
         "state": {
           "type": "mk-path-view",
           "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "e8079ff99bf7fde0",
@@ -166,8 +166,8 @@
         "state": {
           "type": "word-frequency-view",
           "state": {},
-          "icon": "file-chart-column-increasing",
-          "title": "Word frequency"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -176,8 +176,8 @@
         "state": {
           "type": "CalendarView",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Daily statistics"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -205,10 +205,10 @@
       "musical-text-highlighter:Toggle sentence highlighting": false,
       "word-frequency:Show word frequency sidebar": false,
       "cmdr:Better Command Palette: Open better command palette": false,
-      "flowershow:Publish with Flowershow": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "825c41006cbe0ef9",

@@ -225,8 +225,8 @@ As the Ten flew over the city of Ilford, they noticed the Hotel, where all who h
 The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
 Newly bonded with the other mounts, Hades growled, prompting his handler to say, "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
 "Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's  asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
-"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the cope of trees mysteriously thinned, almost as if illusory.
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the copse of trees mysteriously thinned, almost as if illusory.
 
 "Sorry to derail your conversation, what's our plan of attack, Anna?"
 
-"We'll fan out. Ildren, you, Ilven and I'll go flank the enterence. See if Giv is there."
+"We'll fan out. Ildren, you, Ilven and I'll go flank the entrance. See if Giv is there."

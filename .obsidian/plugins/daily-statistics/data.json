@@ -11,60 +11,13 @@
     "2025-08-11": 65,
     "2025-08-12": 526,
     "2025-08-13": 105,
-    "2025-08-14": 1006
+    "2025-08-14": 1006,
+    "2025-08-15": 0
   },
   "todayWordCount": {
     "Main Story/College of the Unheard Chapter Two.md": {
-      "initial": 1942,
+      "initial": 2886,
       "current": 2886
-    },
-    "One-offs 2/One-offs 2.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Main Story 2/Main Story 2.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Main Story/Main Story.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Main Story/The College of the Unheard Prologue.md": {
-      "initial": 1742,
-      "current": 1763
-    },
-    "Main Story/The College of the Unheard Chapter 1.md": {
-      "initial": 3692,
-      "current": 3704
-    },
-    "Main Story/Index.md": {
-      "initial": 5,
-      "current": 34
-    },
-    "README.md": {
-      "initial": 1,
-      "current": 1
-    },
-    "Main Story/index.md": {
-      "initial": 34,
-      "current": 34
-    },
-    "Main Story/Untitled.md": {
-      "initial": 0,
-      "current": 0
-    },
-    "One-offs/One-offs.md": {
-      "initial": 6,
-      "current": 6
-    },
-    "One-offs/The Ten and their Powers and Badges.md": {
-      "initial": 1415,
-      "current": 1415
-    },
-    "One-offs/College of the Unheard Orientation.md": {
-      "initial": 949,
-      "current": 949
     }
   },
   "weeklyPlan": {
