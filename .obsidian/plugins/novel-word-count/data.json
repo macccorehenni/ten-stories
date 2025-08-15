@@ -426,29 +426,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2873,
-      "wordCountTowardGoal": 2873,
+      "wordCount": 2881,
+      "wordCountTowardGoal": 2881,
       "wordGoal": 8000,
-      "pageCount": 9.576666666666666,
-      "characterCount": 16637,
-      "nonWhitespaceCharacterCount": 13588,
-      "newlineCount": 228,
-      "readingTimeInMinutes": 10.841509433962264,
+      "pageCount": 9.603333333333333,
+      "characterCount": 16689,
+      "nonWhitespaceCharacterCount": 13631,
+      "newlineCount": 229,
+      "readingTimeInMinutes": 10.871698113207547,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Parents"
       ],
       "createdDate": 1755220256000,
-      "modifiedDate": 1755257387230,
-      "sizeInBytes": 17296,
+      "modifiedDate": 1755257965399,
+      "sizeInBytes": 17348,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 9.576666666666666,
-        "wordCount": 2873,
-        "characterCount": 16637,
-        "nonWhitespaceCharacterCount": 13588,
-        "newlineCount": 228
+        "pageCount": 9.603333333333333,
+        "wordCount": 2881,
+        "characterCount": 16689,
+        "nonWhitespaceCharacterCount": 13631,
+        "newlineCount": 229
       },
       "frontmatter": {
         "aliases": [
