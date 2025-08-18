@@ -224,6 +224,7 @@ If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she tho
 
 _The whisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this? reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need_ more. _No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
 
+<<<<<<< HEAD
 As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over
 
 The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
@@ -241,3 +242,17 @@ Newly bonded with the other mounts, Hades growled, prompting his handler to say,
 "Gotcha, so Palden, Celeste, Hades, Mariana and I'll go to the back side."
 
 "Yes, perfect," Anna said.
+=======
+As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Yaereene shouted over the bonds.
+The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
+Newly bonded with the other mounts, Hades growled, prompting his handler to say, "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
+"Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's mount's behaviour, asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the cope of trees mysteriously thinned, almost as if illusory.
+
+"Sorry to derail your conversation, what's our plan of attack, Anna?"
+
+"We'll fan out. Ildren, you, Ilven and I'll go flank the entrance. See if Giv is there. Hades, Mariana, Palten, Celesteia and  you go to the back, and stay hidden for now."
+
+"What if we need help?"
+"Just shout through bonds. I've got a plan to keep bonds together despite the Parent's bond dulling power."
+>>>>>>> c509690 (vault backup: 2025-08-18 11:25:59)
