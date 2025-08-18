@@ -357,8 +357,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1755220256000,
-      "modifiedDate": 1755220256000,
-      "sizeInBytes": 21412,
+      "modifiedDate": 1755349427665,
+      "sizeInBytes": 21034,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -425,37 +425,28 @@
     "Main Story/College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2906,
-      "wordCountTowardGoal": 2906,
-      "wordGoal": 8000,
-      "pageCount": 9.686666666666667,
-      "characterCount": 16833,
-      "nonWhitespaceCharacterCount": 13752,
-      "newlineCount": 230,
-      "readingTimeInMinutes": 10.966037735849056,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "The Parents"
-      ],
-      "createdDate": 1755199054874,
-      "modifiedDate": 1755207400563,
-      "sizeInBytes": 17492,
+      "aliases": [],
+      "createdDate": 1755220256000,
+      "modifiedDate": 1755526252719,
+      "sizeInBytes": 20693,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 9.603333333333333,
-        "wordCount": 2881,
-        "characterCount": 16689,
-        "nonWhitespaceCharacterCount": 13631,
-        "newlineCount": 229
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Parents"
-        ],
-        "sticker": "lucide//rocking-chair",
-        "word-goal": 8000
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/The College of the Unheard Prologue.md": {
@@ -474,8 +465,35 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1755220256000,
-      "modifiedDate": 1755220256000,
-      "sizeInBytes": 10472,
+      "modifiedDate": 1755349610006,
+      "sizeInBytes": 10289,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Main Story/Main Story.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755524417490,
+      "modifiedDate": 1755524417494,
+      "sizeInBytes": 46,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

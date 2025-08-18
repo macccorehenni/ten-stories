@@ -13,7 +13,6 @@
   "callout-manager",
   "vertical-tabs",
   "daily-statistics",
-  "make-md",
   "remember-cursor-position",
   "obsidian-folder-index",
   "obsidian-git",
@@ -22,5 +21,6 @@
   "novel-word-count",
   "obsidian-hider",
   "obsidian-sequence-hotkeys",
-  "obsidian-linter"
+  "obsidian-linter",
+  "make-md"
 ]

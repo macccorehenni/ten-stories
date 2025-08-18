@@ -156,7 +156,9 @@ Despite themselves, the members of the Ten laughed, leading Mariana to tentative
 
 “Let’s meet at Callendor.”
 
-“Hello? Anyone home?” A tall, white man stood in the foyer of the giant building the Ten called home.
+---
+
+“Hello? Anyone home?” A tall, white man stood in the foyer of the giant building the Ten called home some time later.
 
 “Coming down!” Iris said from her room.
 
@@ -222,18 +224,17 @@ If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she tho
 
 ---
 
-_The whisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this? reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need_ more. _No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
+_The wisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this? reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need_ more. _No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
 
-<<<<<<< HEAD
 As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over
 
 The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
 
 Newly bonded with the other mounts, Hades growled, prompting his handler to say, "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades.
 
-"Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's  asked Anna through bonds after Palten managed to stabilize the two birds' emotions.
+"Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's mount, asked Anna through bonds after Palten managed to stabilize the two birds' emotions.
 
-"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the copse of trees mysteriously thinned, almost as if illusory.
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the copse of trees mysteriouslyi thinned, almost as if illusory.
 
 "Sorry to derail your conversation, what's our plan of attack, Anna?"
 
@@ -241,18 +242,60 @@ Newly bonded with the other mounts, Hades growled, prompting his handler to say,
 
 "Gotcha, so Palden, Celeste, Hades, Mariana and I'll go to the back side."
 
-"Yes, perfect," Anna said.
-=======
-As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Yaereene shouted over the bonds.
-The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
-Newly bonded with the other mounts, Hades growled, prompting his handler to say, "Chill, man." Palten positioned himself between the falcon and gryphon before their mission was waylaid by an grumpy attack from Hades. 
-"Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's mount's behaviour, asked Anna through bonds after Palten managed to stabilize the two birds' emotions. 
-"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the cope of trees mysteriously thinned, almost as if illusory.
+"Yes, perfect," Anna said. "Check the doors. Let us know if they are open."
 
-"Sorry to derail your conversation, what's our plan of attack, Anna?"
+A few minutes later, the buzz that almost went with the bond-dulling power that one or both of the Parents seemed to have kicked in. But it was seemingly weaker, almost as if to distract and confuse the Ten, not inhibit their abilities to to communicate. Despite this, Anna, who flew over the top of the Gold House, could still communicate with the mounts. Her teammates? No.
 
-"We'll fan out. Ildren, you, Ilven and I'll go flank the entrance. See if Giv is there. Hades, Mariana, Palten, Celesteia and  you go to the back, and stay hidden for now."
+"Ilven, tell Palten to let Celeste know bonds aren't completely broken and that neither she nor anyone else should abandon their mount, except possibly Tarim."
 
-"What if we need help?"
-"Just shout through bonds. I've got a plan to keep bonds together despite the Parent's bond dulling power."
->>>>>>> c509690 (vault backup: 2025-08-18 11:25:59)
+"Taganzel surely takes offense to that," Ilven gleefully remarked, "but the message was received well."
+
+Meanwhile, below her, Ildren, Celesteia and Palten were confused. "Anna, can you hear us?"
+
+This confused all, as they were able to communicate with her, but could hear her.
+
+"Palten, tell Anna we can hear her." Celesteia requested. The unicorn waited to hear the response, and then did what it considered to be a frown.
+
+"She's moving in. She saw some shadow?" Palten began to move.
+
+"Careful, buddy. Let's not move too fast."
+
+"Anna says go on, Ilven says." Celesteia nodded, then smiled. "Then let's go, guys."
+
+And thus they began to recover the Soren sisters— all eleven of them, saving their sisters.
+
+---
+
+Meanwhile, a dark haired human observed the raid from afar. He was scared— were they Portal Police? But, it seemed like they were well organized, at the very least. Some of them, it seemed, held an air of importance. But, something nagged at him. This seemed like a rescue. He did see a big castle in the distance, but avoided it on principle. Police tend to not like him, he reminded himself, but… it looked pretty. He couldn't avoid cities, but he felt… this rescue… it was important to the eleven he saw. But he knew, reading the aura of the building, that two waylaid souls were stuck, and they wanted revenge. Not unlike him, but unlike him.
+
+---
+
+"Anna!" Celesteia called out. "Where are you?"
+
+"Pause, Celeste. I _need_ to clear this next room." Ildren looked into the room, and smiled. "Look, it's Givly."
+
+The half dragonborn was not looking good, her human skin burnt, her scales shiny with blood, but they had found her—
+
+"Waaiiit, something's wrong—"
+
+Suddenly a loud bang sounded near the trio. Ildren ran to save Givly, but stopped and cursed. "Damn it! Why didn't I see that!"
+
+"We all good?" Celesteia checked in.
+
+"We're okay," Ildren replied, frowning, and continuing to curse himself.
+
+"Fuck, that was a decoy. Hopefully Anna is okay too."
+
+"She is."
+
+---
+
+Givly choppily woke up to see the Parents— in their demonic form— hurriedly chaining her to the chair.
+
+_She awakens Elder One_, the younger Parent said.
+
+"Fuuuuuudge, my head hurts." Givly found her left arm already tied to the chair. She used her other palm not tied to the chair to massage her temples before feeling her arm pushed roughly back on to the arm chair and tied. 
+*Stay little one*, chided the elder Parent. 
+She brightened when she managed to hear her friends, but disappointedly frowned when the Parents blocked her bonds again. 
+*Ach I let my bond block slip. Need to keep my wielding up*, said the younger Parent. 
+"Let me see my friends." Givly, not able to punch them, settled for cursing at them. Suddenly, she heard a bang. She cried out

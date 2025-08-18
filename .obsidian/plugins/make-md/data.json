@@ -40,9 +40,9 @@
   "expandedSpaces": [
     "//One-offs",
     "//Tags",
-    "//Main Story",
+    "//Friend Stories",
     "/",
-    "//Friend Stories"
+    "//Main Story"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

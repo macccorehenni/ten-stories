@@ -101,12 +101,12 @@
         "state": {
           "type": "mk-path-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "layout-grid",
+          "title": "Navigator"
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "e8079ff99bf7fde0",
@@ -207,23 +207,22 @@
       "cmdr:Better Command Palette: Open better command palette": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false,
-      "flowershow:Publish with Flowershow": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "825c41006cbe0ef9",
   "lastOpenFiles": [
+    "Friend Stories/Friend Stories.md",
     "Main Story/Main Story.md",
     "Main Story/College of the Unheard Chapter Two.md",
-    "Tags/Tags.md",
-    "Tags",
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Prologue.md",
+    "Tags/Tags.md",
+    "Tags",
     "One-offs 2/One-offs 2.md",
     "Main Story 2/Main Story 2.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "One-offs/Meeting a new friend.md",
-    "Friend Stories/Friend Stories.md",
     "Main Story/Untitled.md",
     "One-offs/One-offs.md",
     "One-offs/College of the Unheard Orientation.md",
