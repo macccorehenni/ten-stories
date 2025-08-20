@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -8,12 +8,6 @@
       "id": "editor:save-file",
       "icon": "lucide-save",
       "name": "Save current file",
-      "mode": "any"
-    },
-    {
-      "id": "flowershow:publish-all-notes",
-      "icon": "lucide-flower-2",
-      "name": "Flowershow: Publish all notes",
       "mode": "any"
     },
     {
@@ -91,10 +85,6 @@
       {
         "commandID": "obsidian-better-command-palette:open-better-commmand-palette",
         "iconID": "lucide-command"
-      },
-      {
-        "commandID": "flowershow:publish-all-notes",
-        "iconID": "lucide-flower-2"
       }
     ],
     "tooltips": false,

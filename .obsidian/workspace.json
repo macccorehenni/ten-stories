@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c5328bf8d50c40d",
@@ -201,11 +200,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,11 +218,10 @@
       "cmdr:Better Command Palette: Open better command palette": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false,
-      "flowershow:Publish with Flowershow": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3d778e5987ee3977",
+  "active": "4c33bb3cec94114f",
   "lastOpenFiles": [
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Prologue.md",

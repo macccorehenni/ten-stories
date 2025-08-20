@@ -15,20 +15,13 @@
     "2025-08-15": 17,
     "2025-08-16": 5,
     "2025-08-17": 125,
-    "2025-08-18": 453
+    "2025-08-18": 453,
+    "2025-08-19": 92
   },
   "todayWordCount": {
     "Main Story/College of the Unheard Chapter Two.md": {
-      "initial": 3033,
-      "current": 3486
-    },
-    "Main Story/Main Story.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Friend Stories/Friend Stories.md": {
-      "initial": 5,
-      "current": 5
+      "initial": 3486,
+      "current": 3578
     }
   },
   "weeklyPlan": {

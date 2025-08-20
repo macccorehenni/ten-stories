@@ -1,5 +1,7 @@
 {
   "cssTheme": "Fancy-a-Story",
   "interfaceFontFamily": "Hoefler Text",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": false,
+  "theme": "obsidian"
 }
