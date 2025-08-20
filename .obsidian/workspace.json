@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "file": "The Shadow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The College of the Unheard Chapter Two"
+              "title": "The Shadow"
             }
           },
           {
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c5328bf8d50c40d",
@@ -233,9 +234,9 @@
   },
   "active": "d982286fcdb372eb",
   "lastOpenFiles": [
+    "Main Story/The College of the Unheard Chapter Two.md",
     "The Shadow.md",
     "Main Story/The College of the Unheard Chapter 1.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
     "One-offs/College of the Unheard Orientation.md",
     "Main Story/index.md",

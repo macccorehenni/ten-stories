@@ -540,7 +540,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 12.293333333333333,
-      "characterCount": 21278,
+      "characterCount": 21277,
       "nonWhitespaceCharacterCount": 17417,
       "newlineCount": 305,
       "readingTimeInMinutes": 13.916981132075472,
@@ -550,8 +550,8 @@
         "The Parents"
       ],
       "createdDate": 1755626997591,
-      "modifiedDate": 1755662799391,
-      "sizeInBytes": 21980,
+      "modifiedDate": 1755663657797,
+      "sizeInBytes": 21979,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -572,20 +572,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1727,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.756666666666667,
-      "characterCount": 9785,
-      "nonWhitespaceCharacterCount": 8015,
-      "newlineCount": 69,
-      "readingTimeInMinutes": 6.516981132075472,
+      "wordCount": 1787,
+      "wordCountTowardGoal": 1787,
+      "wordGoal": 3000,
+      "pageCount": 5.956666666666667,
+      "characterCount": 10144,
+      "nonWhitespaceCharacterCount": 8294,
+      "newlineCount": 117,
+      "readingTimeInMinutes": 6.743396226415094,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754266789000,
-      "modifiedDate": 1755663534080,
-      "sizeInBytes": 9843,
+      "modifiedDate": 1755663916085,
+      "sizeInBytes": 10231,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -593,6 +593,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "word-goal": "3000"
       }
     }
   }

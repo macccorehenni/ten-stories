@@ -16,7 +16,7 @@
     "2025-08-16": 5,
     "2025-08-17": 125,
     "2025-08-18": 453,
-    "2025-08-19": 228
+    "2025-08-19": 350
   },
   "todayWordCount": {
     "Main Story/College of the Unheard Chapter Two.md": {
@@ -30,6 +30,10 @@
     "Main Story/The College of the Unheard Chapter Two.md": {
       "initial": 3659,
       "current": 3715
+    },
+    "The Shadow.md": {
+      "initial": 1736,
+      "current": 1858
     }
   },
   "weeklyPlan": {
