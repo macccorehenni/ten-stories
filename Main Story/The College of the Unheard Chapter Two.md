@@ -1,9 +1,8 @@
-\
 ---
 aliases:
   - The Parents
-sticker: lucide//rocking-chair
-word-goal: 8000
+sticker: lucide//hourglass
+linter-yaml-title-alias: The Parents
 ---
 
 # The Parents
@@ -295,10 +294,16 @@ Givly choppily woke up to see the Parents— in their demonic form— hurriedly 
 
 _She awakens Elder One_, the younger Parent said.
 
-"Fuuuuuudge, my head hurts." Givly found her left arm already tied to the chair. She used her other palm not tied to the chair to massage her temples before feeling her arm pushed roughly back on to the arm chair and tied. 
-*Stay little one*, chided the elder Parent. 
-She brightened when she managed to hear her friends, but disappointedly frowned when the Parents blocked her bonds again. 
-*Ach I let my bond block slip. Need to keep my wielding up*, said the younger Parent. 
-"Let me see my friends." Givly, not able to punch them, settled for cursing at them. Suddenly, she heard a bang. She cried out when she heard this, then cursed louder when she saw a shadow. But then she realized— was that Ilven? Gods, was she glad to see the gryphon. But hopefully Anna wasn't too far behind. 
-*We need to move you little one.* The elder Parent smiled, if it could be considered as such. But it felt more wooden, almost as if it had realized its time was near.
-*Elder one they approch too fast!* Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but she found the same bond fuzzing feeling that her teammates had. 
+"Fuuuuuudge, my head hurts." Givly found her left arm already tied to the chair. She used her other palm not tied to the chair to massage her temples before feeling her arm pushed roughly back on to the arm chair and tied.
+
+_Stay little one_, chided the elder Parent.
+
+She brightened when she managed to hear her friends, but disappointedly frowned when the Parents blocked her bonds again.
+
+_Ach I let my bond block slip. Need to keep my wielding up_, said the younger Parent.
+
+"Let me see my friends." Givly, not able to punch them, settled for cursing at them. Suddenly, she heard a bang. She cried out when she heard this, then cursed louder when she saw a shadow. But then she realized— was that Ilven? Gods, was she glad to see the gryphon. But hopefully Anna wasn't too far behind.
+
+_We need to move you little one._ The elder Parent smiled, if it could be considered as such. But it felt more wooden, almost as if it had realized its time was near.
+
+_Elder one they approch too fast!_ Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but she found the same bond fuzzing feeling that her teammates had. She was shut out from communicating with them. But an an even greater need to remove her restraints occured to her— what about Ammereth? They seemed to want _her_ more than they did the blond haired half dragonborn. Perhaps it was beacuse she was a teifling, Givly reasoned. Whatever the reason, she was in danger. Perhaps it was the adrenaline that kept her from

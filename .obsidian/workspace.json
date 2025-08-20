@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/College of the Unheard Chapter Two.md",
+                "file": "Main Story/The College of the Unheard Chapter Two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "College of the Unheard Chapter Two"
+              "title": "The College of the Unheard Chapter Two"
             }
           },
           {
@@ -194,9 +194,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Daily statistics"
             }
+          },
+          {
+            "id": "d982286fcdb372eb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,12 +231,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4c33bb3cec94114f",
+  "active": "3d778e5987ee3977",
   "lastOpenFiles": [
     "Main Story/The College of the Unheard Chapter 1.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
     "One-offs/College of the Unheard Orientation.md",
-    "Main Story/College of the Unheard Chapter Two.md",
     "Main Story/index.md",
     "Main Story/README.md",
     "One-offs/The Ten and their Powers and Badges.md",

@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
       "enabled": false,
@@ -71,12 +71,12 @@
     },
     "yaml-title": {
       "enabled": false,
-      "title-key": "title",
+      "title-key": "aliases",
       "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
-      "enabled": false,
-      "preserve-existing-alias-section-style": true,
+      "enabled": true,
+      "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
       "alias-helper-key": "linter-yaml-title-alias"
@@ -283,10 +283,10 @@
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
-    "aliasArrayStyle": "single-line",
-    "tagArrayStyle": "single-line",
+    "aliasArrayStyle": "multi-line",
+    "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }

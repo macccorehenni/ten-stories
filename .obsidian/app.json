@@ -14,5 +14,6 @@
     "musical-text-highlighter:toggle-sentence-highlighting"
   ],
   "propertiesInDocument": "visible",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
