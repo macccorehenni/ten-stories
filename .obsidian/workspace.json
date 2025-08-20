@@ -186,16 +186,6 @@
             }
           },
           {
-            "id": "4c33bb3cec94114f",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
-          },
-          {
             "id": "d982286fcdb372eb",
             "type": "leaf",
             "state": {
@@ -204,9 +194,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4c33bb3cec94114f",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,7 +231,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3d778e5987ee3977",
+  "active": "0f1d7b44bf7e776a",
   "lastOpenFiles": [
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Chapter Two.md",

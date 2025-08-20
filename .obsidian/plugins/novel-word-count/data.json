@@ -384,20 +384,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 26,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 194,
-      "nonWhitespaceCharacterCount": 159,
+      "pageCount": 0.09,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 162,
       "newlineCount": 7,
-      "readingTimeInMinutes": 0.09811320754716982,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755626997628,
-      "modifiedDate": 1755626997628,
-      "sizeInBytes": 230,
+      "modifiedDate": 1755662327841,
+      "sizeInBytes": 234,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08666666666666667,
@@ -536,19 +536,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3639,
+      "wordCount": 3631,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.13,
-      "characterCount": 21052,
-      "nonWhitespaceCharacterCount": 17238,
-      "newlineCount": 310,
-      "readingTimeInMinutes": 13.732075471698113,
+      "pageCount": 12.103333333333333,
+      "characterCount": 20956,
+      "nonWhitespaceCharacterCount": 17154,
+      "newlineCount": 305,
+      "readingTimeInMinutes": 13.70188679245283,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "The Parents"
+      ],
       "createdDate": 1755626997591,
-      "modifiedDate": 1755662297679,
+      "modifiedDate": 1755662435119,
       "sizeInBytes": 21654,
       "sessionStart": {
         "noteCount": 0,
@@ -557,6 +559,13 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Parents"
+        ],
+        "sticker": "lucide//hourglass",
+        "linter-yaml-title-alias": "The Parents"
       }
     }
   }
