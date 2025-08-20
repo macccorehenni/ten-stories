@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -231,8 +231,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0f1d7b44bf7e776a",
+  "active": "d982286fcdb372eb",
   "lastOpenFiles": [
+    "The Shadow.md",
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
