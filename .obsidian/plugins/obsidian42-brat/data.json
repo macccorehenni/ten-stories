@@ -1,0 +1,20 @@
+{
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [
+    {
+      "repo": "ElsaTam/obsidian-fancy-a-story",
+      "lastUpdate": "1030113646"
+    }
+  ],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
+}

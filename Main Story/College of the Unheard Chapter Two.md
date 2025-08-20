@@ -301,4 +301,4 @@ She brightened when she managed to hear her friends, but disappointedly frowned 
 *Ach I let my bond block slip. Need to keep my wielding up*, said the younger Parent. 
 "Let me see my friends." Givly, not able to punch them, settled for cursing at them. Suddenly, she heard a bang. She cried out when she heard this, then cursed louder when she saw a shadow. But then she realized— was that Ilven? Gods, was she glad to see the gryphon. But hopefully Anna wasn't too far behind. 
 *We need to move you little one.* The elder Parent smiled, if it could be considered as such. But it felt more wooden, almost as if it had realized its time was near.
-*Elder one they approch too fast!* Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but 
+*Elder one they approch too fast!* Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but she found the same bond fuzzing feeling that her teammates had. 
