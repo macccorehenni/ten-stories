@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aeverath and the Shadow/The Shadow.md",
+                "file": "Main Story/The College of the Unheard Chapter Two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Shadow"
+              "title": "The College of the Unheard Chapter Two"
             }
           },
           {
@@ -233,11 +233,11 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "d982286fcdb372eb",
+  "active": "3d778e5987ee3977",
   "lastOpenFiles": [
+    "Aeverath and the Shadow/The Shadow.md",
     "pass",
     "Untitled.base",
-    "Aeverath and the Shadow/The Shadow.md",
     "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Aeverath and the Shadow",
     "Main Story/The College of the Unheard Chapter Two.md",
