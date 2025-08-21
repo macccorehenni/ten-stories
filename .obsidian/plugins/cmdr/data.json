@@ -23,11 +23,24 @@
       "icon": "lucide-command",
       "name": "Better Command Palette: Open better command palette",
       "mode": "any"
+    },
+    {
+      "id": "app:toggle-right-sidebar",
+      "icon": "lucide-panel-right",
+      "name": "Toggle right sidebar",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-hider:toggle-hider-status",
+      "icon": "lucide-move-down",
+      "name": "Status",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [
     {
       "id": "obsidian-better-command-palette:open-better-commmand-palette",
@@ -39,6 +52,18 @@
       "id": "app:reload",
       "icon": "lucide-rotate-ccw",
       "name": "Reload app without saving",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hider:toggle-hider-status",
+      "icon": "lucide-move-down",
+      "name": "Status",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hider:toggle-tab-containers",
+      "icon": "tabs",
+      "name": "Tabs ",
       "mode": "any"
     }
   ],
@@ -67,7 +92,11 @@
       "Open today's daily note",
       "Insert template",
       "Open command palette",
-      "Toggle sentence highlighting"
+      "Toggle sentence highlighting",
+      "Create new base",
+      "Start/stop staring counter",
+      "Insert Callout",
+      "BRAT"
     ]
   },
   "spacing": 8,

@@ -2,6 +2,6 @@
   "cssTheme": "Fancy-a-Story",
   "interfaceFontFamily": "Hoefler Text",
   "baseFontSizeAction": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "theme": "obsidian"
 }

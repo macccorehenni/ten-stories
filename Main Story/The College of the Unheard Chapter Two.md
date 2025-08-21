@@ -3,6 +3,7 @@ aliases:
   - The Parents
 sticker: lucide//hourglass
 linter-yaml-title-alias: The Parents
+word-goal: 8000
 ---
 
 # The Parents

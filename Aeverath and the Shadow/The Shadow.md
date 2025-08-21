@@ -1,6 +1,3 @@
----
-word-goal: "3000"
----
 
 It was a clear day, reasoned Yae, as she, the King and her now fiance, Ferris, talked on the turrets of Feydor Castle. This land was now hers! She told her fiance about the adventures she had had with Givly and Ammareth and the Parents, as well as Minden. It was a bit cloudy, she thought, but it didn't look cloudy enough to really warrant any alarm.
 
@@ -115,10 +112,86 @@ Celesteia's smile faltered.
 The eye is only growing, and it seems to have engulfed the area of Minarta and is heading towards izah17 Area PCR/DP—"
 
 Before the newscaster could finish her sentence a large, muscular Ultra Beast— Buzzwole— swooped down and snatched her. The feed went black, and no picture returned.
+
 "That's not good." Anna said.
-"You know what that reminds me of? It's a Hollow." Seeing blank eyes, Celesteia explained that that eye was the source of the corruption. She had been playing a game where these patches of corruption— facsimiles of the real world— were the focus. Intense monsters were found within, and, more importantly to what they were seeing in Danae, people corrupted into these monsters. 
+
+"You know what that reminds me of? It's a Hollow." Seeing blank eyes, Celesteia explained that that eye was the source of the corruption. She had been playing a game where these patches of corruption— facsimiles of the real world— were the focus. Intense monsters were found within, and, more importantly to what they were seeing in Danae, people corrupted into these monsters.
+
 "So the Shadow is basically a patch of corruption?" Anna remarked.
-"Yeah, basically." 
+
+"Yeah, basically."
+
 "Damn, then."
+
 Ferris, who had been silent to this point, chimed in with, "How do we stop it?"
-Yae and Anna both simultaneously shugged. "This is just as new to the mages and scientests as it is to you and me."
+
+Yae and Anna both simultaneously shrugged. "This is just as new to the mages and scientists as it is to you and me."
+
+"We should loop in the rest of the Ten, as well as Danae and their allies. After all— the eye of that storm is getting painfully close to End City portals."
+
+---
+
+A half an hour later, fifty or so people sat around Castle-upon-Akala's biggest conference room that served as the Danaean capital building's war room. The twenty members of the Ten, repersenting Ethyria and the College, the five Kahunas who led Danae, Maccore, and several emmisaries from each nation allied with Danae, all were present.
+
+"I call this meeting to order, then." Maccore, being the de facto leader of the meeting, given his postion as leader of the Multi-world Conference, nodded at Anna. "Everyone ready?"
+
+"Yes, I think we are. Shall you take roll call, hm?" Anna asked.
+
+"Not today. Your whole team here?" Maccore was the master of multitasking, and was finishing the draft of his team proposal as he did a check with all leaders.
+
+"Yes sir."
+
+"Then I'd reckon that's fine, then. Kahunaite?" he prompted the leaders of Danae.
+
+"All present, Core." Kiawae, the leader of Danae, smiled at his friend, and fellow Fire-type Pokemon trainer.
+
+"Great. Allied leaders, then." Maccore had closed his laptop— normally he'd use his smartglasses for his computer but typing was too damn hard.
+
+"All present." Lymin, the Hisuian leader, and de facto leader of the nations in the Realms other than Danae, chimed in.
+
+"Great, then shall we start? Yes, yes, we shall," he finished after a moment to gauge response. "with our pressing topic of the night."
+
+"No doubt you have all seen the news on the Shadow Hollow that has been creeping ever closer to End City."
+
+"Yes, the weird storm with a corrupted center." Lymin frowned, as did several other politicians around the table.
+
+"And it's been corrupting people?" Damian, the Unovan leader and easily the weakest and the most nervous (perhaps except the Ten's Roxy, who was a chinchilla girl after all) of the assembly, was extra nervous as he wringed his hands.
+
+"Yeah, that's what I'm getting." Givly, the youngest here by several months. "And I can tell you all are nervous, thinking, 'What are we gonna tell our people?'"
+
+"How did you know?" Damian looked flabberghasted.
+
+"I'm a mind reader," Givly said, matter-of-factly.
+
+"Ah, yes, I forgot to mention my team has several mind-determining powers, so… you might be called out on any bull that you may to try to give." Anna smiled.
+
+"Damnit! There goes my plan." Tolof, a genial, portly folk and the leader of Kanto, joked.
+
+"Givly _does_ bring up an important point though. What _is_ The Ten, Danae, Feydor and allies' message."
+
+"I declare a vote, between _don't worry_ and _panic_." Ammereth, Givly's sister, chimed in.
+
+"Panic, I say. But more measured." Tolof said, serious.
+
+"I speak for the whole of the allies when I agree with Ammereth and Tolof." Damian said, a frown worrying his lips.
+
+"So we're all in agreement?" Anna asked all present.
+
+"I'd like to think so. Any objections to skipping the official vote for all and making our statements?" Maccore said, in his official role.
+
+"Sure, I guess. Ten's okay with that." Anna sighed, relieved.
+
+"Yes, we agree." Lymin replied.
+
+"Sure, let's do it. Who should go first?"
+
+---
+> It is my duty as leader not only as envoy of the Ilford Approch Valley to the Council of Elders and lead envoy therin as headmaster of the elite school of Mythria, but as headmaster of the College of the Unheard to inform Mythra of a threat that has already hit the capitol of Danae.
+
+> As leader of Danae, I regret to inform you of a threat expanding _quickly_ across the Capitol area.
+
+> Feydor has to overcome this Lich-level threat, to continue to thrive as it has.
+
+> Our nations, nay, our _worlds_, are in trouble. We cannot stand by— we cannot stand— if we want to survive. We need _allies_.
+
+Each leader— Anna for Celestial Danae and the College and Mythra, Maccore and the others for Danae, and Yae for the Feydor Forest, each contributed their own message to a broadcast sent out to all PCR/DPR member stations, both radio and TV, right away. They then decided what to do after that, deciding to go into the Hollow themselves… no matter the problems.

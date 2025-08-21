@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Shadow.md",
+                "file": "Aeverath and the Shadow/The Shadow.md",
                 "mode": "source",
                 "source": false
               },
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c5328bf8d50c40d",
@@ -226,16 +225,22 @@
       "color-cycler:Cycle accent color": false,
       "musical-text-highlighter:Toggle sentence highlighting": false,
       "word-frequency:Show word frequency sidebar": false,
-      "cmdr:Better Command Palette: Open better command palette": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "youhavebeenstaring-plugin:Start/stop staring counter": false,
+      "cmdr:Better Command Palette: Open better command palette": false,
+      "cmdr:Toggle right sidebar": false
     }
   },
   "active": "d982286fcdb372eb",
   "lastOpenFiles": [
+    "pass",
+    "Untitled.base",
+    "Aeverath and the Shadow/The Shadow.md",
+    "Aeverath and the Shadow/Aeverath and the Shadow.md",
+    "Aeverath and the Shadow",
     "Main Story/The College of the Unheard Chapter Two.md",
-    "The Shadow.md",
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Prologue.md",
     "One-offs/College of the Unheard Orientation.md",

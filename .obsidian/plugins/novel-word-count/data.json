@@ -1,6 +1,6 @@
 {
   "settings": {
-    "useAdvancedFormatting": true,
+    "useAdvancedFormatting": false,
     "countType": "alias",
     "countConfig": {
       "$sessionCountType": "word"
@@ -18,7 +18,7 @@
     "pipeSeparator": "|",
     "abbreviateDescriptions": true,
     "alignment": "below",
-    "showSameCountsOnFolders": false,
+    "showSameCountsOnFolders": true,
     "folderCountType": "note",
     "folderCountConfig": {
       "customSuffix": "nts",
@@ -71,6 +71,33 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 12,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755626997647,
+      "modifiedDate": 1755626997647,
+      "sizeInBytes": 13,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 13,
+        "nonWhitespaceCharacterCount": 12,
+        "newlineCount": 1
+      }
+    },
     "Tags/Tags.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -99,33 +126,6 @@
       },
       "frontmatter": {
         "tags": "MOCs"
-      }
-    },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 12,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755626997647,
-      "modifiedDate": 1755626997647,
-      "sizeInBytes": 13,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 13,
-        "nonWhitespaceCharacterCount": 12,
-        "newlineCount": 1
       }
     },
     "One-offs/The Ten and their Powers and Badges.md": {
@@ -213,41 +213,6 @@
         "newlineCount": 0
       }
     },
-    "One-offs/College of the Unheard Orientation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 916,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.0533333333333332,
-      "characterCount": 5690,
-      "nonWhitespaceCharacterCount": 4546,
-      "newlineCount": 114,
-      "readingTimeInMinutes": 3.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Orientation"
-      ],
-      "createdDate": 1755626997647,
-      "modifiedDate": 1755626997647,
-      "sizeInBytes": 5759,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.0533333333333332,
-        "wordCount": 916,
-        "characterCount": 5690,
-        "nonWhitespaceCharacterCount": 4546,
-        "newlineCount": 114
-      },
-      "frontmatter": {
-        "aliases": [
-          "Orientation"
-        ],
-        "sticker": "lucide//info"
-      }
-    },
     "One-offs/Daily Routine of the Ten.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -283,31 +248,39 @@
         "sticker": "lucide//sunrise"
       }
     },
-    "Main Story/Untitled.md": {
+    "One-offs/College of the Unheard Orientation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 916,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 3.0533333333333332,
+      "characterCount": 5690,
+      "nonWhitespaceCharacterCount": 4546,
+      "newlineCount": 114,
+      "readingTimeInMinutes": 3.456603773584906,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755626997631,
-      "modifiedDate": 1755626997631,
-      "sizeInBytes": 0,
+      "aliases": [
+        "Orientation"
+      ],
+      "createdDate": 1755626997647,
+      "modifiedDate": 1755626997647,
+      "sizeInBytes": 5759,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "pageCount": 3.0533333333333332,
+        "wordCount": 916,
+        "characterCount": 5690,
+        "nonWhitespaceCharacterCount": 4546,
+        "newlineCount": 114
+      },
+      "frontmatter": {
+        "aliases": [
+          "Orientation"
+        ],
+        "sticker": "lucide//info"
       }
     },
     "Main Story/The College of the Unheard Prologue.md": {
@@ -369,7 +342,7 @@
         "noteCount": 1,
         "pageCount": 12.28,
         "wordCount": 3684,
-        "characterCount": 21186,
+        "characterCount": 20876,
         "nonWhitespaceCharacterCount": 17018,
         "newlineCount": 311
       },
@@ -378,6 +351,33 @@
           "And thus, The Ten"
         ],
         "sticker": "lucide//hourglass"
+      }
+    },
+    "Main Story/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755626997631,
+      "modifiedDate": 1755626997631,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/README.md": {
@@ -400,14 +400,51 @@
       "sizeInBytes": 234,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 194,
-        "nonWhitespaceCharacterCount": 159,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 198,
+        "nonWhitespaceCharacterCount": 162,
         "newlineCount": 7
       },
       "frontmatter": {
         "sticker": "lucide//book-open"
+      }
+    },
+    "Main Story/The College of the Unheard Chapter Two.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3688,
+      "wordCountTowardGoal": 3688,
+      "wordGoal": 8000,
+      "pageCount": 12.293333333333333,
+      "characterCount": 21277,
+      "nonWhitespaceCharacterCount": 17417,
+      "newlineCount": 305,
+      "readingTimeInMinutes": 13.916981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Parents"
+      ],
+      "createdDate": 1755626997591,
+      "modifiedDate": 1755664198573,
+      "sizeInBytes": 21995,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 12.293333333333333,
+        "wordCount": 3688,
+        "characterCount": 21277,
+        "nonWhitespaceCharacterCount": 17417,
+        "newlineCount": 305
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Parents"
+        ],
+        "sticker": "lucide//hourglass",
+        "linter-yaml-title-alias": "The Parents",
+        "word-goal": 8000
       }
     },
     "Main Story/Main Story.md": {
@@ -465,6 +502,63 @@
         "characterCount": 7169,
         "nonWhitespaceCharacterCount": 5821,
         "newlineCount": 122
+      }
+    },
+    "Aeverath and the Shadow/The Shadow.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2562,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.54,
+      "characterCount": 14663,
+      "nonWhitespaceCharacterCount": 11993,
+      "newlineCount": 197,
+      "readingTimeInMinutes": 9.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754266789000,
+      "modifiedDate": 1755667413834,
+      "sizeInBytes": 14739,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.54,
+        "wordCount": 2562,
+        "characterCount": 14663,
+        "nonWhitespaceCharacterCount": 11993,
+        "newlineCount": 197
+      }
+    },
+    "Aeverath and the Shadow/Aeverath and the Shadow.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755664492073,
+      "modifiedDate": 1755664530466,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
       }
     },
     "Friend Stories/Soren sisters and Mariana.md": {
@@ -532,60 +626,24 @@
         "tags": "MOCs"
       }
     },
-    "Main Story/The College of the Unheard Chapter Two.md": {
+    "pass": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3688,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.293333333333333,
-      "characterCount": 21277,
-      "nonWhitespaceCharacterCount": 17417,
-      "newlineCount": 305,
-      "readingTimeInMinutes": 13.916981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Parents"
-      ],
-      "createdDate": 1755626997591,
-      "modifiedDate": 1755663657797,
-      "sizeInBytes": 21979,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Parents"
-        ],
-        "sticker": "lucide//hourglass",
-        "linter-yaml-title-alias": "The Parents"
-      }
-    },
-    "The Shadow.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1787,
-      "wordCountTowardGoal": 1787,
-      "wordGoal": 3000,
-      "pageCount": 5.956666666666667,
-      "characterCount": 10144,
-      "nonWhitespaceCharacterCount": 8294,
-      "newlineCount": 117,
-      "readingTimeInMinutes": 6.743396226415094,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754266789000,
-      "modifiedDate": 1755663916085,
-      "sizeInBytes": 10231,
+      "createdDate": 1755818265227,
+      "modifiedDate": 1755818265227,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -593,9 +651,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      },
-      "frontmatter": {
-        "word-goal": "3000"
       }
     }
   }

@@ -1,13 +1,18 @@
 {
   "customFileOrder": {
     "/": [
-      "The Shadow.md",
+      "pass",
+      "Aeverath and the Shadow",
       "LICENSE",
       "README.md",
       "Tags",
       "Main Story",
       "Friend Stories",
       "One-offs"
+    ],
+    "Aeverath and the Shadow": [
+      "Aeverath and the Shadow/The Shadow.md",
+      "Aeverath and the Shadow/Aeverath and the Shadow.md"
     ],
     "Friend Stories": [
       "Friend Stories/Friend Stories.md",
