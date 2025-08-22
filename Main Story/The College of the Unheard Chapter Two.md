@@ -349,11 +349,27 @@ He ran to catch up to her.
 
 He returned, and in a voice even more rhaspy than Ammareth's, he asked of Givly, "Who are they?" As he asked the question he gestured in the general direction of the Gold House.
 
-"They— they, well, they are my only family." Givly smiled, remembering the day she had met Iris, and the events that transpired.
+"They— they, well, they are my only family." Givly smiled, remembering the day she had met Iris, and the events that transpired after. The Ten were now tightly knit two– and third–year students, and a _team_.
 
-"Police?" The boy shuddered as if to indicate disgust at the question he asked Givly. 
+"Police?" The boy shuddered as if to indicate disgust at the question he asked Givly.
 
-"Do you seriously not know who we are?" Givly shook her head, then realized, moments 
-later, through wielding, that he in fact did not.
+"Do you seriously not know who we are?" Givly shook her head in refutal, then realized, moments later, through wielding, that he in fact did not.
 
-"We are the Ten, "
+"We are the Ten, only one of the most famous of teams at Unh— are you from here?"
+
+Deviân shrugged, and through wielding, Givly was able to translate that into "no".
+
+"Is Unh—"
+
+ "Yes, Unheard is that big tower over there. Well, that's Callendor, which is on the College campus."
+
+"Can I trust the— leaders of the college."
+
+Givly grinned slightly. "What if I told you I was one of the twenty? Would you believe me?"
+
+Seeing no response from the human, and recieving no further guidance by her manifest, Givly continued, "What's your name?"
+
+He told her— his name was Deviân, a name that carried confusion, chaos, a time made of splinters, but something felt right, something needed _fixing_. Deviân wasn't sure if he was the one needing fixing or the half dragonborn before him, but she was running. From what, or why, Deviân knew not. But all he knew is that somehow he had fractured his own timeline. He couldn't remember how, but the timeline was fractured. He felt that this girl— she was a rock, worn by millions of sharp stones into a resilent being. He could feel— _strength_, strength that he himself didn't posess. He was foolish enough to break… _something_, and he felt the consequences now. But this half dragonborn— she was powerful. Not only in grace, but pure determination. 
+
+As she put her hand out to pull Deviân towards her found family, he realized— this  graceful yet dragonborn was meant to help him. Who knew why, but he accepted, and as Givly smiled, and started towards Gold House, she said to the stray boy, with no rock to call his own, "Let's go save my… my family."
+

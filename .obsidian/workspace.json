@@ -4,61 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "f103bf77f7b54d5e",
-        "type": "tabs",
-        "dimension": 27.358490566037734,
+        "id": "b9bf05586ec9c68e",
+        "type": "split",
+        "dimension": 31.465968586387433,
         "children": [
           {
-            "id": "daca39cc9f0ced1e",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
-          },
-          {
-            "id": "71de74bbe85b8b7e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+            "id": "f103bf77f7b54d5e",
+            "type": "tabs",
+            "dimension": 58.03842264914054,
+            "children": [
+              {
+                "id": "daca39cc9f0ced1e",
+                "type": "leaf",
+                "state": {
+                  "type": "make-context-view",
+                  "state": {},
+                  "icon": "component",
+                  "title": "Explorer"
+                }
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
+              {
+                "id": "822a8885b83d106e",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "f0dbf154ccfa9820",
+                "type": "leaf",
+                "state": {
+                  "type": "CalendarView",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Daily statistics"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
           },
           {
-            "id": "822a8885b83d106e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "f0dbf154ccfa9820",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
+            "id": "e3fa14cbcefd66da",
+            "type": "tabs",
+            "dimension": 41.96157735085945,
+            "children": [
+              {
+                "id": "71de74bbe85b8b7e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "stacked": true
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "direction": "horizontal"
       },
       {
         "id": "3e32631fcb04a060",
         "type": "tabs",
-        "dimension": 72.64150943396226,
+        "dimension": 68.53403141361257,
         "children": [
           {
             "id": "3d778e5987ee3977",
@@ -85,7 +101,7 @@
     "type": "split",
     "children": [
       {
-        "id": "923cb00f9cca8da1",
+        "id": "6c8800a0c52159f9",
         "type": "tabs",
         "children": [
           {
@@ -95,47 +111,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "ee5201a0f76f2f74",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "bf27a90e5be44f6d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "542d7b340c647efa",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
             }
           },
           {
@@ -149,7 +128,33 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "923cb00f9cca8da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf27a90e5be44f6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5be5b2b78772d3f0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,26 +166,30 @@
     "type": "split",
     "children": [
       {
-        "id": "cf3a4982cc4af30c",
+        "id": "989a1a9900b5e913",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d936a59306a546",
+            "id": "723d7c339cfa5621",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
                 "file": "Main Story/The College of the Unheard Chapter Two.md",
-                "followCursor": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of The College of the Unheard Chapter Two"
+              "icon": "links-coming-in",
+              "title": "Backlinks for The College of the Unheard Chapter Two"
             }
           },
           {
-            "id": "76279016d1a918b0",
+            "id": "aba59f88674a8452",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -194,7 +203,7 @@
             }
           },
           {
-            "id": "5aba2f079f2fb3cc",
+            "id": "929307b637f2b264",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,12 +217,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +248,8 @@
   },
   "active": "822a8885b83d106e",
   "lastOpenFiles": [
-    "Untitled.md",
     "Main Story/The College of the Unheard Chapter Two.md",
+    "Untitled.md",
     "Aeverath and the Shadow/The Shadow.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "pass",

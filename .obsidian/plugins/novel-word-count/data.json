@@ -155,6 +155,33 @@
         "newlineCount": 0
       }
     },
+    "One-offs/Descriptions of Characters.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755626997647,
+      "modifiedDate": 1755626997647,
+      "sizeInBytes": 2240,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "One-offs/The Ten and their Powers and Badges.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -213,31 +240,39 @@
         "aliases": []
       }
     },
-    "One-offs/Descriptions of Characters.md": {
-      "isCountable": false,
+    "One-offs/College of the Unheard Orientation.md": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 916,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 3.0533333333333332,
+      "characterCount": 5690,
+      "nonWhitespaceCharacterCount": 4546,
+      "newlineCount": 114,
+      "readingTimeInMinutes": 3.456603773584906,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Orientation"
+      ],
       "createdDate": 1755626997647,
       "modifiedDate": 1755626997647,
-      "sizeInBytes": 2240,
+      "sizeInBytes": 5759,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 3.0533333333333332,
+        "wordCount": 916,
+        "characterCount": 5690,
+        "nonWhitespaceCharacterCount": 4546,
+        "newlineCount": 114
+      },
+      "frontmatter": {
+        "aliases": [
+          "Orientation"
+        ],
+        "sticker": "lucide//info"
       }
     },
     "One-offs/Daily Routine of the Ten.md": {
@@ -275,66 +310,34 @@
         "sticker": "lucide//sunrise"
       }
     },
-    "One-offs/College of the Unheard Orientation.md": {
+    "Main Story/Main Story.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 916,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.0533333333333332,
-      "characterCount": 5690,
-      "nonWhitespaceCharacterCount": 4546,
-      "newlineCount": 114,
-      "readingTimeInMinutes": 3.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Orientation"
-      ],
-      "createdDate": 1755626997647,
-      "modifiedDate": 1755626997647,
-      "sizeInBytes": 5759,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.0533333333333332,
-        "wordCount": 916,
-        "characterCount": 5690,
-        "nonWhitespaceCharacterCount": 4546,
-        "newlineCount": 114
-      },
-      "frontmatter": {
-        "aliases": [
-          "Orientation"
-        ],
-        "sticker": "lucide//info"
-      }
-    },
-    "Main Story/Untitled.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1755626997631,
-      "modifiedDate": 1755626997631,
-      "sizeInBytes": 0,
+      "createdDate": 1755626997591,
+      "modifiedDate": 1755626997628,
+      "sizeInBytes": 50,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 30,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "tags": "MOCs"
       }
     },
     "Main Story/The College of the Unheard Prologue.md": {
@@ -372,33 +375,60 @@
         "sticker": "lucide//list-end"
       }
     },
+    "Main Story/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755626997631,
+      "modifiedDate": 1755626997631,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Main Story/The College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4457,
-      "wordCountTowardGoal": 4457,
+      "wordCount": 4752,
+      "wordCountTowardGoal": 4752,
       "wordGoal": 8000,
-      "pageCount": 14.856666666666667,
-      "characterCount": 25611,
-      "nonWhitespaceCharacterCount": 20950,
-      "newlineCount": 353,
-      "readingTimeInMinutes": 16.818867924528302,
+      "pageCount": 15.84,
+      "characterCount": 27279,
+      "nonWhitespaceCharacterCount": 22313,
+      "newlineCount": 370,
+      "readingTimeInMinutes": 17.932075471698113,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Parents"
       ],
       "createdDate": 1755626997591,
-      "modifiedDate": 1755834578168,
-      "sizeInBytes": 26366,
+      "modifiedDate": 1755836335517,
+      "sizeInBytes": 28063,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 13.816666666666666,
-        "wordCount": 4145,
-        "characterCount": 23872,
-        "nonWhitespaceCharacterCount": 19536,
-        "newlineCount": 333
+        "pageCount": 14.98,
+        "wordCount": 4494,
+        "characterCount": 25815,
+        "nonWhitespaceCharacterCount": 21115,
+        "newlineCount": 360
       },
       "frontmatter": {
         "aliases": [
@@ -407,6 +437,36 @@
         "sticker": "lucide//hourglass",
         "linter-yaml-title-alias": "The Parents",
         "word-goal": 8000
+      }
+    },
+    "Main Story/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 162,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755626997628,
+      "modifiedDate": 1755662327841,
+      "sizeInBytes": 234,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 198,
+        "nonWhitespaceCharacterCount": 162,
+        "newlineCount": 7
+      },
+      "frontmatter": {
+        "sticker": "lucide//book-open"
       }
     },
     "Main Story/The College of the Unheard Chapter 1.md": {
@@ -442,66 +502,6 @@
           "And thus, The Ten"
         ],
         "sticker": "lucide//hourglass"
-      }
-    },
-    "Main Story/README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 198,
-      "nonWhitespaceCharacterCount": 162,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755626997628,
-      "modifiedDate": 1755662327841,
-      "sizeInBytes": 234,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 198,
-        "nonWhitespaceCharacterCount": 162,
-        "newlineCount": 7
-      },
-      "frontmatter": {
-        "sticker": "lucide//book-open"
-      }
-    },
-    "Main Story/Main Story.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 30,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755626997591,
-      "modifiedDate": 1755626997628,
-      "sizeInBytes": 50,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 30,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 3
-      },
-      "frontmatter": {
-        "tags": "MOCs"
       }
     },
     "LICENSE": {
