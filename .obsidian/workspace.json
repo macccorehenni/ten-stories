@@ -4,8 +4,61 @@
     "type": "split",
     "children": [
       {
+        "id": "f103bf77f7b54d5e",
+        "type": "tabs",
+        "dimension": 27.358490566037734,
+        "children": [
+          {
+            "id": "daca39cc9f0ced1e",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          },
+          {
+            "id": "71de74bbe85b8b7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "822a8885b83d106e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f0dbf154ccfa9820",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      },
+      {
         "id": "3e32631fcb04a060",
         "type": "tabs",
+        "dimension": 72.64150943396226,
         "children": [
           {
             "id": "3d778e5987ee3977",
@@ -20,22 +73,9 @@
               "icon": "lucide-file",
               "title": "The College of the Unheard Chapter Two"
             }
-          },
-          {
-            "id": "c56a0866b5ef2120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ten and their Powers and Badges"
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -45,11 +85,11 @@
     "type": "split",
     "children": [
       {
-        "id": "555226dfe1903417",
+        "id": "923cb00f9cca8da1",
         "type": "tabs",
         "children": [
           {
-            "id": "b60d969ff0a22a3f",
+            "id": "c52ecce1b46ee9db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +102,7 @@
             }
           },
           {
-            "id": "f8a5a4b0d897fb37",
+            "id": "ee5201a0f76f2f74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,13 +119,23 @@
             }
           },
           {
-            "id": "30005cc514c8df46",
+            "id": "bf27a90e5be44f6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "542d7b340c647efa",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -98,55 +148,53 @@
               "title": "Vertical tabs"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c5328bf8d50c40d",
     "type": "split",
     "children": [
       {
-        "id": "980cbd47317fbeef",
+        "id": "cf3a4982cc4af30c",
         "type": "tabs",
         "children": [
           {
-            "id": "1a45b069d8ce609c",
+            "id": "a1d936a59306a546",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Main Story/College of the Unheard Chapter Two.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for College of the Unheard Chapter Two"
+              "icon": "lucide-list",
+              "title": "Outline of The College of the Unheard Chapter Two"
             }
           },
           {
-            "id": "1e2fdfbdb2b7b66d",
+            "id": "76279016d1a918b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Story/College of the Unheard Chapter Two.md",
+                "file": "Main Story/The College of the Unheard Chapter Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from College of the Unheard Chapter Two"
+              "title": "Outgoing links from The College of the Unheard Chapter Two"
             }
           },
           {
-            "id": "85bdf28726c1f358",
+            "id": "5aba2f079f2fb3cc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,58 +207,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "cb70d8915d16a681",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Main Story/College of the Unheard Chapter Two.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of College of the Unheard Chapter Two"
-            }
-          },
-          {
-            "id": "0f1d7b44bf7e776a",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
-          },
-          {
-            "id": "d982286fcdb372eb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "4c33bb3cec94114f",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,6 +227,7 @@
       "command-palette:Open command palette": false,
       "color-cycler:Cycle accent color": false,
       "musical-text-highlighter:Toggle sentence highlighting": false,
+      "dashboard-navigator:Open dashboard navigator": false,
       "word-frequency:Show word frequency sidebar": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
@@ -233,20 +237,21 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "3d778e5987ee3977",
+  "active": "822a8885b83d106e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
     "Aeverath and the Shadow/The Shadow.md",
+    "One-offs/The Ten and their Powers and Badges.md",
     "pass",
     "Untitled.base",
     "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Aeverath and the Shadow",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The College of the Unheard Prologue.md",
     "One-offs/College of the Unheard Orientation.md",
     "Main Story/index.md",
     "Main Story/README.md",
-    "One-offs/The Ten and their Powers and Badges.md",
     "One-offs/One-offs.md",
     "Main Story/Unconfirmed 853987.crdownload",
     "Main Story/Untitled.md",

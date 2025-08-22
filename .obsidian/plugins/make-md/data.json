@@ -1,7 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
-  "navigatorEnabled": false,
+  "navigatorEnabled": true,
   "filePreviewOnHover": false,
   "blinkEnabled": true,
   "datePickerTime": false,

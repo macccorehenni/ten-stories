@@ -17,12 +17,24 @@
     "2025-08-17": 125,
     "2025-08-18": 453,
     "2025-08-19": 1067,
-    "2025-08-21": 0
+    "2025-08-21": 773
   },
   "todayWordCount": {
     "Main Story/The College of the Unheard Chapter Two.md": {
       "initial": 3717,
-      "current": 3717
+      "current": 4490
+    },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "initial": 1415,
+      "current": 1415
+    },
+    "Aeverath and the Shadow/The Shadow.md": {
+      "initial": 2575,
+      "current": 2575
+    },
+    "Untitled.md": {
+      "initial": 0,
+      "current": 0
     }
   },
   "weeklyPlan": {

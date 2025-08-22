@@ -307,4 +307,53 @@ _Ach I let my bond block slip. Need to keep my wielding up_, said the younger Pa
 
 _We need to move you little one._ The elder Parent smiled, if it could be considered as such. But it felt more wooden, almost as if it had realized its time was near.
 
-_Elder one they approch too fast!_ Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but she found the same bond fuzzing feeling that her teammates had. She was shut out from communicating with them. But an an even greater need to remove her restraints occured to her— what about Ammereth? They seemed to want _her_ more than they did the blond haired half dragonborn. Perhaps it was beacuse she was a teifling, Givly reasoned. Whatever the reason, she was in danger. Perhaps it was the adrenaline that kept her from staying put, from listening to the literal evil, or perhaps it was her sister in danger. They had been through so much together, and they were to be  together longer. Whether it was the spirit of her father— strong, even facing death, loyal, to a fault— or just someone she _loved_ in danger, really t someones, she
+_Elder one they approch too fast!_ Panic could be heard in the whisper that was the younger Parent. They scattered, leaving Givly to cry out for her team, but she found the same bond fuzzing feeling that her teammates had. She was shut out from communicating with them. But an an even greater need to remove her restraints occured to her— what about Ammereth? They seemed to want _her_ more than they did the blond haired half dragonborn. Perhaps it was beacuse she was a teifling, Givly reasoned. Whatever the reason, she was in danger. Perhaps it was the adrenaline that kept her from staying put, from listening to the literal evil, or perhaps it was her sister in danger. They had been through so much together, and they were to be  together longer. Whether it was the spirit of her father— strong, even facing death, loyal, to a fault— or just someone she _loved_ in danger, really nineteen someones, she was to get through this, just for _them_.
+
+---
+
+_Careful of our quarry, elder one we mustn't let the ten get to her!_ the younger Parent said, oblivious of Ammareth— their quarry— nearby. So my friends have been nearby, she thought, that's good. But I know the Parents, I miss Giv, but… I don't think I'm getting out of here tonight.
+
+She was in bad shape, red spots blotching her otherwise olive skin, her horns brown instead of the bright, almost pure magenta they typically were, and her head hurt with the fury of a body denied both food and water. Yet she stood resolute. Her sanity had slipped and indeed was faltering, but she continued to struggle through.
+
+She did have one thing going for her— she could wield to make her body hurt— _less_. Yet she was dying, which was a small price to pay. Her parents— specifically her father— had left a debt to her. She never had known about that— too complex for a seven year old to understand.
+
+But yet she had been hunted, unfairly. When she and Giv had run away, initally Ammy had been bitter, not realizing the truth. Facing Minden and their corrupt truth made her realize what the truth was— the Parents were no good, she reasoned. They had made up silly names, but it wasn't enough. Ammerath may be ten, but she isn't weak. Far from it.
+
+---
+
+The Ten was blindly sloughing through the Gold House when they heard a loud scream. Iris, the Loud Ones' leader, and more importantly, Ammy and Giv's bestest friends, was the first to stop.
+
+"Guys!" Iris excitedly shouted out over bonds, "She's _here_! She's freaking here!"
+
+Iris ran towards Giv, but was mysteriously blocked.
+
+_Look who I found, elder one. the youngest still member of the ten_ the younger of the Parents gloated.
+
+_Ooh, shall we have fun? we could make her our  second quarry_ the elder replied.
+
+"I won't— be — controlled." Iris replied.
+
+_Ooooooh, a sharp one_ the elder Parent said, mocking Iris's movements with an exaggerated swagger. Anna caught up to Iris, panicking when she realized her friend— and really, Anna considered her as her daughter— was face to face with the monster who had her friends trapped. She looked around to see if she or her friends were in wielding range or if Yae could wield. Yae had also brought her longsword, which she had dubbed "Verdant Leaf" beacuse it was laced all across with the feybloom of Mythria, the Feyrun High Forest, and her home. Luckily, there were multiple members of the Ten who were more than willing to destroy the demonic captors. But unknown to all, in the midst of this chaos, Givly, the spunky nine year old half dragonborn, escaped Gold House and started her run, if not to safety, to her own adventure.
+
+---
+
+Deviân stiffened at a loud stick breaking in the woods. He had sought out the mountains beacuse of the solace. But now all eighteen had put him on edge. He instinctively pulled his hair in front of his face but stilled fully in the midst when he saw the source of the noise, a weird almost female, young female for sure, with a shredded golden dress and two puffy buns. He almost ran, but something drew him towards the almost feral female… creature? Closer but still safe inspection revealed scales on her arms— was she part dragon? He couldn't help but get closer. She noticed him, Deviân slinked into the shadows, she continued. Deviân was always more careful than this. But a dragonborn in this remote forest— at night? Something wasn't right. But what drew him in, he reasoned, was the fact that she seemed to be running too. Whatever her friends were going for, it was important to him.
+
+He ran to catch up to her.
+
+---
+
+"Ah!" Givly screamed as the long haired boy ran at him. Perhaps realizing that she had startled, he slinked back.
+
+"No, no! Come back! I'm, I'm running away too!"
+
+He returned, and in a voice even more rhaspy than Ammareth's, he asked of Givly, "Who are they?" As he asked the question he gestured in the general direction of the Gold House.
+
+"They— they, well, they are my only family." Givly smiled, remembering the day she had met Iris, and the events that transpired.
+
+"Police?" The boy shuddered as if to indicate disgust at the question he asked Givly. 
+
+"Do you seriously not know who we are?" Givly shook her head, then realized, moments 
+later, through wielding, that he in fact did not.
+
+"We are the Ten, "

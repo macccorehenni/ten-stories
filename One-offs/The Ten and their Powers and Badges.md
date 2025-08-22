@@ -2,51 +2,53 @@
 tags:
   - exclude-from-word-count
 aliases:
+  - The Ten and Their Powers and Badges
   - Powers and mounts
 sticker: lucide//power
+linter-yaml-title-alias: The Ten and Their Powers and Badges
 ---
 
-# The Ten and their Powers and Badges
+# The Ten and Their Powers and Badges
 
-Tags: #Ethryia #Unheard #OCdescriptions #Unheard_Factions 
+Tags: #Ethryia #Unheard #OCdescriptions #Unheard_Factions
 
-## Description of the world as it relates to the document at hand
+## Description of the World as it Relates to the Document at Hand
 
-### Powers, mounts, and battle challenges
+### Powers, Mounts, and Battle Challenges
 
-All *powers* are derived from _mounts_.  Powers are very much a focus of the battle part of life at Unheard. Each mount—whether a common creature, a mythical one, or a Pokémon— contributes its magical power to help the handler channel their powers. These powers are honed via practice, and the way this happens is via _battle challenges_. The Polten Valley is littered with official targets— marked with the emblem of the College, a eighth note. Taking a photo of a target marked, whether by magic or weaponry, nets the faction and team a point. After a semester passes, the individual, faction, and team who have netted the most points in this way earn a badge. 
+All _powers_ are derived from _mounts_.  Powers are very much a focus of the battle part of life at Unheard. Each mount—whether a common creature, a mythical one, or a Pokémon— contributes its magical power to help the handler channel their powers. These powers are honed via practice, and the way this happens is via _battle challenges_. The Polten Valley is littered with official targets— marked with the emblem of the College, a eighth note. Taking a photo of a target marked, whether by magic or weaponry, nets the faction and team a point. After a semester passes, the individual, faction, and team who have netted the most points in this way earn a badge.
 
 ### Badges
 
-Badges are a form of honor in Unheard culture. They are given out for multiple reasons— _accoplishments_, _scholastic awards_ and _collegiate_, as well as _identity_ badges. 
+Badges are a form of honor in Unheard culture. They are given out for multiple reasons— _accoplishments_, _scholastic awards_ and _collegiate_, as well as _identity_ badges.
 
 #### Accomplishments
 
-Accomplishment badges are awarded by the people in charge of the battle section of which the accomplishment was taken. 
+Accomplishment badges are awarded by the people in charge of the battle section of which the accomplishment was taken.
 
 #### Scholastics
 
-Same as Accomplishments, but for school subjects. 
+Same as Accomplishments, but for school subjects.
 
-#### Collegiate 
+#### Collegiate
 
-Collegiate badges are different from either scholastic or accomplishment badges in that only the headmaster (Anna) can give them out and only at the end of the year. 
+Collegiate badges are different from either scholastic or accomplishment badges in that only the headmaster (Anna) can give them out and only at the end of the year.
 
-#### Identity 
+#### Identity
 
 Unlike the other types of badges, all students have at least three identity badges: team, faction, and manifest.
 
-Team and faction badges are indicative of the group membership, whereas the manifest badge indicates the power they have manifested. A set of identity badges like Anna’s (Ten, Misfits, Lightning) indicate her superior ability and skill in battle. Teams can also fashion their own identity badges to reflect their members‘— and their in general— ideals, beliefs and goals. For example, both the younger Loud Ones wear a handmade badge representing their friendship made by Iris, and the pact that Givly and Ammareth swore to each other. 
+Team and faction badges are indicative of the group membership, whereas the manifest badge indicates the power they have manifested. A set of identity badges like Anna’s (Ten, Misfits, Lightning) indicate her superior ability and skill in battle. Teams can also fashion their own identity badges to reflect their members‘— and their in general— ideals, beliefs and goals. For example, both the younger Loud Ones wear a handmade badge representing their friendship made by Iris, and the pact that Givly and Ammareth swore to each other.
 
 ## The Ten
 
 _Total badges_: 154
 
-The Ten are the leadership team. Originally compromised of the Misfits, Loud Ones and the remaining three of the Mindplayers, they were responsible for the downfall of Minden. ~~They then absorbed the Outcasts, two resonants and a moonelf, for Y2 per Anna’s edict. Later in Y2, after Givly’s abduction by the Parents, they absorbed the Passarines, all three mounts being birds.~~ (Other way around) The crest of the Ten is just that— the number ten. It’s centered in the badge. 
+The Ten are the leadership team. Originally compromised of the Misfits, Loud Ones and the remaining three of the Mindplayers, they were responsible for the downfall of Minden. ~~They then absorbed the Outcasts, two resonants and a moonelf, for Y2 per Anna’s edict. Later in Y2, after Givly’s abduction by the Parents, they absorbed the Passarines, all three mounts being birds.~~ (Other way around) The crest of the Ten is just that— the number ten. It’s centered in the badge.
 
 ### Misfits (2Y)
 
-The crest is an slanted “M”, almost between oblique and slanted in its angle. When placed on the faction badge, it’s hanging off the left. 
+The crest is an slanted “M”, almost between oblique and slanted in its angle. When placed on the faction badge, it’s hanging off the left.
 
 #### Leader— Anna (Anne)
 
@@ -88,7 +90,7 @@ Species: Human
 
 Home realm: Celestial Danae
 
-Relations: 
+Relations:
 
 - Girlfriend: Anna?
 
@@ -130,7 +132,7 @@ Home realm: Feydor
 
 ### Loud Ones (2Y)
 
-The youngest faction in the college, the Loud Ones have a energetic faction crest to match, with a megaphone in the center of the badge. 
+The youngest faction in the college, the Loud Ones have a energetic faction crest to match, with a megaphone in the center of the badge.
 
 #### Leader— Iris (Iri)
 
@@ -175,7 +177,7 @@ Age: 10
 
 Mount: Mini dusk scale dragon (Avery)
 
-Power: Time manipulation 
+Power: Time manipulation
 
 Badges: Ten, Loud Ones, Time Manip, Two Snakes, Youngest Faction, 1st 2Y Music Battle I, 2nd 2Y Music Battle II, Friendship of the Orphans (Ten)
 
@@ -209,7 +211,7 @@ Relations:
 
 ### Mindplayers (2Y)
 
-Once the most powerful group before the fall of Minden, Tarim apologized and took over the Mindplayers. The emblem is a record player. On the badge, it is off center. 
+Once the most powerful group before the fall of Minden, Tarim apologized and took over the Mindplayers. The emblem is a record player. On the badge, it is off center.
 
 #### Leader— Tarim (Taro)
 
@@ -233,7 +235,7 @@ Age: 28
 
 Mount: Charizard (Charry)
 
-Power: Fire plus Mega Evolution 
+Power: Fire plus Mega Evolution
 
 Badges: Ten, Mindplayers, Pokémon Power, Honor, Bravery, 3rd 2Y Music Battle I, 3rd 2Y Music Battle II, Technical I
 
@@ -303,13 +305,13 @@ Power: Water manipulation
 
 Badges: Ten, Outcasts, Water manip
 
-Species: Dragonspire resonant 
+Species: Dragonspire resonant
 
 Home realm: Ethyria
 
 ### Passeirines (1Y)
 
-The crest is a bird wing. On the badge, it is centered. 
+The crest is a bird wing. On the badge, it is centered.
 
 #### Leader— Mariana (Mari)
 
@@ -317,7 +319,7 @@ Age: 24
 
 Mount: Giant falcon (raised from a hatchling) (Hades)
 
-Power: Bloodshaping 
+Power: Bloodshaping
 
 Badges: Ten, Passarines, Bloodshaping, Unique Manifest, Unique Mount
 
@@ -325,7 +327,7 @@ Tryout song: A song about a drunken sailor at night/Margret Wolf
 
 Species: Half human/half ???
 
-Home realm: 
+Home realm:
 
 #### Emfelli (Emphe)
 
@@ -333,7 +335,7 @@ Age: 21
 
 Mount: Peacock (Starry)
 
-Power: Color manipulation 
+Power: Color manipulation
 
 Badges: Ten, Passarines, Color manip, Unique Manifest, Unique Mount
 
@@ -347,7 +349,7 @@ Home realm: Feydor
 
 Age: 20
 
-Power: Shadow 
+Power: Shadow
 
 Mount: A smooth drakeskin dragon (more like a bird than a dragon) (Parvi)
 
@@ -379,7 +381,7 @@ Home realm: Feydorian Feyrun (specifically the Echoing Shelf, an area in the Gre
 
 #### Ruby (Rue)
 
-Age: 30 
+Age: 30
 
 Mount: Horse
 
@@ -389,4 +391,4 @@ Badges: Ten, Overlands, bond dulling, Unique Manifest
 
 ## Notes
 
-[^1]: Although most choose Feyrun/Ethyrian creatures as their mounts, Pokémon have been known to be chosen as mounts, especially for those who lived in the Danaean Realms before moving to Unheard. 
+[^1]: Although most choose Feyrun/Ethyrian creatures as their mounts, Pokémon have been known to be chosen as mounts, especially for those who lived in the Danaean Realms before moving to Unheard.

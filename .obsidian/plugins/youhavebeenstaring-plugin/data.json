@@ -1,10 +1,10 @@
 {
-  "totalUptime": 2180000,
-  "lastLoad": 1755664627835,
-  "currentSessionDuration": 2180000,
+  "totalUptime": 7548000,
+  "lastLoad": 1755832727872,
+  "currentSessionDuration": 1760000,
   "showTotalUptimeInStatusBar": false,
   "displayStaringTimeAsHumanString": true,
-  "staringText": "You have been staring at your vault for ",
+  "staringText": "Time open:",
   "totalStaringText": "Your total staring time in this vault is ",
-  "pausedText": "Your staring counter is paused"
+  "pausedText": "Not tracking"
 }
