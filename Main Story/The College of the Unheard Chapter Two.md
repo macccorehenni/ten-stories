@@ -349,7 +349,7 @@ He ran to catch up to her.
 
 He returned, and in a voice even more rhaspy than Ammareth's, he asked of Givly, "Who are they?" As he asked the question he gestured in the general direction of the Gold House.
 
-"They— they, well, they are my only family." Givly smiled, remembering the day she had met Iris, and the events that transpired after. The Ten were now tightly knit two– and third–year students, and a _team_.
+"They— they, well, they are my only family." Givly smiled, remembering the day she had met Iris, and the events that transpired after. The Ten were now tightly knit first– and second–year students, and a _team_.
 
 "Police?" The boy shuddered as if to indicate disgust at the question he asked Givly.
 
@@ -373,3 +373,9 @@ He told her— his name was Deviân, a name that carried confusion, chaos, a tim
 
 As she put her hand out to pull Deviân towards her found family, he realized— this  graceful yet dragonborn was meant to help him. Who knew why, but he accepted, and as Givly smiled, and started towards Gold House, she said to the stray boy, with no rock to call his own, "Let's go save my… my family."
 
+---
+
+Back in the Golden House, things were looking dire. Iris had all but cornered herself, along with Anna and Ildren, at the Parents' back. They were about to attack them when one noticed that Givly had escaped.
+_Shit elder one, she has— somehow— escaped_ the younger one said.
+_Keep your eyes on the second quarry and her friends_ chided the elder Parent, still deciding what it wanted to do with Iris.
+It turned its body 

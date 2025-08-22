@@ -1,7 +1,7 @@
 {
-  "totalUptime": 8748000,
+  "totalUptime": 9148000,
   "lastLoad": 1755835068370,
-  "currentSessionDuration": 1200000,
+  "currentSessionDuration": 1600000,
   "showTotalUptimeInStatusBar": false,
   "displayStaringTimeAsHumanString": true,
   "staringText": "Time open:",
