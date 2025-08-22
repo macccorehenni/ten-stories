@@ -369,13 +369,16 @@ Givly grinned slightly. "What if I told you I was one of the twenty? Would you b
 
 Seeing no response from the human, and recieving no further guidance by her manifest, Givly continued, "What's your name?"
 
-He told her— his name was Deviân, a name that carried confusion, chaos, a time made of splinters, but something felt right, something needed _fixing_. Deviân wasn't sure if he was the one needing fixing or the half dragonborn before him, but she was running. From what, or why, Deviân knew not. But all he knew is that somehow he had fractured his own timeline. He couldn't remember how, but the timeline was fractured. He felt that this girl— she was a rock, worn by millions of sharp stones into a resilent being. He could feel— _strength_, strength that he himself didn't posess. He was foolish enough to break… _something_, and he felt the consequences now. But this half dragonborn— she was powerful. Not only in grace, but pure determination. 
+He told her— his name was Deviân, a name that carried confusion, chaos, a time made of splinters, but something felt right, something needed _fixing_. Deviân wasn't sure if he was the one needing fixing or the half dragonborn before him, but she was running. From what, or why, Deviân knew not. But all he knew is that somehow he had fractured his own timeline. He couldn't remember how, but the timeline was fractured. He felt that this girl— she was a rock, worn by millions of sharp stones into a resilent being. He could feel— _strength_, strength that he himself didn't posess. He was foolish enough to break… _something_, and he felt the consequences now. But this half dragonborn— she was powerful. Not only in grace, but pure determination.
 
 As she put her hand out to pull Deviân towards her found family, he realized— this  graceful yet dragonborn was meant to help him. Who knew why, but he accepted, and as Givly smiled, and started towards Gold House, she said to the stray boy, with no rock to call his own, "Let's go save my… my family."
 
 ---
 
 Back in the Golden House, things were looking dire. Iris had all but cornered herself, along with Anna and Ildren, at the Parents' back. They were about to attack them when one noticed that Givly had escaped.
+
 _Shit elder one, she has— somehow— escaped_ the younger one said.
+
 _Keep your eyes on the second quarry and her friends_ chided the elder Parent, still deciding what it wanted to do with Iris.
-It turned its body 
+
+It turned its body

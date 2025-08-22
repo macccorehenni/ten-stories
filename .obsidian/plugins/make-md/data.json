@@ -41,8 +41,9 @@
     "//One-offs",
     "//Tags",
     "//Friend Stories",
+    "//Main Story",
     "/",
-    "//Main Story"
+    "//The Rapture"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -57,7 +58,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,

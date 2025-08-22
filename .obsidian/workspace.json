@@ -11,7 +11,7 @@
           {
             "id": "f103bf77f7b54d5e",
             "type": "tabs",
-            "dimension": 58.03842264914054,
+            "dimension": 40.88319088319088,
             "children": [
               {
                 "id": "daca39cc9f0ced1e",
@@ -44,13 +44,13 @@
                 }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 2,
             "stacked": true
           },
           {
             "id": "e3fa14cbcefd66da",
             "type": "tabs",
-            "dimension": 41.96157735085945,
+            "dimension": 59.11680911680912,
             "children": [
               {
                 "id": "71de74bbe85b8b7e",
@@ -63,6 +63,16 @@
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
+                }
+              },
+              {
+                "id": "1cfcc2b274c1221c",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
                 }
               }
             ],
@@ -89,8 +99,23 @@
               "icon": "lucide-file",
               "title": "The College of the Unheard Chapter Two"
             }
+          },
+          {
+            "id": "554e0f876b263a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rapture/Skeleton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skeleton"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,9 +151,26 @@
               "icon": "vertical-tabs",
               "title": "Vertical tabs"
             }
+          },
+          {
+            "id": "ce76ca523b5c5e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "923cb00f9cca8da1",
@@ -142,16 +184,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "5be5b2b78772d3f0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
             }
           }
         ]
@@ -216,6 +248,21 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c844b02bc415a35f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Rapture/Skeleton.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Skeleton"
+            }
           }
         ]
       }
@@ -226,7 +273,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -236,19 +282,23 @@
       "command-palette:Open command palette": false,
       "color-cycler:Cycle accent color": false,
       "musical-text-highlighter:Toggle sentence highlighting": false,
-      "dashboard-navigator:Open dashboard navigator": false,
       "word-frequency:Show word frequency sidebar": false,
+      "cmdr:Better Command Palette: Open better command palette": false,
+      "cmdr:Toggle right sidebar": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false,
+      "obsidian42-brat:BRAT": false,
       "youhavebeenstaring-plugin:Start/stop staring counter": false,
-      "cmdr:Better Command Palette: Open better command palette": false,
-      "cmdr:Toggle right sidebar": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "822a8885b83d106e",
+  "active": "554e0f876b263a23",
   "lastOpenFiles": [
+    "The Rapture/The Rapture.md",
+    "The Rapture/Skeleton.md",
     "Main Story/The College of the Unheard Chapter Two.md",
+    "The Rapture",
     "Untitled.md",
     "Aeverath and the Shadow/The Shadow.md",
     "One-offs/The Ten and their Powers and Badges.md",
