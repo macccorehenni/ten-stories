@@ -105,27 +105,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 974,
-      "wordCountTowardGoal": 974,
+      "wordCount": 1042,
+      "wordCountTowardGoal": 1042,
       "wordGoal": 5000,
-      "pageCount": 3.2466666666666666,
-      "characterCount": 5536,
-      "nonWhitespaceCharacterCount": 4499,
-      "newlineCount": 99,
-      "readingTimeInMinutes": 3.6754716981132076,
+      "pageCount": 3.473333333333333,
+      "characterCount": 5941,
+      "nonWhitespaceCharacterCount": 4832,
+      "newlineCount": 106,
+      "readingTimeInMinutes": 3.9320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1756049356603,
-      "modifiedDate": 1756057013037,
-      "sizeInBytes": 5712,
+      "modifiedDate": 1756058556547,
+      "sizeInBytes": 6127,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.31333333333333335,
-        "wordCount": 94,
-        "characterCount": 561,
-        "nonWhitespaceCharacterCount": 461,
-        "newlineCount": 10
+        "pageCount": 3.283333333333333,
+        "wordCount": 985,
+        "characterCount": 5599,
+        "nonWhitespaceCharacterCount": 4548,
+        "newlineCount": 105
       },
       "frontmatter": {
         "word-goal": 5000
@@ -215,41 +215,6 @@
         "newlineCount": 0
       }
     },
-    "One-offs/Daily Routine of the Ten.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 122,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 655,
-      "nonWhitespaceCharacterCount": 522,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.46037735849056605,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Morning routine"
-      ],
-      "createdDate": 1755951165464,
-      "modifiedDate": 1755951166118,
-      "sizeInBytes": 720,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4066666666666667,
-        "wordCount": 122,
-        "characterCount": 655,
-        "nonWhitespaceCharacterCount": 522,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "aliases": [
-          "Morning routine"
-        ],
-        "sticker": "lucide//sunrise"
-      }
-    },
     "One-offs/The Ten and their Powers and Badges.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -333,6 +298,41 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "One-offs/Daily Routine of the Ten.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 122,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4066666666666667,
+      "characterCount": 655,
+      "nonWhitespaceCharacterCount": 522,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.46037735849056605,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Morning routine"
+      ],
+      "createdDate": 1755951165464,
+      "modifiedDate": 1755951166118,
+      "sizeInBytes": 720,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4066666666666667,
+        "wordCount": 122,
+        "characterCount": 655,
+        "nonWhitespaceCharacterCount": 522,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "aliases": [
+          "Morning routine"
+        ],
+        "sticker": "lucide//sunrise"
       }
     },
     "One-offs/College of the Unheard Orientation.md": {
@@ -616,9 +616,9 @@
         "noteCount": 1,
         "pageCount": 1.21,
         "wordCount": 363,
-        "characterCount": 2045,
+        "characterCount": 2041,
         "nonWhitespaceCharacterCount": 1658,
-        "newlineCount": 18
+        "newlineCount": 35
       },
       "frontmatter": {
         "word-goal": 1000,
@@ -651,9 +651,9 @@
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
-        "characterCount": 30,
+        "characterCount": 29,
         "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 3
+        "newlineCount": 4
       },
       "frontmatter": {
         "tags": "MOCs"

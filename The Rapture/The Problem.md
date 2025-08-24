@@ -101,6 +101,12 @@ Ruby nodded, then asked, "Are we doing it?"
 
 "On the side of a alley," Anna admitted.
 
-"That seems…"
+"That seems…" Iris started.
+
+"Yes, Iris, I'd normally be inclined to agree, but— moonelf?" Yaereene pointed out. "Just as much as any dark-skinned Feydorian half–elf with two ear piercings in each of her ears may be the queen of the Island—" Yaereene was referring to herself — "most moonelves are either directly part of or involved with the royal blood."
+
+"Fair, I rest my case."
+
+"Okay, then, how about you, Tarim?" Anna continued. T
 
 [^1]: Mostly because it reminded her of her mount— Emmersun, the dream tiger— in its shape, simlar to Emmy's tail.

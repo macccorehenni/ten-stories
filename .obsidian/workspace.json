@@ -25,10 +25,13 @@
             "id": "623b550bc3b2da12",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,6 +55,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -124,6 +128,56 @@
               "icon": "vertical-tabs",
               "title": "Vertical tabs"
             }
+          },
+          {
+            "id": "9e6821c9d929191c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6efe044330d2a88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0b4f03b2b9689796",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d83fb1c8d6ce1560",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ]
       }
@@ -135,7 +189,77 @@
   "right": {
     "id": "2c5328bf8d50c40d",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "bb14bb08257baacf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "733e3b95de262c81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Ten and their Powers and Badges"
+            }
+          },
+          {
+            "id": "2a16e86e7731202a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Ten and their Powers and Badges"
+            }
+          },
+          {
+            "id": "dd6464dde3f98d52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e676651e473a119",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Ten and their Powers and Badges"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 294.5,
     "collapsed": true
