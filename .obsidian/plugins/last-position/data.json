@@ -79,8 +79,8 @@
       "lastAccessed": 1755664521669
     },
     "Main Story/The College of the Unheard Chapter Two.md": {
-      "height": 391.01171875,
-      "lastAccessed": 1756049029566
+      "height": 391.125,
+      "lastAccessed": 1756050204123
     },
     "Aeverath and the Shadow/The Shadow.md": {
       "height": 184.29166666666666,
@@ -89,6 +89,10 @@
     "Main Story/README.md": {
       "height": 2.4096385542168677,
       "lastAccessed": 1756048741561
+    },
+    "The Rapture/The Problem.md": {
+      "height": 24.29625,
+      "lastAccessed": 1756052034126
     }
   },
   "listenEvent": "mouseover",

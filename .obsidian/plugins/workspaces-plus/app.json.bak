@@ -1,0 +1,26 @@
+{
+  "promptDelete": false,
+  "mobilePullAction": "obsidian-better-command-palette:open-better-commmand-palette",
+  "showInlineTitle": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "flowershow:publish-all-notes",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "musical-text-highlighter:toggle-sentence-highlighting"
+  ],
+  "propertiesInDocument": "visible",
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

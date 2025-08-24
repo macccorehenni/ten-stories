@@ -15,10 +15,20 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "623b550bc3b2da12",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -52,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -85,28 +95,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c8800a0c52159f9",
+        "id": "f0f863a4cbf2fd48",
         "type": "tabs",
         "children": [
           {
-            "id": "ce76ca523b5c5e4b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "e86513828aa5d59b",
+            "id": "9aaccf3a1e4647f3",
             "type": "leaf",
             "state": {
               "type": "vertical-tabs",
@@ -115,8 +108,7 @@
               "title": "Vertical tabs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "file": "The Rapture/The Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The College of the Unheard Chapter Two"
+              "title": "Backlinks for The Problem"
             }
           },
           {
@@ -156,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "file": "The Rapture/The Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The College of the Unheard Chapter Two"
+              "title": "Outgoing links from The Problem"
             }
           },
           {
@@ -194,15 +186,16 @@
               "title": "Outline of Skeleton"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -223,13 +216,13 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "822a8885b83d106e",
+  "active": "eccb267e665a8ad4",
   "lastOpenFiles": [
-    "One-offs/The Ten and their Powers and Badges.md",
-    "The Rapture/The Problem.md",
-    "The Rapture/The Rapture.md",
     "Main Story/The College of the Unheard Chapter Two.md",
+    "The Rapture/The Problem.md",
     "Main Story/Main Story.md",
+    "One-offs/The Ten and their Powers and Badges.md",
+    "The Rapture/The Rapture.md",
     "Main Story/README.md",
     "The Rapture/Skeleton.md",
     "The Rapture",
