@@ -4,104 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bf05586ec9c68e",
-        "type": "split",
-        "dimension": 31.465968586387433,
+        "id": "f103bf77f7b54d5e",
+        "type": "tabs",
+        "dimension": 34.088050314465406,
         "children": [
           {
-            "id": "f103bf77f7b54d5e",
-            "type": "tabs",
-            "dimension": 61.98179979777553,
-            "children": [
-              {
-                "id": "daca39cc9f0ced1e",
-                "type": "leaf",
-                "state": {
-                  "type": "make-context-view",
-                  "state": {},
-                  "icon": "component",
-                  "title": "Explorer"
-                }
+            "id": "09bd82a96ce911be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
-              {
-                "id": "822a8885b83d106e",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "f0dbf154ccfa9820",
-                "type": "leaf",
-                "state": {
-                  "type": "CalendarView",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Daily statistics"
-                }
-              }
-            ],
-            "currentTab": 2,
-            "stacked": true
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           },
           {
-            "id": "e3fa14cbcefd66da",
-            "type": "tabs",
-            "dimension": 38.01820020222447,
-            "children": [
-              {
-                "id": "1cfcc2b274c1221c",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ],
-            "stacked": true
+            "id": "daca39cc9f0ced1e",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          },
+          {
+            "id": "822a8885b83d106e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f0dbf154ccfa9820",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2,
+        "stacked": true
       },
       {
         "id": "3e32631fcb04a060",
         "type": "tabs",
-        "dimension": 68.53403141361257,
+        "dimension": 65.9119496855346,
         "children": [
           {
-            "id": "3d778e5987ee3977",
+            "id": "eccb267e665a8ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "file": "The Rapture/The Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The College of the Unheard Chapter Two"
-            }
-          },
-          {
-            "id": "eca406e7d5f80422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ten and their Powers and Badges"
+              "title": "The Problem"
             }
           }
         ],
@@ -118,29 +88,6 @@
         "id": "6c8800a0c52159f9",
         "type": "tabs",
         "children": [
-          {
-            "id": "c52ecce1b46ee9db",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "46630d8759ea693e",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
-            }
-          },
           {
             "id": "ce76ca523b5c5e4b",
             "type": "leaf",
@@ -159,33 +106,17 @@
             }
           },
           {
-            "id": "09bd82a96ce911be",
+            "id": "e86513828aa5d59b",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "vertical-tabs",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "923cb00f9cca8da1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf27a90e5be44f6d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -292,13 +223,15 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "1cfcc2b274c1221c",
+  "active": "822a8885b83d106e",
   "lastOpenFiles": [
-    "Main Story/README.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "One-offs/The Ten and their Powers and Badges.md",
-    "The Rapture/Skeleton.md",
+    "The Rapture/The Problem.md",
     "The Rapture/The Rapture.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
+    "Main Story/Main Story.md",
+    "Main Story/README.md",
+    "The Rapture/Skeleton.md",
     "The Rapture",
     "Untitled.md",
     "Aeverath and the Shadow/The Shadow.md",

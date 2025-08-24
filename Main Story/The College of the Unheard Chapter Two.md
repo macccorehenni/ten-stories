@@ -311,7 +311,7 @@ _Elder one they approch too fast!_ Panic could be heard in the whisper that was 
 
 ---
 
-_Careful of our quarry, elder one we mustn't let the ten get to her!_ the younger Parent said, oblivious of Ammareth— their quarry— nearby. So my friends have been nearby, she thought, that's good. But I know the Parents, I miss Giv, but… I don't think I'm getting out of here tonight.
+_Careful of our quarry, elder one we mustn't let the Ten get to her!_ the younger Parent said, oblivious of Ammareth— their quarry— nearby. So my friends have been nearby, she thought, that's good. But I know the Parents, I miss Giv, but… I don't think I'm getting out of here tonight.
 
 She was in bad shape, red spots blotching her otherwise olive skin, her horns brown instead of the bright, almost pure magenta they typically were, and her head hurt with the fury of a body denied both food and water. Yet she stood resolute. Her sanity had slipped and indeed was faltering, but she continued to struggle through.
 
@@ -399,4 +399,10 @@ _Run away, it's much too unsafe with such a powerful manifest. Bring our quarry 
 
 _Why are you just informing me of such power among the Ten? Have we risked our true identity for nothing on the campus_ The elder Parent was confused, but became even more so when its younger part said that this power had never been seen before in its many years of… deal making. The Parents were very much detailed in their hunting of souls. Ammereth's parents had made a deal with them, broken it, then died before the Parents could collect the debt. Thusly, it was imperative she died… at _their_ hands.
 
-Yet, children rarely ever make deals with demons like the Parents, for one simple reason— they know too much. They are _scared_, they know who demons are, they won't let them die. The Parents realized that they should have listened to their friends in the Underworld— you're playing a losing game, you won't win, you'll never get them. Now they had two young, spunky girls, running from them. Even worse for demons— they found confidence and friends. It's common knowledge among demons that the more confidence one has, the less effective torture of the demon kind is. But now, they had twenty— twenty-one?— ones to fight and… kill.
+Yet, children rarely ever make deals with demons like the Parents, for one simple reason— they know too much. They are _scared_, they know who demons are, they won't let demons kill them. The Parents realized that they should have listened to their friends in the Underworld— you're playing a losing game, you won't win, you'll never get them. Now they had two young, spunky girls, running from them. Even worse for demons— they found confidence and friends. It's common knowledge among demons that the more confidence one has, the less effective torture of the demon kind is. But now, they had twenty— twenty-one?— ones to fight and… kill.
+
+They would need to regroup and come back in more force. But their human bodies— those were too risky now.
+
+---
+
+"Givly!" Anna, despit
