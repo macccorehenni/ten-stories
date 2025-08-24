@@ -20,7 +20,7 @@
     "2025-08-21": 1145,
     "2025-08-22": 8,
     "2025-08-23": 22,
-    "2025-08-24": 779
+    "2025-08-24": 1440
   },
   "todayWordCount": {
     "Main Story/The College of the Unheard Chapter Two.md": {
@@ -29,7 +29,7 @@
     },
     "One-offs/The Ten and their Powers and Badges.md": {
       "initial": 1431,
-      "current": 1431
+      "current": 1452
     },
     "Main Story/README.md": {
       "initial": 35,
@@ -49,7 +49,15 @@
     },
     "The Rapture/The Problem.md": {
       "initial": 2,
-      "current": 393
+      "current": 1013
+    },
+    "Friend Stories/Friend Stories.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "Friend Stories/Soren sisters and Mariana.md": {
+      "initial": 371,
+      "current": 391
     }
   },
   "weeklyPlan": {

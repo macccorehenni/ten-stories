@@ -162,7 +162,7 @@ Badges: Ten, Loud Ones, Mind reader, Honor, Two Snakes, Youngest Faction, 1st 2Y
 
 Tryout song: Cole’s Response/Yaekelore
 
-Species: Half dragonborne
+Species: Half dragonborn
 
 Home realm: Ethryia
 
@@ -185,7 +185,7 @@ Tryout song: I Better Be Quiet Now/Elliot Smith
 
 Species: Teifling
 
-Home realm: Feydor
+Home realm: Ethyria
 
 Relations:
 
@@ -195,7 +195,7 @@ Relations:
 
 Age: 10
 
-Mount:
+Mount: Givly's tiger (doesn't have his own mount)
 
 Power: Timeflay (can split, merge and otherwise affect multiversal timelines)
 
@@ -203,7 +203,7 @@ Badges: Ten, Loud Ones, Timeflay
 
 Species: Human
 
-Home realm: Outside the Multiworld
+Home realm: Omnis
 
 Relations:
 
@@ -327,7 +327,7 @@ Tryout song: A song about a drunken sailor at night/Margret Wolf
 
 Species: Half human/half ???
 
-Home realm:
+Home realm: Outside of the Multi-world
 
 #### Emfelli (Emphe)
 
@@ -388,6 +388,16 @@ Mount: Horse
 Power: Bond dulling
 
 Badges: Ten, Overlands, bond dulling, Unique Manifest
+
+#### Angell (Angi)
+
+Age: 21
+
+Mount:
+
+Power: Elemental
+
+Badges: Ten, Overlands, light manipu
 
 ## Notes
 

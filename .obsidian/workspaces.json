@@ -8,7 +8,7 @@
           {
             "id": "f103bf77f7b54d5e",
             "type": "tabs",
-            "dimension": 34.088050314465406,
+            "dimension": 29.27899686520376,
             "children": [
               {
                 "id": "09bd82a96ce911be",
@@ -52,52 +52,27 @@
                   "icon": "git-pull-request",
                   "title": "Source Control"
                 }
-              },
-              {
-                "id": "f0dbf154ccfa9820",
-                "type": "leaf",
-                "state": {
-                  "type": "CalendarView",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Daily statistics"
-                }
               }
             ],
-            "currentTab": 4,
             "stacked": true
           },
           {
-            "id": "3e32631fcb04a060",
+            "id": "8d2f14f0ad019844",
             "type": "tabs",
-            "dimension": 65.9119496855346,
+            "dimension": 70.72100313479623,
             "children": [
               {
-                "id": "eccb267e665a8ad4",
+                "id": "83a981c837c8f484",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Rapture/The Problem.md",
+                    "file": "One-offs/The Ten and their Powers and Badges.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Problem"
-                }
-              },
-              {
-                "id": "cd7d0433e3e62bf3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Main Story/The College of the Unheard Chapter Two.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The College of the Unheard Chapter Two"
+                  "title": "The Ten and their Powers and Badges"
                 }
               }
             ],
@@ -134,83 +109,16 @@
       "right": {
         "id": "2c5328bf8d50c40d",
         "type": "split",
-        "children": [
-          {
-            "id": "989a1a9900b5e913",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "723d7c339cfa5621",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "The Rapture/The Problem.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for The Problem"
-                }
-              },
-              {
-                "id": "aba59f88674a8452",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "The Rapture/The Problem.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from The Problem"
-                }
-              },
-              {
-                "id": "929307b637f2b264",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "c844b02bc415a35f",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "The Rapture/Skeleton.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Skeleton"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
+        "children": [],
         "direction": "horizontal",
-        "width": 200
+        "width": 294.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
+          "custom-sort:Toggle custom sorting": false,
+          "dashboard-navigator:Open dashboard navigator": false,
+          "obsidian-git:Open Git source control": false,
           "workspaces:Manage workspace layouts": false,
           "bases:Create new base": false,
           "switcher:Open quick switcher": false,
@@ -225,22 +133,197 @@
           "cmdr:Better Command Palette: Open better command palette": false,
           "cmdr:Toggle right sidebar": false,
           "callout-manager:Insert Callout": false,
-          "obsidian-git:Open Git source control": false,
-          "custom-sort:Toggle custom sorting": false,
           "obsidian42-brat:BRAT": false,
-          "youhavebeenstaring-plugin:Start/stop staring counter": false,
-          "dashboard-navigator:Open dashboard navigator": false
+          "youhavebeenstaring-plugin:Start/stop staring counter": false
         }
       },
-      "active": "eccb267e665a8ad4",
-      "mtime": "2025-08-24T08:49:18-07:00",
+      "active": "83a981c837c8f484",
+      "mtime": "2025-08-24T10:04:55-07:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
+          "Friend Stories",
           "Main Story",
+          "One-offs",
+          "The Rapture"
+        ]
+      }
+    },
+    "Two files": {
+      "main": {
+        "id": "5fcd18b396613082",
+        "type": "split",
+        "children": [
+          {
+            "id": "f103bf77f7b54d5e",
+            "type": "tabs",
+            "dimension": 29.27899686520376,
+            "children": [
+              {
+                "id": "09bd82a96ce911be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "623b550bc3b2da12",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              },
+              {
+                "id": "daca39cc9f0ced1e",
+                "type": "leaf",
+                "state": {
+                  "type": "make-context-view",
+                  "state": {},
+                  "icon": "component",
+                  "title": "Explorer"
+                }
+              },
+              {
+                "id": "822a8885b83d106e",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "66bcea6f6e594ebf",
+            "type": "split",
+            "dimension": 70.72100313479623,
+            "children": [
+              {
+                "id": "3e32631fcb04a060",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "eccb267e665a8ad4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "The Rapture/The Problem.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "The Problem"
+                    }
+                  }
+                ],
+                "stacked": true
+              },
+              {
+                "id": "8d2f14f0ad019844",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "83a981c837c8f484",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "One-offs/The Ten and their Powers and Badges.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "The Ten and their Powers and Badges"
+                    }
+                  }
+                ],
+                "stacked": true
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2d0f82897d7913b4",
+        "type": "split",
+        "children": [
+          {
+            "id": "f0f863a4cbf2fd48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9aaccf3a1e4647f3",
+                "type": "leaf",
+                "state": {
+                  "type": "vertical-tabs",
+                  "state": {},
+                  "icon": "vertical-tabs",
+                  "title": "Vertical tabs"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "2c5328bf8d50c40d",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 294.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "custom-sort:Toggle custom sorting": false,
+          "dashboard-navigator:Open dashboard navigator": false,
+          "obsidian-git:Open Git source control": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "color-cycler:Cycle accent color": false,
+          "musical-text-highlighter:Toggle sentence highlighting": false,
+          "word-frequency:Show word frequency sidebar": false,
+          "cmdr:Better Command Palette: Open better command palette": false,
+          "cmdr:Toggle right sidebar": false,
+          "callout-manager:Insert Callout": false,
+          "obsidian42-brat:BRAT": false,
+          "youhavebeenstaring-plugin:Start/stop staring counter": false
+        }
+      },
+      "active": "83a981c837c8f484",
+      "mtime": "2025-08-24T10:04:25-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Friend Stories",
+          "Main Story",
+          "One-offs",
           "The Rapture"
         ]
       }
     }
   },
-  "active": "Files+Nav+Source+DS/Main"
+  "active": "Two files"
 }
