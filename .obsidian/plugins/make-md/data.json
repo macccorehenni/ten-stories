@@ -38,12 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "system-trash",
   "expandedSpaces": [
-    "//One-offs",
     "//Tags",
     "//Friend Stories",
-    "//Main Story",
+    "//The Rapture",
+    "//One-offs",
     "/",
-    "//The Rapture"
+    "//Main Story"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -58,7 +58,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,

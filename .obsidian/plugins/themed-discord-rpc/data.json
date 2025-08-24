@@ -1,6 +1,6 @@
 {
   "showVaultName": true,
-  "showCurrentFileName": false,
+  "showCurrentFileName": true,
   "showConnectionTimer": false,
   "showPopups": true,
   "customVaultName": "Ten Stories",

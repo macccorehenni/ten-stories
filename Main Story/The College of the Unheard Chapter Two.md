@@ -377,8 +377,26 @@ As she put her hand out to pull Deviân towards her found family, he realized—
 
 Back in the Golden House, things were looking dire. Iris had all but cornered herself, along with Anna and Ildren, at the Parents' back. They were about to attack them when one noticed that Givly had escaped.
 
-_Shit elder one, she has— somehow— escaped_ the younger one said.
+_Shit elder one, the younger foil has— somehow— escaped_ the younger one said.
 
 _Keep your eyes on the second quarry and her friends_ chided the elder Parent, still deciding what it wanted to do with Iris.
 
-It turned its body
+It turned its body towards the window.
+
+_Why did we choose the window to capture the young one, young friend? I'm doubting myself now_ The elder Parent was very much concerted, but the younger Parent didn't answer. It was too busy wielding its probing power.
+
+_She has no power we can use. Oh, and that was your idea, elder one_ the younger one said.
+
+Suddenly though, they heard a crash. A young man came through the window behind Ildren.
+
+"Don't panic, Ten, he's not with the Parents… despite his appearance." Givly shouted through bonds. Ildren, however, did not get the memo in time, and wielded, much to the delight of the half dragonborn, spirling shadows towards Deviân. Deviân leaped through Ildren's shadows and ended on the other side. "Who the hell is he with, then, Givly?"
+
+"He's with us."
+
+---
+
+_Run away, it's much too unsafe with such a powerful manifest. Bring our quarry with us, so that we may keep her safe._ The younger Parent in its smoke form was panicked after reading Deviân's manifest and had grown wary of the others'.
+
+_Why are you just informing me of such power among the Ten? Have we risked our true identity for nothing on the campus_ The elder Parent was confused, but became even more so when its younger part said that this power had never been seen before in its many years of… deal making. The Parents were very much detailed in their hunting of souls. Ammereth's parents had made a deal with them, broken it, then died before the Parents could collect the debt. Thusly, it was imperative she died… at _their_ hands.
+
+Yet, children rarely ever make deals with demons like the Parents, for one simple reason— they know too much. They are _scared_, they know who demons are, they won't let them die. The Parents realized that they should have listened to their friends in the Underworld— you're playing a losing game, you won't win, you'll never get them. Now they had two young, spunky girls, running from them. Even worse for demons— they found confidence and friends. It's common knowledge among demons that the more confidence one has, the less effective torture of the demon kind is. But now, they had twenty— twenty-one?— ones to fight and… kill.

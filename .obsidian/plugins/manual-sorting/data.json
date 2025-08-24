@@ -1,6 +1,7 @@
 {
   "customFileOrder": {
     "/": [
+      "The Rapture",
       "pass",
       "Aeverath and the Shadow",
       "LICENSE",
@@ -35,6 +36,10 @@
     ],
     "Tags": [
       "Tags/Tags.md"
+    ],
+    "The Rapture": [
+      "The Rapture/Skeleton.md",
+      "The Rapture/The Rapture.md"
     ]
   },
   "draggingEnabled": true,

@@ -1,4 +1,24 @@
 @charset "UTF-8";
+.fas-adaptive-accent.theme-light {
+  --text-accent: hsl(
+      from var(--color-base-00) calc(var(--accent-h) - 3) calc(var(--accent-s) * 1.02)
+          min(var(--accent-l) * 1.15, l * 1% - 15%)
+  );
+  --tag-background: hsl(
+      from var(--color-base-00) var(--accent-h) var(--accent-s) min(var(--accent-l), l * 1% - 5%) / 0.2
+  );
+}
+
+.fas-adaptive-accent.theme-dark {
+  --text-accent: hsl(
+      from var(--color-base-00) calc(var(--accent-h) - 3) calc(var(--accent-s) * 1.02)
+          max(var(--accent-l) * 1.15, l * 1% + 15%)
+  );
+  --tag-background: hsl(
+      from var(--color-base-00) var(--accent-h) var(--accent-s) max(var(--accent-l), l * 1% + 7%) / 0.2
+  );
+}
+
 .is-mobile.theme-light,
 .theme-light {
   --color-base-00: #e7e7e7;
@@ -15,34 +35,44 @@
   --color-base-60: color-mix(in var(--color-space), var(--color-base-00), var(--color-base-100) 60%);
   --color-base-70: color-mix(in var(--color-space), var(--color-base-00), var(--color-base-100) 70%);
   --color-gray: #4d4d4d;
-  --color-gray-rgb: 77, 77, 77;
+  --color-gray-rgb:
+      77, 77, 77;
   --color-gray-hover: color-mix(in srgb, var(--color-gray), rgb(var(--mono-rgb-0)) 20%);
   --color-brown: #632006;
-  --color-brown-rgb: 99, 32, 6;
+  --color-brown-rgb:
+      99, 32, 6;
   --color-brown-hover: color-mix(in srgb, var(--color-brown), rgb(var(--mono-rgb-0)) 20%);
   --color-red: #b13030;
-  --color-red-rgb: 177, 48, 48;
+  --color-red-rgb:
+      177, 48, 48;
   --color-red-hover: color-mix(in srgb, var(--color-red), rgb(var(--mono-rgb-0)) 20%);
   --color-orange: #be6900;
-  --color-orange-rgb: 190, 105, 0;
+  --color-orange-rgb:
+      190, 105, 0;
   --color-orange-hover: color-mix(in srgb, var(--color-orange), rgb(var(--mono-rgb-0)) 20%);
   --color-yellow: #d4b815;
-  --color-yellow-rgb: 212, 184, 21;
+  --color-yellow-rgb:
+      212, 184, 21;
   --color-yellow-hover: color-mix(in srgb, var(--color-yellow), rgb(var(--mono-rgb-0)) 20%);
   --color-green: #0d610d;
-  --color-green-rgb: 13, 97, 13;
+  --color-green-rgb:
+      13, 97, 13;
   --color-green-hover: color-mix(in srgb, var(--color-green), rgb(var(--mono-rgb-0)) 20%);
   --color-cyan: #319191;
-  --color-cyan-rgb: 49, 145, 145;
+  --color-cyan-rgb:
+      49, 145, 145;
   --color-cyan-hover: color-mix(in srgb, var(--color-cyan), rgb(var(--mono-rgb-0)) 20%);
   --color-blue: #323296;
-  --color-blue-rgb: 50, 50, 150;
+  --color-blue-rgb:
+      50, 50, 150;
   --color-blue-hover: color-mix(in srgb, var(--color-blue), rgb(var(--mono-rgb-0)) 20%);
   --color-purple: #641c7a;
-  --color-purple-rgb: 100, 28, 122;
+  --color-purple-rgb:
+      100, 28, 122;
   --color-purple-hover: color-mix(in srgb, var(--color-purple), rgb(var(--mono-rgb-0)) 20%);
   --color-pink: #e43eba;
-  --color-pink-rgb: 228, 62, 186;
+  --color-pink-rgb:
+      228, 62, 186;
   --color-pink-hover: color-mix(in srgb, var(--color-pink), rgb(var(--mono-rgb-0)) 20%);
 }
 
@@ -62,34 +92,44 @@
   --color-base-60: color-mix(in var(--color-space), var(--color-base-00), var(--color-base-100) 60%);
   --color-base-70: color-mix(in var(--color-space), var(--color-base-00), var(--color-base-100) 70%);
   --color-gray: #bdbdbd;
-  --color-gray-rgb: 189, 189, 189;
+  --color-gray-rgb:
+      189, 189, 189;
   --color-gray-hover: color-mix(in srgb, var(--color-gray), rgb(var(--mono-rgb-0)) 20%);
   --color-brown: #8d6540;
-  --color-brown-rgb: 141, 101, 64;
+  --color-brown-rgb:
+      141, 101, 64;
   --color-brown-hover: color-mix(in srgb, var(--color-brown), rgb(var(--mono-rgb-0)) 20%);
   --color-red: #f06565;
-  --color-red-rgb: 240, 101, 101;
+  --color-red-rgb:
+      240, 101, 101;
   --color-red-hover: color-mix(in srgb, var(--color-red), rgb(var(--mono-rgb-0)) 20%);
   --color-orange: #eea444;
-  --color-orange-rgb: 238, 164, 68;
+  --color-orange-rgb:
+      238, 164, 68;
   --color-orange-hover: color-mix(in srgb, var(--color-orange), rgb(var(--mono-rgb-0)) 20%);
   --color-yellow: yellow;
-  --color-yellow-rgb: 255, 255, 0;
+  --color-yellow-rgb:
+      255, 255, 0;
   --color-yellow-hover: color-mix(in srgb, var(--color-yellow), rgb(var(--mono-rgb-0)) 20%);
   --color-green: #60db60;
-  --color-green-rgb: 96, 219, 96;
+  --color-green-rgb:
+      96, 219, 96;
   --color-green-hover: color-mix(in srgb, var(--color-green), rgb(var(--mono-rgb-0)) 20%);
   --color-cyan: #7be2e2;
-  --color-cyan-rgb: 123, 226, 226;
+  --color-cyan-rgb:
+      123, 226, 226;
   --color-cyan-hover: color-mix(in srgb, var(--color-cyan), rgb(var(--mono-rgb-0)) 20%);
   --color-blue: #6795e9;
-  --color-blue-rgb: 103, 149, 233;
+  --color-blue-rgb:
+      103, 149, 233;
   --color-blue-hover: color-mix(in srgb, var(--color-blue), rgb(var(--mono-rgb-0)) 20%);
   --color-purple: #c48bf3;
-  --color-purple-rgb: 196, 139, 243;
+  --color-purple-rgb:
+      196, 139, 243;
   --color-purple-hover: color-mix(in srgb, var(--color-purple), rgb(var(--mono-rgb-0)) 20%);
   --color-pink: #f7bdf8;
-  --color-pink-rgb: 247, 189, 248;
+  --color-pink-rgb:
+      247, 189, 248;
   --color-pink-hover: color-mix(in srgb, var(--color-pink), rgb(var(--mono-rgb-0)) 20%);
 }
 
@@ -124,28 +164,28 @@
   --color-space: srgb-linear;
   --color-base-00: #d8d7cb;
   --color-base-100: #060a24;
-  --middle-color: hsl(226.6666666667, 70%, 40%);
-  --middle-color-complement: #ad8e1f;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #562326;
-  --color-brown-rgb: 86, 35, 38;
-  --color-red: #9a314b;
-  --color-red-rgb: 154, 49, 75;
-  --color-orange: #a56321;
-  --color-orange-rgb: 165, 99, 33;
-  --color-yellow: #988a2a;
-  --color-yellow-rgb: 152, 138, 42;
-  --color-green: #0b5c2c;
-  --color-green-rgb: 11, 92, 44;
-  --color-cyan: #2a839b;
-  --color-cyan-rgb: 42, 131, 155;
-  --color-blue: #2c33a4;
-  --color-blue-rgb: 44, 51, 164;
-  --color-purple: #57208b;
-  --color-purple-rgb: 87, 32, 139;
-  --color-pink: #912b8f;
-  --color-pink-rgb: 145, 43, 143;
+  --middle-color: hsl(229.4117647059, 70%, 40%);
+  --middle-color-complement: hsl(49.4117647059, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(86.13, 33.69, 38.37);
+  --color-brown-rgb: 86.13, 33.69, 38.37;
+  --color-red: rgb(153.99, 47.61, 74.91);
+  --color-red-rgb: 153.99, 47.61, 74.91;
+  --color-orange: rgb(165.3, 97.2, 33.15);
+  --color-orange-rgb: 165.3, 97.2, 33.15;
+  --color-yellow: rgb(184.44, 165.93, 51.42);
+  --color-yellow-rgb: 184.44, 165.93, 51.42;
+  --color-green: rgb(11.31, 90.24, 44.46);
+  --color-green-rgb: 11.31, 90.24, 44.46;
+  --color-cyan: rgb(42.63, 132, 159.3);
+  --color-cyan-rgb: 42.63, 132, 159.3;
+  --color-blue: rgb(43.5, 49.35, 163.65);
+  --color-blue-rgb: 43.5, 49.35, 163.65;
+  --color-purple: rgb(87, 30.21, 139.29);
+  --color-purple-rgb: 87, 30.21, 139.29;
+  --color-pink: rgb(198.36, 59.79, 194.97);
+  --color-pink-rgb: 198.36, 59.79, 194.97;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -154,27 +194,27 @@
   --color-base-00: #ece0d1;
   --color-base-100: #38220f;
   --middle-color: hsl(30, 70%, 40%);
-  --middle-color-complement: #1f66ad;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #772c05;
-  --color-brown-rgb: 119, 44, 5;
-  --color-red: #bb3a2a;
-  --color-red-rgb: 187, 58, 42;
-  --color-orange: #c66c00;
-  --color-orange-rgb: 198, 108, 0;
-  --color-yellow: #c29e10;
-  --color-yellow-rgb: 194, 158, 16;
-  --color-green: #2c650b;
-  --color-green-rgb: 44, 101, 11;
-  --color-cyan: #4c8f7e;
-  --color-cyan-rgb: 76, 143, 126;
-  --color-blue: #4d3c83;
-  --color-blue-rgb: 77, 60, 131;
-  --color-purple: #78296a;
-  --color-purple-rgb: 120, 41, 106;
-  --color-pink: #d21a82;
-  --color-pink-rgb: 210, 26, 130;
+  --middle-color-complement: hsl(210, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(119.28, 44.415, 5.22);
+  --color-brown-rgb: 119.28, 44.415, 5.22;
+  --color-red: rgb(187.14, 58.335, 41.76);
+  --color-red-rgb: 187.14, 58.335, 41.76;
+  --color-orange: rgb(198.45, 107.925, 0);
+  --color-orange-rgb: 198.45, 107.925, 0;
+  --color-yellow: rgb(217.59, 176.655, 18.27);
+  --color-yellow-rgb: 217.59, 176.655, 18.27;
+  --color-green: rgb(44.46, 100.965, 11.31);
+  --color-green-rgb: 44.46, 100.965, 11.31;
+  --color-cyan: rgb(75.78, 142.725, 126.15);
+  --color-cyan-rgb: 75.78, 142.725, 126.15;
+  --color-blue: rgb(76.65, 60.075, 130.5);
+  --color-blue-rgb: 76.65, 60.075, 130.5;
+  --color-purple: rgb(120.15, 40.935, 106.14);
+  --color-purple-rgb: 120.15, 40.935, 106.14;
+  --color-pink: rgb(231.51, 70.515, 161.82);
+  --color-pink-rgb: 231.51, 70.515, 161.82;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -182,28 +222,28 @@
   --color-space: srgb-linear;
   --color-base-00: #e6e4cc;
   --color-base-100: #2c2517;
-  --middle-color: hsl(49.5652173913, 70%, 40%);
-  --middle-color-complement: #1f37ad;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #773705;
-  --color-brown-rgb: 119, 55, 5;
-  --color-red: #bb452a;
-  --color-red-rgb: 187, 69, 42;
-  --color-orange: #c67700;
-  --color-orange-rgb: 198, 119, 0;
-  --color-yellow: #b9a00f;
-  --color-yellow-rgb: 185, 160, 15;
-  --color-green: #2c700b;
-  --color-green-rgb: 44, 112, 11;
-  --color-cyan: #4c9a7e;
-  --color-cyan-rgb: 76, 154, 126;
-  --color-blue: #4d4783;
-  --color-blue-rgb: 77, 71, 131;
-  --color-purple: #78346a;
-  --color-purple-rgb: 120, 52, 106;
-  --color-pink: #d11c7d;
-  --color-pink-rgb: 209, 28, 125;
+  --middle-color: hsl(48.5106382979, 70%, 40%);
+  --middle-color-complement: hsl(228.5106382979, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(119.28, 54.6421276596, 5.22);
+  --color-brown-rgb: 119.28, 54.6421276596, 5.22;
+  --color-red: rgb(187.14, 68.5621276596, 41.76);
+  --color-red-rgb: 187.14, 68.5621276596, 41.76;
+  --color-orange: rgb(198.45, 118.1521276596, 0);
+  --color-orange-rgb: 198.45, 118.1521276596, 0;
+  --color-yellow: rgb(217.59, 186.8821276596, 18.27);
+  --color-yellow-rgb: 217.59, 186.8821276596, 18.27;
+  --color-green: rgb(44.46, 111.1921276596, 11.31);
+  --color-green-rgb: 44.46, 111.1921276596, 11.31;
+  --color-cyan: rgb(75.78, 152.9521276596, 126.15);
+  --color-cyan-rgb: 75.78, 152.9521276596, 126.15;
+  --color-blue: rgb(76.65, 70.3021276596, 130.5);
+  --color-blue-rgb: 76.65, 70.3021276596, 130.5;
+  --color-purple: rgb(120.15, 51.1621276596, 106.14);
+  --color-purple-rgb: 120.15, 51.1621276596, 106.14;
+  --color-pink: rgb(231.51, 80.7421276596, 161.82);
+  --color-pink-rgb: 231.51, 80.7421276596, 161.82;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -211,28 +251,28 @@
   --color-space: hsl;
   --color-base-00: #f1f1dc;
   --color-base-100: #4b220b;
-  --middle-color: hsl(31.4285714286, 70%, 40%);
-  --middle-color-complement: #1f63ad;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #772d05;
-  --color-brown-rgb: 119, 45, 5;
-  --color-red: #bb3b2a;
-  --color-red-rgb: 187, 59, 42;
-  --color-orange: #c66d00;
-  --color-orange-rgb: 198, 109, 0;
-  --color-yellow: #d1aa11;
-  --color-yellow-rgb: 209, 170, 17;
-  --color-green: #2c660b;
-  --color-green-rgb: 44, 102, 11;
-  --color-cyan: #4c907e;
-  --color-cyan-rgb: 76, 144, 126;
-  --color-blue: #4d3d83;
-  --color-blue-rgb: 77, 61, 131;
-  --color-purple: #782a6a;
-  --color-purple-rgb: 120, 42, 106;
-  --color-pink: #e31e8d;
-  --color-pink-rgb: 227, 30, 141;
+  --middle-color: hsl(31.0588235294, 70%, 40%);
+  --middle-color-complement: hsl(211.0588235294, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(119.28, 45, 5.22);
+  --color-brown-rgb: 119.28, 45, 5.22;
+  --color-red: rgb(187.14, 58.92, 41.76);
+  --color-red-rgb: 187.14, 58.92, 41.76;
+  --color-orange: rgb(198.45, 108.51, 0);
+  --color-orange-rgb: 198.45, 108.51, 0;
+  --color-yellow: rgb(217.59, 177.24, 18.27);
+  --color-yellow-rgb: 217.59, 177.24, 18.27;
+  --color-green: rgb(44.46, 101.55, 11.31);
+  --color-green-rgb: 44.46, 101.55, 11.31;
+  --color-cyan: rgb(75.78, 143.31, 126.15);
+  --color-cyan-rgb: 75.78, 143.31, 126.15;
+  --color-blue: rgb(76.65, 60.66, 130.5);
+  --color-blue-rgb: 76.65, 60.66, 130.5;
+  --color-purple: rgb(120.15, 41.52, 106.14);
+  --color-purple-rgb: 120.15, 41.52, 106.14;
+  --color-pink: rgb(231.51, 71.1, 161.82);
+  --color-pink-rgb: 231.51, 71.1, 161.82;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -240,28 +280,28 @@
   --color-space: srgb;
   --color-base-00: #e1f0f3;
   --color-base-100: #083a3f;
-  --middle-color: hsl(186.6666666667, 70%, 40%);
-  --middle-color-complement: #ad2e1f;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #563926;
-  --color-brown-rgb: 86, 57, 38;
-  --color-red: #9a474b;
-  --color-red-rgb: 154, 71, 75;
-  --color-orange: #a57921;
-  --color-orange-rgb: 165, 121, 33;
-  --color-yellow: #b0b631;
-  --color-yellow-rgb: 176, 182, 49;
-  --color-green: #0b722c;
-  --color-green-rgb: 11, 114, 44;
-  --color-cyan: #2b9c9f;
-  --color-cyan-rgb: 43, 156, 159;
-  --color-blue: #2c49a4;
-  --color-blue-rgb: 44, 73, 164;
-  --color-purple: #57368b;
-  --color-purple-rgb: 87, 54, 139;
-  --color-pink: #ad39aa;
-  --color-pink-rgb: 173, 57, 170;
+  --middle-color: hsl(186.5753424658, 70%, 40%);
+  --middle-color-complement: hsl(6.5753424658, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(86.13, 57.3571232877, 38.37);
+  --color-brown-rgb: 86.13, 57.3571232877, 38.37;
+  --color-red: rgb(153.99, 71.2771232877, 74.91);
+  --color-red-rgb: 153.99, 71.2771232877, 74.91;
+  --color-orange: rgb(165.3, 120.8671232877, 33.15);
+  --color-orange-rgb: 165.3, 120.8671232877, 33.15;
+  --color-yellow: rgb(184.44, 189.5971232877, 51.42);
+  --color-yellow-rgb: 184.44, 189.5971232877, 51.42;
+  --color-green: rgb(11.31, 113.9071232877, 44.46);
+  --color-green-rgb: 11.31, 113.9071232877, 44.46;
+  --color-cyan: rgb(42.63, 155.6671232877, 159.3);
+  --color-cyan-rgb: 42.63, 155.6671232877, 159.3;
+  --color-blue: rgb(43.5, 73.0171232877, 163.65);
+  --color-blue-rgb: 43.5, 73.0171232877, 163.65;
+  --color-purple: rgb(87, 53.8771232877, 139.29);
+  --color-purple-rgb: 87, 53.8771232877, 139.29;
+  --color-pink: rgb(198.36, 83.4571232877, 194.97);
+  --color-pink-rgb: 198.36, 83.4571232877, 194.97;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -269,28 +309,28 @@
   --color-space: srgb-linear;
   --color-base-00: #f8efda;
   --color-base-100: #884823;
-  --middle-color: hsl(26.7692307692, 70%, 40%);
-  --middle-color-complement: #1f6ead;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #772b05;
-  --color-brown-rgb: 119, 43, 5;
-  --color-red: #bb392a;
-  --color-red-rgb: 187, 57, 42;
-  --color-orange: #c66a00;
-  --color-orange-rgb: 198, 106, 0;
-  --color-yellow: #d5ab12;
-  --color-yellow-rgb: 213, 171, 18;
-  --color-green: #2c630b;
-  --color-green-rgb: 44, 99, 11;
-  --color-cyan: #4c8d7e;
-  --color-cyan-rgb: 76, 141, 126;
-  --color-blue: #4d3a83;
-  --color-blue-rgb: 77, 58, 131;
-  --color-purple: #78276a;
-  --color-purple-rgb: 120, 39, 106;
-  --color-pink: #e42190;
-  --color-pink-rgb: 228, 33, 144;
+  --middle-color: hsl(26.5648854962, 70%, 40%);
+  --middle-color-complement: hsl(206.5648854962, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(119.28, 42.5170992366, 5.22);
+  --color-brown-rgb: 119.28, 42.5170992366, 5.22;
+  --color-red: rgb(187.14, 56.4370992366, 41.76);
+  --color-red-rgb: 187.14, 56.4370992366, 41.76;
+  --color-orange: rgb(198.45, 106.0270992366, 0);
+  --color-orange-rgb: 198.45, 106.0270992366, 0;
+  --color-yellow: rgb(217.59, 174.7570992366, 18.27);
+  --color-yellow-rgb: 217.59, 174.7570992366, 18.27;
+  --color-green: rgb(44.46, 99.0670992366, 11.31);
+  --color-green-rgb: 44.46, 99.0670992366, 11.31;
+  --color-cyan: rgb(75.78, 140.8270992366, 126.15);
+  --color-cyan-rgb: 75.78, 140.8270992366, 126.15;
+  --color-blue: rgb(76.65, 58.1770992366, 130.5);
+  --color-blue-rgb: 76.65, 58.1770992366, 130.5;
+  --color-purple: rgb(120.15, 39.0370992366, 106.14);
+  --color-purple-rgb: 120.15, 39.0370992366, 106.14;
+  --color-pink: rgb(231.51, 68.6170992366, 161.82);
+  --color-pink-rgb: 231.51, 68.6170992366, 161.82;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -300,26 +340,26 @@
   --color-base-100: #000000;
   --middle-color: #000000;
   --middle-color-complement: #000000;
-  --color-gray: #525252;
-  --color-gray-rgb: 82, 82, 82;
-  --color-brown: #652b14;
-  --color-brown-rgb: 101, 43, 20;
-  --color-red: #a93939;
-  --color-red-rgb: 169, 57, 57;
-  --color-orange: #b46a0f;
-  --color-orange-rgb: 180, 106, 15;
-  --color-yellow: #bfa720;
-  --color-yellow-rgb: 191, 167, 32;
-  --color-green: #1a631a;
-  --color-green-rgb: 26, 99, 26;
-  --color-cyan: #3a8d8d;
-  --color-cyan-rgb: 58, 141, 141;
-  --color-blue: #3b3b92;
-  --color-blue-rgb: 59, 59, 146;
-  --color-purple: #662779;
-  --color-purple-rgb: 102, 39, 121;
-  --color-pink: #c12b9b;
-  --color-pink-rgb: 193, 43, 155;
+  --color-gray: rgb(82.005, 82.005, 82.005);
+  --color-gray-rgb: 82.005, 82.005, 82.005;
+  --color-brown: rgb(101.145, 42.855, 20.235);
+  --color-brown-rgb: 101.145, 42.855, 20.235;
+  --color-red: rgb(169.005, 56.775, 56.775);
+  --color-red-rgb: 169.005, 56.775, 56.775;
+  --color-orange: rgb(180.315, 106.365, 15.015);
+  --color-orange-rgb: 180.315, 106.365, 15.015;
+  --color-yellow: rgb(199.455, 175.095, 33.285);
+  --color-yellow-rgb: 199.455, 175.095, 33.285;
+  --color-green: rgb(26.325, 99.405, 26.325);
+  --color-green-rgb: 26.325, 99.405, 26.325;
+  --color-cyan: rgb(57.645, 141.165, 141.165);
+  --color-cyan-rgb: 57.645, 141.165, 141.165;
+  --color-blue: rgb(58.515, 58.515, 145.515);
+  --color-blue-rgb: 58.515, 58.515, 145.515;
+  --color-purple: rgb(102.015, 39.375, 121.155);
+  --color-purple-rgb: 102.015, 39.375, 121.155;
+  --color-pink: rgb(213.375, 68.955, 176.835);
+  --color-pink-rgb: 213.375, 68.955, 176.835;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -327,28 +367,28 @@
   --color-space: lab;
   --color-base-00: #f7e5ef;
   --color-base-100: #6b3c63;
-  --middle-color: hsl(315, 70%, 40%);
-  --middle-color-complement: #1fad42;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #771c1e;
-  --color-brown-rgb: 119, 28, 30;
-  --color-red: #bb2a43;
-  --color-red-rgb: 187, 42, 67;
-  --color-orange: #c65b19;
-  --color-orange-rgb: 198, 91, 25;
-  --color-yellow: #d99e27;
-  --color-yellow-rgb: 217, 158, 39;
-  --color-green: #2c5424;
-  --color-green-rgb: 44, 84, 36;
-  --color-cyan: #4c7e97;
-  --color-cyan-rgb: 76, 126, 151;
-  --color-blue: #4d2c9b;
-  --color-blue-rgb: 77, 44, 155;
-  --color-purple: #781883;
-  --color-purple-rgb: 120, 24, 131;
-  --color-pink: #d719a7;
-  --color-pink-rgb: 215, 25, 167;
+  --middle-color: hsl(314.7692307692, 70%, 40%);
+  --middle-color-complement: hsl(134.7692307692, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(119.28, 27.84, 30.21);
+  --color-brown-rgb: 119.28, 27.84, 30.21;
+  --color-red: rgb(187.14, 41.76, 66.75);
+  --color-red-rgb: 187.14, 41.76, 66.75;
+  --color-orange: rgb(198.45, 91.35, 24.99);
+  --color-orange-rgb: 198.45, 91.35, 24.99;
+  --color-yellow: rgb(217.59, 160.08, 43.26);
+  --color-yellow-rgb: 217.59, 160.08, 43.26;
+  --color-green: rgb(44.46, 84.39, 36.3);
+  --color-green-rgb: 44.46, 84.39, 36.3;
+  --color-cyan: rgb(75.78, 126.15, 151.14);
+  --color-cyan-rgb: 75.78, 126.15, 151.14;
+  --color-blue: rgb(76.65, 43.5, 155.49);
+  --color-blue-rgb: 76.65, 43.5, 155.49;
+  --color-purple: rgb(120.15, 24.36, 131.13);
+  --color-purple-rgb: 120.15, 24.36, 131.13;
+  --color-pink: rgb(231.51, 53.94, 186.81);
+  --color-pink-rgb: 231.51, 53.94, 186.81;
 }
 
 .is-mobile.theme-light.fas-light,
@@ -357,27 +397,27 @@
   --color-base-00: #e9f5dd;
   --color-base-100: #192903;
   --middle-color: hsl(87.0967741935, 70%, 40%);
-  --middle-color-complement: #5f1fad;
-  --color-gray: #545454;
-  --color-gray-rgb: 84, 84, 84;
-  --color-brown: #683d05;
-  --color-brown-rgb: 104, 61, 5;
-  --color-red: #ac4b2a;
-  --color-red-rgb: 172, 75, 42;
-  --color-orange: #b87d00;
-  --color-orange-rgb: 184, 125, 0;
-  --color-yellow: #c2b811;
-  --color-yellow-rgb: 194, 184, 17;
-  --color-green: #1e760b;
-  --color-green-rgb: 30, 118, 11;
-  --color-cyan: #3d9f7e;
-  --color-cyan-rgb: 61, 159, 126;
-  --color-blue: #3e4d83;
-  --color-blue-rgb: 62, 77, 131;
-  --color-purple: #693a6a;
-  --color-purple-rgb: 105, 58, 106;
-  --color-pink: #ce2f8b;
-  --color-pink-rgb: 206, 47, 139;
+  --middle-color-complement: hsl(267.0967741935, 70%, 40%);
+  --color-gray: rgb(83.565, 83.565, 83.565);
+  --color-gray-rgb: 83.565, 83.565, 83.565;
+  --color-brown: rgb(104.3090322581, 60.99, 5.22);
+  --color-brown-rgb: 104.3090322581, 60.99, 5.22;
+  --color-red: rgb(172.1690322581, 74.91, 41.76);
+  --color-red-rgb: 172.1690322581, 74.91, 41.76;
+  --color-orange: rgb(183.4790322581, 124.5, 0);
+  --color-orange-rgb: 183.4790322581, 124.5, 0;
+  --color-yellow: rgb(202.6190322581, 193.23, 18.27);
+  --color-yellow-rgb: 202.6190322581, 193.23, 18.27;
+  --color-green: rgb(29.4890322581, 117.54, 11.31);
+  --color-green-rgb: 29.4890322581, 117.54, 11.31;
+  --color-cyan: rgb(60.8090322581, 159.3, 126.15);
+  --color-cyan-rgb: 60.8090322581, 159.3, 126.15;
+  --color-blue: rgb(61.6790322581, 76.65, 130.5);
+  --color-blue-rgb: 61.6790322581, 76.65, 130.5;
+  --color-purple: rgb(105.1790322581, 57.51, 106.14);
+  --color-purple-rgb: 105.1790322581, 57.51, 106.14;
+  --color-pink: rgb(216.5390322581, 87.09, 161.82);
+  --color-pink-rgb: 216.5390322581, 87.09, 161.82;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -386,27 +426,27 @@
   --color-base-00: #070918;
   --color-base-100: #e2dec5;
   --middle-color: hsl(50, 70%, 60%);
-  --middle-color-complement: #5269e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #a47a3b;
-  --color-brown-rgb: 164, 122, 59;
-  --color-red: #f27458;
-  --color-red-rgb: 242, 116, 88;
-  --color-orange: #f0aa3b;
-  --color-orange-rgb: 240, 170, 59;
-  --color-yellow: #fffa00;
-  --color-yellow-rgb: 255, 250, 0;
-  --color-green: #75da54;
-  --color-green-rgb: 117, 218, 84;
-  --color-cyan: #8ce0c5;
-  --color-cyan-rgb: 140, 224, 197;
-  --color-blue: #7b9dcb;
-  --color-blue-rgb: 123, 157, 203;
-  --color-purple: #cc95d3;
-  --color-purple-rgb: 204, 149, 211;
-  --color-pink: #f8c0d8;
-  --color-pink-rgb: 248, 192, 216;
+  --middle-color-complement: hsl(230, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 115.495, 55.68);
+  --color-brown-rgb: 155.82, 115.495, 55.68;
+  --color-red: rgb(241.95, 115.495, 87.87);
+  --color-red-rgb: 241.95, 115.495, 87.87;
+  --color-orange: rgb(240.21, 170.305, 59.16);
+  --color-orange-rgb: 240.21, 170.305, 59.16;
+  --color-yellow: rgb(255, 249.475, 0);
+  --color-yellow-rgb: 255, 249.475, 0;
+  --color-green: rgb(116.67, 218.155, 83.52);
+  --color-green-rgb: 116.67, 218.155, 83.52;
+  --color-cyan: rgb(140.16, 224.245, 196.62);
+  --color-cyan-rgb: 140.16, 224.245, 196.62;
+  --color-blue: rgb(122.76, 157.255, 202.71);
+  --color-blue-rgb: 122.76, 157.255, 202.71;
+  --color-purple: rgb(203.67, 148.555, 211.41);
+  --color-purple-rgb: 203.67, 148.555, 211.41;
+  --color-pink: rgb(248.04, 192.055, 215.76);
+  --color-pink-rgb: 248.04, 192.055, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -415,27 +455,27 @@
   --color-base-00: #201918;
   --color-base-100: #d6cbc0;
   --middle-color: hsl(24, 70%, 60%);
-  --middle-color-complement: #52a7e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #be7e49;
-  --color-brown-rgb: 190, 126, 73;
-  --color-red: #f26558;
-  --color-red-rgb: 242, 101, 88;
-  --color-orange: #f09c3b;
-  --color-orange-rgb: 240, 156, 59;
-  --color-yellow: #ffeb00;
-  --color-yellow-rgb: 255, 235, 0;
-  --color-green: #75cc54;
-  --color-green-rgb: 117, 204, 84;
-  --color-cyan: #8cd2c5;
-  --color-cyan-rgb: 140, 210, 197;
-  --color-blue: #7b8fcb;
-  --color-blue-rgb: 123, 143, 203;
-  --color-purple: #cc86d3;
-  --color-purple-rgb: 204, 134, 211;
-  --color-pink: #f8b2d8;
-  --color-pink-rgb: 248, 178, 216;
+  --middle-color-complement: hsl(204, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 101.13, 55.68);
+  --color-brown-rgb: 155.82, 101.13, 55.68;
+  --color-red: rgb(241.95, 101.13, 87.87);
+  --color-red-rgb: 241.95, 101.13, 87.87;
+  --color-orange: rgb(240.21, 155.94, 59.16);
+  --color-orange-rgb: 240.21, 155.94, 59.16;
+  --color-yellow: rgb(255, 235.11, 0);
+  --color-yellow-rgb: 255, 235.11, 0;
+  --color-green: rgb(116.67, 203.79, 83.52);
+  --color-green-rgb: 116.67, 203.79, 83.52;
+  --color-cyan: rgb(140.16, 209.88, 196.62);
+  --color-cyan-rgb: 140.16, 209.88, 196.62;
+  --color-blue: rgb(122.76, 142.89, 202.71);
+  --color-blue-rgb: 122.76, 142.89, 202.71;
+  --color-purple: rgb(203.67, 134.19, 211.41);
+  --color-purple-rgb: 203.67, 134.19, 211.41;
+  --color-pink: rgb(248.04, 177.69, 215.76);
+  --color-pink-rgb: 248.04, 177.69, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -443,28 +483,28 @@
   --color-space: lab;
   --color-base-00: #09180c;
   --color-base-100: #d6b498;
-  --middle-color: hsl(40, 70%, 60%);
-  --middle-color-complement: #5281e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #a7763c;
-  --color-brown-rgb: 167, 118, 60;
-  --color-red: #f26e58;
-  --color-red-rgb: 242, 110, 88;
-  --color-orange: #f0a53b;
-  --color-orange-rgb: 240, 165, 59;
-  --color-yellow: #fff400;
-  --color-yellow-rgb: 255, 244, 0;
-  --color-green: #75d554;
-  --color-green-rgb: 117, 213, 84;
-  --color-cyan: #8cdbc5;
-  --color-cyan-rgb: 140, 219, 197;
-  --color-blue: #7b98cb;
-  --color-blue-rgb: 123, 152, 203;
-  --color-purple: #cc8fd3;
-  --color-purple-rgb: 204, 143, 211;
-  --color-pink: #f8bbd8;
-  --color-pink-rgb: 248, 187, 216;
+  --middle-color: hsl(40.6779661017, 70%, 60%);
+  --middle-color-complement: hsl(220.6779661017, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 110.3445762712, 55.68);
+  --color-brown-rgb: 155.82, 110.3445762712, 55.68;
+  --color-red: rgb(241.95, 110.3445762712, 87.87);
+  --color-red-rgb: 241.95, 110.3445762712, 87.87;
+  --color-orange: rgb(240.21, 165.1545762712, 59.16);
+  --color-orange-rgb: 240.21, 165.1545762712, 59.16;
+  --color-yellow: rgb(255, 244.3245762712, 0);
+  --color-yellow-rgb: 255, 244.3245762712, 0;
+  --color-green: rgb(116.67, 213.0045762712, 83.52);
+  --color-green-rgb: 116.67, 213.0045762712, 83.52;
+  --color-cyan: rgb(140.16, 219.0945762712, 196.62);
+  --color-cyan-rgb: 140.16, 219.0945762712, 196.62;
+  --color-blue: rgb(122.76, 152.1045762712, 202.71);
+  --color-blue-rgb: 122.76, 152.1045762712, 202.71;
+  --color-purple: rgb(203.67, 143.4045762712, 211.41);
+  --color-purple-rgb: 203.67, 143.4045762712, 211.41;
+  --color-pink: rgb(248.04, 186.9045762712, 215.76);
+  --color-pink-rgb: 248.04, 186.9045762712, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -472,28 +512,28 @@
   --color-space: lab;
   --color-base-00: #080300;
   --color-base-100: #ee8e78;
-  --middle-color: hsl(12.380952381, 70%, 60%);
-  --middle-color-complement: #52c3e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #a06139;
-  --color-brown-rgb: 160, 97, 57;
-  --color-red: #f25f58;
-  --color-red-rgb: 242, 95, 88;
-  --color-orange: #f0963b;
-  --color-orange-rgb: 240, 150, 59;
-  --color-yellow: #ffe500;
-  --color-yellow-rgb: 255, 229, 0;
-  --color-green: #75c554;
-  --color-green-rgb: 117, 197, 84;
-  --color-cyan: #8cccc5;
-  --color-cyan-rgb: 140, 204, 197;
-  --color-blue: #7b89cb;
-  --color-blue-rgb: 123, 137, 203;
-  --color-purple: #cc80d3;
-  --color-purple-rgb: 204, 128, 211;
-  --color-pink: #f8abd8;
-  --color-pink-rgb: 248, 171, 216;
+  --middle-color: hsl(11.9047619048, 70%, 60%);
+  --middle-color-complement: hsl(191.9047619048, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 94.4473809524, 55.68);
+  --color-brown-rgb: 155.82, 94.4473809524, 55.68;
+  --color-red: rgb(241.95, 94.4473809524, 87.87);
+  --color-red-rgb: 241.95, 94.4473809524, 87.87;
+  --color-orange: rgb(240.21, 149.2573809524, 59.16);
+  --color-orange-rgb: 240.21, 149.2573809524, 59.16;
+  --color-yellow: rgb(255, 228.4273809524, 0);
+  --color-yellow-rgb: 255, 228.4273809524, 0;
+  --color-green: rgb(116.67, 197.1073809524, 83.52);
+  --color-green-rgb: 116.67, 197.1073809524, 83.52;
+  --color-cyan: rgb(140.16, 203.1973809524, 196.62);
+  --color-cyan-rgb: 140.16, 203.1973809524, 196.62;
+  --color-blue: rgb(122.76, 136.2073809524, 202.71);
+  --color-blue-rgb: 122.76, 136.2073809524, 202.71;
+  --color-purple: rgb(203.67, 127.5073809524, 211.41);
+  --color-purple-rgb: 203.67, 127.5073809524, 211.41;
+  --color-pink: rgb(248.04, 171.0073809524, 215.76);
+  --color-pink-rgb: 248.04, 171.0073809524, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -501,28 +541,28 @@
   --color-space: lab;
   --color-base-00: #021e22;
   --color-base-100: #caf0f7;
-  --middle-color: hsl(189.2307692308, 70%, 60%);
-  --middle-color-complement: #e06852;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #8a8264;
-  --color-brown-rgb: 138, 130, 100;
-  --color-red: #d17479;
-  --color-red-rgb: 209, 116, 121;
-  --color-orange: #cfab5c;
-  --color-orange-rgb: 207, 171, 92;
-  --color-yellow: #defa21;
-  --color-yellow-rgb: 222, 250, 33;
-  --color-green: #54db75;
-  --color-green-rgb: 84, 219, 117;
-  --color-cyan: #6be1e6;
-  --color-cyan-rgb: 107, 225, 230;
-  --color-blue: #5a9eec;
-  --color-blue-rgb: 90, 158, 236;
-  --color-purple: #ab95f5;
-  --color-purple-rgb: 171, 149, 245;
-  --color-pink: #d7c1f9;
-  --color-pink-rgb: 215, 193, 249;
+  --middle-color: hsl(188.5714285714, 70%, 60%);
+  --middle-color-complement: hsl(8.5714285714, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(122.67, 116.2842857143, 88.83);
+  --color-brown-rgb: 122.67, 116.2842857143, 88.83;
+  --color-red: rgb(208.8, 116.2842857143, 121.02);
+  --color-red-rgb: 208.8, 116.2842857143, 121.02;
+  --color-orange: rgb(207.06, 171.0942857143, 92.31);
+  --color-orange-rgb: 207.06, 171.0942857143, 92.31;
+  --color-yellow: rgb(221.85, 250.2642857143, 33.15);
+  --color-yellow-rgb: 221.85, 250.2642857143, 33.15;
+  --color-green: rgb(83.52, 218.9442857143, 116.67);
+  --color-green-rgb: 83.52, 218.9442857143, 116.67;
+  --color-cyan: rgb(107.01, 225.0342857143, 229.77);
+  --color-cyan-rgb: 107.01, 225.0342857143, 229.77;
+  --color-blue: rgb(89.61, 158.0442857143, 235.86);
+  --color-blue-rgb: 89.61, 158.0442857143, 235.86;
+  --color-purple: rgb(170.52, 149.3442857143, 244.56);
+  --color-purple-rgb: 170.52, 149.3442857143, 244.56;
+  --color-pink: rgb(214.89, 192.8442857143, 248.91);
+  --color-pink-rgb: 214.89, 192.8442857143, 248.91;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -532,26 +572,26 @@
   --color-base-100: #d9d9d9;
   --middle-color: #d9d9d9;
   --middle-color-complement: #d9d9d9;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #ac845f;
-  --color-brown-rgb: 172, 132, 95;
-  --color-red: #e16868;
-  --color-red-rgb: 225, 104, 104;
-  --color-orange: #df9f4b;
-  --color-orange-rgb: 223, 159, 75;
-  --color-yellow: #eeee10;
-  --color-yellow-rgb: 238, 238, 16;
-  --color-green: #64cf64;
-  --color-green-rgb: 100, 207, 100;
-  --color-cyan: #7bd5d5;
-  --color-cyan-rgb: 123, 213, 213;
-  --color-blue: #6a92db;
-  --color-blue-rgb: 106, 146, 219;
-  --color-purple: #bb89e4;
-  --color-purple-rgb: 187, 137, 228;
-  --color-pink: #e7b5e8;
-  --color-pink-rgb: 231, 181, 232;
+  --color-gray: rgb(180.55, 180.55, 180.55);
+  --color-gray-rgb: 180.55, 180.55, 180.55;
+  --color-brown: rgb(138.79, 103.99, 71.8);
+  --color-brown-rgb: 138.79, 103.99, 71.8;
+  --color-red: rgb(224.92, 103.99, 103.99);
+  --color-red-rgb: 224.92, 103.99, 103.99;
+  --color-orange: rgb(223.18, 158.8, 75.28);
+  --color-orange-rgb: 223.18, 158.8, 75.28;
+  --color-yellow: rgb(237.97, 237.97, 16.12);
+  --color-yellow-rgb: 237.97, 237.97, 16.12;
+  --color-green: rgb(99.64, 206.65, 99.64);
+  --color-green-rgb: 99.64, 206.65, 99.64;
+  --color-cyan: rgb(123.13, 212.74, 212.74);
+  --color-cyan-rgb: 123.13, 212.74, 212.74;
+  --color-blue: rgb(105.73, 145.75, 218.83);
+  --color-blue-rgb: 105.73, 145.75, 218.83;
+  --color-purple: rgb(186.64, 137.05, 227.53);
+  --color-purple-rgb: 186.64, 137.05, 227.53;
+  --color-pink: rgb(231.01, 180.55, 231.88);
+  --color-pink-rgb: 231.01, 180.55, 231.88;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -559,28 +599,28 @@
   --color-space: lab;
   --color-base-00: #231e1a;
   --color-base-100: #d7c0a3;
-  --middle-color: hsl(32, 70%, 60%);
-  --middle-color-complement: #5294e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #be8449;
-  --color-brown-rgb: 190, 132, 73;
-  --color-red: #f26a58;
-  --color-red-rgb: 242, 106, 88;
-  --color-orange: #f0a03b;
-  --color-orange-rgb: 240, 160, 59;
-  --color-yellow: #fff000;
-  --color-yellow-rgb: 255, 240, 0;
-  --color-green: #75d054;
-  --color-green-rgb: 117, 208, 84;
-  --color-cyan: #8cd6c5;
-  --color-cyan-rgb: 140, 214, 197;
-  --color-blue: #7b93cb;
-  --color-blue-rgb: 123, 147, 203;
-  --color-purple: #cc8bd3;
-  --color-purple-rgb: 204, 139, 211;
-  --color-pink: #f8b6d8;
-  --color-pink-rgb: 248, 182, 216;
+  --middle-color: hsl(32.4590163934, 70%, 60%);
+  --middle-color-complement: hsl(212.4590163934, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 105.8036065574, 55.68);
+  --color-brown-rgb: 155.82, 105.8036065574, 55.68;
+  --color-red: rgb(241.95, 105.8036065574, 87.87);
+  --color-red-rgb: 241.95, 105.8036065574, 87.87;
+  --color-orange: rgb(240.21, 160.6136065574, 59.16);
+  --color-orange-rgb: 240.21, 160.6136065574, 59.16;
+  --color-yellow: rgb(255, 239.7836065574, 0);
+  --color-yellow-rgb: 255, 239.7836065574, 0;
+  --color-green: rgb(116.67, 208.4636065574, 83.52);
+  --color-green-rgb: 116.67, 208.4636065574, 83.52;
+  --color-cyan: rgb(140.16, 214.5536065574, 196.62);
+  --color-cyan-rgb: 140.16, 214.5536065574, 196.62;
+  --color-blue: rgb(122.76, 147.5636065574, 202.71);
+  --color-blue-rgb: 122.76, 147.5636065574, 202.71;
+  --color-purple: rgb(203.67, 138.8636065574, 211.41);
+  --color-purple-rgb: 203.67, 138.8636065574, 211.41;
+  --color-pink: rgb(248.04, 182.3636065574, 215.76);
+  --color-pink-rgb: 248.04, 182.3636065574, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -588,28 +628,28 @@
   --color-space: lab;
   --color-base-00: #0a0a29;
   --color-base-100: #b3e5ff;
-  --middle-color: hsl(211.6981132075, 70%, 60%);
-  --middle-color-complement: #e09d52;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #8d7666;
-  --color-brown-rgb: 141, 118, 102;
-  --color-red: #d16779;
-  --color-red-rgb: 209, 103, 121;
-  --color-orange: #cf9e5c;
-  --color-orange-rgb: 207, 158, 92;
-  --color-yellow: #deed21;
-  --color-yellow-rgb: 222, 237, 33;
-  --color-green: #54ce75;
-  --color-green-rgb: 84, 206, 117;
-  --color-cyan: #6bd4e6;
-  --color-cyan-rgb: 107, 212, 230;
-  --color-blue: #5a91ec;
-  --color-blue-rgb: 90, 145, 236;
-  --color-purple: #ab89f5;
-  --color-purple-rgb: 171, 137, 245;
-  --color-pink: #d7b4f9;
-  --color-pink-rgb: 215, 180, 249;
+  --middle-color: hsl(211.9626168224, 70%, 60%);
+  --middle-color-complement: hsl(31.9626168224, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(122.67, 103.3606542056, 88.83);
+  --color-brown-rgb: 122.67, 103.3606542056, 88.83;
+  --color-red: rgb(208.8, 103.3606542056, 121.02);
+  --color-red-rgb: 208.8, 103.3606542056, 121.02;
+  --color-orange: rgb(207.06, 158.1706542056, 92.31);
+  --color-orange-rgb: 207.06, 158.1706542056, 92.31;
+  --color-yellow: rgb(221.85, 237.3406542056, 33.15);
+  --color-yellow-rgb: 221.85, 237.3406542056, 33.15;
+  --color-green: rgb(83.52, 206.0206542056, 116.67);
+  --color-green-rgb: 83.52, 206.0206542056, 116.67;
+  --color-cyan: rgb(107.01, 212.1106542056, 229.77);
+  --color-cyan-rgb: 107.01, 212.1106542056, 229.77;
+  --color-blue: rgb(89.61, 145.1206542056, 235.86);
+  --color-blue-rgb: 89.61, 145.1206542056, 235.86;
+  --color-purple: rgb(170.52, 136.4206542056, 244.56);
+  --color-purple-rgb: 170.52, 136.4206542056, 244.56;
+  --color-pink: rgb(214.89, 179.9206542056, 248.91);
+  --color-pink-rgb: 214.89, 179.9206542056, 248.91;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -617,28 +657,28 @@
   --color-space: lab;
   --color-base-00: #0d0514;
   --color-base-100: #f3d0ff;
-  --middle-color: hsl(280.6451612903, 70%, 60%);
-  --middle-color-complement: #80e052;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #9b5e5f;
-  --color-brown-rgb: 155, 94, 95;
-  --color-red: #e75879;
-  --color-red-rgb: 231, 88, 121;
-  --color-orange: #e68f5c;
-  --color-orange-rgb: 230, 143, 92;
-  --color-yellow: #f4de21;
-  --color-yellow-rgb: 244, 222, 33;
-  --color-green: #6abf75;
-  --color-green-rgb: 106, 191, 117;
-  --color-cyan: #82c5e6;
-  --color-cyan-rgb: 130, 197, 230;
-  --color-blue: #7082ec;
-  --color-blue-rgb: 112, 130, 236;
-  --color-purple: #c179f5;
-  --color-purple-rgb: 193, 121, 245;
-  --color-pink: #eda4f9;
-  --color-pink-rgb: 237, 164, 249;
+  --middle-color: hsl(281.6129032258, 70%, 60%);
+  --middle-color-complement: hsl(101.6129032258, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(145.6611290323, 87.87, 88.83);
+  --color-brown-rgb: 145.6611290323, 87.87, 88.83;
+  --color-red: rgb(231.7911290323, 87.87, 121.02);
+  --color-red-rgb: 231.7911290323, 87.87, 121.02;
+  --color-orange: rgb(230.0511290323, 142.68, 92.31);
+  --color-orange-rgb: 230.0511290323, 142.68, 92.31;
+  --color-yellow: rgb(244.8411290323, 221.85, 33.15);
+  --color-yellow-rgb: 244.8411290323, 221.85, 33.15;
+  --color-green: rgb(106.5111290323, 190.53, 116.67);
+  --color-green-rgb: 106.5111290323, 190.53, 116.67;
+  --color-cyan: rgb(130.0011290323, 196.62, 229.77);
+  --color-cyan-rgb: 130.0011290323, 196.62, 229.77;
+  --color-blue: rgb(112.6011290323, 129.63, 235.86);
+  --color-blue-rgb: 112.6011290323, 129.63, 235.86;
+  --color-purple: rgb(193.5111290323, 120.93, 244.56);
+  --color-purple-rgb: 193.5111290323, 120.93, 244.56;
+  --color-pink: rgb(237.8811290323, 164.43, 248.91);
+  --color-pink-rgb: 237.8811290323, 164.43, 248.91;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -647,27 +687,27 @@
   --color-base-00: #1b2329;
   --color-base-100: #e2d0b6;
   --middle-color: hsl(40, 70%, 60%);
-  --middle-color-complement: #5281e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #bf8b4d;
-  --color-brown-rgb: 191, 139, 77;
-  --color-red: #f26e58;
-  --color-red-rgb: 242, 110, 88;
-  --color-orange: #f0a53b;
-  --color-orange-rgb: 240, 165, 59;
-  --color-yellow: #fff400;
-  --color-yellow-rgb: 255, 244, 0;
-  --color-green: #75d554;
-  --color-green-rgb: 117, 213, 84;
-  --color-cyan: #8cdbc5;
-  --color-cyan-rgb: 140, 219, 197;
-  --color-blue: #7b98cb;
-  --color-blue-rgb: 123, 152, 203;
-  --color-purple: #cc8fd3;
-  --color-purple-rgb: 204, 143, 211;
-  --color-pink: #f8bbd8;
-  --color-pink-rgb: 248, 187, 216;
+  --middle-color-complement: hsl(220, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 109.97, 55.68);
+  --color-brown-rgb: 155.82, 109.97, 55.68;
+  --color-red: rgb(241.95, 109.97, 87.87);
+  --color-red-rgb: 241.95, 109.97, 87.87;
+  --color-orange: rgb(240.21, 164.78, 59.16);
+  --color-orange-rgb: 240.21, 164.78, 59.16;
+  --color-yellow: rgb(255, 243.95, 0);
+  --color-yellow-rgb: 255, 243.95, 0;
+  --color-green: rgb(116.67, 212.63, 83.52);
+  --color-green-rgb: 116.67, 212.63, 83.52;
+  --color-cyan: rgb(140.16, 218.72, 196.62);
+  --color-cyan-rgb: 140.16, 218.72, 196.62;
+  --color-blue: rgb(122.76, 151.73, 202.71);
+  --color-blue-rgb: 122.76, 151.73, 202.71;
+  --color-purple: rgb(203.67, 143.03, 211.41);
+  --color-purple-rgb: 203.67, 143.03, 211.41;
+  --color-pink: rgb(248.04, 186.53, 215.76);
+  --color-pink-rgb: 248.04, 186.53, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -676,27 +716,27 @@
   --color-base-00: #000016;
   --color-base-100: #fff5bb;
   --middle-color: hsl(46.9565217391, 70%, 60%);
-  --middle-color-complement: #5271e0;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #9c7238;
-  --color-brown-rgb: 156, 114, 56;
-  --color-red: #f27258;
-  --color-red-rgb: 242, 114, 88;
-  --color-orange: #f0a93b;
-  --color-orange-rgb: 240, 169, 59;
-  --color-yellow: #fff800;
-  --color-yellow-rgb: 255, 248, 0;
-  --color-green: #75d954;
-  --color-green-rgb: 117, 217, 84;
-  --color-cyan: #8cdfc5;
-  --color-cyan-rgb: 140, 223, 197;
-  --color-blue: #7b9ccb;
-  --color-blue-rgb: 123, 156, 203;
-  --color-purple: #cc93d3;
-  --color-purple-rgb: 204, 147, 211;
-  --color-pink: #f8bed8;
-  --color-pink-rgb: 248, 190, 216;
+  --middle-color-complement: hsl(226.9565217391, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(155.82, 113.8134782609, 55.68);
+  --color-brown-rgb: 155.82, 113.8134782609, 55.68;
+  --color-red: rgb(241.95, 113.8134782609, 87.87);
+  --color-red-rgb: 241.95, 113.8134782609, 87.87;
+  --color-orange: rgb(240.21, 168.6234782609, 59.16);
+  --color-orange-rgb: 240.21, 168.6234782609, 59.16;
+  --color-yellow: rgb(255, 247.7934782609, 0);
+  --color-yellow-rgb: 255, 247.7934782609, 0;
+  --color-green: rgb(116.67, 216.4734782609, 83.52);
+  --color-green-rgb: 116.67, 216.4734782609, 83.52;
+  --color-cyan: rgb(140.16, 222.5634782609, 196.62);
+  --color-cyan-rgb: 140.16, 222.5634782609, 196.62;
+  --color-blue: rgb(122.76, 155.5734782609, 202.71);
+  --color-blue-rgb: 122.76, 155.5734782609, 202.71;
+  --color-purple: rgb(203.67, 146.8734782609, 211.41);
+  --color-purple-rgb: 203.67, 146.8734782609, 211.41;
+  --color-pink: rgb(248.04, 190.3734782609, 215.76);
+  --color-pink-rgb: 248.04, 190.3734782609, 215.76;
 }
 
 .is-mobile.theme-dark.fas-dark,
@@ -704,28 +744,28 @@
   --color-space: lab;
   --color-base-00: #272b34;
   --color-base-100: #ffffff;
-  --middle-color: hsl(222.8571428571, 70%, 60%);
-  --middle-color-complement: #e0b852;
-  --color-gray: #b5b5b5;
-  --color-gray-rgb: 181, 181, 181;
-  --color-brown: #a68c84;
-  --color-brown-rgb: 166, 140, 132;
-  --color-red: #d2657c;
-  --color-red-rgb: 210, 101, 124;
-  --color-orange: #cf985c;
-  --color-orange-rgb: 207, 152, 92;
-  --color-yellow: #dee721;
-  --color-yellow-rgb: 222, 231, 33;
-  --color-green: #67ce85;
-  --color-green-rgb: 103, 206, 133;
-  --color-cyan: #6bcee6;
-  --color-cyan-rgb: 107, 206, 230;
-  --color-blue: #5a8bec;
-  --color-blue-rgb: 90, 139, 236;
-  --color-purple: #ab82f5;
-  --color-purple-rgb: 171, 130, 245;
-  --color-pink: #d7aef9;
-  --color-pink-rgb: 215, 174, 249;
+  --middle-color: hsl(221.5384615385, 70%, 60%);
+  --middle-color-complement: hsl(41.5384615385, 70%, 60%);
+  --color-gray: rgb(181.005, 181.005, 181.005);
+  --color-gray-rgb: 181.005, 181.005, 181.005;
+  --color-brown: rgb(122.67, 98.07, 88.83);
+  --color-brown-rgb: 122.67, 98.07, 88.83;
+  --color-red: rgb(208.8, 98.07, 121.02);
+  --color-red-rgb: 208.8, 98.07, 121.02;
+  --color-orange: rgb(207.06, 152.88, 92.31);
+  --color-orange-rgb: 207.06, 152.88, 92.31;
+  --color-yellow: rgb(221.85, 232.05, 33.15);
+  --color-yellow-rgb: 221.85, 232.05, 33.15;
+  --color-green: rgb(83.52, 200.73, 116.67);
+  --color-green-rgb: 83.52, 200.73, 116.67;
+  --color-cyan: rgb(107.01, 206.82, 229.77);
+  --color-cyan-rgb: 107.01, 206.82, 229.77;
+  --color-blue: rgb(89.61, 139.83, 235.86);
+  --color-blue-rgb: 89.61, 139.83, 235.86;
+  --color-purple: rgb(170.52, 131.13, 244.56);
+  --color-purple-rgb: 170.52, 131.13, 244.56;
+  --color-pink: rgb(214.89, 174.63, 248.91);
+  --color-pink-rgb: 214.89, 174.63, 248.91;
 }
 
 body {
@@ -735,600 +775,640 @@ body {
 
 .theme-light {
   --color-rainbow-1: hsl(18, 60%, 40%);
-  --color-rainbow-1-rgb: 163, 78, 41;
+  --color-rainbow-1-rgb:
+      163.2, 77.52, 40.8;
   --color-rainbow-2: hsl(54, 60%, 40%);
-  --color-rainbow-2-rgb: 163, 151, 41;
+  --color-rainbow-2-rgb:
+      163.2, 150.96, 40.8;
   --color-rainbow-3: hsl(90, 60%, 40%);
-  --color-rainbow-3-rgb: 102, 163, 41;
+  --color-rainbow-3-rgb:
+      102, 163.2, 40.8;
   --color-rainbow-4: hsl(126, 60%, 40%);
-  --color-rainbow-4-rgb: 41, 163, 53;
+  --color-rainbow-4-rgb:
+      40.8, 163.2, 53.04;
   --color-rainbow-5: hsl(162, 60%, 40%);
-  --color-rainbow-5-rgb: 41, 163, 126;
+  --color-rainbow-5-rgb:
+      40.8, 163.2, 126.48;
   --color-rainbow-6: hsl(198, 60%, 40%);
-  --color-rainbow-6-rgb: 41, 126, 163;
+  --color-rainbow-6-rgb:
+      40.8, 126.48, 163.2;
   --color-rainbow-7: hsl(234, 60%, 40%);
-  --color-rainbow-7-rgb: 41, 53, 163;
+  --color-rainbow-7-rgb:
+      40.8, 53.04, 163.2;
   --color-rainbow-8: hsl(270, 60%, 40%);
-  --color-rainbow-8-rgb: 102, 41, 163;
+  --color-rainbow-8-rgb:
+      102, 40.8, 163.2;
   --color-rainbow-9: hsl(306, 60%, 40%);
-  --color-rainbow-9-rgb: 163, 41, 151;
+  --color-rainbow-9-rgb:
+      163.2, 40.8, 150.96;
   --color-rainbow-10: hsl(342, 60%, 40%);
-  --color-rainbow-10-rgb: 163, 41, 78;
+  --color-rainbow-10-rgb:
+      163.2, 40.8, 77.52;
 }
 
 .theme-dark {
   --color-rainbow-1: hsl(0, 100%, 84%);
-  --color-rainbow-1-rgb: 255, 173, 173;
+  --color-rainbow-1-rgb:
+      255, 173.4, 173.4;
   --color-rainbow-2: hsl(33, 100%, 82%);
-  --color-rainbow-2-rgb: 255, 214, 163;
+  --color-rainbow-2-rgb:
+      255, 213.69, 163.2;
   --color-rainbow-3: hsl(62, 100%, 86%);
-  --color-rainbow-3-rgb: 253, 255, 184;
+  --color-rainbow-3-rgb:
+      252.62, 255, 183.6;
   --color-rainbow-4: hsl(110, 100%, 87%);
-  --color-rainbow-4-rgb: 200, 255, 189;
+  --color-rainbow-4-rgb:
+      199.75, 255, 188.7;
   --color-rainbow-5: hsl(193, 100%, 79%);
-  --color-rainbow-5-rgb: 148, 232, 255;
+  --color-rainbow-5-rgb:
+      147.9, 231.795, 255;
   --color-rainbow-6: hsl(217, 100%, 81%);
-  --color-rainbow-6-rgb: 158, 195, 255;
+  --color-rainbow-6-rgb:
+      158.1, 195.245, 255;
   --color-rainbow-7: hsl(249, 100%, 85%);
-  --color-rainbow-7-rgb: 190, 179, 255;
+  --color-rainbow-7-rgb:
+      189.975, 178.5, 255;
   --color-rainbow-8: hsl(270, 100%, 87%);
-  --color-rainbow-8-rgb: 222, 189, 255;
+  --color-rainbow-8-rgb:
+      221.85, 188.7, 255;
   --color-rainbow-9: hsl(300, 100%, 89%);
-  --color-rainbow-9-rgb: 255, 199, 255;
+  --color-rainbow-9-rgb:
+      255, 198.9, 255;
   --color-rainbow-10: hsl(324, 100%, 83%);
-  --color-rainbow-10-rgb: 255, 168, 220;
+  --color-rainbow-10-rgb:
+      255, 168.3, 220.32;
 }
 
 .is-mobile.theme-light.fas-custom-light,
 .theme-light.fas-custom-light {
   --color-rainbow-1: hsl(18, 60%, 40%);
-  --color-rainbow-1-rgb: 163, 78, 41;
+  --color-rainbow-1-rgb:
+      163.2, 77.52, 40.8;
   --color-rainbow-2: hsl(54, 60%, 40%);
-  --color-rainbow-2-rgb: 163, 151, 41;
+  --color-rainbow-2-rgb:
+      163.2, 150.96, 40.8;
   --color-rainbow-3: hsl(90, 60%, 40%);
-  --color-rainbow-3-rgb: 102, 163, 41;
+  --color-rainbow-3-rgb:
+      102, 163.2, 40.8;
   --color-rainbow-4: hsl(126, 60%, 40%);
-  --color-rainbow-4-rgb: 41, 163, 53;
+  --color-rainbow-4-rgb:
+      40.8, 163.2, 53.04;
   --color-rainbow-5: hsl(162, 60%, 40%);
-  --color-rainbow-5-rgb: 41, 163, 126;
+  --color-rainbow-5-rgb:
+      40.8, 163.2, 126.48;
   --color-rainbow-6: hsl(198, 60%, 40%);
-  --color-rainbow-6-rgb: 41, 126, 163;
+  --color-rainbow-6-rgb:
+      40.8, 126.48, 163.2;
   --color-rainbow-7: hsl(234, 60%, 40%);
-  --color-rainbow-7-rgb: 41, 53, 163;
+  --color-rainbow-7-rgb:
+      40.8, 53.04, 163.2;
   --color-rainbow-8: hsl(270, 60%, 40%);
-  --color-rainbow-8-rgb: 102, 41, 163;
+  --color-rainbow-8-rgb:
+      102, 40.8, 163.2;
   --color-rainbow-9: hsl(306, 60%, 40%);
-  --color-rainbow-9-rgb: 163, 41, 151;
+  --color-rainbow-9-rgb:
+      163.2, 40.8, 150.96;
   --color-rainbow-10: hsl(342, 60%, 40%);
-  --color-rainbow-10-rgb: 163, 41, 78;
+  --color-rainbow-10-rgb:
+      163.2, 40.8, 77.52;
 }
 
 .is-mobile.theme-dark.fas-custom-dark,
 .theme-dark.fas-custom-dark {
   --color-rainbow-1: hsl(0, 100%, 84%);
-  --color-rainbow-1-rgb: 255, 173, 173;
+  --color-rainbow-1-rgb:
+      255, 173.4, 173.4;
   --color-rainbow-2: hsl(33, 100%, 82%);
-  --color-rainbow-2-rgb: 255, 214, 163;
+  --color-rainbow-2-rgb:
+      255, 213.69, 163.2;
   --color-rainbow-3: hsl(62, 100%, 86%);
-  --color-rainbow-3-rgb: 253, 255, 184;
+  --color-rainbow-3-rgb:
+      252.62, 255, 183.6;
   --color-rainbow-4: hsl(110, 100%, 87%);
-  --color-rainbow-4-rgb: 200, 255, 189;
+  --color-rainbow-4-rgb:
+      199.75, 255, 188.7;
   --color-rainbow-5: hsl(193, 100%, 79%);
-  --color-rainbow-5-rgb: 148, 232, 255;
+  --color-rainbow-5-rgb:
+      147.9, 231.795, 255;
   --color-rainbow-6: hsl(217, 100%, 81%);
-  --color-rainbow-6-rgb: 158, 195, 255;
+  --color-rainbow-6-rgb:
+      158.1, 195.245, 255;
   --color-rainbow-7: hsl(249, 100%, 85%);
-  --color-rainbow-7-rgb: 190, 179, 255;
+  --color-rainbow-7-rgb:
+      189.975, 178.5, 255;
   --color-rainbow-8: hsl(270, 100%, 87%);
-  --color-rainbow-8-rgb: 222, 189, 255;
+  --color-rainbow-8-rgb:
+      221.85, 188.7, 255;
   --color-rainbow-9: hsl(300, 100%, 89%);
-  --color-rainbow-9-rgb: 255, 199, 255;
+  --color-rainbow-9-rgb:
+      255, 198.9, 255;
   --color-rainbow-10: hsl(324, 100%, 83%);
-  --color-rainbow-10-rgb: 255, 168, 220;
+  --color-rainbow-10-rgb:
+      255, 168.3, 220.32;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-art-deco {
-  --color-rainbow-1: #8e4b45;
-  --color-rainbow-1-rgb: 142, 75, 69;
-  --color-rainbow-2: #8e8b45;
-  --color-rainbow-2-rgb: 142, 139, 69;
-  --color-rainbow-3: #599545;
-  --color-rainbow-3-rgb: 89, 149, 69;
-  --color-rainbow-4: #24954f;
-  --color-rainbow-4-rgb: 36, 149, 79;
-  --color-rainbow-5: #24958f;
-  --color-rainbow-5-rgb: 36, 149, 143;
-  --color-rainbow-6: #2475af;
-  --color-rainbow-6-rgb: 36, 117, 175;
-  --color-rainbow-7: #2436af;
-  --color-rainbow-7-rgb: 36, 54, 175;
-  --color-rainbow-8: #592baf;
-  --color-rainbow-8-rgb: 89, 43, 175;
-  --color-rainbow-9: #8e2ba5;
-  --color-rainbow-9-rgb: 142, 43, 165;
-  --color-rainbow-10: #8e2b65;
-  --color-rainbow-10-rgb: 142, 43, 101;
+  --color-rainbow-1: rgb(141.984, 73.2924, 68.646);
+  --color-rainbow-1-rgb: 141.984, 73.2924, 68.646;
+  --color-rainbow-2: rgb(141.984, 137.1852, 68.646);
+  --color-rainbow-2-rgb: 141.984, 137.1852, 68.646;
+  --color-rainbow-3: rgb(88.74, 147.834, 68.646);
+  --color-rainbow-3-rgb: 88.74, 147.834, 68.646;
+  --color-rainbow-4: rgb(35.496, 147.834, 79.2948);
+  --color-rainbow-4-rgb: 35.496, 147.834, 79.2948;
+  --color-rainbow-5: rgb(35.496, 147.834, 143.1876);
+  --color-rainbow-5-rgb: 35.496, 147.834, 143.1876;
+  --color-rainbow-6: rgb(35.496, 115.8876, 175.134);
+  --color-rainbow-6-rgb: 35.496, 115.8876, 175.134;
+  --color-rainbow-7: rgb(35.496, 51.9948, 175.134);
+  --color-rainbow-7-rgb: 35.496, 51.9948, 175.134;
+  --color-rainbow-8: rgb(88.74, 41.346, 175.134);
+  --color-rainbow-8-rgb: 88.74, 41.346, 175.134;
+  --color-rainbow-9: rgb(141.984, 41.346, 164.4852);
+  --color-rainbow-9-rgb: 141.984, 41.346, 164.4852;
+  --color-rainbow-10: rgb(141.984, 41.346, 100.5924);
+  --color-rainbow-10-rgb: 141.984, 41.346, 100.5924;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-coffee-light {
-  --color-rainbow-1: #af5524;
-  --color-rainbow-1-rgb: 175, 85, 36;
-  --color-rainbow-2: #af9424;
-  --color-rainbow-2-rgb: 175, 148, 36;
-  --color-rainbow-3: #7a9e24;
-  --color-rainbow-3-rgb: 122, 158, 36;
-  --color-rainbow-4: #459e2e;
-  --color-rainbow-4-rgb: 69, 158, 46;
-  --color-rainbow-5: #459e6e;
-  --color-rainbow-5-rgb: 69, 158, 110;
-  --color-rainbow-6: #457e8e;
-  --color-rainbow-6-rgb: 69, 126, 142;
-  --color-rainbow-7: #453f8e;
-  --color-rainbow-7-rgb: 69, 63, 142;
-  --color-rainbow-8: #7a348e;
-  --color-rainbow-8-rgb: 122, 52, 142;
-  --color-rainbow-9: #af3483;
-  --color-rainbow-9-rgb: 175, 52, 131;
-  --color-rainbow-10: #af3444;
-  --color-rainbow-10-rgb: 175, 52, 68;
+  --color-rainbow-1: rgb(175.134, 84.0174, 35.496);
+  --color-rainbow-1-rgb: 175.134, 84.0174, 35.496;
+  --color-rainbow-2: rgb(175.134, 147.9102, 35.496);
+  --color-rainbow-2-rgb: 175.134, 147.9102, 35.496;
+  --color-rainbow-3: rgb(121.89, 158.559, 35.496);
+  --color-rainbow-3-rgb: 121.89, 158.559, 35.496;
+  --color-rainbow-4: rgb(68.646, 158.559, 46.1448);
+  --color-rainbow-4-rgb: 68.646, 158.559, 46.1448;
+  --color-rainbow-5: rgb(68.646, 158.559, 110.0376);
+  --color-rainbow-5-rgb: 68.646, 158.559, 110.0376;
+  --color-rainbow-6: rgb(68.646, 126.6126, 141.984);
+  --color-rainbow-6-rgb: 68.646, 126.6126, 141.984;
+  --color-rainbow-7: rgb(68.646, 62.7198, 141.984);
+  --color-rainbow-7-rgb: 68.646, 62.7198, 141.984;
+  --color-rainbow-8: rgb(121.89, 52.071, 141.984);
+  --color-rainbow-8-rgb: 121.89, 52.071, 141.984;
+  --color-rainbow-9: rgb(175.134, 52.071, 131.3352);
+  --color-rainbow-9-rgb: 175.134, 52.071, 131.3352;
+  --color-rainbow-10: rgb(175.134, 52.071, 67.4424);
+  --color-rainbow-10-rgb: 175.134, 52.071, 67.4424;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-sand {
-  --color-rainbow-1: #af5f24;
-  --color-rainbow-1-rgb: 175, 95, 36;
-  --color-rainbow-2: #af9f24;
-  --color-rainbow-2-rgb: 175, 159, 36;
-  --color-rainbow-3: #7aa924;
-  --color-rainbow-3-rgb: 122, 169, 36;
-  --color-rainbow-4: #45a92e;
-  --color-rainbow-4-rgb: 69, 169, 46;
-  --color-rainbow-5: #45a96e;
-  --color-rainbow-5-rgb: 69, 169, 110;
-  --color-rainbow-6: #45898e;
-  --color-rainbow-6-rgb: 69, 137, 142;
-  --color-rainbow-7: #454a8e;
-  --color-rainbow-7-rgb: 69, 74, 142;
-  --color-rainbow-8: #7a3f8e;
-  --color-rainbow-8-rgb: 122, 63, 142;
-  --color-rainbow-9: #af3f83;
-  --color-rainbow-9-rgb: 175, 63, 131;
-  --color-rainbow-10: #af3f44;
-  --color-rainbow-10-rgb: 175, 63, 68;
+  --color-rainbow-1: rgb(175.134, 94.2445276596, 35.496);
+  --color-rainbow-1-rgb: 175.134, 94.2445276596, 35.496;
+  --color-rainbow-2: rgb(175.134, 158.1373276596, 35.496);
+  --color-rainbow-2-rgb: 175.134, 158.1373276596, 35.496;
+  --color-rainbow-3: rgb(121.89, 168.7861276596, 35.496);
+  --color-rainbow-3-rgb: 121.89, 168.7861276596, 35.496;
+  --color-rainbow-4: rgb(68.646, 168.7861276596, 46.1448);
+  --color-rainbow-4-rgb: 68.646, 168.7861276596, 46.1448;
+  --color-rainbow-5: rgb(68.646, 168.7861276596, 110.0376);
+  --color-rainbow-5-rgb: 68.646, 168.7861276596, 110.0376;
+  --color-rainbow-6: rgb(68.646, 136.8397276596, 141.984);
+  --color-rainbow-6-rgb: 68.646, 136.8397276596, 141.984;
+  --color-rainbow-7: rgb(68.646, 72.9469276596, 141.984);
+  --color-rainbow-7-rgb: 68.646, 72.9469276596, 141.984;
+  --color-rainbow-8: rgb(121.89, 62.2981276596, 141.984);
+  --color-rainbow-8-rgb: 121.89, 62.2981276596, 141.984;
+  --color-rainbow-9: rgb(175.134, 62.2981276596, 131.3352);
+  --color-rainbow-9-rgb: 175.134, 62.2981276596, 131.3352;
+  --color-rainbow-10: rgb(175.134, 62.2981276596, 67.4424);
+  --color-rainbow-10-rgb: 175.134, 62.2981276596, 67.4424;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-automn {
-  --color-rainbow-1: #af5524;
-  --color-rainbow-1-rgb: 175, 85, 36;
-  --color-rainbow-2: #af9524;
-  --color-rainbow-2-rgb: 175, 149, 36;
-  --color-rainbow-3: #7a9f24;
-  --color-rainbow-3-rgb: 122, 159, 36;
-  --color-rainbow-4: #459f2e;
-  --color-rainbow-4-rgb: 69, 159, 46;
-  --color-rainbow-5: #459f6e;
-  --color-rainbow-5-rgb: 69, 159, 110;
-  --color-rainbow-6: #457f8e;
-  --color-rainbow-6-rgb: 69, 127, 142;
-  --color-rainbow-7: #45408e;
-  --color-rainbow-7-rgb: 69, 64, 142;
-  --color-rainbow-8: #7a358e;
-  --color-rainbow-8-rgb: 122, 53, 142;
-  --color-rainbow-9: #af3583;
-  --color-rainbow-9-rgb: 175, 53, 131;
-  --color-rainbow-10: #af3544;
-  --color-rainbow-10-rgb: 175, 53, 68;
+  --color-rainbow-1: rgb(175.134, 84.6024, 35.496);
+  --color-rainbow-1-rgb: 175.134, 84.6024, 35.496;
+  --color-rainbow-2: rgb(175.134, 148.4952, 35.496);
+  --color-rainbow-2-rgb: 175.134, 148.4952, 35.496;
+  --color-rainbow-3: rgb(121.89, 159.144, 35.496);
+  --color-rainbow-3-rgb: 121.89, 159.144, 35.496;
+  --color-rainbow-4: rgb(68.646, 159.144, 46.1448);
+  --color-rainbow-4-rgb: 68.646, 159.144, 46.1448;
+  --color-rainbow-5: rgb(68.646, 159.144, 110.0376);
+  --color-rainbow-5-rgb: 68.646, 159.144, 110.0376;
+  --color-rainbow-6: rgb(68.646, 127.1976, 141.984);
+  --color-rainbow-6-rgb: 68.646, 127.1976, 141.984;
+  --color-rainbow-7: rgb(68.646, 63.3048, 141.984);
+  --color-rainbow-7-rgb: 68.646, 63.3048, 141.984;
+  --color-rainbow-8: rgb(121.89, 52.656, 141.984);
+  --color-rainbow-8-rgb: 121.89, 52.656, 141.984;
+  --color-rainbow-9: rgb(175.134, 52.656, 131.3352);
+  --color-rainbow-9-rgb: 175.134, 52.656, 131.3352;
+  --color-rainbow-10: rgb(175.134, 52.656, 67.4424);
+  --color-rainbow-10-rgb: 175.134, 52.656, 67.4424;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-ice {
-  --color-rainbow-1: #8e6145;
-  --color-rainbow-1-rgb: 142, 97, 69;
-  --color-rainbow-2: #8ea145;
-  --color-rainbow-2-rgb: 142, 161, 69;
-  --color-rainbow-3: #59ab45;
-  --color-rainbow-3-rgb: 89, 171, 69;
-  --color-rainbow-4: #24ab4f;
-  --color-rainbow-4-rgb: 36, 171, 79;
-  --color-rainbow-5: #24ab8f;
-  --color-rainbow-5-rgb: 36, 171, 143;
-  --color-rainbow-6: #248baf;
-  --color-rainbow-6-rgb: 36, 139, 175;
-  --color-rainbow-7: #244caf;
-  --color-rainbow-7-rgb: 36, 76, 175;
-  --color-rainbow-8: #5941af;
-  --color-rainbow-8-rgb: 89, 65, 175;
-  --color-rainbow-9: #8e41a5;
-  --color-rainbow-9-rgb: 142, 65, 165;
-  --color-rainbow-10: #8e4165;
-  --color-rainbow-10-rgb: 142, 65, 101;
+  --color-rainbow-1: rgb(141.984, 96.9595232877, 68.646);
+  --color-rainbow-1-rgb: 141.984, 96.9595232877, 68.646;
+  --color-rainbow-2: rgb(141.984, 160.8523232877, 68.646);
+  --color-rainbow-2-rgb: 141.984, 160.8523232877, 68.646;
+  --color-rainbow-3: rgb(88.74, 171.5011232877, 68.646);
+  --color-rainbow-3-rgb: 88.74, 171.5011232877, 68.646;
+  --color-rainbow-4: rgb(35.496, 171.5011232877, 79.2948);
+  --color-rainbow-4-rgb: 35.496, 171.5011232877, 79.2948;
+  --color-rainbow-5: rgb(35.496, 171.5011232877, 143.1876);
+  --color-rainbow-5-rgb: 35.496, 171.5011232877, 143.1876;
+  --color-rainbow-6: rgb(35.496, 139.5547232877, 175.134);
+  --color-rainbow-6-rgb: 35.496, 139.5547232877, 175.134;
+  --color-rainbow-7: rgb(35.496, 75.6619232877, 175.134);
+  --color-rainbow-7-rgb: 35.496, 75.6619232877, 175.134;
+  --color-rainbow-8: rgb(88.74, 65.0131232877, 175.134);
+  --color-rainbow-8-rgb: 88.74, 65.0131232877, 175.134;
+  --color-rainbow-9: rgb(141.984, 65.0131232877, 164.4852);
+  --color-rainbow-9-rgb: 141.984, 65.0131232877, 164.4852;
+  --color-rainbow-10: rgb(141.984, 65.0131232877, 100.5924);
+  --color-rainbow-10-rgb: 141.984, 65.0131232877, 100.5924;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-canyon {
-  --color-rainbow-1: #af5324;
-  --color-rainbow-1-rgb: 175, 83, 36;
-  --color-rainbow-2: #af9224;
-  --color-rainbow-2-rgb: 175, 146, 36;
-  --color-rainbow-3: #7a9d24;
-  --color-rainbow-3-rgb: 122, 157, 36;
-  --color-rainbow-4: #459d2e;
-  --color-rainbow-4-rgb: 69, 157, 46;
-  --color-rainbow-5: #459d6e;
-  --color-rainbow-5-rgb: 69, 157, 110;
-  --color-rainbow-6: #457c8e;
-  --color-rainbow-6-rgb: 69, 124, 142;
-  --color-rainbow-7: #453d8e;
-  --color-rainbow-7-rgb: 69, 61, 142;
-  --color-rainbow-8: #7a328e;
-  --color-rainbow-8-rgb: 122, 50, 142;
-  --color-rainbow-9: #af3283;
-  --color-rainbow-9-rgb: 175, 50, 131;
-  --color-rainbow-10: #af3244;
-  --color-rainbow-10-rgb: 175, 50, 68;
+  --color-rainbow-1: rgb(175.134, 82.1194992366, 35.496);
+  --color-rainbow-1-rgb: 175.134, 82.1194992366, 35.496;
+  --color-rainbow-2: rgb(175.134, 146.0122992366, 35.496);
+  --color-rainbow-2-rgb: 175.134, 146.0122992366, 35.496;
+  --color-rainbow-3: rgb(121.89, 156.6610992366, 35.496);
+  --color-rainbow-3-rgb: 121.89, 156.6610992366, 35.496;
+  --color-rainbow-4: rgb(68.646, 156.6610992366, 46.1448);
+  --color-rainbow-4-rgb: 68.646, 156.6610992366, 46.1448;
+  --color-rainbow-5: rgb(68.646, 156.6610992366, 110.0376);
+  --color-rainbow-5-rgb: 68.646, 156.6610992366, 110.0376;
+  --color-rainbow-6: rgb(68.646, 124.7146992366, 141.984);
+  --color-rainbow-6-rgb: 68.646, 124.7146992366, 141.984;
+  --color-rainbow-7: rgb(68.646, 60.8218992366, 141.984);
+  --color-rainbow-7-rgb: 68.646, 60.8218992366, 141.984;
+  --color-rainbow-8: rgb(121.89, 50.1730992366, 141.984);
+  --color-rainbow-8-rgb: 121.89, 50.1730992366, 141.984;
+  --color-rainbow-9: rgb(175.134, 50.1730992366, 131.3352);
+  --color-rainbow-9-rgb: 175.134, 50.1730992366, 131.3352;
+  --color-rainbow-10: rgb(175.134, 50.1730992366, 67.4424);
+  --color-rainbow-10-rgb: 175.134, 50.1730992366, 67.4424;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-silver-light {
-  --color-rainbow-1: #9d5333;
-  --color-rainbow-1-rgb: 157, 83, 51;
-  --color-rainbow-2: #9d9233;
-  --color-rainbow-2-rgb: 157, 146, 51;
-  --color-rainbow-3: #689d33;
-  --color-rainbow-3-rgb: 104, 157, 51;
-  --color-rainbow-4: #339d3d;
-  --color-rainbow-4-rgb: 51, 157, 61;
-  --color-rainbow-5: #339d7d;
-  --color-rainbow-5-rgb: 51, 157, 125;
-  --color-rainbow-6: #337d9d;
-  --color-rainbow-6-rgb: 51, 125, 157;
-  --color-rainbow-7: #333d9d;
-  --color-rainbow-7-rgb: 51, 61, 157;
-  --color-rainbow-8: #68339d;
-  --color-rainbow-8-rgb: 104, 51, 157;
-  --color-rainbow-9: #9d3392;
-  --color-rainbow-9-rgb: 157, 51, 146;
-  --color-rainbow-10: #9d3353;
-  --color-rainbow-10-rgb: 157, 51, 83;
+  --color-rainbow-1: rgb(156.999, 82.4574, 50.511);
+  --color-rainbow-1-rgb: 156.999, 82.4574, 50.511;
+  --color-rainbow-2: rgb(156.999, 146.3502, 50.511);
+  --color-rainbow-2-rgb: 156.999, 146.3502, 50.511;
+  --color-rainbow-3: rgb(103.755, 156.999, 50.511);
+  --color-rainbow-3-rgb: 103.755, 156.999, 50.511;
+  --color-rainbow-4: rgb(50.511, 156.999, 61.1598);
+  --color-rainbow-4-rgb: 50.511, 156.999, 61.1598;
+  --color-rainbow-5: rgb(50.511, 156.999, 125.0526);
+  --color-rainbow-5-rgb: 50.511, 156.999, 125.0526;
+  --color-rainbow-6: rgb(50.511, 125.0526, 156.999);
+  --color-rainbow-6-rgb: 50.511, 125.0526, 156.999;
+  --color-rainbow-7: rgb(50.511, 61.1598, 156.999);
+  --color-rainbow-7-rgb: 50.511, 61.1598, 156.999;
+  --color-rainbow-8: rgb(103.755, 50.511, 156.999);
+  --color-rainbow-8-rgb: 103.755, 50.511, 156.999;
+  --color-rainbow-9: rgb(156.999, 50.511, 146.3502);
+  --color-rainbow-9-rgb: 156.999, 50.511, 146.3502;
+  --color-rainbow-10: rgb(156.999, 50.511, 82.4574);
+  --color-rainbow-10-rgb: 156.999, 50.511, 82.4574;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-candy {
-  --color-rainbow-1: #af443d;
-  --color-rainbow-1-rgb: 175, 68, 61;
-  --color-rainbow-2: #af833d;
-  --color-rainbow-2-rgb: 175, 131, 61;
-  --color-rainbow-3: #7a8e3d;
-  --color-rainbow-3-rgb: 122, 142, 61;
-  --color-rainbow-4: #458e47;
-  --color-rainbow-4-rgb: 69, 142, 71;
-  --color-rainbow-5: #458e86;
-  --color-rainbow-5-rgb: 69, 142, 134;
-  --color-rainbow-6: #456ea7;
-  --color-rainbow-6-rgb: 69, 110, 167;
-  --color-rainbow-7: #452ea7;
-  --color-rainbow-7-rgb: 69, 46, 167;
-  --color-rainbow-8: #7a24a7;
-  --color-rainbow-8-rgb: 122, 36, 167;
-  --color-rainbow-9: #af249c;
-  --color-rainbow-9-rgb: 175, 36, 156;
-  --color-rainbow-10: #af245d;
-  --color-rainbow-10-rgb: 175, 36, 93;
+  --color-rainbow-1: rgb(175.134, 67.4424, 60.486);
+  --color-rainbow-1-rgb: 175.134, 67.4424, 60.486;
+  --color-rainbow-2: rgb(175.134, 131.3352, 60.486);
+  --color-rainbow-2-rgb: 175.134, 131.3352, 60.486;
+  --color-rainbow-3: rgb(121.89, 141.984, 60.486);
+  --color-rainbow-3-rgb: 121.89, 141.984, 60.486;
+  --color-rainbow-4: rgb(68.646, 141.984, 71.1348);
+  --color-rainbow-4-rgb: 68.646, 141.984, 71.1348;
+  --color-rainbow-5: rgb(68.646, 141.984, 135.0276);
+  --color-rainbow-5-rgb: 68.646, 141.984, 135.0276;
+  --color-rainbow-6: rgb(68.646, 110.0376, 166.974);
+  --color-rainbow-6-rgb: 68.646, 110.0376, 166.974;
+  --color-rainbow-7: rgb(68.646, 46.1448, 166.974);
+  --color-rainbow-7-rgb: 68.646, 46.1448, 166.974;
+  --color-rainbow-8: rgb(121.89, 35.496, 166.974);
+  --color-rainbow-8-rgb: 121.89, 35.496, 166.974;
+  --color-rainbow-9: rgb(175.134, 35.496, 156.3252);
+  --color-rainbow-9-rgb: 175.134, 35.496, 156.3252;
+  --color-rainbow-10: rgb(175.134, 35.496, 92.4324);
+  --color-rainbow-10-rgb: 175.134, 35.496, 92.4324;
 }
 
 .is-mobile.theme-light.fas-light,
 .theme-light.fas-meadow {
-  --color-rainbow-1: #a06524;
-  --color-rainbow-1-rgb: 160, 101, 36;
-  --color-rainbow-2: #a0a524;
-  --color-rainbow-2-rgb: 160, 165, 36;
-  --color-rainbow-3: #6baf24;
-  --color-rainbow-3-rgb: 107, 175, 36;
-  --color-rainbow-4: #36af2e;
-  --color-rainbow-4-rgb: 54, 175, 46;
-  --color-rainbow-5: #36af6e;
-  --color-rainbow-5-rgb: 54, 175, 110;
-  --color-rainbow-6: #368f8e;
-  --color-rainbow-6-rgb: 54, 143, 142;
-  --color-rainbow-7: #364f8e;
-  --color-rainbow-7-rgb: 54, 79, 142;
-  --color-rainbow-8: #6b458e;
-  --color-rainbow-8-rgb: 107, 69, 142;
-  --color-rainbow-9: #a04583;
-  --color-rainbow-9-rgb: 160, 69, 131;
-  --color-rainbow-10: #a04544;
-  --color-rainbow-10-rgb: 160, 69, 68;
+  --color-rainbow-1: rgb(160.1630322581, 100.5924, 35.496);
+  --color-rainbow-1-rgb: 160.1630322581, 100.5924, 35.496;
+  --color-rainbow-2: rgb(160.1630322581, 164.4852, 35.496);
+  --color-rainbow-2-rgb: 160.1630322581, 164.4852, 35.496;
+  --color-rainbow-3: rgb(106.9190322581, 175.134, 35.496);
+  --color-rainbow-3-rgb: 106.9190322581, 175.134, 35.496;
+  --color-rainbow-4: rgb(53.6750322581, 175.134, 46.1448);
+  --color-rainbow-4-rgb: 53.6750322581, 175.134, 46.1448;
+  --color-rainbow-5: rgb(53.6750322581, 175.134, 110.0376);
+  --color-rainbow-5-rgb: 53.6750322581, 175.134, 110.0376;
+  --color-rainbow-6: rgb(53.6750322581, 143.1876, 141.984);
+  --color-rainbow-6-rgb: 53.6750322581, 143.1876, 141.984;
+  --color-rainbow-7: rgb(53.6750322581, 79.2948, 141.984);
+  --color-rainbow-7-rgb: 53.6750322581, 79.2948, 141.984;
+  --color-rainbow-8: rgb(106.9190322581, 68.646, 141.984);
+  --color-rainbow-8-rgb: 106.9190322581, 68.646, 141.984;
+  --color-rainbow-9: rgb(160.1630322581, 68.646, 131.3352);
+  --color-rainbow-9-rgb: 160.1630322581, 68.646, 131.3352;
+  --color-rainbow-10: rgb(160.1630322581, 68.646, 67.4424);
+  --color-rainbow-10-rgb: 160.1630322581, 68.646, 67.4424;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-art-deco {
-  --color-rainbow-1: #ffb297;
-  --color-rainbow-1-rgb: 255, 178, 151;
-  --color-rainbow-2: #ffd68e;
-  --color-rainbow-2-rgb: 255, 214, 142;
-  --color-rainbow-3: #fdfaa0;
-  --color-rainbow-3-rgb: 253, 250, 160;
-  --color-rainbow-4: #cffaa4;
-  --color-rainbow-4-rgb: 207, 250, 164;
-  --color-rainbow-5: #a2e6de;
-  --color-rainbow-5-rgb: 162, 230, 222;
-  --color-rainbow-6: #abc5de;
-  --color-rainbow-6-rgb: 171, 197, 222;
-  --color-rainbow-7: #c6b7de;
-  --color-rainbow-7-rgb: 198, 183, 222;
-  --color-rainbow-8: #e2c0de;
-  --color-rainbow-8-rgb: 226, 192, 222;
-  --color-rainbow-9: #ffc9de;
-  --color-rainbow-9-rgb: 255, 201, 222;
-  --color-rainbow-10: #ffaebf;
-  --color-rainbow-10-rgb: 255, 174, 191;
+  --color-rainbow-1: rgb(255, 178.483, 150.858);
+  --color-rainbow-1-rgb: 255, 178.483, 150.858;
+  --color-rainbow-2: rgb(255, 213.5353, 141.984);
+  --color-rainbow-2-rgb: 255, 213.5353, 141.984;
+  --color-rainbow-3: rgb(252.9294, 249.475, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 249.475, 159.732;
+  --color-rainbow-4: rgb(206.9325, 249.475, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 249.475, 164.169;
+  --color-rainbow-5: rgb(161.823, 229.28665, 221.85);
+  --color-rainbow-5-rgb: 161.823, 229.28665, 221.85;
+  --color-rainbow-6: rgb(170.697, 197.48815, 221.85);
+  --color-rainbow-6-rgb: 170.697, 197.48815, 221.85;
+  --color-rainbow-7: rgb(198.42825, 182.92, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 182.92, 221.85;
+  --color-rainbow-8: rgb(226.1595, 191.794, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 191.794, 221.85;
+  --color-rainbow-9: rgb(255, 200.668, 221.85);
+  --color-rainbow-9-rgb: 255, 200.668, 221.85;
+  --color-rainbow-10: rgb(255, 174.046, 191.6784);
+  --color-rainbow-10-rgb: 255, 174.046, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-coffee-dark {
-  --color-rainbow-1: #ffa497;
-  --color-rainbow-1-rgb: 255, 164, 151;
-  --color-rainbow-2: #ffc78e;
-  --color-rainbow-2-rgb: 255, 199, 142;
-  --color-rainbow-3: #fdeba0;
-  --color-rainbow-3-rgb: 253, 235, 160;
-  --color-rainbow-4: #cfeba4;
-  --color-rainbow-4-rgb: 207, 235, 164;
-  --color-rainbow-5: #a2d7de;
-  --color-rainbow-5-rgb: 162, 215, 222;
-  --color-rainbow-6: #abb7de;
-  --color-rainbow-6-rgb: 171, 183, 222;
-  --color-rainbow-7: #c6a9de;
-  --color-rainbow-7-rgb: 198, 169, 222;
-  --color-rainbow-8: #e2b2de;
-  --color-rainbow-8-rgb: 226, 178, 222;
-  --color-rainbow-9: #ffbade;
-  --color-rainbow-9-rgb: 255, 186, 222;
-  --color-rainbow-10: #ff9fbf;
-  --color-rainbow-10-rgb: 255, 159, 191;
+  --color-rainbow-1: rgb(255, 164.118, 150.858);
+  --color-rainbow-1-rgb: 255, 164.118, 150.858;
+  --color-rainbow-2: rgb(255, 199.1703, 141.984);
+  --color-rainbow-2-rgb: 255, 199.1703, 141.984;
+  --color-rainbow-3: rgb(252.9294, 235.11, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 235.11, 159.732;
+  --color-rainbow-4: rgb(206.9325, 235.11, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 235.11, 164.169;
+  --color-rainbow-5: rgb(161.823, 214.92165, 221.85);
+  --color-rainbow-5-rgb: 161.823, 214.92165, 221.85;
+  --color-rainbow-6: rgb(170.697, 183.12315, 221.85);
+  --color-rainbow-6-rgb: 170.697, 183.12315, 221.85;
+  --color-rainbow-7: rgb(198.42825, 168.555, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 168.555, 221.85;
+  --color-rainbow-8: rgb(226.1595, 177.429, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 177.429, 221.85;
+  --color-rainbow-9: rgb(255, 186.303, 221.85);
+  --color-rainbow-9-rgb: 255, 186.303, 221.85;
+  --color-rainbow-10: rgb(255, 159.681, 191.6784);
+  --color-rainbow-10-rgb: 255, 159.681, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-forest {
-  --color-rainbow-1: #ffad97;
-  --color-rainbow-1-rgb: 255, 173, 151;
-  --color-rainbow-2: #ffd08e;
-  --color-rainbow-2-rgb: 255, 208, 142;
-  --color-rainbow-3: #fdf4a0;
-  --color-rainbow-3-rgb: 253, 244, 160;
-  --color-rainbow-4: #cff4a4;
-  --color-rainbow-4-rgb: 207, 244, 164;
-  --color-rainbow-5: #a2e0de;
-  --color-rainbow-5-rgb: 162, 224, 222;
-  --color-rainbow-6: #abc0de;
-  --color-rainbow-6-rgb: 171, 192, 222;
-  --color-rainbow-7: #c6b2de;
-  --color-rainbow-7-rgb: 198, 178, 222;
-  --color-rainbow-8: #e2bbde;
-  --color-rainbow-8-rgb: 226, 187, 222;
-  --color-rainbow-9: #ffc3de;
-  --color-rainbow-9-rgb: 255, 195, 222;
-  --color-rainbow-10: #ffa8bf;
-  --color-rainbow-10-rgb: 255, 168, 191;
+  --color-rainbow-1: rgb(255, 173.3325762712, 150.858);
+  --color-rainbow-1-rgb: 255, 173.3325762712, 150.858;
+  --color-rainbow-2: rgb(255, 208.3848762712, 141.984);
+  --color-rainbow-2-rgb: 255, 208.3848762712, 141.984;
+  --color-rainbow-3: rgb(252.9294, 244.3245762712, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 244.3245762712, 159.732;
+  --color-rainbow-4: rgb(206.9325, 244.3245762712, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 244.3245762712, 164.169;
+  --color-rainbow-5: rgb(161.823, 224.1362262712, 221.85);
+  --color-rainbow-5-rgb: 161.823, 224.1362262712, 221.85;
+  --color-rainbow-6: rgb(170.697, 192.3377262712, 221.85);
+  --color-rainbow-6-rgb: 170.697, 192.3377262712, 221.85;
+  --color-rainbow-7: rgb(198.42825, 177.7695762712, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 177.7695762712, 221.85;
+  --color-rainbow-8: rgb(226.1595, 186.6435762712, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 186.6435762712, 221.85;
+  --color-rainbow-9: rgb(255, 195.5175762712, 221.85);
+  --color-rainbow-9-rgb: 255, 195.5175762712, 221.85;
+  --color-rainbow-10: rgb(255, 168.8955762712, 191.6784);
+  --color-rainbow-10-rgb: 255, 168.8955762712, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-volcano {
-  --color-rainbow-1: #ff9d97;
-  --color-rainbow-1-rgb: 255, 157, 151;
-  --color-rainbow-2: #ffc18e;
-  --color-rainbow-2-rgb: 255, 193, 142;
-  --color-rainbow-3: #fde5a0;
-  --color-rainbow-3-rgb: 253, 229, 160;
-  --color-rainbow-4: #cfe5a4;
-  --color-rainbow-4-rgb: 207, 229, 164;
-  --color-rainbow-5: #a2d1de;
-  --color-rainbow-5-rgb: 162, 209, 222;
-  --color-rainbow-6: #abb1de;
-  --color-rainbow-6-rgb: 171, 177, 222;
-  --color-rainbow-7: #c6a3de;
-  --color-rainbow-7-rgb: 198, 163, 222;
-  --color-rainbow-8: #e2abde;
-  --color-rainbow-8-rgb: 226, 171, 222;
-  --color-rainbow-9: #ffb4de;
-  --color-rainbow-9-rgb: 255, 180, 222;
-  --color-rainbow-10: #ff99bf;
-  --color-rainbow-10-rgb: 255, 153, 191;
+  --color-rainbow-1: rgb(255, 157.4353809524, 150.858);
+  --color-rainbow-1-rgb: 255, 157.4353809524, 150.858;
+  --color-rainbow-2: rgb(255, 192.4876809524, 141.984);
+  --color-rainbow-2-rgb: 255, 192.4876809524, 141.984;
+  --color-rainbow-3: rgb(252.9294, 228.4273809524, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 228.4273809524, 159.732;
+  --color-rainbow-4: rgb(206.9325, 228.4273809524, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 228.4273809524, 164.169;
+  --color-rainbow-5: rgb(161.823, 208.2390309524, 221.85);
+  --color-rainbow-5-rgb: 161.823, 208.2390309524, 221.85;
+  --color-rainbow-6: rgb(170.697, 176.4405309524, 221.85);
+  --color-rainbow-6-rgb: 170.697, 176.4405309524, 221.85;
+  --color-rainbow-7: rgb(198.42825, 161.8723809524, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 161.8723809524, 221.85;
+  --color-rainbow-8: rgb(226.1595, 170.7463809524, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 170.7463809524, 221.85;
+  --color-rainbow-9: rgb(255, 179.6203809524, 221.85);
+  --color-rainbow-9-rgb: 255, 179.6203809524, 221.85;
+  --color-rainbow-10: rgb(255, 152.9983809524, 191.6784);
+  --color-rainbow-10-rgb: 255, 152.9983809524, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-artic {
-  --color-rainbow-1: #deb3b8;
-  --color-rainbow-1-rgb: 222, 179, 184;
-  --color-rainbow-2: #ded6af;
-  --color-rainbow-2-rgb: 222, 214, 175;
-  --color-rainbow-3: #dcfac1;
-  --color-rainbow-3-rgb: 220, 250, 193;
-  --color-rainbow-4: #aefac6;
-  --color-rainbow-4-rgb: 174, 250, 198;
-  --color-rainbow-5: #81e6ff;
-  --color-rainbow-5-rgb: 129, 230, 255;
-  --color-rainbow-6: #89c6ff;
-  --color-rainbow-6-rgb: 137, 198, 255;
-  --color-rainbow-7: #a5b8ff;
-  --color-rainbow-7-rgb: 165, 184, 255;
-  --color-rainbow-8: #c1c1ff;
-  --color-rainbow-8-rgb: 193, 193, 255;
-  --color-rainbow-9: #dec9ff;
-  --color-rainbow-9-rgb: 222, 201, 255;
-  --color-rainbow-10: #deaee1;
-  --color-rainbow-10-rgb: 222, 174, 225;
+  --color-rainbow-1: rgb(221.85, 179.2722857143, 184.008);
+  --color-rainbow-1-rgb: 221.85, 179.2722857143, 184.008;
+  --color-rainbow-2: rgb(221.85, 214.3245857143, 175.134);
+  --color-rainbow-2-rgb: 221.85, 214.3245857143, 175.134;
+  --color-rainbow-3: rgb(219.7794, 250.2642857143, 192.882);
+  --color-rainbow-3-rgb: 219.7794, 250.2642857143, 192.882;
+  --color-rainbow-4: rgb(173.7825, 250.2642857143, 197.319);
+  --color-rainbow-4-rgb: 173.7825, 250.2642857143, 197.319;
+  --color-rainbow-5: rgb(128.673, 230.0759357143, 255);
+  --color-rainbow-5-rgb: 128.673, 230.0759357143, 255;
+  --color-rainbow-6: rgb(137.547, 198.2774357143, 255);
+  --color-rainbow-6-rgb: 137.547, 198.2774357143, 255;
+  --color-rainbow-7: rgb(165.27825, 183.7092857143, 255);
+  --color-rainbow-7-rgb: 165.27825, 183.7092857143, 255;
+  --color-rainbow-8: rgb(193.0095, 192.5832857143, 255);
+  --color-rainbow-8-rgb: 193.0095, 192.5832857143, 255;
+  --color-rainbow-9: rgb(221.85, 201.4572857143, 255);
+  --color-rainbow-9-rgb: 221.85, 201.4572857143, 255;
+  --color-rainbow-10: rgb(221.85, 174.8352857143, 224.8284);
+  --color-rainbow-10-rgb: 221.85, 174.8352857143, 224.8284;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-silver-dark {
-  --color-rainbow-1: #eea7a7;
-  --color-rainbow-1-rgb: 238, 167, 167;
-  --color-rainbow-2: #eeca9e;
-  --color-rainbow-2-rgb: 238, 202, 158;
-  --color-rainbow-3: #eceeb0;
-  --color-rainbow-3-rgb: 236, 238, 176;
-  --color-rainbow-4: #beeeb5;
-  --color-rainbow-4-rgb: 190, 238, 181;
-  --color-rainbow-5: #91daee;
-  --color-rainbow-5-rgb: 145, 218, 238;
-  --color-rainbow-6: #9abaee;
-  --color-rainbow-6-rgb: 154, 186, 238;
-  --color-rainbow-7: #b5acee;
-  --color-rainbow-7-rgb: 181, 172, 238;
-  --color-rainbow-8: #d1b5ee;
-  --color-rainbow-8-rgb: 209, 181, 238;
-  --color-rainbow-9: #eebdee;
-  --color-rainbow-9-rgb: 238, 189, 238;
-  --color-rainbow-10: #eea2d0;
-  --color-rainbow-10-rgb: 238, 162, 208;
+  --color-rainbow-1: rgb(237.97, 166.978, 166.978);
+  --color-rainbow-1-rgb: 237.97, 166.978, 166.978;
+  --color-rainbow-2: rgb(237.97, 202.0303, 158.104);
+  --color-rainbow-2-rgb: 237.97, 202.0303, 158.104;
+  --color-rainbow-3: rgb(235.8994, 237.97, 175.852);
+  --color-rainbow-3-rgb: 235.8994, 237.97, 175.852;
+  --color-rainbow-4: rgb(189.9025, 237.97, 180.289);
+  --color-rainbow-4-rgb: 189.9025, 237.97, 180.289;
+  --color-rainbow-5: rgb(144.793, 217.78165, 237.97);
+  --color-rainbow-5-rgb: 144.793, 217.78165, 237.97;
+  --color-rainbow-6: rgb(153.667, 185.98315, 237.97);
+  --color-rainbow-6-rgb: 153.667, 185.98315, 237.97;
+  --color-rainbow-7: rgb(181.39825, 171.415, 237.97);
+  --color-rainbow-7-rgb: 181.39825, 171.415, 237.97;
+  --color-rainbow-8: rgb(209.1295, 180.289, 237.97);
+  --color-rainbow-8-rgb: 209.1295, 180.289, 237.97;
+  --color-rainbow-9: rgb(237.97, 189.163, 237.97);
+  --color-rainbow-9-rgb: 237.97, 189.163, 237.97;
+  --color-rainbow-10: rgb(237.97, 162.541, 207.7984);
+  --color-rainbow-10-rgb: 237.97, 162.541, 207.7984;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-chocolate {
-  --color-rainbow-1: #ffa897;
-  --color-rainbow-1-rgb: 255, 168, 151;
-  --color-rainbow-2: #ffcc8e;
-  --color-rainbow-2-rgb: 255, 204, 142;
-  --color-rainbow-3: #fdf0a0;
-  --color-rainbow-3-rgb: 253, 240, 160;
-  --color-rainbow-4: #cff0a4;
-  --color-rainbow-4-rgb: 207, 240, 164;
-  --color-rainbow-5: #a2dcde;
-  --color-rainbow-5-rgb: 162, 220, 222;
-  --color-rainbow-6: #abbbde;
-  --color-rainbow-6-rgb: 171, 187, 222;
-  --color-rainbow-7: #c6adde;
-  --color-rainbow-7-rgb: 198, 173, 222;
-  --color-rainbow-8: #e2b6de;
-  --color-rainbow-8-rgb: 226, 182, 222;
-  --color-rainbow-9: #ffbfde;
-  --color-rainbow-9-rgb: 255, 191, 222;
-  --color-rainbow-10: #ffa4bf;
-  --color-rainbow-10-rgb: 255, 164, 191;
+  --color-rainbow-1: rgb(255, 168.7916065574, 150.858);
+  --color-rainbow-1-rgb: 255, 168.7916065574, 150.858;
+  --color-rainbow-2: rgb(255, 203.8439065574, 141.984);
+  --color-rainbow-2-rgb: 255, 203.8439065574, 141.984;
+  --color-rainbow-3: rgb(252.9294, 239.7836065574, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 239.7836065574, 159.732;
+  --color-rainbow-4: rgb(206.9325, 239.7836065574, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 239.7836065574, 164.169;
+  --color-rainbow-5: rgb(161.823, 219.5952565574, 221.85);
+  --color-rainbow-5-rgb: 161.823, 219.5952565574, 221.85;
+  --color-rainbow-6: rgb(170.697, 187.7967565574, 221.85);
+  --color-rainbow-6-rgb: 170.697, 187.7967565574, 221.85;
+  --color-rainbow-7: rgb(198.42825, 173.2286065574, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 173.2286065574, 221.85;
+  --color-rainbow-8: rgb(226.1595, 182.1026065574, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 182.1026065574, 221.85;
+  --color-rainbow-9: rgb(255, 190.9766065574, 221.85);
+  --color-rainbow-9-rgb: 255, 190.9766065574, 221.85;
+  --color-rainbow-10: rgb(255, 164.3546065574, 191.6784);
+  --color-rainbow-10-rgb: 255, 164.3546065574, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-unwerwater {
-  --color-rainbow-1: #dea6b8;
-  --color-rainbow-1-rgb: 222, 166, 184;
-  --color-rainbow-2: #decaaf;
-  --color-rainbow-2-rgb: 222, 202, 175;
-  --color-rainbow-3: #dcedc1;
-  --color-rainbow-3-rgb: 220, 237, 193;
-  --color-rainbow-4: #aeedc6;
-  --color-rainbow-4-rgb: 174, 237, 198;
-  --color-rainbow-5: #81d9ff;
-  --color-rainbow-5-rgb: 129, 217, 255;
-  --color-rainbow-6: #89b9ff;
-  --color-rainbow-6-rgb: 137, 185, 255;
-  --color-rainbow-7: #a5abff;
-  --color-rainbow-7-rgb: 165, 171, 255;
-  --color-rainbow-8: #c1b4ff;
-  --color-rainbow-8-rgb: 193, 180, 255;
-  --color-rainbow-9: #debdff;
-  --color-rainbow-9-rgb: 222, 189, 255;
-  --color-rainbow-10: #dea2e1;
-  --color-rainbow-10-rgb: 222, 162, 225;
+  --color-rainbow-1: rgb(221.85, 166.3486542056, 184.008);
+  --color-rainbow-1-rgb: 221.85, 166.3486542056, 184.008;
+  --color-rainbow-2: rgb(221.85, 201.4009542056, 175.134);
+  --color-rainbow-2-rgb: 221.85, 201.4009542056, 175.134;
+  --color-rainbow-3: rgb(219.7794, 237.3406542056, 192.882);
+  --color-rainbow-3-rgb: 219.7794, 237.3406542056, 192.882;
+  --color-rainbow-4: rgb(173.7825, 237.3406542056, 197.319);
+  --color-rainbow-4-rgb: 173.7825, 237.3406542056, 197.319;
+  --color-rainbow-5: rgb(128.673, 217.1523042056, 255);
+  --color-rainbow-5-rgb: 128.673, 217.1523042056, 255;
+  --color-rainbow-6: rgb(137.547, 185.3538042056, 255);
+  --color-rainbow-6-rgb: 137.547, 185.3538042056, 255;
+  --color-rainbow-7: rgb(165.27825, 170.7856542056, 255);
+  --color-rainbow-7-rgb: 165.27825, 170.7856542056, 255;
+  --color-rainbow-8: rgb(193.0095, 179.6596542056, 255);
+  --color-rainbow-8-rgb: 193.0095, 179.6596542056, 255;
+  --color-rainbow-9: rgb(221.85, 188.5336542056, 255);
+  --color-rainbow-9-rgb: 221.85, 188.5336542056, 255;
+  --color-rainbow-10: rgb(221.85, 161.9116542056, 224.8284);
+  --color-rainbow-10-rgb: 221.85, 161.9116542056, 224.8284;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-mystic {
-  --color-rainbow-1: #f497b8;
-  --color-rainbow-1-rgb: 244, 151, 184;
-  --color-rainbow-2: #f4baaf;
-  --color-rainbow-2-rgb: 244, 186, 175;
-  --color-rainbow-3: #f3dec1;
-  --color-rainbow-3-rgb: 243, 222, 193;
-  --color-rainbow-4: #c4dec6;
-  --color-rainbow-4-rgb: 196, 222, 198;
-  --color-rainbow-5: #97caff;
-  --color-rainbow-5-rgb: 151, 202, 255;
-  --color-rainbow-6: #a0aaff;
-  --color-rainbow-6-rgb: 160, 170, 255;
-  --color-rainbow-7: #bc9cff;
-  --color-rainbow-7-rgb: 188, 156, 255;
-  --color-rainbow-8: #d8a4ff;
-  --color-rainbow-8-rgb: 216, 164, 255;
-  --color-rainbow-9: #f4adff;
-  --color-rainbow-9-rgb: 244, 173, 255;
-  --color-rainbow-10: #f492e1;
-  --color-rainbow-10-rgb: 244, 146, 225;
+  --color-rainbow-1: rgb(244.8411290323, 150.858, 184.008);
+  --color-rainbow-1-rgb: 244.8411290323, 150.858, 184.008;
+  --color-rainbow-2: rgb(244.8411290323, 185.9103, 175.134);
+  --color-rainbow-2-rgb: 244.8411290323, 185.9103, 175.134;
+  --color-rainbow-3: rgb(242.7705290323, 221.85, 192.882);
+  --color-rainbow-3-rgb: 242.7705290323, 221.85, 192.882;
+  --color-rainbow-4: rgb(196.7736290323, 221.85, 197.319);
+  --color-rainbow-4-rgb: 196.7736290323, 221.85, 197.319;
+  --color-rainbow-5: rgb(151.6641290323, 201.66165, 255);
+  --color-rainbow-5-rgb: 151.6641290323, 201.66165, 255;
+  --color-rainbow-6: rgb(160.5381290323, 169.86315, 255);
+  --color-rainbow-6-rgb: 160.5381290323, 169.86315, 255;
+  --color-rainbow-7: rgb(188.2693790323, 155.295, 255);
+  --color-rainbow-7-rgb: 188.2693790323, 155.295, 255;
+  --color-rainbow-8: rgb(216.0006290323, 164.169, 255);
+  --color-rainbow-8-rgb: 216.0006290323, 164.169, 255;
+  --color-rainbow-9: rgb(244.8411290323, 173.043, 255);
+  --color-rainbow-9-rgb: 244.8411290323, 173.043, 255;
+  --color-rainbow-10: rgb(244.8411290323, 146.421, 224.8284);
+  --color-rainbow-10-rgb: 244.8411290323, 146.421, 224.8284;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-swamp {
-  --color-rainbow-1: #ffad97;
-  --color-rainbow-1-rgb: 255, 173, 151;
-  --color-rainbow-2: #ffd08e;
-  --color-rainbow-2-rgb: 255, 208, 142;
-  --color-rainbow-3: #fdf4a0;
-  --color-rainbow-3-rgb: 253, 244, 160;
-  --color-rainbow-4: #cff4a4;
-  --color-rainbow-4-rgb: 207, 244, 164;
-  --color-rainbow-5: #a2e0de;
-  --color-rainbow-5-rgb: 162, 224, 222;
-  --color-rainbow-6: #abc0de;
-  --color-rainbow-6-rgb: 171, 192, 222;
-  --color-rainbow-7: #c6b2de;
-  --color-rainbow-7-rgb: 198, 178, 222;
-  --color-rainbow-8: #e2bbde;
-  --color-rainbow-8-rgb: 226, 187, 222;
-  --color-rainbow-9: #ffc3de;
-  --color-rainbow-9-rgb: 255, 195, 222;
-  --color-rainbow-10: #ffa8bf;
-  --color-rainbow-10-rgb: 255, 168, 191;
+  --color-rainbow-1: rgb(255, 172.958, 150.858);
+  --color-rainbow-1-rgb: 255, 172.958, 150.858;
+  --color-rainbow-2: rgb(255, 208.0103, 141.984);
+  --color-rainbow-2-rgb: 255, 208.0103, 141.984;
+  --color-rainbow-3: rgb(252.9294, 243.95, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 243.95, 159.732;
+  --color-rainbow-4: rgb(206.9325, 243.95, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 243.95, 164.169;
+  --color-rainbow-5: rgb(161.823, 223.76165, 221.85);
+  --color-rainbow-5-rgb: 161.823, 223.76165, 221.85;
+  --color-rainbow-6: rgb(170.697, 191.96315, 221.85);
+  --color-rainbow-6-rgb: 170.697, 191.96315, 221.85;
+  --color-rainbow-7: rgb(198.42825, 177.395, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 177.395, 221.85;
+  --color-rainbow-8: rgb(226.1595, 186.269, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 186.269, 221.85;
+  --color-rainbow-9: rgb(255, 195.143, 221.85);
+  --color-rainbow-9-rgb: 255, 195.143, 221.85;
+  --color-rainbow-10: rgb(255, 168.521, 191.6784);
+  --color-rainbow-10-rgb: 255, 168.521, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-navy {
-  --color-rainbow-1: #ffb197;
-  --color-rainbow-1-rgb: 255, 177, 151;
-  --color-rainbow-2: #ffd48e;
-  --color-rainbow-2-rgb: 255, 212, 142;
-  --color-rainbow-3: #fdf8a0;
-  --color-rainbow-3-rgb: 253, 248, 160;
-  --color-rainbow-4: #cff8a4;
-  --color-rainbow-4-rgb: 207, 248, 164;
-  --color-rainbow-5: #a2e4de;
-  --color-rainbow-5-rgb: 162, 228, 222;
-  --color-rainbow-6: #abc4de;
-  --color-rainbow-6-rgb: 171, 196, 222;
-  --color-rainbow-7: #c6b6de;
-  --color-rainbow-7-rgb: 198, 182, 222;
-  --color-rainbow-8: #e2bede;
-  --color-rainbow-8-rgb: 226, 190, 222;
-  --color-rainbow-9: #ffc7de;
-  --color-rainbow-9-rgb: 255, 199, 222;
-  --color-rainbow-10: #ffacbf;
-  --color-rainbow-10-rgb: 255, 172, 191;
+  --color-rainbow-1: rgb(255, 176.8014782609, 150.858);
+  --color-rainbow-1-rgb: 255, 176.8014782609, 150.858;
+  --color-rainbow-2: rgb(255, 211.8537782609, 141.984);
+  --color-rainbow-2-rgb: 255, 211.8537782609, 141.984;
+  --color-rainbow-3: rgb(252.9294, 247.7934782609, 159.732);
+  --color-rainbow-3-rgb: 252.9294, 247.7934782609, 159.732;
+  --color-rainbow-4: rgb(206.9325, 247.7934782609, 164.169);
+  --color-rainbow-4-rgb: 206.9325, 247.7934782609, 164.169;
+  --color-rainbow-5: rgb(161.823, 227.6051282609, 221.85);
+  --color-rainbow-5-rgb: 161.823, 227.6051282609, 221.85;
+  --color-rainbow-6: rgb(170.697, 195.8066282609, 221.85);
+  --color-rainbow-6-rgb: 170.697, 195.8066282609, 221.85;
+  --color-rainbow-7: rgb(198.42825, 181.2384782609, 221.85);
+  --color-rainbow-7-rgb: 198.42825, 181.2384782609, 221.85;
+  --color-rainbow-8: rgb(226.1595, 190.1124782609, 221.85);
+  --color-rainbow-8-rgb: 226.1595, 190.1124782609, 221.85;
+  --color-rainbow-9: rgb(255, 198.9864782609, 221.85);
+  --color-rainbow-9-rgb: 255, 198.9864782609, 221.85;
+  --color-rainbow-10: rgb(255, 172.3644782609, 191.6784);
+  --color-rainbow-10-rgb: 255, 172.3644782609, 191.6784;
 }
 
 .is-mobile.theme-dark.fas-dark,
 .theme-dark.fas-atom {
-  --color-rainbow-1: #dea0b8;
-  --color-rainbow-1-rgb: 222, 160, 184;
-  --color-rainbow-2: #dec4af;
-  --color-rainbow-2-rgb: 222, 196, 175;
-  --color-rainbow-3: #dce7c1;
-  --color-rainbow-3-rgb: 220, 231, 193;
-  --color-rainbow-4: #aee7c6;
-  --color-rainbow-4-rgb: 174, 231, 198;
-  --color-rainbow-5: #81d3ff;
-  --color-rainbow-5-rgb: 129, 211, 255;
-  --color-rainbow-6: #89b3ff;
-  --color-rainbow-6-rgb: 137, 179, 255;
-  --color-rainbow-7: #a5a5ff;
-  --color-rainbow-7-rgb: 165, 165, 255;
-  --color-rainbow-8: #c1aeff;
-  --color-rainbow-8-rgb: 193, 174, 255;
-  --color-rainbow-9: #deb7ff;
-  --color-rainbow-9-rgb: 222, 183, 255;
-  --color-rainbow-10: #de9ce1;
-  --color-rainbow-10-rgb: 222, 156, 225;
+  --color-rainbow-1: rgb(221.85, 161.058, 184.008);
+  --color-rainbow-1-rgb: 221.85, 161.058, 184.008;
+  --color-rainbow-2: rgb(221.85, 196.1103, 175.134);
+  --color-rainbow-2-rgb: 221.85, 196.1103, 175.134;
+  --color-rainbow-3: rgb(219.7794, 232.05, 192.882);
+  --color-rainbow-3-rgb: 219.7794, 232.05, 192.882;
+  --color-rainbow-4: rgb(173.7825, 232.05, 197.319);
+  --color-rainbow-4-rgb: 173.7825, 232.05, 197.319;
+  --color-rainbow-5: rgb(128.673, 211.86165, 255);
+  --color-rainbow-5-rgb: 128.673, 211.86165, 255;
+  --color-rainbow-6: rgb(137.547, 180.06315, 255);
+  --color-rainbow-6-rgb: 137.547, 180.06315, 255;
+  --color-rainbow-7: rgb(165.27825, 165.495, 255);
+  --color-rainbow-7-rgb: 165.27825, 165.495, 255;
+  --color-rainbow-8: rgb(193.0095, 174.369, 255);
+  --color-rainbow-8-rgb: 193.0095, 174.369, 255;
+  --color-rainbow-9: rgb(221.85, 183.243, 255);
+  --color-rainbow-9-rgb: 221.85, 183.243, 255;
+  --color-rainbow-10: rgb(221.85, 156.621, 224.8284);
+  --color-rainbow-10-rgb: 221.85, 156.621, 224.8284;
 }
 
 body {
@@ -1545,10 +1625,10 @@ body {
 }
 
 [data-callout-metadata~=accent] > .callout-title {
-  background: linear-gradient(to right, hsl(var(--accent-h) var(--accent-s) var(--accent-l)/0.1), transparent);
+  background: linear-gradient(to right, hsl(var(--accent-h), var(--accent-s), var(--accent-l), 0.1), transparent);
 }
 [data-callout-metadata~=accent] > .callout-content {
-  border-top: var(--callout-border-width) dashed hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  border-top: var(--callout-border-width) dashed hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 
 .callout[data-callout=autopsy] {
@@ -3052,11 +3132,12 @@ body {
 /*
     Inspired by ITS theme's infobox callouts from SlRvb (https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Infoboxes)
 */
-body {
-  --fas-infobox-padding: var(--size-4-3);
-  --fas-infobox-max-width: 300px;
+@media (width > 600px) {
+  body {
+    --fas-infobox-padding: var(--size-4-3);
+    --fas-infobox-max-width: 300px;
+  }
 }
-
 :where(.fas-callout-infobox) .callout[data-callout=infobox][data-callout-metadata~=full-width],
 .callout[data-callout=fas-infobox][data-callout-metadata~=full-width] {
   --fas-infobox-max-width: 100%;
@@ -3068,7 +3149,7 @@ body {
   --image-shadow-offset: 0;
   --hr-color: rgba(var(--callout-color), var(--callout-border-opacity));
   --heading-spacing: var(--p-spacing);
-  max-width: var(--fas-infobox-max-width);
+  max-width: var(--fas-infobox-max-width, 100%);
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox] .callout-title,
 .callout[data-callout=fas-infobox] .callout-title {
@@ -3100,7 +3181,7 @@ body {
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox] > .callout-content > *,
 .callout[data-callout=fas-infobox] > .callout-content > * {
-  padding-inline: var(--fas-infobox-padding);
+  padding-inline: var(--fas-infobox-padding, 0);
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox] .callout-content hr:not(.sci-fi hr),
 .callout[data-callout=fas-infobox] .callout-content hr:not(.sci-fi hr) {
@@ -3166,9 +3247,9 @@ body {
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox] img[alt*=cover],
 .callout[data-callout=fas-infobox] img[alt*=cover] {
-  max-width: unset;
-  width: calc(100% + 2 * var(--fas-infobox-padding));
-  margin-left: calc(-1 * var(--fas-infobox-padding));
+  max-width: var(--fas-infobox-max-width, 100%);
+  width: calc(100% + 2 * var(--fas-infobox-padding, 0));
+  margin-left: calc(-1 * var(--fas-infobox-padding, 0));
   border-bottom: 4px solid rgb(var(--callout-color));
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox] .image-embed[alt~=icon],
@@ -3429,45 +3510,23 @@ body {
 }
 
 /* Position */
-:where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width]),
-:where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=right],
-.markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width]),
-.markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=right] {
-  float: right;
-  margin-left: calc(var(--overflow-width) + var(--fas-float-inline-margin, 12px));
-}
-
-:where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=left],
-.markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=left] {
-  float: left;
-  margin-right: calc(var(--overflow-width) + var(--fas-float-inline-margin, 12px));
-}
-
-:where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=center],
-.markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=center] {
-  float: unset;
-  margin-inline: auto;
-}
-
-@container markdown-view (width < 500px) {
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox],
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox][data-callout-metadata~=right],
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox][data-callout-metadata~=left],
-  .markdown-preview-view .callout[data-callout=fas-infobox],
-  .markdown-preview-view .callout[data-callout=fas-infobox][data-callout-metadata~=right],
-  .markdown-preview-view .callout[data-callout=fas-infobox][data-callout-metadata~=left] {
+@media (width > 600px) {
+  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width]),
+  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=right],
+  .markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width]),
+  .markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=right] {
+    float: right;
+    margin-left: calc(var(--overflow-width) + var(--fas-float-inline-margin, 12px));
+  }
+  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=left],
+  .markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=left] {
+    float: left;
+    margin-right: calc(var(--overflow-width) + var(--fas-float-inline-margin, 12px));
+  }
+  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=center],
+  .markdown-preview-view .callout[data-callout=fas-infobox]:not([data-callout-metadata~=full-width])[data-callout-metadata~=center] {
     float: unset;
-    margin-inline: 0;
-  }
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox],
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox][data-callout-metadata~=right],
-  .markdown-preview-view .callout[data-callout=fas-infobox],
-  .markdown-preview-view .callout[data-callout=fas-infobox][data-callout-metadata~=right] {
-    margin-left: auto;
-  }
-  :where(.fas-callout-infobox) .markdown-preview-view .callout[data-callout=infobox][data-callout-metadata~=left],
-  .markdown-preview-view .callout[data-callout=fas-infobox][data-callout-metadata~=left] {
-    margin-right: auto;
+    margin-inline: auto;
   }
 }
 :where(.fas-callout-infobox) .markdown-source-view .callout[data-callout=infobox],
@@ -3515,7 +3574,7 @@ body {
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox][data-callout-metadata~=accent] .callout[data-callout=footer]::after,
 .callout[data-callout=fas-infobox][data-callout-metadata~=accent] .callout[data-callout=footer]::after {
-  border-top: 2px dashed hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  border-top: 2px dashed hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 :where(.fas-callout-infobox) .callout[data-callout=infobox][data-callout-metadata~=accent][data-callout-metadata~=corners]::before, :where(.fas-callout-infobox) .callout[data-callout=infobox][data-callout-metadata~=accent][data-callout-metadata~=corners]::after,
 .callout[data-callout=fas-infobox][data-callout-metadata~=accent][data-callout-metadata~=corners]::before,
@@ -3903,7 +3962,7 @@ body {
   --callout-color: 255, 255, 255;
 }
 .callout:not([data-callout=page-break])[data-callout-metadata~=accent] > .callout-content > .callout[data-callout=page-break] {
-  border-block-color: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  border-block-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 
 @media print {
@@ -4469,10 +4528,10 @@ body {
 }
 
 .callout[data-callout=table-cards][data-callout-metadata~=accent] tr {
-  border-color: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  border-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 .callout[data-callout=table-cards][data-callout-metadata~=accent] td:first-child {
-  border-bottom-color: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  border-bottom-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 
 .callout[data-callout=timeline] {
@@ -4948,8 +5007,8 @@ body {
 }
 
 [data-callout-metadata~=accent] {
-  border-color: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
-  background-color: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/0.1);
+  border-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
+  background-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
 }
 [data-callout-metadata~=accent] > .callout-title {
   color: var(--color-accent);
@@ -5009,30 +5068,30 @@ body {
   justify-content: center;
 }
 
-.markdown-preview-view .callout:is([data-callout-metadata~=right], [data-callout-metadata~=float-right]) {
-  float: right;
-  clear: right;
-  margin: var(--fas-float-inline-margin, 12px) 0 var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px);
-  max-width: 300px;
-}
-@container not (style(--image-shadow-offset: 0) or style(--image-shadow-offset: 0px)) {
-  .markdown-preview-view .callout:is([data-callout-metadata~=right], [data-callout-metadata~=float-right]) img {
-    max-width: min(100%, 299px - var(--image-shadow-offset));
+@media (width > 600px) {
+  .markdown-preview-view .callout:is([data-callout-metadata~=right], [data-callout-metadata~=float-right]) {
+    float: right;
+    clear: right;
+    margin: var(--fas-float-inline-margin, 12px) 0 var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px);
+    max-width: 300px;
+  }
+  @container not (style(--image-shadow-offset: 0) or style(--image-shadow-offset: 0px)) {
+    .markdown-preview-view .callout:is([data-callout-metadata~=right], [data-callout-metadata~=float-right]) img {
+      max-width: min(100%, 299px - var(--image-shadow-offset));
+    }
+  }
+  .markdown-preview-view .callout:is([data-callout-metadata~=left], [data-callout-metadata~=float-left]) {
+    float: left;
+    clear: left;
+    margin: var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px) 0;
+    max-width: 300px;
+  }
+  @container not (style(--image-shadow-offset: 0) or style(--image-shadow-offset: 0px)) {
+    .markdown-preview-view .callout:is([data-callout-metadata~=left], [data-callout-metadata~=float-left]) img {
+      max-width: min(100%, 299px - var(--image-shadow-offset));
+    }
   }
 }
-
-.markdown-preview-view .callout:is([data-callout-metadata~=left], [data-callout-metadata~=float-left]) {
-  float: left;
-  clear: left;
-  margin: var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px) var(--fas-float-inline-margin, 12px) 0;
-  max-width: 300px;
-}
-@container not (style(--image-shadow-offset: 0) or style(--image-shadow-offset: 0px)) {
-  .markdown-preview-view .callout:is([data-callout-metadata~=left], [data-callout-metadata~=float-left]) img {
-    max-width: min(100%, 299px - var(--image-shadow-offset));
-  }
-}
-
 .callout[data-callout-metadata~=clear] {
   clear: both;
 }
@@ -5622,496 +5681,538 @@ body {
   --h6-color: color-mix(in srgb, var(--header-gradient-base-color), var(--text-normal) 80%);
 }
 
-:is(.fas-h1-display, .fas-h1-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h1-display,
+.h1-display {
+  --h1-display-alignment: center;
+}
+
+.fas-h1-display-left-aligned,
+.h1-display-left-aligned {
+  --h1-display-alignment: left;
+}
+
+:is(.fas-h1-display, .fas-h1-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h1-stroke,
 .h1-stroke-left-aligned,
 .h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1),
-.markdown-preview-view:is(.h1-display, .h1-display-left-aligned) h1:not(.callout h1, ul h1, ol h1) {
+.sci-fi)) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h1-display,
+.h1-display-left-aligned) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *) {
   --h1-line-height: 1.2em;
   --h1-size: 3em;
   --h1-font: var(--font-typewriter), var(--font-text);
   --h1-color: var(--workleaves-background);
   --h1-background: var(--color-base-100);
   background-color: var(--h1-background);
-  text-align: center;
+  text-align: var(--h1-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h1-display, .fas-h1-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h1-display, .fas-h1-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h1-stroke,
 .h1-stroke-left-aligned,
 .h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1)::before,
-.markdown-preview-view:is(.h1-display, .h1-display-left-aligned) h1:not(.callout h1, ul h1, ol h1)::before {
+.sci-fi)) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h1-display,
+.h1-display-left-aligned) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h1-display, .fas-h1-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h1-display, .fas-h1-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h1-stroke,
 .h1-stroke-left-aligned,
 .h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1):is(.is-collapsed > h1)::before,
-.markdown-preview-view:is(.h1-display, .h1-display-left-aligned) h1:not(.callout h1, ul h1, ol h1):is(.is-collapsed > h1)::before {
+.sci-fi)) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *):is(.is-collapsed > h1)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h1-display,
+.h1-display-left-aligned) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *):is(.is-collapsed > h1)::before {
   background: var(--h1-border-color-collapsed);
 }
-:is(.fas-h1-display, .fas-h1-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h1-display, .fas-h1-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h1-stroke,
 .h1-stroke-left-aligned,
 .h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1):is(.is-collapsed > h1)::after,
-.markdown-preview-view:is(.h1-display, .h1-display-left-aligned) h1:not(.callout h1, ul h1, ol h1):is(.is-collapsed > h1)::after {
+.sci-fi)) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *):is(.is-collapsed > h1)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h1-display,
+.h1-display-left-aligned) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *):is(.is-collapsed > h1)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h1-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h1-display, .fas-h1-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h1-display, .fas-h1-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h1-stroke,
 .h1-stroke-left-aligned,
 .h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1) .heading-collapse-indicator,
-.markdown-preview-view:is(.h1-display, .h1-display-left-aligned) h1:not(.callout h1, ul h1, ol h1) .heading-collapse-indicator {
+.sci-fi)) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h1-display,
+.h1-display-left-aligned) :is(h1, .HyperMD-header-1):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
 }
 
-:is(.fas-h2-display, .fas-h2-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h2-display,
+.h2-display {
+  --h2-display-alignment: center;
+}
+
+.fas-h2-display-left-aligned,
+.h2-display-left-aligned {
+  --h2-display-alignment: left;
+}
+
+:is(.fas-h2-display, .fas-h2-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h2-stroke,
 .h2-stroke-left-aligned,
 .h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2),
-.markdown-preview-view:is(.h2-display, .h2-display-left-aligned) h2:not(.callout h2, ul h2, ol h2) {
+.sci-fi)) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h2-display,
+.h2-display-left-aligned) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *) {
   --h2-line-height: 1.2em;
   --h2-size: 2.8em;
   --h2-font: var(--font-typewriter), var(--font-text);
   --h2-color: var(--workleaves-background);
   --h2-background: var(--color-base-100);
   background-color: var(--h2-background);
-  text-align: center;
+  text-align: var(--h2-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h2-display, .fas-h2-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h2-display, .fas-h2-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h2-stroke,
 .h2-stroke-left-aligned,
 .h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2)::before,
-.markdown-preview-view:is(.h2-display, .h2-display-left-aligned) h2:not(.callout h2, ul h2, ol h2)::before {
+.sci-fi)) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h2-display,
+.h2-display-left-aligned) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h2-display, .fas-h2-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h2-display, .fas-h2-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h2-stroke,
 .h2-stroke-left-aligned,
 .h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2):is(.is-collapsed > h2)::before,
-.markdown-preview-view:is(.h2-display, .h2-display-left-aligned) h2:not(.callout h2, ul h2, ol h2):is(.is-collapsed > h2)::before {
+.sci-fi)) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *):is(.is-collapsed > h2)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h2-display,
+.h2-display-left-aligned) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *):is(.is-collapsed > h2)::before {
   background: var(--h2-border-color-collapsed);
 }
-:is(.fas-h2-display, .fas-h2-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h2-display, .fas-h2-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h2-stroke,
 .h2-stroke-left-aligned,
 .h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2):is(.is-collapsed > h2)::after,
-.markdown-preview-view:is(.h2-display, .h2-display-left-aligned) h2:not(.callout h2, ul h2, ol h2):is(.is-collapsed > h2)::after {
+.sci-fi)) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *):is(.is-collapsed > h2)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h2-display,
+.h2-display-left-aligned) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *):is(.is-collapsed > h2)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h2-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h2-display, .fas-h2-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h2-display, .fas-h2-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h2-stroke,
 .h2-stroke-left-aligned,
 .h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2) .heading-collapse-indicator,
-.markdown-preview-view:is(.h2-display, .h2-display-left-aligned) h2:not(.callout h2, ul h2, ol h2) .heading-collapse-indicator {
+.sci-fi)) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h2-display,
+.h2-display-left-aligned) :is(h2, .HyperMD-header-2):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
 }
 
-:is(.fas-h3-display, .fas-h3-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h3-display,
+.h3-display {
+  --h3-display-alignment: center;
+}
+
+.fas-h3-display-left-aligned,
+.h3-display-left-aligned {
+  --h3-display-alignment: left;
+}
+
+:is(.fas-h3-display, .fas-h3-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h3-stroke,
 .h3-stroke-left-aligned,
 .h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3),
-.markdown-preview-view:is(.h3-display, .h3-display-left-aligned) h3:not(.callout h3, ul h3, ol h3) {
+.sci-fi)) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h3-display,
+.h3-display-left-aligned) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *) {
   --h3-line-height: 1.2em;
   --h3-size: 2.6em;
   --h3-font: var(--font-typewriter), var(--font-text);
   --h3-color: var(--workleaves-background);
   --h3-background: var(--color-base-100);
   background-color: var(--h3-background);
-  text-align: center;
+  text-align: var(--h3-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h3-display, .fas-h3-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h3-display, .fas-h3-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h3-stroke,
 .h3-stroke-left-aligned,
 .h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3)::before,
-.markdown-preview-view:is(.h3-display, .h3-display-left-aligned) h3:not(.callout h3, ul h3, ol h3)::before {
+.sci-fi)) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h3-display,
+.h3-display-left-aligned) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h3-display, .fas-h3-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h3-display, .fas-h3-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h3-stroke,
 .h3-stroke-left-aligned,
 .h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3):is(.is-collapsed > h3)::before,
-.markdown-preview-view:is(.h3-display, .h3-display-left-aligned) h3:not(.callout h3, ul h3, ol h3):is(.is-collapsed > h3)::before {
+.sci-fi)) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *):is(.is-collapsed > h3)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h3-display,
+.h3-display-left-aligned) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *):is(.is-collapsed > h3)::before {
   background: var(--h3-border-color-collapsed);
 }
-:is(.fas-h3-display, .fas-h3-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h3-display, .fas-h3-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h3-stroke,
 .h3-stroke-left-aligned,
 .h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3):is(.is-collapsed > h3)::after,
-.markdown-preview-view:is(.h3-display, .h3-display-left-aligned) h3:not(.callout h3, ul h3, ol h3):is(.is-collapsed > h3)::after {
+.sci-fi)) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *):is(.is-collapsed > h3)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h3-display,
+.h3-display-left-aligned) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *):is(.is-collapsed > h3)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h3-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h3-display, .fas-h3-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h3-display, .fas-h3-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h3-stroke,
 .h3-stroke-left-aligned,
 .h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3) .heading-collapse-indicator,
-.markdown-preview-view:is(.h3-display, .h3-display-left-aligned) h3:not(.callout h3, ul h3, ol h3) .heading-collapse-indicator {
+.sci-fi)) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h3-display,
+.h3-display-left-aligned) :is(h3, .HyperMD-header-3):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
 }
 
-:is(.fas-h4-display, .fas-h4-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h4-display,
+.h4-display {
+  --h4-display-alignment: center;
+}
+
+.fas-h4-display-left-aligned,
+.h4-display-left-aligned {
+  --h4-display-alignment: left;
+}
+
+:is(.fas-h4-display, .fas-h4-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h4-stroke,
 .h4-stroke-left-aligned,
 .h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4),
-.markdown-preview-view:is(.h4-display, .h4-display-left-aligned) h4:not(.callout h4, ul h4, ol h4) {
+.sci-fi)) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h4-display,
+.h4-display-left-aligned) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *) {
   --h4-line-height: 1.2em;
   --h4-size: 2.4em;
   --h4-font: var(--font-typewriter), var(--font-text);
   --h4-color: var(--workleaves-background);
   --h4-background: var(--color-base-100);
   background-color: var(--h4-background);
-  text-align: center;
+  text-align: var(--h4-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h4-display, .fas-h4-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h4-display, .fas-h4-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h4-stroke,
 .h4-stroke-left-aligned,
 .h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4)::before,
-.markdown-preview-view:is(.h4-display, .h4-display-left-aligned) h4:not(.callout h4, ul h4, ol h4)::before {
+.sci-fi)) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h4-display,
+.h4-display-left-aligned) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h4-display, .fas-h4-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h4-display, .fas-h4-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h4-stroke,
 .h4-stroke-left-aligned,
 .h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4):is(.is-collapsed > h4)::before,
-.markdown-preview-view:is(.h4-display, .h4-display-left-aligned) h4:not(.callout h4, ul h4, ol h4):is(.is-collapsed > h4)::before {
+.sci-fi)) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *):is(.is-collapsed > h4)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h4-display,
+.h4-display-left-aligned) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *):is(.is-collapsed > h4)::before {
   background: var(--h4-border-color-collapsed);
 }
-:is(.fas-h4-display, .fas-h4-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h4-display, .fas-h4-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h4-stroke,
 .h4-stroke-left-aligned,
 .h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4):is(.is-collapsed > h4)::after,
-.markdown-preview-view:is(.h4-display, .h4-display-left-aligned) h4:not(.callout h4, ul h4, ol h4):is(.is-collapsed > h4)::after {
+.sci-fi)) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *):is(.is-collapsed > h4)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h4-display,
+.h4-display-left-aligned) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *):is(.is-collapsed > h4)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h4-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h4-display, .fas-h4-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h4-display, .fas-h4-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h4-stroke,
 .h4-stroke-left-aligned,
 .h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4) .heading-collapse-indicator,
-.markdown-preview-view:is(.h4-display, .h4-display-left-aligned) h4:not(.callout h4, ul h4, ol h4) .heading-collapse-indicator {
+.sci-fi)) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h4-display,
+.h4-display-left-aligned) :is(h4, .HyperMD-header-4):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
 }
 
-:is(.fas-h5-display, .fas-h5-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h5-display,
+.h5-display {
+  --h5-display-alignment: center;
+}
+
+.fas-h5-display-left-aligned,
+.h5-display-left-aligned {
+  --h5-display-alignment: left;
+}
+
+:is(.fas-h5-display, .fas-h5-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h5-stroke,
 .h5-stroke-left-aligned,
 .h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5),
-.markdown-preview-view:is(.h5-display, .h5-display-left-aligned) h5:not(.callout h5, ul h5, ol h5) {
+.sci-fi)) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h5-display,
+.h5-display-left-aligned) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *) {
   --h5-line-height: 1.2em;
   --h5-size: 2.2em;
   --h5-font: var(--font-typewriter), var(--font-text);
   --h5-color: var(--workleaves-background);
   --h5-background: var(--color-base-100);
   background-color: var(--h5-background);
-  text-align: center;
+  text-align: var(--h5-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h5-display, .fas-h5-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h5-display, .fas-h5-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h5-stroke,
 .h5-stroke-left-aligned,
 .h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5)::before,
-.markdown-preview-view:is(.h5-display, .h5-display-left-aligned) h5:not(.callout h5, ul h5, ol h5)::before {
+.sci-fi)) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h5-display,
+.h5-display-left-aligned) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h5-display, .fas-h5-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h5-display, .fas-h5-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h5-stroke,
 .h5-stroke-left-aligned,
 .h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5):is(.is-collapsed > h5)::before,
-.markdown-preview-view:is(.h5-display, .h5-display-left-aligned) h5:not(.callout h5, ul h5, ol h5):is(.is-collapsed > h5)::before {
+.sci-fi)) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *):is(.is-collapsed > h5)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h5-display,
+.h5-display-left-aligned) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *):is(.is-collapsed > h5)::before {
   background: var(--h5-border-color-collapsed);
 }
-:is(.fas-h5-display, .fas-h5-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h5-display, .fas-h5-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h5-stroke,
 .h5-stroke-left-aligned,
 .h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5):is(.is-collapsed > h5)::after,
-.markdown-preview-view:is(.h5-display, .h5-display-left-aligned) h5:not(.callout h5, ul h5, ol h5):is(.is-collapsed > h5)::after {
+.sci-fi)) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *):is(.is-collapsed > h5)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h5-display,
+.h5-display-left-aligned) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *):is(.is-collapsed > h5)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h5-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h5-display, .fas-h5-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h5-display, .fas-h5-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h5-stroke,
 .h5-stroke-left-aligned,
 .h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5) .heading-collapse-indicator,
-.markdown-preview-view:is(.h5-display, .h5-display-left-aligned) h5:not(.callout h5, ul h5, ol h5) .heading-collapse-indicator {
+.sci-fi)) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h5-display,
+.h5-display-left-aligned) :is(h5, .HyperMD-header-5):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
 }
 
-:is(.fas-h6-display, .fas-h6-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+.fas-h6-display,
+.h6-display {
+  --h6-display-alignment: center;
+}
+
+.fas-h6-display-left-aligned,
+.h6-display-left-aligned {
+  --h6-display-alignment: left;
+}
+
+:is(.fas-h6-display, .fas-h6-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h6-stroke,
 .h6-stroke-left-aligned,
 .h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6),
-.markdown-preview-view:is(.h6-display, .h6-display-left-aligned) h6:not(.callout h6, ul h6, ol h6) {
+.sci-fi)) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *),
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h6-display,
+.h6-display-left-aligned) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *) {
   --h6-line-height: 1.2em;
   --h6-size: 2em;
   --h6-font: var(--font-typewriter), var(--font-text);
   --h6-color: var(--workleaves-background);
   --h6-background: var(--color-base-100);
   background-color: var(--h6-background);
-  text-align: center;
+  text-align: var(--h6-display-alignment);
   position: relative;
   padding-block: var(--cutout-outline-inset);
   padding-inline: calc(var(--cutout-outline-inset) + 14px);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)));
   overflow: hidden; /* Creates a Block Formatting Context (BFC) to avoid going over the float elements */
+  /* Only in preview */
+  /* Only in preview */
+  /* Only in preview */
 }
-:is(.fas-h6-display, .fas-h6-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h6-display, .fas-h6-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h6-stroke,
 .h6-stroke-left-aligned,
 .h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6)::before,
-.markdown-preview-view:is(.h6-display, .h6-display-left-aligned) h6:not(.callout h6, ul h6, ol h6)::before {
+.sci-fi)) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h6-display,
+.h6-display-left-aligned) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *)::before {
   content: "";
   position: absolute;
   background: var(--cutout-border-background);
   inset: var(--cutout-outline-inset);
   clip-path: polygon(0 var(--cutout-corner-angle), var(--cutout-corner-angle) 0, calc(100% - var(--cutout-corner-angle)) 0, 100% var(--cutout-corner-angle), 100% calc(100% - var(--cutout-corner-angle)), calc(100% - var(--cutout-corner-angle)) 100%, var(--cutout-corner-angle) 100%, 0 calc(100% - var(--cutout-corner-angle)), 0 var(--cutout-corner-angle), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), var(--cutout-outline-thickness) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) calc(100% - var(--cutout-outline-thickness)), calc(100% - var(--cutout-outline-thickness)) calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-outline-thickness)) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5), calc(100% - var(--cutout-corner-angle) - var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5) var(--cutout-outline-thickness), var(--cutout-outline-thickness) calc(var(--cutout-corner-angle) + var(--cutout-outline-thickness) * 0.5));
 }
-:is(.fas-h6-display, .fas-h6-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h6-display, .fas-h6-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h6-stroke,
 .h6-stroke-left-aligned,
 .h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6):is(.is-collapsed > h6)::before,
-.markdown-preview-view:is(.h6-display, .h6-display-left-aligned) h6:not(.callout h6, ul h6, ol h6):is(.is-collapsed > h6)::before {
+.sci-fi)) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *):is(.is-collapsed > h6)::before,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h6-display,
+.h6-display-left-aligned) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *):is(.is-collapsed > h6)::before {
   background: var(--h6-border-color-collapsed);
 }
-:is(.fas-h6-display, .fas-h6-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h6-display, .fas-h6-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h6-stroke,
 .h6-stroke-left-aligned,
 .h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6):is(.is-collapsed > h6)::after,
-.markdown-preview-view:is(.h6-display, .h6-display-left-aligned) h6:not(.callout h6, ul h6, ol h6):is(.is-collapsed > h6)::after {
+.sci-fi)) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *):is(.is-collapsed > h6)::after,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h6-display,
+.h6-display-left-aligned) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *):is(.is-collapsed > h6)::after {
   content: "";
   position: absolute;
   inset: 0;
   background: var(--h6-border-color-collapsed);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 0 0, var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), var(--cutout-outline-inset) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) calc(100% - var(--cutout-outline-inset)), calc(100% - var(--cutout-outline-inset)) calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px), calc(100% - var(--cutout-outline-inset)) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px), calc(100% - var(--cutout-corner-angle) - 0.5 * var(--cutout-outline-inset) - 2px) var(--cutout-outline-inset), calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px) var(--cutout-outline-inset), var(--cutout-outline-inset) calc(var(--cutout-corner-angle) + 0.5 * var(--cutout-outline-inset) + 2px));
 }
-:is(.fas-h6-display, .fas-h6-display-left-aligned) .markdown-preview-view:not(:is(.newspaper,
+:is(.fas-h6-display, .fas-h6-display-left-aligned) :is(.markdown-preview-view, .markdown-source-view.is-live-preview):not(:is(.newspaper,
 .movie-script,
 .minimalist,
 .h6-stroke,
 .h6-stroke-left-aligned,
 .h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6) .heading-collapse-indicator,
-.markdown-preview-view:is(.h6-display, .h6-display-left-aligned) h6:not(.callout h6, ul h6, ol h6) .heading-collapse-indicator {
+.sci-fi)) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *) .heading-collapse-indicator,
+:is(.markdown-preview-view, .markdown-source-view.is-live-preview):is(.h6-display,
+.h6-display-left-aligned) :is(h6, .HyperMD-header-6):not(.callout *, ul *, ol *) .heading-collapse-indicator {
   margin-inline-start: 0;
   left: var(--size-2-1);
-}
-
-.fas-h1-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h1-stroke,
-.h1-stroke-left-aligned,
-.h1-normal,
-.sci-fi)) h1:not(.callout h1, ul h1, ol h1),
-.markdown-preview-view.h1-display-left-aligned h1:not(.callout h1, ul h1, ol h1) {
-  text-align: left;
-}
-
-.fas-h2-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h2-stroke,
-.h2-stroke-left-aligned,
-.h2-normal,
-.sci-fi)) h2:not(.callout h2, ul h2, ol h2),
-.markdown-preview-view.h2-display-left-aligned h2:not(.callout h2, ul h2, ol h2) {
-  text-align: left;
-}
-
-.fas-h3-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h3-stroke,
-.h3-stroke-left-aligned,
-.h3-normal,
-.sci-fi)) h3:not(.callout h3, ul h3, ol h3),
-.markdown-preview-view.h3-display-left-aligned h3:not(.callout h3, ul h3, ol h3) {
-  text-align: left;
-}
-
-.fas-h4-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h4-stroke,
-.h4-stroke-left-aligned,
-.h4-normal,
-.sci-fi)) h4:not(.callout h4, ul h4, ol h4),
-.markdown-preview-view.h4-display-left-aligned h4:not(.callout h4, ul h4, ol h4) {
-  text-align: left;
-}
-
-.fas-h5-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h5-stroke,
-.h5-stroke-left-aligned,
-.h5-normal,
-.sci-fi)) h5:not(.callout h5, ul h5, ol h5),
-.markdown-preview-view.h5-display-left-aligned h5:not(.callout h5, ul h5, ol h5) {
-  text-align: left;
-}
-
-.fas-h6-display-left-aligned .markdown-preview-view:not(:is(.newspaper,
-.movie-script,
-.minimalist,
-.h6-stroke,
-.h6-stroke-left-aligned,
-.h6-normal,
-.sci-fi)) h6:not(.callout h6, ul h6, ol h6),
-.markdown-preview-view.h6-display-left-aligned h6:not(.callout h6, ul h6, ol h6) {
-  text-align: left;
 }
 
 :is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) h1,
@@ -6125,7 +6226,6 @@ body {
 .markdown-preview-view:is(.h1-stroke, .h1-stroke-left-aligned) h1::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h1-border-color);
   height: 1px;
 }
@@ -6143,11 +6243,17 @@ body {
   background-color: var(--h1-border-color-collapsed);
 }
 
-.fas-h1-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) h1,
-.markdown-preview-view.h1-stroke-left-aligned h1 {
-  align-items: left;
+.fas-h1-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h1-display,
+.h1-display-left-aligned,
+.h1-stroke-left-aligned)) h1::before,
+.markdown-preview-view.h1-stroke h1::before {
+  flex-grow: 1;
 }
-.fas-h1-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) h1::before,
+
+.fas-h1-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned, .h1-stroke)) h1::before,
 .markdown-preview-view.h1-stroke-left-aligned h1::before {
   flex-grow: 0;
   flex-basis: 10px;
@@ -6164,7 +6270,6 @@ body {
 .markdown-preview-view:is(.h2-stroke, .h2-stroke-left-aligned) h2::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h2-border-color);
   height: 1px;
 }
@@ -6182,11 +6287,17 @@ body {
   background-color: var(--h2-border-color-collapsed);
 }
 
-.fas-h2-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) h2,
-.markdown-preview-view.h2-stroke-left-aligned h2 {
-  align-items: left;
+.fas-h2-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h2-display,
+.h2-display-left-aligned,
+.h2-stroke-left-aligned)) h2::before,
+.markdown-preview-view.h2-stroke h2::before {
+  flex-grow: 1;
 }
-.fas-h2-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) h2::before,
+
+.fas-h2-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned, .h2-stroke)) h2::before,
 .markdown-preview-view.h2-stroke-left-aligned h2::before {
   flex-grow: 0;
   flex-basis: 10px;
@@ -6203,7 +6314,6 @@ body {
 .markdown-preview-view:is(.h3-stroke, .h3-stroke-left-aligned) h3::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h3-border-color);
   height: 1px;
 }
@@ -6221,11 +6331,17 @@ body {
   background-color: var(--h3-border-color-collapsed);
 }
 
-.fas-h3-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) h3,
-.markdown-preview-view.h3-stroke-left-aligned h3 {
-  align-items: left;
+.fas-h3-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h3-display,
+.h3-display-left-aligned,
+.h3-stroke-left-aligned)) h3::before,
+.markdown-preview-view.h3-stroke h3::before {
+  flex-grow: 1;
 }
-.fas-h3-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) h3::before,
+
+.fas-h3-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned, .h3-stroke)) h3::before,
 .markdown-preview-view.h3-stroke-left-aligned h3::before {
   flex-grow: 0;
   flex-basis: 10px;
@@ -6242,7 +6358,6 @@ body {
 .markdown-preview-view:is(.h4-stroke, .h4-stroke-left-aligned) h4::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h4-border-color);
   height: 1px;
 }
@@ -6260,11 +6375,17 @@ body {
   background-color: var(--h4-border-color-collapsed);
 }
 
-.fas-h4-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) h4,
-.markdown-preview-view.h4-stroke-left-aligned h4 {
-  align-items: left;
+.fas-h4-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h4-display,
+.h4-display-left-aligned,
+.h4-stroke-left-aligned)) h4::before,
+.markdown-preview-view.h4-stroke h4::before {
+  flex-grow: 1;
 }
-.fas-h4-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) h4::before,
+
+.fas-h4-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned, .h4-stroke)) h4::before,
 .markdown-preview-view.h4-stroke-left-aligned h4::before {
   flex-grow: 0;
   flex-basis: 10px;
@@ -6281,7 +6402,6 @@ body {
 .markdown-preview-view:is(.h5-stroke, .h5-stroke-left-aligned) h5::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h5-border-color);
   height: 1px;
 }
@@ -6299,11 +6419,17 @@ body {
   background-color: var(--h5-border-color-collapsed);
 }
 
-.fas-h5-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) h5,
-.markdown-preview-view.h5-stroke-left-aligned h5 {
-  align-items: left;
+.fas-h5-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h5-display,
+.h5-display-left-aligned,
+.h5-stroke-left-aligned)) h5::before,
+.markdown-preview-view.h5-stroke h5::before {
+  flex-grow: 1;
 }
-.fas-h5-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) h5::before,
+
+.fas-h5-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned, .h5-stroke)) h5::before,
 .markdown-preview-view.h5-stroke-left-aligned h5::before {
   flex-grow: 0;
   flex-basis: 10px;
@@ -6320,7 +6446,6 @@ body {
 .markdown-preview-view:is(.h6-stroke, .h6-stroke-left-aligned) h6::before {
   content: "";
   display: block;
-  flex-grow: 1;
   background-color: var(--h6-border-color);
   height: 1px;
 }
@@ -6338,14 +6463,374 @@ body {
   background-color: var(--h6-border-color-collapsed);
 }
 
-.fas-h6-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) h6,
-.markdown-preview-view.h6-stroke-left-aligned h6 {
-  align-items: left;
+.fas-h6-stroke .markdown-preview-view:not(:is(.newspaper,
+.movie-script,
+.minimalist,
+.h6-display,
+.h6-display-left-aligned,
+.h6-stroke-left-aligned)) h6::before,
+.markdown-preview-view.h6-stroke h6::before {
+  flex-grow: 1;
 }
-.fas-h6-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) h6::before,
+
+.fas-h6-stroke-left-aligned .markdown-preview-view:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned, .h6-stroke)) h6::before,
 .markdown-preview-view.h6-stroke-left-aligned h6::before {
   flex-grow: 0;
   flex-basis: 10px;
+}
+
+.fas-h1-stroke,
+.h1-stroke {
+  --h1-stroke-alignment: center;
+  --h1-stroke-left-anchor: 20px;
+  --h1-stroke-padding-left: 0px;
+}
+
+.fas-h1-stroke-left-aligned,
+.h1-stroke-left-aligned {
+  --h1-stroke-alignment: left;
+  --h1-stroke-left-anchor: -10px;
+  --h1-stroke-padding-left: 30px;
+}
+
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 {
+  --h1-weight: var(--font-extralight);
+  text-align: var(--h1-stroke-alignment);
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .cm-header-1,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .cm-header-1 {
+  padding-left: var(--h1-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .cm-header-1::before, :is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .cm-header-1::after,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .cm-header-1::before,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .cm-header-1::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h1-border-color);
+  height: 1px;
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .cm-header-1::before,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .cm-header-1::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h1-stroke-left-anchor));
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .cm-header-1::after,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .cm-header-1::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1.cm-active .cm-header-1::before,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1.cm-active .cm-header-1::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::before, :is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::after,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::before,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::after {
+  background-color: var(--h1-border-color-collapsed);
+}
+:is(.fas-h1-stroke, .fas-h1-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h1-display, .h1-display-left-aligned)) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::after,
+.markdown-source-view.is-live-preview:is(.h1-stroke, .h1-stroke-left-aligned) .HyperMD-header-1 .is-collapsed ~ .cm-header-1::after {
+  left: calc(anchor(right) + 20px + 1ch);
+}
+
+.fas-h2-stroke,
+.h2-stroke {
+  --h2-stroke-alignment: center;
+  --h2-stroke-left-anchor: 20px;
+  --h2-stroke-padding-left: 0px;
+}
+
+.fas-h2-stroke-left-aligned,
+.h2-stroke-left-aligned {
+  --h2-stroke-alignment: left;
+  --h2-stroke-left-anchor: -10px;
+  --h2-stroke-padding-left: 30px;
+}
+
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 {
+  --h2-weight: var(--font-extralight);
+  text-align: var(--h2-stroke-alignment);
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .cm-header-2,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .cm-header-2 {
+  padding-left: var(--h2-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .cm-header-2::before, :is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .cm-header-2::after,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .cm-header-2::before,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .cm-header-2::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h2-border-color);
+  height: 1px;
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .cm-header-2::before,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .cm-header-2::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h2-stroke-left-anchor));
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .cm-header-2::after,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .cm-header-2::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2.cm-active .cm-header-2::before,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2.cm-active .cm-header-2::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::before, :is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::after,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::before,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::after {
+  background-color: var(--h2-border-color-collapsed);
+}
+:is(.fas-h2-stroke, .fas-h2-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h2-display, .h2-display-left-aligned)) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::after,
+.markdown-source-view.is-live-preview:is(.h2-stroke, .h2-stroke-left-aligned) .HyperMD-header-2 .is-collapsed ~ .cm-header-2::after {
+  left: calc(anchor(right) + 20px + 1ch);
+}
+
+.fas-h3-stroke,
+.h3-stroke {
+  --h3-stroke-alignment: center;
+  --h3-stroke-left-anchor: 20px;
+  --h3-stroke-padding-left: 0px;
+}
+
+.fas-h3-stroke-left-aligned,
+.h3-stroke-left-aligned {
+  --h3-stroke-alignment: left;
+  --h3-stroke-left-anchor: -10px;
+  --h3-stroke-padding-left: 30px;
+}
+
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 {
+  --h3-weight: var(--font-extralight);
+  text-align: var(--h3-stroke-alignment);
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .cm-header-3,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .cm-header-3 {
+  padding-left: var(--h3-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .cm-header-3::before, :is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .cm-header-3::after,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .cm-header-3::before,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .cm-header-3::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h3-border-color);
+  height: 1px;
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .cm-header-3::before,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .cm-header-3::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h3-stroke-left-anchor));
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .cm-header-3::after,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .cm-header-3::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3.cm-active .cm-header-3::before,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3.cm-active .cm-header-3::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::before, :is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::after,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::before,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::after {
+  background-color: var(--h3-border-color-collapsed);
+}
+:is(.fas-h3-stroke, .fas-h3-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h3-display, .h3-display-left-aligned)) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::after,
+.markdown-source-view.is-live-preview:is(.h3-stroke, .h3-stroke-left-aligned) .HyperMD-header-3 .is-collapsed ~ .cm-header-3::after {
+  left: calc(anchor(right) + 20px + 1ch);
+}
+
+.fas-h4-stroke,
+.h4-stroke {
+  --h4-stroke-alignment: center;
+  --h4-stroke-left-anchor: 20px;
+  --h4-stroke-padding-left: 0px;
+}
+
+.fas-h4-stroke-left-aligned,
+.h4-stroke-left-aligned {
+  --h4-stroke-alignment: left;
+  --h4-stroke-left-anchor: -10px;
+  --h4-stroke-padding-left: 30px;
+}
+
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 {
+  --h4-weight: var(--font-extralight);
+  text-align: var(--h4-stroke-alignment);
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .cm-header-4,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .cm-header-4 {
+  padding-left: var(--h4-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .cm-header-4::before, :is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .cm-header-4::after,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .cm-header-4::before,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .cm-header-4::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h4-border-color);
+  height: 1px;
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .cm-header-4::before,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .cm-header-4::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h4-stroke-left-anchor));
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .cm-header-4::after,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .cm-header-4::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4.cm-active .cm-header-4::before,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4.cm-active .cm-header-4::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::before, :is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::after,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::before,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::after {
+  background-color: var(--h4-border-color-collapsed);
+}
+:is(.fas-h4-stroke, .fas-h4-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h4-display, .h4-display-left-aligned)) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::after,
+.markdown-source-view.is-live-preview:is(.h4-stroke, .h4-stroke-left-aligned) .HyperMD-header-4 .is-collapsed ~ .cm-header-4::after {
+  left: calc(anchor(right) + 20px + 1ch);
+}
+
+.fas-h5-stroke,
+.h5-stroke {
+  --h5-stroke-alignment: center;
+  --h5-stroke-left-anchor: 20px;
+  --h5-stroke-padding-left: 0px;
+}
+
+.fas-h5-stroke-left-aligned,
+.h5-stroke-left-aligned {
+  --h5-stroke-alignment: left;
+  --h5-stroke-left-anchor: -10px;
+  --h5-stroke-padding-left: 30px;
+}
+
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 {
+  --h5-weight: var(--font-extralight);
+  text-align: var(--h5-stroke-alignment);
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .cm-header-5,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .cm-header-5 {
+  padding-left: var(--h5-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .cm-header-5::before, :is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .cm-header-5::after,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .cm-header-5::before,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .cm-header-5::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h5-border-color);
+  height: 1px;
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .cm-header-5::before,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .cm-header-5::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h5-stroke-left-anchor));
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .cm-header-5::after,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .cm-header-5::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5.cm-active .cm-header-5::before,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5.cm-active .cm-header-5::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::before, :is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::after,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::before,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::after {
+  background-color: var(--h5-border-color-collapsed);
+}
+:is(.fas-h5-stroke, .fas-h5-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h5-display, .h5-display-left-aligned)) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::after,
+.markdown-source-view.is-live-preview:is(.h5-stroke, .h5-stroke-left-aligned) .HyperMD-header-5 .is-collapsed ~ .cm-header-5::after {
+  left: calc(anchor(right) + 20px + 1ch);
+}
+
+.fas-h6-stroke,
+.h6-stroke {
+  --h6-stroke-alignment: center;
+  --h6-stroke-left-anchor: 20px;
+  --h6-stroke-padding-left: 0px;
+}
+
+.fas-h6-stroke-left-aligned,
+.h6-stroke-left-aligned {
+  --h6-stroke-alignment: left;
+  --h6-stroke-left-anchor: -10px;
+  --h6-stroke-padding-left: 30px;
+}
+
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 {
+  --h6-weight: var(--font-extralight);
+  text-align: var(--h6-stroke-alignment);
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .cm-header-6,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .cm-header-6 {
+  padding-left: var(--h6-stroke-padding-left);
+  anchor-name: --header-anchor;
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .cm-header-6::before, :is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .cm-header-6::after,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .cm-header-6::before,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .cm-header-6::after {
+  content: "";
+  position: absolute;
+  position-anchor: --header-anchor;
+  bottom: 0.5em;
+  display: block;
+  background-color: var(--h6-border-color);
+  height: 1px;
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .cm-header-6::before,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .cm-header-6::before {
+  left: 0;
+  right: calc(anchor(left) + var(--h6-stroke-left-anchor));
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .cm-header-6::after,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .cm-header-6::after {
+  right: 0;
+  left: calc(anchor(right) + 20px);
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6.cm-active .cm-header-6::before,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6.cm-active .cm-header-6::before {
+  right: calc(anchor(left) + 20px + 1.7ch);
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::before, :is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::after,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::before,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::after {
+  background-color: var(--h6-border-color-collapsed);
+}
+:is(.fas-h6-stroke, .fas-h6-stroke-left-aligned) .markdown-source-view.is-live-preview:not(:is(.newspaper, .movie-script, .minimalist, .h6-display, .h6-display-left-aligned)) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::after,
+.markdown-source-view.is-live-preview:is(.h6-stroke, .h6-stroke-left-aligned) .HyperMD-header-6 .is-collapsed ~ .cm-header-6::after {
+  left: calc(anchor(right) + 20px + 1ch);
 }
 
 @supports (color: hsl(from white h s l)) {
@@ -6395,7 +6880,7 @@ body {
 
 .fas-headings-accent,
 .headings-accent {
-  --header-gradient-base-color: var(--color-accent);
+  --header-gradient-base-color: var(--text-accent);
 }
 
 .fas-headings-hue,
@@ -7638,6 +8123,98 @@ body {
 .markdown-source-view.mod-cm6 .cm-line.HyperMD-table-row {
   min-width: var(--table-source-min-width);
   white-space: pre-wrap;
+}
+
+body {
+  --bases-header-border-width: 0 0 1px 0;
+  --bases-header-height: 40px;
+  --bases-header-padding-start: 2px;
+  --bases-header-padding-end: 2px;
+  --bases-toolbar-label-display: block;
+  --bases-toolbar-badge-display: none;
+  --bases-embed-border-width: 0px;
+  --bases-embed-border-color: var(--background-modifier-border);
+  --bases-embed-border-radius: var(--radius-s);
+  --bases-filter-menu-width: 520px;
+  --bases-table-container-border-width: 1px;
+  --bases-table-container-border-radius: var(--radius-s);
+  --bases-table-header-weight: var(--font-weight);
+  --bases-table-header-color: var(--text-muted);
+  --bases-table-header-icon-display: flex;
+  --bases-table-header-background: var(--background-primary);
+  --bases-table-header-background-hover: var(--background-modifier-hover);
+  --bases-table-header-sort-mask: linear-gradient(to left, transparent var(--size-4-6), black var(--size-4-6));
+  --bases-table-border-color: var(--table-border-color);
+  --bases-table-column-border-width: 1px;
+  --bases-table-row-border-width: 1px;
+  --bases-table-row-background-hover: var(--table-row-background-hover);
+  --bases-table-row-height: 30px;
+  --bases-table-text-size: var(--font-smaller);
+  --bases-table-column-max-width: 300;
+  --bases-table-column-min-width: 40;
+  --bases-table-cell-radius-active: 2px;
+  --bases-table-cell-shadow-active: 0 0 0 2px var(--interactive-accent);
+  --bases-table-cell-background-active: var(--background-primary);
+  --bases-table-cell-background-disabled: var(--background-primary-alt);
+  --bases-cards-container-background: transparent;
+  --bases-cards-background: var(--background-primary);
+  --bases-cards-cover-background: var(--background-primary-alt);
+  --bases-cards-scale: 1;
+  --bases-cards-group-padding: var(--size-4-3);
+  --bases-cards-line-height: 24px;
+  --bases-cards-border-width: 1px;
+  --bases-cards-shadow: 0 0 0 1px var(--background-modifier-border);
+  --bases-cards-shadow-hover: 0 0 0 1px var(--background-modifier-border-hover);
+  --bases-cards-text-size: var(--font-smaller);
+}
+
+body {
+  --bases-table-header-background: var(--table-header-background);
+  --bases-embed-padding: 0;
+}
+
+.query-toolbar-menu .query-toolbar-section-header {
+  --flair-background: hsl(var(--accent-h) var(--accent-s) var(--accent-l) / 0.2);
+}
+
+.bases-query-container .filter-row .filter-operator {
+  border-color: var(--background-modifier-border-hover);
+}
+
+.bases-header .query-toolbar {
+  gap: 2px;
+  align-items: stretch;
+}
+.bases-header .query-toolbar .query-toolbar-item {
+  margin: 0;
+}
+.bases-header .query-toolbar .bases-toolbar-result-count {
+  margin-inline-end: auto;
+}
+.bases-header .query-toolbar .bases-toolbar-result-count ~ * .text-icon-button {
+  margin: 0;
+  background-color: var(--background-primary-alt);
+}
+.bases-header .query-toolbar .text-icon-button.is-active {
+  background-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
+}
+
+.workspace-leaf-content[data-type=markdown] .block-language-base .bases-view,
+.workspace-leaf-content[data-type=markdown] .bases-embed .bases-view {
+  border: none;
+}
+
+.bases-table-container {
+  border: var(--bases-embed-border-width) solid var(--bases-embed-border-color);
+  box-sizing: content-box;
+}
+
+.bases-tbody .bases-tr {
+  background-color: var(--table-background);
+}
+
+.bases-tbody .bases-tr:nth-child(odd) {
+  background-color: var(--table-row-alt-background);
 }
 
 .tree-item-self.is-being-renamed .tree-item-inner {
@@ -9392,8 +9969,8 @@ body {
   --table-cell-vertical-alignment: middle;
   --p-spacing: 0.6rem;
   --heading-spacing: calc(var(--p-spacing) * 1.5);
-  --line-height-normal: 1.25em;
-  --line-height-tight: 1em;
+  --line-height-normal: 1.25;
+  --line-height-tight: 1;
   --metadata-padding: var(--size-4-3) var(--size-4-1) var(--size-4-1) var(--size-4-1);
 }
 .fas-compact :is(.markdown-source-view, .markdown-preview-view) .callout,
@@ -10681,7 +11258,7 @@ body {
 [data-callout=autopsy],
 [data-callout=screen],
 [data-callout=profile]):not(:is([data-callout=email], [data-callout=timeline]) .callout):is([data-callout-metadata~=accent])::before {
-  background: hsl(var(--accent-h) var(--accent-s) var(--accent-l)/var(--callout-border-opacity));
+  background: hsl(var(--accent-h), var(--accent-s), var(--accent-l), var(--callout-border-opacity));
 }
 
 .fas-skin-sci-fi :is(.markdown-preview-view, .markdown-source-view) hr,
@@ -11009,14 +11586,6 @@ body {
   transform: scaleY(-1);
 }
 
-@keyframes bg-slide {
-  from {
-    right: 100%;
-  }
-  to {
-    right: 0;
-  }
-}
 body {
   --tree-view-guide-color: var(--background-secondary);
 }
@@ -11927,6 +12496,13 @@ settings:
         type: heading
         collapsed: true
         level: 1
+    -
+        id: fas-adaptive-accent
+        title: Adapative accent
+        description: Dynamically adapt the accent color based on the background color. Aims at having a better contrast for dark accent color in dark mode, or light accent color in light mode.
+        type: class-toggle
+        default: false
+
     - 
         id: theme-variant-light
         title: Light color scheme
@@ -13921,7 +14497,7 @@ body.fas-ribbon-horizontal-floating-hover .style-settings-container [data-id=fas
   }
 }
 .style-settings-container {
-  --h1-color: var(--color-accent);
+  --h1-color: var(--text-accent);
   --current-h1-color: var(--h1-color);
   --pickr-size: 1.3em;
 }

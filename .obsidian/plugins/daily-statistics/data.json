@@ -18,24 +18,22 @@
     "2025-08-18": 453,
     "2025-08-19": 1067,
     "2025-08-21": 1145,
-    "2025-08-22": 8
+    "2025-08-22": 8,
+    "2025-08-23": 22,
+    "2025-08-24": 361
   },
   "todayWordCount": {
-    "The Rapture/Untitled.md": {
-      "initial": 0,
-      "current": 2
-    },
     "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 4862,
-      "current": 4862
+      "initial": 4882,
+      "current": 5243
     },
-    "The Rapture/The Rapture.md": {
-      "initial": 5,
-      "current": 5
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "initial": 1431,
+      "current": 1431
     },
-    "The Rapture/Skeleton.md": {
-      "initial": 2,
-      "current": 8
+    "Main Story/README.md": {
+      "initial": 35,
+      "current": 35
     }
   },
   "weeklyPlan": {
