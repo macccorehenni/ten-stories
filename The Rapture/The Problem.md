@@ -1,5 +1,5 @@
 ---
-word-goal: 5000
+word-goal: 8000
 ---
 
 # The Problem
@@ -107,6 +107,60 @@ Ruby nodded, then asked, "Are we doing it?"
 
 "Fair, I rest my case."
 
-"Okay, then, how about you, Tarim?" Anna continued. T
+"Okay, then, how about you, Tarim?" Anna continued. The leader of the Mindplayers— who had taken over after the corrupt Minden was killed by the Ten— shrugged, and added onto the conversation with, "If things _do_ go south, we need assurances that we can get out of this. How can we ensure that?"
+
+"At that point— I can wield." Deviân smiled, then his smile faltered. "But it might not work."
+
+Anna frowned along with her second-youngest team member— only after Givly, who sat beside him— and said, "Mmmmm, therein lies the rub. We cannot afford to be zipped into another timeline right now, for obvious reasons."
+
+"'We'll keep in touch via bonds' is probally a better answer than Deviân's, really. " Iris tilted her head, her fangs poking out of the corner of her pursed, frowning lips.
+
+"Anyone else have concerns?" Anna prompted, to blank stares across the large conference room.
+
+After confirming this fact, she nodded. "Okay then. We ride at sunrise as it were."
+
+---
+
+Everyone woke up early, excepting Yaereene, who stayed up, tending to her feybloom backpack. A large branch of each of the vines in the portable wicker basket that Yaereene had crafted had grafted itself onto another and was making one bigger branch. Yaereene was observing this supposed hybrid in creation when she heard the patter of footsteps going down Callendor's stairs.
+
+"Iris, I'm in the kitchen." she said over bonds.
+
+"Wahhhhhhhhh… why are you always up so early, Yae?" Iris rubbed her eyes, Elephy's trunk sagging. Iris was soon followed by the Soren sisters and Deviân, both as cheery as if they had slept in, then the others of the Ten filtered in as they saw fit. Finally, in her battle dress, icy blue, came their leader, valiant Anna.
+
+"Are we ready?" Anna glanced over her team members, all in various degrees of sleep, from Iris half asleep to the sisters, Deviân and Yae wide awake.
+
+"Gonna miss the Iron Blade. Can we not visit there before we head to Simvellden?" Anna seemed somewhat grumpy, and her head wasn't quite awake.
+
+"Unfortuanatly not, sis. We need to get to Simvell sooner rather than later." Ammereth wasn't as drowsy as Iris, but she seemed much quieter and less spunky than usual.
+
+"Well, shall we—" Anna said, but it was all she needed to say.
+
+The Ten were in for what would turn out to be a wild, new adventure.
+
+---
+
+_A few hours later, the Ten arrived at the West Simvellden Post office. It took the mysterious… moonelf… a couple of hours after they arrived. In the meantime, Roxy and the others attuned to feelings felt something was off._
+
+"Okay, lady." Elyvia said, sternly looking at the moonelf,  her own kind, with suspicion. "I know you are of the Elder's kind. So, as the consul to Her Emmisary, please, don't hide, and answer truthfully. Did you have someone watching us?"
+
+Elvyia was the only one in front of the elf, her light grey skin glinting in the harsh coastal sunlight. Her royal features had an even more distinct air to them, lending gravitas to her role as the consul to the Elder. She, of course, never talked to the Elder herself— no one did. But somehow she got visions from the supposed world creator that guided her choices as the _de facto_ leader of Mythria.
+
+"Ah, Miss Consul? Also an leader of a college. Your skills are well aligned." The mysterious moonelf smiled, an unsettling pallor setting over her face. "And to answer your question, yes, I have been watching you. My power, unfortuanatly, cannot be masked."
+
+"I'm not feeling any negative vibes, but we should be careful." Celesteia, nearby, and Roxane, with ther rest of the Ten on the other side of the Post building covered in Ildren's shadows, confirmed her findings over bonds after she shared them.
+
+"Well, I know that you are not the only member of the Ten. Perhaps, if they wish to help, they would join us."
+
+Elvyia nods at Ildren, who drops his wield.
+
+"Now, where are my manners? I'm Vireyla, one of the last remaining veilbreaker manifests. And you are, other than the Ten?"
+
+"Nice to meet you, Vireyla. This seems to be legit, huh?"
+
+"Indeed, my friend. You are a human?"
+
+"Yeah, though many here are not."
+
+"Indeed." Vireyla summoned her mount, an unique creature seemingly made of the same silver thread that the moonelves
 
 [^1]: Mostly because it reminded her of her mount— Emmersun, the dream tiger— in its shape, simlar to Emmy's tail.

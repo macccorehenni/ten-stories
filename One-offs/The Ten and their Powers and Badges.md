@@ -275,7 +275,7 @@ Badges: Ten, Outcasts, Barrier, Unique Manifest
 
 Tryout song: Irish Eyes/Rose Betts
 
-Species: Drakespire resonant
+Species: Dragonspire resonant
 
 Home realm: Ethyria
 
@@ -375,7 +375,7 @@ Badges: Ten, Overlands, Echoveil, Whisperfoot, Unique Mount, Unique Manifest
 
 Tryout song: Cole’s Response/Yaekelore
 
-Species: Chinchilla girl
+Species: Chinchilla Therin
 
 Home realm: Feydorian Feyrun (specifically the Echoing Shelf, an area in the Great Desert that is known for its violent storms)
 
@@ -389,15 +389,23 @@ Power: Bond dulling
 
 Badges: Ten, Overlands, bond dulling, Unique Manifest
 
-#### Angell (Angi)
+Species: Cat Therin
+
+Home realm: Danae
+
+#### Ahlia (Ahli)
 
 Age: 21
 
 Mount:
 
-Power: Elemental
+Power: Light manipulation
 
-Badges: Ten, Overlands, light manipu
+Badges: Ten, Overlands, light manipulation
+
+Species: Fennec fox Therin
+
+Home: Feydorian Feyrun
 
 ## Notes
 

@@ -14,7 +14,7 @@
     "musical-text-highlighter:toggle-sentence-highlighting"
   ],
   "propertiesInDocument": "visible",
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,

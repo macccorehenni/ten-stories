@@ -78,6 +78,12 @@
       "icon": "lucide-arrow-down-to-dot",
       "name": "Status",
       "mode": "any"
+    },
+    {
+      "id": "editor:save-file",
+      "icon": "lucide-save",
+      "name": "Save current file",
+      "mode": "any"
     }
   ],
   "macros": [],

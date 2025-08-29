@@ -7,13 +7,6 @@
       ]
     },
     {
-      "command": "obsidian-better-command-palette:open-better-commmand-palette-file-search",
-      "chords": [
-        "C-KeyX",
-        "C-KeyF"
-      ]
-    },
-    {
       "command": "editor:save-file",
       "chords": [
         "C-KeyX",

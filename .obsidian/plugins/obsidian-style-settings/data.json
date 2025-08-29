@@ -27,10 +27,9 @@
   "fancy-a-story@@fas-banner-edit-mode": "fas-banner-edit-small",
   "fancy-a-story@@fas-skin-select": "fas-skin-art-deco",
   "fancy-a-story@@art-deco-style-fonts": "disable",
-  "fancy-a-story@@art-deco-style-file-explorer-icons": "disable",
   "fancy-a-story@@art-deco-style-sidebar-corners": "disable",
   "fancy-a-story@@art-deco-style-tab-flags": "disable",
-  "fancy-a-story@@art-deco-style-file-header": "disable",
+  "fancy-a-story@@art-deco-style-file-header": "enable",
   "fancy-a-story@@art-deco-color": "var(--color-accent)",
   "fancy-a-story@@nav-item-parent-padding-block": 5,
   "fancy-a-story@@custom-color-base-00@@dark": "#533F3F",
@@ -42,5 +41,9 @@
   "fancy-a-story@@fas-accessibility": false,
   "fancy-a-story@@fas-bg-textures": true,
   "fancy-a-story@@fas-alternative-checkboxes": "doodle",
-  "fancy-a-story@@fas-note-background-image": false
+  "fancy-a-story@@fas-note-background-image": false,
+  "fancy-a-story@@fas-adaptive-accent": false,
+  "fancy-a-story@@art-deco-style-ribbon-deco": "disable",
+  "fancy-a-story@@art-deco-style-status-bar": "enable",
+  "fancy-a-story@@art-deco-style-file-explorer-icons": "disable"
 }

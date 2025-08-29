@@ -25,13 +25,10 @@
             "id": "623b550bc3b2da12",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -55,7 +52,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       },
       {
@@ -73,12 +69,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Rapture/The Problem.md",
+                    "file": "Main Story/README.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Problem"
+                  "title": "README"
                 }
               }
             ],
@@ -128,56 +124,6 @@
               "icon": "vertical-tabs",
               "title": "Vertical tabs"
             }
-          },
-          {
-            "id": "9e6821c9d929191c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "e6efe044330d2a88",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "0b4f03b2b9689796",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "d83fb1c8d6ce1560",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ]
       }
@@ -189,77 +135,7 @@
   "right": {
     "id": "2c5328bf8d50c40d",
     "type": "split",
-    "children": [
-      {
-        "id": "bb14bb08257baacf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "733e3b95de262c81",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Ten and their Powers and Badges"
-            }
-          },
-          {
-            "id": "2a16e86e7731202a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Ten and their Powers and Badges"
-            }
-          },
-          {
-            "id": "dd6464dde3f98d52",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8e676651e473a119",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of The Ten and their Powers and Badges"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 294.5,
     "collapsed": true
@@ -290,29 +166,40 @@
   "active": "eccb267e665a8ad4",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
-    "The Rapture/The Problem.md",
-    "Friend Stories/Soren sisters and Mariana.md",
-    "Friend Stories/Friend Stories.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
-    "Main Story/Main Story.md",
-    "The Rapture/The Rapture.md",
     "Main Story/README.md",
+    "The Rapture/The Problem.md",
+    "Main Story/Main Story.md",
+    "Mythos/Mythrian species/Mythrian species.md",
+    "Friend Stories/Friend Stories.md",
+    "Aeverath and the Shadow/Aeverath and the Shadow.md",
+    "Mythos/Mythos.md",
+    "Mythos/Mythrian species/Dragonspires.md",
+    "Mythos/Mythrian species/Moonelf.md",
+    "One-offs/One-offs.md",
+    "The Rapture/The Rapture.md",
+    "README.md",
+    "Dragonspire resonant.pdf",
+    "Mythos/Mythrian species/Dragonspire resonant.md",
+    "Mythos/Mythrian species/Echoclads.md",
+    "Mythos/Mythrian species/Feybloom.md",
+    "One-offs/Daily Routine of the Ten.md",
+    "One-offs/College of the Unheard Orientation.md",
+    "Mythos/Untitled.md",
+    "Mythos/Mythrian species/Untitled.md",
+    "Species lores/Mythrian species/Untitled 1.md",
+    "Mythos/Mythrian species",
+    "Species lores/Untitled/Untitled.md",
+    "Species lores/Untitled",
+    "Species lores/Welcome.md",
+    "Mythos",
+    "Friend Stories/Soren sisters and Mariana.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
     "The Rapture/Skeleton.md",
     "The Rapture",
-    "Untitled.md",
-    "Aeverath and the Shadow/The Shadow.md",
     "pass",
     "Untitled.base",
-    "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Aeverath and the Shadow",
-    "Main Story/The College of the Unheard Chapter 1.md",
-    "Main Story/The College of the Unheard Prologue.md",
-    "One-offs/College of the Unheard Orientation.md",
-    "Main Story/index.md",
-    "One-offs/One-offs.md",
     "Main Story/Unconfirmed 853987.crdownload",
-    "Main Story/Untitled.md",
-    "README.md",
     "LICENSE"
   ]
 }

@@ -3,6 +3,7 @@
   "interfaceFontFamily": "Hoefler Text",
   "baseFontSizeAction": true,
   "showRibbon": true,
-  "theme": "moonstone",
-  "showViewHeader": true
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "textFontFamily": ""
 }

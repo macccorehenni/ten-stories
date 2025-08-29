@@ -1,9 +1,14 @@
 ---
 sticker: lucide//book-open
+aliases:
+  - College of the Unheard
+linter-yaml-title-alias: College of the Unheard
 ---
 
-[[The College of the Unheard Prologue|Finale]] (finished)
+# College of the Unheard
 
-[[The College of the Unheard Chapter 1|And thus, The Ten]] (finished)
+Prologue: [[The College of the Unheard Prologue|Finale]] (finished)
 
-[[The College of the Unheard Chapter Two|The Parents]] (65%)
+Chapter 1: [[The College of the Unheard Chapter 1|And thus, The Ten]] (finished)
+
+Ch. 2: [[The College of the Unheard Chapter Two|The Parents]] (65%)

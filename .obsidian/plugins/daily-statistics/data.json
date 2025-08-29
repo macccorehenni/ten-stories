@@ -20,44 +20,30 @@
     "2025-08-21": 1145,
     "2025-08-22": 8,
     "2025-08-23": 22,
-    "2025-08-24": 1512
+    "2025-08-24": 1512,
+    "2025-08-26": 1462,
+    "2025-08-29": 20
   },
   "todayWordCount": {
-    "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 4882,
-      "current": 5268
-    },
-    "One-offs/The Ten and their Powers and Badges.md": {
-      "initial": 1431,
-      "current": 1452
-    },
-    "Main Story/README.md": {
-      "initial": 35,
-      "current": 35
+    "Mythos/Mythrian species/Mythrian species.md": {
+      "initial": 5,
+      "current": 5
     },
     "Main Story/Main Story.md": {
       "initial": 5,
       "current": 5
     },
-    "The Rapture/The Rapture.md": {
-      "initial": 5,
-      "current": 5
+    "Main Story/README.md": {
+      "initial": 35,
+      "current": 55
     },
-    "The Rapture/Untitled.md": {
-      "initial": 0,
-      "current": 2
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "initial": 1466,
+      "current": 1466
     },
     "The Rapture/The Problem.md": {
-      "initial": 2,
-      "current": 1085
-    },
-    "Friend Stories/Friend Stories.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Friend Stories/Soren sisters and Mariana.md": {
-      "initial": 371,
-      "current": 391
+      "initial": 1814,
+      "current": 1814
     }
   },
   "weeklyPlan": {

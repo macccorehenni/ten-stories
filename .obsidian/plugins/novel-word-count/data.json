@@ -105,30 +105,30 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1042,
-      "wordCountTowardGoal": 1042,
-      "wordGoal": 5000,
-      "pageCount": 3.473333333333333,
-      "characterCount": 5941,
-      "nonWhitespaceCharacterCount": 4832,
-      "newlineCount": 106,
-      "readingTimeInMinutes": 3.9320754716981132,
+      "wordCount": 1783,
+      "wordCountTowardGoal": 1783,
+      "wordGoal": 8000,
+      "pageCount": 5.943333333333333,
+      "characterCount": 10209,
+      "nonWhitespaceCharacterCount": 8325,
+      "newlineCount": 165,
+      "readingTimeInMinutes": 6.728301886792453,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1756049356603,
-      "modifiedDate": 1756058556547,
-      "sizeInBytes": 6127,
+      "modifiedDate": 1756262872384,
+      "sizeInBytes": 10419,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.283333333333333,
-        "wordCount": 985,
-        "characterCount": 5599,
-        "nonWhitespaceCharacterCount": 4548,
-        "newlineCount": 105
+        "pageCount": 5.943333333333333,
+        "wordCount": 1783,
+        "characterCount": 10209,
+        "nonWhitespaceCharacterCount": 8325,
+        "newlineCount": 165
       },
       "frontmatter": {
-        "word-goal": 5000
+        "word-goal": 8000
       }
     },
     "Tags/Tags.md": {
@@ -161,33 +161,6 @@
         "tags": "MOCs"
       }
     },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 12,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755951166118,
-      "modifiedDate": 1755951166118,
-      "sizeInBytes": 13,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 13,
-        "nonWhitespaceCharacterCount": 12,
-        "newlineCount": 1
-      }
-    },
     "pass": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -213,64 +186,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "One-offs/The Ten and their Powers and Badges.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1755951166118,
-      "modifiedDate": 1756056900458,
-      "sizeInBytes": 9674,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "One-offs/One-offs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1755951166118,
-      "modifiedDate": 1755951166118,
-      "sizeInBytes": 48,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 2,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "sticker": "lucide//dice-1",
-        "aliases": []
       }
     },
     "One-offs/Descriptions of Characters.md": {
@@ -300,6 +215,63 @@
         "newlineCount": 0
       }
     },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951166118,
+      "modifiedDate": 1756258400129,
+      "sizeInBytes": 9783,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "One-offs/One-offs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755951166118,
+      "modifiedDate": 1756262940214,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
     "One-offs/Daily Routine of the Ten.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -308,31 +280,34 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4066666666666667,
-      "characterCount": 655,
+      "characterCount": 651,
       "nonWhitespaceCharacterCount": 522,
-      "newlineCount": 6,
+      "newlineCount": 9,
       "readingTimeInMinutes": 0.46037735849056605,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
+        "Morning Routine of the Ten",
         "Morning routine"
       ],
       "createdDate": 1755951165464,
-      "modifiedDate": 1755951166118,
-      "sizeInBytes": 720,
+      "modifiedDate": 1756260401228,
+      "sizeInBytes": 795,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4066666666666667,
         "wordCount": 122,
-        "characterCount": 655,
+        "characterCount": 651,
         "nonWhitespaceCharacterCount": 522,
-        "newlineCount": 6
+        "newlineCount": 9
       },
       "frontmatter": {
         "aliases": [
+          "Morning Routine of the Ten",
           "Morning routine"
         ],
-        "sticker": "lucide//sunrise"
+        "sticker": "lucide//sunrise",
+        "linter-yaml-title-alias": "Morning Routine of the Ten"
       }
     },
     "One-offs/College of the Unheard Orientation.md": {
@@ -343,7 +318,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.0533333333333332,
-      "characterCount": 5690,
+      "characterCount": 5554,
       "nonWhitespaceCharacterCount": 4546,
       "newlineCount": 114,
       "readingTimeInMinutes": 3.456603773584906,
@@ -353,13 +328,13 @@
         "Orientation"
       ],
       "createdDate": 1755951165464,
-      "modifiedDate": 1755951165464,
-      "sizeInBytes": 5759,
+      "modifiedDate": 1756259618945,
+      "sizeInBytes": 5619,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.0533333333333332,
         "wordCount": 916,
-        "characterCount": 5690,
+        "characterCount": 5554,
         "nonWhitespaceCharacterCount": 4546,
         "newlineCount": 114
       },
@@ -368,6 +343,243 @@
           "Orientation"
         ],
         "sticker": "lucide//info"
+      }
+    },
+    "Mythos/Mythrian species/Mythrian species.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1756254380840,
+      "modifiedDate": 1756254618721,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
+    "Mythos/Mythrian species/Moonelf.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 299,
+      "nonWhitespaceCharacterCount": 250,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "The Decendents of the Elder"
+      ],
+      "createdDate": 1756254795564,
+      "modifiedDate": 1756263289382,
+      "sizeInBytes": 400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13333333333333333,
+        "wordCount": 40,
+        "characterCount": 299,
+        "nonWhitespaceCharacterCount": 250,
+        "newlineCount": 13
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Decendents of the Elder"
+        ],
+        "linter-yaml-title-alias": "The Decendents of the Elder"
+      }
+    },
+    "Mythos/Mythrian species/Echoclads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 765,
+      "nonWhitespaceCharacterCount": 638,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Fragments of the Memories"
+      ],
+      "createdDate": 1756258643150,
+      "modifiedDate": 1756260676059,
+      "sizeInBytes": 862,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 765,
+        "nonWhitespaceCharacterCount": 638,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "aliases": [
+          "Fragments of the Memories"
+        ],
+        "linter-yaml-title-alias": "Fragments of the Memories"
+      }
+    },
+    "Mythos/Mythrian species/Feybloom.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 92,
+      "nonWhitespaceCharacterCount": 76,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Fey-enhanching Plant"
+      ],
+      "createdDate": 1756259407813,
+      "modifiedDate": 1756261322420,
+      "sizeInBytes": 187,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 92,
+        "nonWhitespaceCharacterCount": 76,
+        "newlineCount": 9
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Fey-enhanching Plant"
+        ],
+        "linter-yaml-title-alias": "The Fey-enhanching Plant"
+      }
+    },
+    "Mythos/Mythrian species/Dragonspires.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 199,
+      "nonWhitespaceCharacterCount": 173,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "Homeland of the Mythrian Sp."
+      ],
+      "createdDate": 1756254585847,
+      "modifiedDate": 1756259712146,
+      "sizeInBytes": 304,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 199,
+        "nonWhitespaceCharacterCount": 173,
+        "newlineCount": 5
+      },
+      "frontmatter": {
+        "aliases": [
+          "Homeland of the Mythrian Sp."
+        ],
+        "linter-yaml-title-alias": "Homeland of the Mythrian Sp."
+      }
+    },
+    "Mythos/Mythrian species/Dragonspire resonant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 472,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5733333333333333,
+      "characterCount": 3058,
+      "nonWhitespaceCharacterCount": 2556,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 1.7811320754716982,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "The Veildragon-born",
+        "The Veildragon-born"
+      ],
+      "createdDate": 1756254386340,
+      "modifiedDate": 1756261684069,
+      "sizeInBytes": 3171,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5733333333333333,
+        "wordCount": 472,
+        "characterCount": 3058,
+        "nonWhitespaceCharacterCount": 2556,
+        "newlineCount": 38
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Veildragon-born",
+          "The Veildragon-born"
+        ],
+        "linter-yaml-title-alias": "The Veildragon-born"
+      }
+    },
+    "Mythos/Mythos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1756254352031,
+      "modifiedDate": 1756262952458,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
       }
     },
     "Main Story/Untitled.md": {
@@ -432,6 +644,41 @@
         "sticker": "lucide//list-end"
       }
     },
+    "Main Story/The College of the Unheard Chapter 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3684,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 12.28,
+      "characterCount": 21186,
+      "nonWhitespaceCharacterCount": 17018,
+      "newlineCount": 311,
+      "readingTimeInMinutes": 13.90188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "And thus, The Ten"
+      ],
+      "createdDate": 1755951165114,
+      "modifiedDate": 1755951165457,
+      "sizeInBytes": 21348,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 12.28,
+        "wordCount": 3684,
+        "characterCount": 21186,
+        "nonWhitespaceCharacterCount": 17018,
+        "newlineCount": 311
+      },
+      "frontmatter": {
+        "aliases": [
+          "And thus, The Ten"
+        ],
+        "sticker": "lucide//hourglass"
+      }
+    },
     "Main Story/The College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -469,59 +716,26 @@
         "word-goal": 8000
       }
     },
-    "Main Story/The College of the Unheard Chapter 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3684,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.28,
-      "characterCount": 21186,
-      "nonWhitespaceCharacterCount": 17018,
-      "newlineCount": 311,
-      "readingTimeInMinutes": 13.90188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "And thus, The Ten"
-      ],
-      "createdDate": 1755951165114,
-      "modifiedDate": 1755951165457,
-      "sizeInBytes": 21348,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 12.28,
-        "wordCount": 3684,
-        "characterCount": 21186,
-        "nonWhitespaceCharacterCount": 17018,
-        "newlineCount": 311
-      },
-      "frontmatter": {
-        "aliases": [
-          "And thus, The Ten"
-        ],
-        "sticker": "lucide//hourglass"
-      }
-    },
     "Main Story/README.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 36,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 193,
-      "nonWhitespaceCharacterCount": 162,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.1018867924528302,
+      "pageCount": 0.12,
+      "characterCount": 247,
+      "nonWhitespaceCharacterCount": 205,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.13584905660377358,
       "linkCount": 3,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "College of the Unheard"
+      ],
       "createdDate": 1755951165114,
-      "modifiedDate": 1756048742434,
-      "sizeInBytes": 227,
+      "modifiedDate": 1756503355335,
+      "sizeInBytes": 365,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09,
@@ -531,7 +745,11 @@
         "newlineCount": 8
       },
       "frontmatter": {
-        "sticker": "lucide//book-open"
+        "sticker": "lucide//book-open",
+        "aliases": [
+          "College of the Unheard"
+        ],
+        "linter-yaml-title-alias": "College of the Unheard"
       }
     },
     "Main Story/Main Story.md": {

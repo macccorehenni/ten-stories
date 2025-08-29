@@ -39,11 +39,16 @@
   "deleteFileOption": "system-trash",
   "expandedSpaces": [
     "//Tags",
-    "//Main Story",
+    "//Species lores",
+    "//Species lores/Species lores/Mythrian species",
+    "//Aeverath and the Shadow",
     "//Friend Stories",
+    "//Mythos",
+    "//Mythos/Mythos/Mythrian species",
+    "//The Rapture",
     "//One-offs",
     "/",
-    "//The Rapture"
+    "//Main Story"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
