@@ -129,7 +129,7 @@ Suddenly, the two ducked as a giant falcon, carrying a human marred with four cl
 
 “Woah, Hades!” She called out to her mount, and it landed.
 
-“Sorry— wait—_Headmaster Anna_?” The woman, slightly smaller than Anna, but perhaps a bit burlier
+“Sorry— wait—_Headmaster Anna_?” The woman, slightly smaller than Anna, but perhaps a bit burlier due to her mount, smiled at the headmaster before it. Along her shoulders, and prominently
 
 “That’s me.” Anna smiled politely, used to the reaction she elicited from this girl.
 
@@ -209,7 +209,7 @@ She smiled, more an acknowledgement of the state of affairs than any form of joy
 
 “Which I bet most of us, _especially_ Giv and Ammy, are. Didja figure it out?” Yae yawned, startling her teammates. “I couldn’t sleep either,” she admitted.“I _had_ to figure out where they were.”
 
-“We did. But, the problem is, we’ll have to use flying mounts. Of course, it’s half the Crag we're climbing up, but also the unmaintained terrain will make it difficult to ambush the Parents and save the sisters, what with making noise from my potentially wielding to clear the Gold House neighborhood of sorts of trees.” Mariana frowned
+“We did. But, the problem is, we’ll have to use flying mounts. Of course, it’s half the Crag we're climbing up, but also the unmaintained terrain will make it difficult to ambush the Parents and save the sisters, what with making noise from my potentially wielding to clear the Gold House neighborhood of sorts of trees.” Mariana frowned as she looked at the mount.
 
 “Ah, well, that leaves Emphelle, Ildren, Iris and Yae with need for a mount. How do you suggest we do this? I can probably carry two of Emphe, Ildren, and Iris, maybe Yae, if she doesn't bring too many books."
 
@@ -225,9 +225,9 @@ If you were to ask Yaereene if she missed Irin, yes, she did. Even then, she tho
 
 ---
 
-_The wisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this? reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need_ more. _No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
+_The wisps of smoke that the little ones called the Parents watched over Givly as they sensed— no, they_ felt, _the incoming presence of the Ten. But what is this reasoned the elder one. More, the young one replied. Three more, all brave of heart. The elder hissed, then noted Givly's movement. She's still alive, the elder one said. We need more punishment / No, no, they are coming, elder one. The younger one's face— if you could call its face as much— drooped, then the two turned to smoke and went into the room, better hidden, where their other girl, their quarry, the one_ who never would be taken, _was hidden._
 
-As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over
+As the Ten flew over the city of Ilford, they noticed the Hotel, where all who had "saved" Givly grimaced at the fact that they would have to do it again. "Mariana, Anna, Celeste! If my research is correct, we need to bank to the 15, right, Ilven, Hades, Palten?" Anna shouted over the sound of the mounts.
 
 The mounts assented, and started the turn. Ilven did it with flourish, his body barrel rolling across the path of Hades and Palten.
 
@@ -235,7 +235,7 @@ Newly bonded with the other mounts, Hades growled, prompting his handler to say,
 
 "Were your mounts this irritable when bonded?" Ildren, annoyed by Mariana's mount, asked Anna through bonds after Palten managed to stabilize the two birds' emotions.
 
-"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the copse of trees mysteriouslyi thinned, almost as if illusory.
+"I mean, Palten and Emmersun— Givly's dream tiger— didn't. But unicorns and tigers have historically not gotten together. Mythrian and Celestial Danaean pantheons indicate that the two races weren't exactly kind to each other, according to a little bird." She smiled towards Yae on Hades to her left, as they approched the copse of trees mysteriously thinned, almost as if illusory.
 
 "Sorry to derail your conversation, what's our plan of attack, Anna?"
 
@@ -405,4 +405,73 @@ They would need to regroup and come back in more force. But their human bodies�
 
 ---
 
-"Givly!" Anna, despit
+"Givly!" Anna, despite her fears that the Parents would return, had no reservations about giving her youngest team member and though she would never admit this, favorite, a big bear hug. As her parental figure, Anna felt responsible for what had happened. But than she noticed something strange— something she hadn't seen Givly do since she met her two years ago. Givly was smiling heavily.
+
+Even when the Misfits and Loud Ones fought _and_ defeated Minden, she never saw Givly smile. Well, she didn't see anything for two weeks, but she shrugged.
+
+"Oh, that reminds me— I have someone I want you to meet." Givly smiled.
+
+"I have three someones, too. But let's get outside before we make our introductions."
+
+They did, and Givly made a sound that drew Deviân out. He shied away from the large group, but decided to be brave and join the group.
+
+"His name is Deviân." Givly introduced him to the group, and Yae was the first to introduce herself.
+
+"Yaereene Inphyra, Queen of Feydor Forest."
+
+"You— you don't look like a queen, but— hello anyways." Deviân smiled, returning the cursory nod that Yae always gave. (She said it was force of habit, but several of her teammates disagreed.)
+
+"I'm Anna. I'm the leader of this group."
+
+"Anna, my pleasure to meet you." Deviân nodded. He quite liked the gesture.
+
+"Sorry to break your rites, Anna. But shall we return to Callendor? I'm getting quite squirrely." Amber said, panic in her voice.
+
+"Sure." Anna nodded, then a thought crossed her mind.
+
+"Hey, Daviân? What are you doing here?"
+
+"Running, hiding. From what— you will never know. I will not tell." Since emerging from the cover of the darkness of the forest, the raven–haired boy had been in an defensive state, only softened every time he heard the mysterious quarter-dragon's voice. It sounded melodic, but still fitting for a ten year old who was running. From what, Deviân did _not_ know, and it was bothering him. But that would come soon. His main priority was to stay with the half-dragonborn, he decided. She held secrets, and he had to find out.
+
+---
+
+"Ah, it's good to be home. Emmy?" Emmersun smiled, as much as a tiger could. But he growled when he saw a strange human— Deviân's "vibes" were off, as his handler would be inclined to say.
+
+"Hi, buddy. I'm sure I'm safe." She smiled, then amended when she read Deviân's mind, "This is a _friend_, tiger."
+
+"Are you sure, little one?" The tiger didn't back down. "You disappear for a while, and then bring back a human not in our bonds nor a student here? I'm inclined to believe he won't hurt you."
+
+"He _won't_, Emmy," Givly said with the finality that only a pre-tween could muster. "And if he does— he won't— you have my permission to kill him, tiger."
+
+"I trust your judgement then." Emmersun backs down, then, taking care to avoid Deviân's path, goes to rub on his handler, saying through bonds, "I missed you, little one."
+
+"Is the tiger—" Deviân looked on, confused at Emmersun's actions towards the half-dragonborn.
+
+"What are tigers but big cats?" Emmy flipped his fringe as if to agree and show how pretty he was.
+
+"Fair point." Deviân smiled, then jumped down to the ground floor of the dorm. Hades was sitting on the floor and allowing Mariana to find burrs on his plumage. He chirped softly as Deviân came up towards his handler.
+
+"Oh, Deviân! Enjoying your stay so far?"
+
+"Is this your mount?"
+
+"Oh, yeah— this is Hades. We met long ago, huh, Hades?"
+
+As if in response, Hades ducked down, prompting Deviân to jump away.
+
+"Careful, Hades. Gotta be careful about that little beak of yours. Is it growing too long, though buddy?
+
+Hades nodded, as Elvy landed on his large, arched back. Mariana pulled away, in anticipation of Hades pulling back away from her to help groom Elvy. He does so, allowing his friend's trainer, Iris, to jump down to his back.
+
+"Hades. Hello brother." Elvy said, chipper as always. But over the top of the happy veneer he always carried, he sounded tired. After all, running to and from a remote house on the Crag was tired.
+
+"Hello, elephant, how are you? And… Iris, huh?" He addressed the goddess on the falcon's back who was harboring refuge under his wing, picking off burrs that Mariana couldn't see. Iris, being twenty years younger and thusly more flexible, was allowed by Hades to go under his wing with a span of eight feet long.
+
+Elvy ignored him, instead conversating with the tawny falcon.
+
+"I'm okay, getting my preening done. I know you don't like when I do it to you, Elvy." Elvy smiled, acknowledging Hades' half-apology. Hades' beak was too sharp and large for his hide.
+"I understand that is how you see love, Hades. No need to apologize, as long as you don't break my hide."
+"That's me, yes. Remind me of yours?" Her blue hair bobbed in and out of view as she ducked behind various shades of tan and grey feathers, combing to find stray logs now. It took, between Iris and Mariana's efforts, a few hours to clean his feathers. His immense size sometimes meant that they would need to employ Costa and Charry's help to burn off larger pieces of debris.
+"Deviân. Nice to meet you. Why an elephant?"
+"I dunno." Iris replied, shrugging her shoulders as Elvy smiled, sighing and settling in on Hades' down. 
+Suddenly though, as Deviân sat, talking to 

@@ -102,7 +102,9 @@
       "color-cycler",
       "custom-sort",
       "editor-status",
-      "last-position"
+      "last-position",
+      "daily-statistics",
+      "word-count"
     ],
     "leftRibbon": [
       "Cycle accent color",

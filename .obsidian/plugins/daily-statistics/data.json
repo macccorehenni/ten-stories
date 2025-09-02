@@ -22,28 +22,21 @@
     "2025-08-23": 22,
     "2025-08-24": 1512,
     "2025-08-26": 1462,
-    "2025-08-29": 20
+    "2025-08-29": 442,
+    "2025-08-31": 554
   },
   "todayWordCount": {
-    "Mythos/Mythrian species/Mythrian species.md": {
-      "initial": 5,
-      "current": 5
+    "Main Story/The College of the Unheard Chapter Two.md": {
+      "initial": 5690,
+      "current": 6218
     },
-    "Main Story/Main Story.md": {
-      "initial": 5,
-      "current": 5
+    "Main Story/The College of the Unheard Chapter 1.md": {
+      "initial": 3704,
+      "current": 3718
     },
-    "Main Story/README.md": {
-      "initial": 35,
-      "current": 55
-    },
-    "One-offs/The Ten and their Powers and Badges.md": {
-      "initial": 1466,
-      "current": 1466
-    },
-    "The Rapture/The Problem.md": {
-      "initial": 1814,
-      "current": 1814
+    "Main Story/The College of the Unheard Prologue.md": {
+      "initial": 1763,
+      "current": 1775
     }
   },
   "weeklyPlan": {

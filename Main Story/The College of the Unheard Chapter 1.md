@@ -1,7 +1,9 @@
 ---
 aliases:
+  - Chapter 1 — And Thus, the Ten
   - And thus, The Ten
 sticker: lucide//hourglass
+linter-yaml-title-alias: Chapter 1 — And Thus, the Ten
 ---
 
 # Chapter 1 — And Thus, the Ten

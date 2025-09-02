@@ -1,7 +1,9 @@
 ---
 aliases:
+  - The Academy of the Unheard
   - Finale
 sticker: lucide//list-end
+linter-yaml-title-alias: The Academy of the Unheard
 ---
 
 # The Academy of the Unheard
