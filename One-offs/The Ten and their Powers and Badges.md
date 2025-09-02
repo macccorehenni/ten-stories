@@ -40,7 +40,7 @@ Unlike the other types of badges, all students have at least three identity badg
 
 Team and faction badges are indicative of the group membership, whereas the manifest badge indicates the power they have manifested. A set of identity badges like Anna’s (Ten, Misfits, Lightning) indicate her superior ability and skill in battle. Teams can also fashion their own identity badges to reflect their members‘— and their in general— ideals, beliefs and goals. For example, both the younger Loud Ones wear a handmade badge representing their friendship made by Iris, and the pact that Givly and Ammareth swore to each other.
 
-## The Ten
+## The Ten/Songflayers
 
 _Total badges_: 154
 
@@ -71,6 +71,7 @@ Home realm: Celestial Danae
 Relations:
 
 - Girlfriend: Celesteia?
+Title: Leader of the Ten/Songwalkers
 
 #### Celesteia (Celeste)
 
@@ -190,6 +191,7 @@ Home realm: Ethyria
 Relations:
 
 - Sister: Givly
+Title: Archfey
 
 #### Daviân (Davi)
 

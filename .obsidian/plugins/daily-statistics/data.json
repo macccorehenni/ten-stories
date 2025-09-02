@@ -25,12 +25,12 @@
     "2025-08-29": 442,
     "2025-08-31": 554,
     "2025-09-01": 2377,
-    "2025-09-02": 754
+    "2025-09-02": 1373
   },
   "todayWordCount": {
     "Main Story/Ending.md": {
       "initial": 2380,
-      "current": 3130
+      "current": 3740
     },
     "Main Story/Index.md": {
       "initial": 46,
@@ -39,6 +39,10 @@
     "Main Story/README.md": {
       "initial": 55,
       "current": 59
+    },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "initial": 1466,
+      "current": 1475
     }
   },
   "weeklyPlan": {

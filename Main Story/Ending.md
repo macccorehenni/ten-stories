@@ -146,8 +146,50 @@ Ammareth knew what her foe was going to do. She jumped out of the way as he summ
 
 "I hoped that you'd come to your senses, Ammareth." His voice, normally smooth and confident, was very much panicked for a moment. Then he regained his composure, and suddenly wielded twice, spawning five demons. He continued to wield.
 
-"It's a game of attrition at this point, Elvyria, you aren't going to win," Ammareth said, glee, maniac glee, slipping into her voice. Her claim that she doesn't play, that she _fights_, was true. She ruthlessly slashed at the half-elf traitor, her cat and mouse nature she just gained showing. Gone was the shy, teenaged teifling injured, and here is the seething, painful teifling who didn't care if he was injured.
+"It's a game of attrition at this point, Elvyria, you aren't going to win," Ammareth said, glee, maniac glee, slipping into her voice. Her claim that she doesn't play, that she _fights_, was true. She ruthlessly slashed at the half-elf traitor, her cat and mouse nature she just gained showing. Gone was the shy, teenaged teifling injured, and here is the seething, pained and painful teifling who didn't care if she was injured gravely. She only wanted _revenge_.
 
-"Did you ever learn about burnout? No, no you didn't. You have _my_ power, the limitless power given— wrongly— to you. Now it's _mine_."
+"Did you ever learn about burnout? No, no you didn't. You have _my_ power, the limitless power given— wrongly— to you. Now it's _mine_ to take back."
 
-AS Ammareth
+As Ammareth lunged yet again, the half-elf continued to parry by summoning demons.
+
+Eventually, he would burn out and make a mistake. For now, she needed to goad him.
+
+"You're a _nothing_, Elvyria, _no_-thing. _NOTHING_." She swung at the increasing number of demons, wielding once when it became too much.
+
+But her taunting had an effect on Elvyria. He was tiring. But so was Ammy— she found it harder to swing her halberd, and found some wounds. She needed help, and found it in Roxy and one big push to give her the most rage she had ever had. There must have been seventy demons in that room, but it must have been only one as far as Ammy was concerned. Gone was the hurt teifling, here was a _ruthless killer of justice_, a vigilante.
+
+She managed to push him into a spiky corner of his room.
+
+"Tut, tut, tut. Haven't you learned to kill your enemies in a _round_ room?" She smiled, menancingly.
+
+She pokes her halberd— Traitorbreaker— into his neck, and twists.
+
+"This is for Ethryia, Feydor, and Danae, not to mention the Feywild. You fool, pray the Gods feel pity on your victims."
+
+"You… realize that… " Elyvia stutters as his neck gushes out
+
+She pulls it out, plunging it in again quickly.
+
+"This is for me and my sister's parents."
+
+She once again takes out the halberd and plunges it, this time into his skull.
+
+"And this is for my fellow Songwalkers, and the pain you've given them… and me. Goodbye, and may I never… see you again." His eyes gloss over, and she feels for a pulse. There is none. The title of Archfey is hers.
+
+---
+
+She starts to walks out, but a bout of vertigo takes her. Her power started filling
+
+"This feels soooooooo fucking good," Ammereth said, before becoming overwhelmed with the power. A blast of lightning to rival Anna's hardest channel came from her body. She succumbed to this, her body charred from the sudden bout of electricity her body generated. Her long braid fell, lifeless, to her chest. The rest of her team, whether one calls it the Ten or the Songwalkers, filtered in to find her lifeless, on the ground.
+
+---
+
+She awoke to find a weird mark on the inside of her left arm. "So, this is the mark of the Archfey, then." She looked at her face in a mirror. At least becoming the most powerful fae–blooded didn't change her face in any meaningful way. "Givly, are you awake?" She heard Iris shouting for her sister. She attempted to call out for Iris audibly, but eventually settled for bonds. Even that was a struggle— where was Avery?
+
+Suddenly, the buzz that indicated bond dulling filled her head. The only voice she could hear through bonds was Ruby's, and she was laughing.
+
+"Is this how you treat the Archfey, everyone?" Ammereth, despite her confusion and anxiety, said, mostly to herself. She took an inventory of her body, and all parts were working as expected. She started to take steps but stumbled. She found her feet and then found Ruby slipping on her wield. 
+"I can hear you. You better hope this is a suprise of some sort else you may find several of you on the wrong side of Traitorbreaker." Of course she was only joking.
+"If you try to hit me, Ammy, you might find yourself on the wrong side of Verdant, girl! Come find us!" Yae joked, her happiness at having her families back together.
+
+Ammereth thought for a moment. They _could_ be along the River a
