@@ -178,7 +178,7 @@ She once again takes out the halberd and plunges it, this time into his skull.
 
 ---
 
-She starts to walks out, but a bout of vertigo takes her. Her power started filling
+She starts to walks out, but a bout of vertigo takes her. Her power started filling her body.
 
 "This feels soooooooo fucking good," Ammereth said, before becoming overwhelmed with the power. A blast of lightning to rival Anna's hardest channel came from her body. She succumbed to this, her body charred from the sudden bout of electricity her body generated. Her long braid fell, lifeless, to her chest. The rest of her team, whether one calls it the Ten or the Songwalkers, filtered in to find her lifeless, on the ground.
 
@@ -192,4 +192,4 @@ Suddenly, the buzz that indicated bond dulling filled her head. The only voice s
 "I can hear you. You better hope this is a suprise of some sort else you may find several of you on the wrong side of Traitorbreaker." Of course she was only joking.
 "If you try to hit me, Ammy, you might find yourself on the wrong side of Verdant, girl! Come find us!" Yae joked, her happiness at having her families back together.
 
-Ammereth thought for a moment. They _could_ be along the River and Riverside Connect, but she doubted so. When Ruby had wielded, she was close enough that she was audible as well, meaning that she wasn't too far. She'd assume that 
+Ammereth thought for a moment. They _could_ be along the River and Riverside Connect, but she doubted so. When Ruby had wielded, she was close enough that she was audible as well, meaning that she wasn't too far. She'd assume that they're close enough for bonds. What bothered her was that she could still hear them, farther away. One of her teammates— her sister was saying something about being in Ilford Hotel? Followed by another of the girls— judging by her loud, harsh laughter, that was Irin. So, they were in Ilford, huh? But, her senses— sharper than usual, she noticed— told her they split between the City, Ilford, and— weird
