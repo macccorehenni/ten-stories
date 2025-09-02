@@ -6,15 +6,31 @@
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2025-09-02T01:22:03.556Z",
-      "total": 0,
+      "start": "2025-09-02T08:24:32.158Z",
+      "total": 774,
       "drafts": {
         "Main Story/Index.md": {
-          "total": 0,
+          "total": 774,
           "scenes": {
             "The College of the Unheard Prologue": 0,
             "The College of the Unheard Chapter 1": 0,
-            "The College of the Unheard Chapter Two": 0
+            "The College of the Unheard Chapter Two": 0,
+            "Ending": 774
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-09-02T01:22:03.556Z",
+      "total": 2401,
+      "drafts": {
+        "Main Story/Index.md": {
+          "total": 2401,
+          "scenes": {
+            "The College of the Unheard Prologue": 0,
+            "The College of the Unheard Chapter 1": 0,
+            "The College of the Unheard Chapter Two": 0,
+            "Ending": 2401
           }
         }
       }

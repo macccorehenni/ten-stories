@@ -8,6 +8,7 @@ longform:
     - The College of the Unheard Prologue
     - The College of the Unheard Chapter 1
     - The College of the Unheard Chapter Two
+    - Ending
   ignoredFiles:
     - Main Story
     - README

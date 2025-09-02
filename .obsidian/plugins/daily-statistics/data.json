@@ -23,20 +23,22 @@
     "2025-08-24": 1512,
     "2025-08-26": 1462,
     "2025-08-29": 442,
-    "2025-08-31": 554
+    "2025-08-31": 554,
+    "2025-09-01": 2377,
+    "2025-09-02": 754
   },
   "todayWordCount": {
-    "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 5690,
-      "current": 6218
+    "Main Story/Ending.md": {
+      "initial": 2380,
+      "current": 3130
     },
-    "Main Story/The College of the Unheard Chapter 1.md": {
-      "initial": 3704,
-      "current": 3718
+    "Main Story/Index.md": {
+      "initial": 46,
+      "current": 46
     },
-    "Main Story/The College of the Unheard Prologue.md": {
-      "initial": 1763,
-      "current": 1775
+    "Main Story/README.md": {
+      "initial": 55,
+      "current": 59
     }
   },
   "weeklyPlan": {

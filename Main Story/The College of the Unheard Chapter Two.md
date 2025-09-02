@@ -470,8 +470,13 @@ Hades nodded, as Elvy landed on his large, arched back. Mariana pulled away, in 
 Elvy ignored him, instead conversating with the tawny falcon.
 
 "I'm okay, getting my preening done. I know you don't like when I do it to you, Elvy." Elvy smiled, acknowledging Hades' half-apology. Hades' beak was too sharp and large for his hide.
+
 "I understand that is how you see love, Hades. No need to apologize, as long as you don't break my hide."
+
 "That's me, yes. Remind me of yours?" Her blue hair bobbed in and out of view as she ducked behind various shades of tan and grey feathers, combing to find stray logs now. It took, between Iris and Mariana's efforts, a few hours to clean his feathers. His immense size sometimes meant that they would need to employ Costa and Charry's help to burn off larger pieces of debris.
+
 "Deviân. Nice to meet you. Why an elephant?"
-"I dunno." Iris replied, shrugging her shoulders as Elvy smiled, sighing and settling in on Hades' down. 
-Suddenly though, as Deviân sat, talking to 
+
+"I dunno." Iris replied, shrugging her shoulders as Elvy smiled, sighing and settling in on Hades' down.
+
+Suddenly though, as Deviân sat, talking to

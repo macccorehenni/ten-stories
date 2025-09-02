@@ -162,7 +162,7 @@ Badges: Ten, Loud Ones, Mind reader, Honor, Two Snakes, Youngest Faction, 1st 2Y
 
 Tryout song: Cole’s Response/Yaekelore
 
-Species: Half dragonborn
+Species: Brass half dragonborn
 
 Home realm: Ethryia
 
@@ -399,7 +399,7 @@ Age: 21
 
 Mount:
 
-Power: Light manipulation
+Power: Mineralcrafting
 
 Badges: Ten, Overlands, light manipulation
 
