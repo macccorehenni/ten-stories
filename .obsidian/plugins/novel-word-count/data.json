@@ -71,6 +71,33 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Tags/Tags.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951166134,
+      "modifiedDate": 1755951166134,
+      "sizeInBytes": 50,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "The Rapture/The Rapture.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -152,33 +179,6 @@
         "newlineCount": 0
       }
     },
-    "Tags/Tags.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1755951166134,
-      "modifiedDate": 1755951166134,
-      "sizeInBytes": 50,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "pass": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -206,8 +206,8 @@
         "newlineCount": 0
       }
     },
-    "One-offs/Descriptions of Characters.md": {
-      "isCountable": false,
+    "Aeverath and the Shadow/The Shadow.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -221,9 +221,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1755951166118,
-      "modifiedDate": 1755951166118,
-      "sizeInBytes": 2240,
+      "createdDate": 1755951164016,
+      "modifiedDate": 1755951164016,
+      "sizeInBytes": 14945,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Aeverath and the Shadow/Aeverath and the Shadow.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951164016,
+      "modifiedDate": 1755951164016,
+      "sizeInBytes": 52,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -278,6 +305,33 @@
       "createdDate": 1755951166118,
       "modifiedDate": 1756262940214,
       "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "One-offs/Descriptions of Characters.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951166118,
+      "modifiedDate": 1755951166118,
+      "sizeInBytes": 2240,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -422,33 +476,6 @@
         "newlineCount": 0
       }
     },
-    "Mythos/Mythrian species/Echoclads.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1756258643150,
-      "modifiedDate": 1756260676059,
-      "sizeInBytes": 862,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Mythos/Mythrian species/Dragonspires.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -467,6 +494,33 @@
       "createdDate": 1756254585847,
       "modifiedDate": 1756259712146,
       "sizeInBytes": 304,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Echoclads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756258643150,
+      "modifiedDate": 1756260676059,
+      "sizeInBytes": 862,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -723,29 +777,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3676,
+      "wordCount": 3748,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.253333333333334,
-      "characterCount": 20778,
-      "nonWhitespaceCharacterCount": 16992,
-      "newlineCount": 189,
-      "readingTimeInMinutes": 13.871698113207547,
+      "pageCount": 12.493333333333334,
+      "characterCount": 21179,
+      "nonWhitespaceCharacterCount": 17319,
+      "newlineCount": 192,
+      "readingTimeInMinutes": 14.143396226415094,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Songwalkers"
       ],
       "createdDate": 1756776196406,
-      "modifiedDate": 1756820074983,
-      "sizeInBytes": 20961,
+      "modifiedDate": 1756820681526,
+      "sizeInBytes": 21362,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 12.253333333333334,
-        "wordCount": 3676,
-        "characterCount": 20778,
-        "nonWhitespaceCharacterCount": 16992,
-        "newlineCount": 189
+        "pageCount": 12.493333333333334,
+        "wordCount": 3748,
+        "characterCount": 21179,
+        "nonWhitespaceCharacterCount": 17319,
+        "newlineCount": 192
       },
       "frontmatter": {
         "aliases": [
@@ -825,60 +879,6 @@
       "createdDate": 1755951164016,
       "modifiedDate": 1756052742821,
       "sizeInBytes": 47,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Aeverath and the Shadow/The Shadow.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1755951164016,
-      "modifiedDate": 1755951164016,
-      "sizeInBytes": 14945,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Aeverath and the Shadow/Aeverath and the Shadow.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1755951164016,
-      "modifiedDate": 1755951164016,
-      "sizeInBytes": 52,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

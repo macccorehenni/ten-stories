@@ -192,4 +192,4 @@ Suddenly, the buzz that indicated bond dulling filled her head. The only voice s
 "I can hear you. You better hope this is a suprise of some sort else you may find several of you on the wrong side of Traitorbreaker." Of course she was only joking.
 "If you try to hit me, Ammy, you might find yourself on the wrong side of Verdant, girl! Come find us!" Yae joked, her happiness at having her families back together.
 
-Ammereth thought for a moment. They _could_ be along the River a
+Ammereth thought for a moment. They _could_ be along the River and Riverside Connect, but she doubted so. When Ruby had wielded, she was close enough that she was audible as well, meaning that she wasn't too far. She'd assume that 
