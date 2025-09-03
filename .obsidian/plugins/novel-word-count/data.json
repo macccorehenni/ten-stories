@@ -191,10 +191,10 @@
     "pass": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -202,12 +202,12 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1756922154729,
       "modifiedDate": 1756922154729,
       "sizeInBytes": 0,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
@@ -231,8 +231,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1756922154729,
-      "modifiedDate": 1756922154729,
-      "sizeInBytes": 10264,
+      "modifiedDate": 1756922348981,
+      "sizeInBytes": 9850,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -788,55 +788,73 @@
     "Main Story/manuscript.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 15548,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 51.82666666666667,
+      "characterCount": 89907,
+      "nonWhitespaceCharacterCount": 72552,
+      "newlineCount": 1140,
+      "readingTimeInMinutes": 58.67169811320755,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "The College of the Unheard Prologue"
+      ],
       "createdDate": 1756922154713,
       "modifiedDate": 1756922154713,
       "sizeInBytes": 91109,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 51.82666666666667,
+        "wordCount": 15548,
+        "characterCount": 89907,
+        "nonWhitespaceCharacterCount": 72552,
+        "newlineCount": 1140
+      },
+      "frontmatter": {
+        "aliases": [
+          "The College of the Unheard Prologue"
+        ],
+        "linter-yaml-title-alias": "The College of the Unheard Prologue"
       }
     },
     "Main Story/Main Story.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 15529,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 51.763333333333335,
+      "characterCount": 89768,
+      "nonWhitespaceCharacterCount": 72456,
+      "newlineCount": 1128,
+      "readingTimeInMinutes": 58.6,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "The Academy of the Unheard",
+        "The College of the Unheard, or, the Songwalkers"
+      ],
       "createdDate": 1756922154713,
       "modifiedDate": 1756922154713,
       "sizeInBytes": 91005,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 51.763333333333335,
+        "wordCount": 15529,
+        "characterCount": 89768,
+        "nonWhitespaceCharacterCount": 72456,
+        "newlineCount": 1128
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Academy of the Unheard",
+          "The College of the Unheard, or, the Songwalkers"
+        ],
+        "linter-yaml-title-alias": "The Academy of the Unheard"
       }
     },
     "Main Story/Index.md": {
@@ -855,8 +873,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1756922154713,
-      "modifiedDate": 1756922154713,
-      "sizeInBytes": 349,
+      "modifiedDate": 1756922225220,
+      "sizeInBytes": 334,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -871,12 +889,7 @@
           "title": "Main Story",
           "workflow": "Default Workflow",
           "sceneFolder": "/",
-          "scenes": [
-            "The College of the Unheard Prologue",
-            "The College of the Unheard Chapter 1",
-            "The College of the Unheard Chapter Two",
-            "Ending"
-          ],
+          "scenes": [],
           "ignoredFiles": [
             "Main Story",
             "README",
@@ -924,28 +937,28 @@
     "LICENSE": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1066,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 3.5533333333333332,
+      "characterCount": 7169,
+      "nonWhitespaceCharacterCount": 5821,
+      "newlineCount": 122,
+      "readingTimeInMinutes": 4.022641509433963,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1756922154713,
       "modifiedDate": 1756922154713,
       "sizeInBytes": 7169,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 3.5533333333333332,
+        "wordCount": 1066,
+        "characterCount": 7169,
+        "nonWhitespaceCharacterCount": 5821,
+        "newlineCount": 122
       }
     },
     "Friend Stories/Soren sisters and Mariana.md": {
