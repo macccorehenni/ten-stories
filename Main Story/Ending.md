@@ -217,4 +217,8 @@ Avery interrupted his handler, asking if her request had to do with the mysterio
 
 Especially since she felt that it was, almost intentionally, complex. But then another thought came to her—
 
-"Avery, change of plans." As she switched out of her lounging clothes she had been wearing into her battle outfit— her new one, the one she had worn when staring down the tea
+"Avery, change of plans." As she switched out of her lounging clothes she had been wearing into her battle outfit— her new one, the one she had worn when staring down the cause of her problems, the red and yellow one— she explained her thoughts to her dragon.
+
+"Seems possible" was the only comment from Avery.
+
+"Alright, now where in Aisney— let's try flying over the Riverside first, huh?" What did she have to lose, after all? It would take but ten minutes to canvas the entirety of the Riverside Connect, one of three major highways that crossed the Ilford Approch Valley which the College of the Unheard had claimed as its own. 
