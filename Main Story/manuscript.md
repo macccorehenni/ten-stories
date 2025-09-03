@@ -1,9 +1,10 @@
 ---
 aliases:
-  - The Academy of the Unheard
-  - The College of the Unheard, or, the Songwalkers
-linter-yaml-title-alias: The Academy of the Unheard
+  - The College of the Unheard Prologue
+linter-yaml-title-alias: The College of the Unheard Prologue
 ---
+
+# The College of the Unheard Prologue
 
 # The Academy of the Unheard
 
@@ -145,6 +146,10 @@ Yae was then able to pick back up the stone and throw it at their bloodied body,
 After the song finished, Anna got taken to the hospital, with her final words through the bonds being, "You're in charge, Celesteia."
 
 [^1]: Static-P.  Nightmares.
+
+---
+
+# The College of the Unheard Chapter 1
 
 # Chapter 1 — And Thus, the Ten
 
@@ -455,6 +460,10 @@ Anna smiled at Celesteia, knowing she was referring to how they had met.
 Everyone else muttered their assent via bonds, and Iris chimed in with "I won't let them land a single blow on ya!"
 
 Anna felt a lot better. Now she knew why Givly was feeling off, and she vowed over her bedtime routine to always protect her sister from another mother, even if it meant giving her life… again… to an unknown, possibly evil entity who had hurt her. But that, Anna thought as she fell asleep in her building, the one she designed and had built, that concern could wait another day.  Or so she thought, anyways.
+
+---
+
+# The College of the Unheard Chapter Two
 
 # The Parents
 
@@ -931,7 +940,9 @@ Elvy ignored him, instead conversating with the tawny falcon.
 
 Suddenly though, as Deviân sat, talking to
 
-# The Songwalkers
+---
+
+# Ending
 
 As they walked into the cave, Yae felt unease. They had been on the run from what seemed to be a bunch of fae demons. This cave seemed to be a dead end. Demons were closing in on the team. But Yae spotted something that could help. The cave was too small for Anna to wield, and many of the others weren't strong enough to wield. Only Yae could, but there was nothing to pick up and throw. Except— the book—
 

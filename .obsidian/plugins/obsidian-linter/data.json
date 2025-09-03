@@ -280,7 +280,13 @@
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [],
+  "lintCommands": [
+    {
+      "id": "obsidian-git:stage-current-file",
+      "name": "Git: Stage current file",
+      "enabled": true
+    }
+  ],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "multi-line",

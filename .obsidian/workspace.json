@@ -57,6 +57,16 @@
             }
           },
           {
+            "id": "daca39cc9f0ced1e",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          },
+          {
             "id": "822a8885b83d106e",
             "type": "leaf",
             "state": {
@@ -67,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -77,7 +87,6 @@
           {
             "id": "3be342ced2ab159e",
             "type": "tabs",
-            "dimension": 50,
             "children": [
               {
                 "id": "5bd39d44784f6a8c",
@@ -99,7 +108,6 @@
           {
             "id": "8f0ef3090a1feb6d",
             "type": "tabs",
-            "dimension": 50,
             "children": [
               {
                 "id": "6f1636e0f37f0477",
@@ -184,7 +192,7 @@
             }
           },
           {
-            "id": "0f1b4938c2d793d1",
+            "id": "bc6b84f7beeef763",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -194,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -271,19 +279,9 @@
               "icon": "lucide-list",
               "title": "Outline of Ending"
             }
-          },
-          {
-            "id": "2a590ebe2834b1ac",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -313,22 +311,24 @@
       "youhavebeenstaring-plugin:Start/stop staring counter": false
     }
   },
-  "active": "822a8885b83d106e",
+  "active": "09bd82a96ce911be",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Ending.md",
+    "The Rapture/The Problem.md",
+    "The Rapture/Main Story/Main Story.md",
+    "Main Story/Main Story.md",
+    "Friend Stories/Friend Stories.md",
+    "Friend Stories/Soren sisters and Mariana.md",
+    "Main Story/manuscript.md",
     "Main Story/README.md",
     "Main Story/Index.md",
     "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
     "Main Story/The College of the Unheard Chapter 1.md",
-    "The Rapture/Main Story/Main Story.md",
     "The Rapture/Main Story",
-    "Main Story/Main Story.md",
     "The Rapture/Main Story/Index.md",
-    "The Rapture/The Problem.md",
     "Mythos/Mythrian species/Mythrian species.md",
-    "Friend Stories/Friend Stories.md",
     "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Mythos/Mythos.md",
     "Mythos/Mythrian species/Dragonspires.md",
@@ -341,8 +341,6 @@
     "Mythos/Mythrian species/Echoclads.md",
     "Mythos/Mythrian species/Feybloom.md",
     "One-offs/Daily Routine of the Ten.md",
-    "One-offs/College of the Unheard Orientation.md",
-    "Mythos/Untitled.md",
     "Mythos/Mythrian species",
     "Species lores/Untitled",
     "Mythos",

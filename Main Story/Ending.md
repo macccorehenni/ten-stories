@@ -1,7 +1,10 @@
 ---
 aliases:
   - The Songwalkers
+linter-yaml-title-alias: The Songwalkers
 ---
+
+# The Songwalkers
 
 As they walked into the cave, Yae felt unease. They had been on the run from what seemed to be a bunch of fae demons. This cave seemed to be a dead end. Demons were closing in on the team. But Yae spotted something that could help. The cave was too small for Anna to wield, and many of the others weren't strong enough to wield. Only Yae could, but there was nothing to pick up and throw. Except— the book—
 
@@ -166,7 +169,7 @@ She pokes her halberd— Traitorbreaker— into his neck, and twists.
 
 "This is for Ethryia, Feydor, and Danae, not to mention the Feywild. You fool, pray the Gods feel pity on your victims."
 
-"You… realize that… " Elyvia stutters as his neck gushes out
+"You… realize that… " Elyvia stutters as his neck gushes out, blood spraying over the white marble floors,
 
 She pulls it out, plunging it in again quickly.
 
@@ -184,12 +187,24 @@ She starts to walks out, but a bout of vertigo takes her. Her power started fill
 
 ---
 
-She awoke to find a weird mark on the inside of her left arm. "So, this is the mark of the Archfey, then." She looked at her face in a mirror. At least becoming the most powerful fae–blooded didn't change her face in any meaningful way. "Givly, are you awake?" She heard Iris shouting for her sister. She attempted to call out for Iris audibly, but eventually settled for bonds. Even that was a struggle— where was Avery?
+She awoke several weeks later to find a weird mark on the inside of her left arm. "So, this is the mark of the Archfey, then." She looked at her face in a mirror. At least becoming the most powerful fae–blooded didn't change her face in any meaningful way. "Givly, are you awake?" She heard Iris shouting for her sister. She attempted to call out for Iris audibly, but eventually settled for bonds. Even that was a struggle— where was Avery?
 
 Suddenly, the buzz that indicated bond dulling filled her head. The only voice she could hear through bonds was Ruby's, and she was laughing.
 
-"Is this how you treat the Archfey, everyone?" Ammereth, despite her confusion and anxiety, said, mostly to herself. She took an inventory of her body, and all parts were working as expected. She started to take steps but stumbled. She found her feet and then found Ruby slipping on her wield. 
-"I can hear you. You better hope this is a suprise of some sort else you may find several of you on the wrong side of Traitorbreaker." Of course she was only joking.
+"Is this how you treat the Archfey, everyone?" Ammereth, despite her confusion and anxiety, said, mostly to herself. She took an inventory of her body, and all parts were working as expected. She started to take steps but stumbled. She found her feet and then found Ruby slipping on her wield.
+
+"I can hear you. You better hope this is a suprise of some sort else you may find several of you on the wrong side of Traitorbreaker." Of course she was only joking. Or was she?
+
 "If you try to hit me, Ammy, you might find yourself on the wrong side of Verdant, girl! Come find us!" Yae joked, her happiness at having her families back together.
 
-Ammereth thought for a moment. They _could_ be along the River and Riverside Connect, but she doubted so. When Ruby had wielded, she was close enough that she was audible as well, meaning that she wasn't too far. She'd assume that they're close enough for bonds. What bothered her was that she could still hear them, farther away. One of her teammates— her sister was saying something about being in Ilford Hotel? Followed by another of the girls— judging by her loud, harsh laughter, that was Irin. So, they were in Ilford, huh? But, her senses— sharper than usual, she noticed— told her they split between the City, Ilford, and— weird
+Ammereth thought for a moment. They _could_ be along the River and Riverside Connect, but she doubted so. When Ruby had wielded, she was close enough that she was audible as well, meaning that she wasn't too far. She'd assume that they're close enough for bonds. What bothered her was that she could still hear them, farther away. One of her teammates— her sister was saying something about being in Ilford Hotel? Followed by another of the girls— judging by her loud, harsh laughter, that was Irin. So, they were in Ilford, huh? But, her senses— sharper than usual, she noticed— told her they split between the City, Ilford, and— weirdly enough, the Grove? She felt some party was in order; after all, the date that the Ten, or the Songwalkers, had chosen for the Soren sisters' birthday had passed during their time beyond the Feyveil. But, her newfound enhanced senses from her gaining the power of the Archfey also told her that several of these were red herrings, set out to distract her. Why the Grove?
+
+"Avery!" Her duskscale dragon— a cross between black and, weirdly enough, bronze, came to her.
+
+"Yes, fey one?" he responded through bonds.
+
+Ammareth rolled her eyes. Over the past few hours after her awakening, Avery had started using what seemed to be a more formal title. "Now you're becoming more like sister's mount, you know." She grumbled at her dragon, much like Givly did at Emmersun when he first called her "little one". Honestly, Emmy was more correct in calling her handler "little one"; after all, she _was_ the littlest of the Songwalkers. But Avery calling Ammareth "fey one"? Ammy felt that calling her fae was a misnomer, though slight. She wasn't a faerie, she was still a teifling. She ruffled her messy head of hair, and confusingly felt a perfect braid in addition to her horns she expected. 
+
+"You know you don't need to call me 'fey one', right, Avi?" she half stated, half commanded.
+
+"I do, but "

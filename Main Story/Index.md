@@ -13,4 +13,5 @@ longform:
     - Main Story
     - README
     - Untitled
+    - manuscript
 ---

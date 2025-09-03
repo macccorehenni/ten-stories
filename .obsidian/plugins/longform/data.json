@@ -6,16 +6,31 @@
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2025-09-02T08:24:32.158Z",
-      "total": 1488,
+      "start": "2025-09-03T14:52:20.033Z",
+      "total": 35,
       "drafts": {
         "Main Story/Index.md": {
-          "total": 1488,
+          "total": 35,
           "scenes": {
             "The College of the Unheard Prologue": 0,
             "The College of the Unheard Chapter 1": 0,
             "The College of the Unheard Chapter Two": 0,
-            "Ending": 1488
+            "Ending": 35
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-09-02T08:24:32.158Z",
+      "total": 1697,
+      "drafts": {
+        "Main Story/Index.md": {
+          "total": 1697,
+          "scenes": {
+            "The College of the Unheard Prologue": 0,
+            "The College of the Unheard Chapter 1": 0,
+            "The College of the Unheard Chapter Two": 0,
+            "Ending": 1697
           }
         }
       }
@@ -112,7 +127,7 @@
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",
-      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "description": "",
       "steps": [
         {
           "id": "strip-frontmatter",
@@ -126,23 +141,22 @@
           }
         },
         {
-          "id": "prepend-title",
+          "id": "concatenate-text",
           "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
+            "separator": "\\n\\n\\n\\n"
           }
         },
         {
-          "id": "concatenate-text",
+          "id": "add-frontmatter",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "frontmatter": "aliases: \"The College of the Unheard, or, the Songwalkers\""
           }
         },
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "manuscript.md",
-            "open-after": true
+            "target": "$1.md",
+            "open-after": false
           }
         }
       ]

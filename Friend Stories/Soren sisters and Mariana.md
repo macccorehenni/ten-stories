@@ -1,5 +1,4 @@
 ---
-word-goal: 1000
 aliases:
   - Soren Sisters and Mariana— Speaking of Their Tragic Pasts
   - Pasts

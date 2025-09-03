@@ -58,6 +58,18 @@
       "icon": "right-arrow",
       "name": "Toggle right sidebar",
       "mode": "any"
+    },
+    {
+      "id": "themed-discord-rpc:reconnect-discord",
+      "icon": "links-coming-in",
+      "name": "Discord",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:backup-and-close",
+      "icon": "lucide-x-octagon",
+      "name": "Push then close",
+      "mode": "any"
     }
   ],
   "pageHeader": [
