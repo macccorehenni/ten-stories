@@ -203,8 +203,11 @@ Ammereth thought for a moment. They _could_ be along the River and Riverside Con
 
 "Yes, fey one?" he responded through bonds.
 
-Ammareth rolled her eyes. Over the past few hours after her awakening, Avery had started using what seemed to be a more formal title. "Now you're becoming more like sister's mount, you know." She grumbled at her dragon, much like Givly did at Emmersun when he first called her "little one". Honestly, Emmy was more correct in calling her handler "little one"; after all, she _was_ the littlest of the Songwalkers. But Avery calling Ammareth "fey one"? Ammy felt that calling her fae was a misnomer, though slight. She wasn't a faerie, she was still a teifling. She ruffled her messy head of hair, and confusingly felt a perfect braid in addition to her horns she expected. 
+Ammareth rolled her eyes. Over the past few hours after her awakening, Avery had started using what seemed to be a more formal title. "Now you're becoming more like sister's mount, you know." She grumbled at her dragon, much like Givly did at Emmersun when he first called her "little one". Honestly, Emmy was more correct in calling her handler "little one"; after all, she _was_ the littlest of the Songwalkers. But Avery calling Ammareth "fey one"? Ammy felt that calling her fae was a misnomer, though slight. She wasn't a faerie, she was still a teifling. She ruffled her messy head of hair, and confusingly felt a perfect braid in addition to her horns she expected.
 
 "You know you don't need to call me 'fey one', right, Avi?" she half stated, half commanded.
 
-"I do, but "
+"I do, but I will not yield." The duskscale bowed his head and then asked his handler, "You called?"
+
+"Well, I wanted to—"
+Avery interrupted his handler, asking if her request had to do with the mysterious puzzle of _where_ her team was, 

@@ -79,7 +79,7 @@
                 }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 3,
             "stacked": true
           },
           {
@@ -89,6 +89,7 @@
               {
                 "id": "3be342ced2ab159e",
                 "type": "tabs",
+                "dimension": 54.848484848484844,
                 "children": [
                   {
                     "id": "5bd39d44784f6a8c",
@@ -110,6 +111,7 @@
               {
                 "id": "8f0ef3090a1feb6d",
                 "type": "tabs",
+                "dimension": 45.151515151515156,
                 "children": [
                   {
                     "id": "6f1636e0f37f0477",
@@ -140,11 +142,11 @@
         "type": "split",
         "children": [
           {
-            "id": "f0f863a4cbf2fd48",
+            "id": "43ab87059a4aa844",
             "type": "tabs",
             "children": [
               {
-                "id": "9aaccf3a1e4647f3",
+                "id": "7ec58d1ba055b8f4",
                 "type": "leaf",
                 "state": {
                   "type": "vertical-tabs",
@@ -154,7 +156,20 @@
                 }
               },
               {
-                "id": "a23c26153f5c3317",
+                "id": "21b9871aed5ae18a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "6efeba0bfce7e451",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -171,7 +186,7 @@
                 }
               },
               {
-                "id": "de37c442e580286f",
+                "id": "f2f12fbaa140bb5a",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -181,20 +196,7 @@
                 }
               },
               {
-                "id": "ba5d29911bedc691",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "629a3a5f1c178a6b",
+                "id": "12523f090718a8ae",
                 "type": "leaf",
                 "state": {
                   "type": "mk-path-view",
@@ -203,8 +205,7 @@
                   "title": "Navigator"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
@@ -273,13 +274,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Main Story/Ending.md",
+                    "file": "One-offs/The Ten and their Powers and Badges.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Ending"
+                  "title": "Outline of The Ten and their Powers and Badges"
                 }
               }
             ],
@@ -314,7 +315,7 @@
         }
       },
       "active": "5bd39d44784f6a8c",
-      "mtime": "2025-09-02T01:57:49-07:00",
+      "mtime": "2025-09-03T08:20:33-07:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "Main Story",

@@ -74,21 +74,9 @@
   ],
   "pageHeader": [
     {
-      "id": "obsidian-hider:toggle-tab-containers",
-      "icon": "tabs",
-      "name": "Tabs ",
-      "mode": "any"
-    },
-    {
       "id": "app:reload",
       "icon": "lucide-rotate-ccw",
       "name": "Reload app without saving",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-hider:toggle-hider-status",
-      "icon": "lucide-arrow-down-to-dot",
-      "name": "Status",
       "mode": "any"
     },
     {
@@ -96,9 +84,35 @@
       "icon": "lucide-save",
       "name": "Save current file",
       "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-focus",
+      "name": "Focus",
+      "mode": "any"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-hider:toggle-hider-status"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hider:toggle-tab-containers"
+        }
+      ],
+      "name": "Focus mode",
+      "icon": "lucide-focus",
+      "startup": false
+    }
+  ],
   "explorer": [
     {
       "id": "obsidian-better-command-palette:open-better-commmand-palette",

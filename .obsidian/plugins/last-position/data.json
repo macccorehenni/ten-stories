@@ -3,8 +3,12 @@
   "myRetryCount": 30,
   "scrollHeightData": {
     "Main Story/Ending.md": {
-      "height": 203.05859375,
-      "lastAccessed": 1756911917856
+      "height": 205.46044921875,
+      "lastAccessed": 1756913145884
+    },
+    "Main Story/Main Story.md": {
+      "height": 6,
+      "lastAccessed": 1756912700218
     }
   },
   "listenEvent": "mouseover",
