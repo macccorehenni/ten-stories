@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d246e374cb2ae273",
+            "id": "09bd82a96ce911be",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-explorer",
               "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of The Ten and their Powers and Badges"
-            },
-            "group": "add9aa166098afd8"
-          },
-          {
-            "id": "23e6c3bbaa9b5f43",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,17 +31,30 @@
             }
           },
           {
-            "id": "09bd82a96ce911be",
+            "id": "23e6c3bbaa9b5f43",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
             }
+          },
+          {
+            "id": "d246e374cb2ae273",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Ten and their Powers and Badges"
+            },
+            "group": "1a4a27a9847decbd"
           },
           {
             "id": "daca39cc9f0ced1e",
@@ -124,7 +124,7 @@
                   "icon": "lucide-file",
                   "title": "The Ten and their Powers and Badges"
                 },
-                "group": "add9aa166098afd8"
+                "group": "1a4a27a9847decbd"
               }
             ],
             "stacked": true
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "4115376b81be3f5e",
+            "id": "ff11c5003a7155d9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -313,10 +313,10 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "daca39cc9f0ced1e",
+  "active": "6f1636e0f37f0477",
   "lastOpenFiles": [
-    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Ending.md",
+    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",
     "The Rapture/Main Story/Main Story.md",
