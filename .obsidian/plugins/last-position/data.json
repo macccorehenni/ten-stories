@@ -3,12 +3,16 @@
   "myRetryCount": 30,
   "scrollHeightData": {
     "Main Story/Ending.md": {
-      "height": 205.46044921875,
-      "lastAccessed": 1756913145884
+      "height": 205.93961588541666,
+      "lastAccessed": 1756914000872
     },
     "Main Story/Main Story.md": {
       "height": 6,
       "lastAccessed": 1756912700218
+    },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "height": 3.7815126050420167,
+      "lastAccessed": 1756914004110
     }
   },
   "listenEvent": "mouseover",

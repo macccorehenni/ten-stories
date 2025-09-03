@@ -210,4 +210,7 @@ Ammareth rolled her eyes. Over the past few hours after her awakening, Avery had
 "I do, but I will not yield." The duskscale bowed his head and then asked his handler, "You called?"
 
 "Well, I wanted to—"
-Avery interrupted his handler, asking if her request had to do with the mysterious puzzle of _where_ her team was, 
+
+Avery interrupted his handler, asking if her request had to do with the mysterious puzzle of _where_ her team was, and said he could not help if that was the case. Ammereth felt frustration, but then— her thoughts, changed both by the hormonal struggles that came with being a teen, and those coming with power one never asked for, went to the Grove. She realized, with a jolt that momentarily flighted Avery, that she could more than likely find one or more of her teammates, or if anything, a clue, at the site of her sister's parent's accidents.
+
+"Let's go to the Summerfrost and look around where the accident was." Ammerath

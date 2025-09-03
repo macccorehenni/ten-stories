@@ -47,9 +47,9 @@
     "//Friend Stories",
     "//The Rapture/The Rapture/Main Story",
     "//The Rapture",
-    "//One-offs",
+    "//Main Story",
     "/",
-    "//Main Story"
+    "//One-offs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

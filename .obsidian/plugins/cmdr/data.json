@@ -56,7 +56,7 @@
     {
       "id": "app:toggle-right-sidebar",
       "icon": "right-arrow",
-      "name": "Toggle right sidebar",
+      "name": "Sidebar",
       "mode": "any"
     },
     {
@@ -70,15 +70,15 @@
       "icon": "lucide-x-octagon",
       "name": "Push then close",
       "mode": "any"
-    }
-  ],
-  "pageHeader": [
+    },
     {
       "id": "app:reload",
       "icon": "lucide-rotate-ccw",
-      "name": "Reload app without saving",
+      "name": "Relaumch",
       "mode": "any"
-    },
+    }
+  ],
+  "pageHeader": [
     {
       "id": "editor:save-file",
       "icon": "lucide-save",
