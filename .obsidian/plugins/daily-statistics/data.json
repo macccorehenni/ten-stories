@@ -33,17 +33,19 @@
     "One-offs/The Ten and their Powers and Badges.md": {
       "initial": 1475,
       "current": 1475
+    },
+    "Main Story/Ending.md": {
+      "initial": 4429,
+      "current": 4429
+    },
+    "conflict-files-obsidian-git.md": {
+      "initial": 155,
+      "current": 155
     }
   },
   "weeklyPlan": {
     "2025_33": 10000,
     "2025_34": 8000
   },
-  "currentManuallyModifyWordCount": 0,
-  "dataFile": "",
-  "statisticsFolder": "",
-  "excludeFolder": "",
-  "statisticsWord": true,
-  "enablePlan": true,
-  "weekStart": 0
+  "currentManuallyModifyWordCount": 0
 }

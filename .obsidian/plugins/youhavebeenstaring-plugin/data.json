@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "totalUptime": 87270000,
   "lastLoad": 1756985853328,
   "currentSessionDuration": 4800000,
+=======
+  "totalUptime": 84583000,
+  "lastLoad": 1756924721861,
+  "currentSessionDuration": 600000,
+>>>>>>> origin/def
   "showTotalUptimeInStatusBar": false,
   "displayStaringTimeAsHumanString": true,
   "staringText": "Time open:",

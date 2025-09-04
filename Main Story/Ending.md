@@ -213,4 +213,12 @@ Ammareth rolled her eyes. Over the past few hours after her awakening, Avery had
 
 Avery interrupted his handler, asking if her request had to do with the mysterious puzzle of _where_ her team was, and said he could not help if that was the case. Ammereth felt frustration, but then— her thoughts, changed both by the hormonal struggles that came with being a teen, and those coming with power one never asked for, went to the Grove. She realized, with a jolt that momentarily flighted Avery, that she could more than likely find one or more of her teammates, or if anything, a clue, at the site of her sister's parent's accidents.
 
-"Let's go to the Summerfrost and look around where the accident was." Ammerath
+"Let's go to the Summerfrost and look around where the accident was." Ammerath frowned. She realized that that was gonna be a bit harder to do, given that Elder's Grove was about forty-five minutes away from the College by flight. But she felt like it was— waiiit, was another in Aisney? She swore she heard Roxy, her normal nervous self, towards that way. Even more disillusioning was that she could hear Costa further out, all the way in End City— in Danae! This _must_ be some test of her intuition powers thought up by Yae, thought Ammy.
+
+Especially since she felt that it was, almost intentionally, complex. But then another thought came to her—
+
+"Avery, change of plans." As she switched out of her lounging clothes she had been wearing into her battle outfit— her new one, the one she had worn when staring down the cause of her problems, the red and yellow one— she explained her thoughts to her dragon.
+
+"Seems possible" was the only comment from Avery.
+
+"Alright, now where in Aisney— let's try flying over the Riverside first, huh?" What did she have to lose, after all? It would take but ten minutes to canvas the entirety of the Riverside Connect, one of three major highways that crossed the Ilford Approch Valley which the College of the Unheard had claimed as its own. 

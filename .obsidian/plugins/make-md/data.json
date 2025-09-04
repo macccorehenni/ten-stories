@@ -47,9 +47,9 @@
     "//Friend Stories",
     "//The Rapture/The Rapture/Main Story",
     "//The Rapture",
+    "//One-offs",
     "//Main Story",
-    "/",
-    "//One-offs"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -61,6 +61,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
