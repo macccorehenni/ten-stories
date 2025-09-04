@@ -3,8 +3,8 @@
   "myRetryCount": 30,
   "scrollHeightData": {
     "Main Story/Ending.md": {
-      "height": 205.93961588541666,
-      "lastAccessed": 1756914000872
+      "height": 168.75,
+      "lastAccessed": 1756995935010
     },
     "Main Story/Main Story.md": {
       "height": 6,
@@ -17,6 +17,10 @@
     "conflict-files-obsidian-git.md": {
       "height": 10.171800947867299,
       "lastAccessed": 1756994442319
+    },
+    "Main Story/The College of the Unheard Chapter Two.md": {
+      "height": 467.5354817708333,
+      "lastAccessed": 1756996565788
     }
   },
   "listenEvent": "mouseover",

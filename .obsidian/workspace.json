@@ -13,13 +13,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One-offs/The Ten and their Powers and Badges.md",
+                "file": "One-offs/Daily Routine of the Ten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Ten and their Powers and Badges"
+              "title": "Outline of Daily Routine of the Ten"
             },
             "group": "add9aa166098afd8"
           },
@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "daca39cc9f0ced1e",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          },
+          {
             "id": "09bd82a96ce911be",
             "type": "leaf",
             "state": {
@@ -54,16 +64,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "daca39cc9f0ced1e",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
             }
           },
           {
@@ -95,12 +95,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Main Story/Ending.md",
+                    "file": "Main Story/The College of the Unheard Chapter Two.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ending"
+                  "title": "The College of the Unheard Chapter Two"
                 }
               }
             ],
@@ -117,12 +117,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "One-offs/The Ten and their Powers and Badges.md",
+                    "file": "One-offs/Daily Routine of the Ten.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Ten and their Powers and Badges"
+                  "title": "Daily Routine of the Ten"
                 },
                 "group": "add9aa166098afd8"
               }
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "25cc1dfc9b978ff3",
+            "id": "28d8501c8fb923b2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -314,9 +314,11 @@
   },
   "active": "09bd82a96ce911be",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Ending.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
+    "One-offs/Daily Routine of the Ten.md",
+    "One-offs/The Ten and their Powers and Badges.md",
+    "conflict-files-obsidian-git.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",
     "The Rapture/Main Story/Main Story.md",
@@ -325,7 +327,6 @@
     "Main Story/manuscript.md",
     "Main Story/README.md",
     "Main Story/Index.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
     "Main Story/The College of the Unheard Chapter 1.md",
     "The Rapture/Main Story",
@@ -341,7 +342,6 @@
     "Dragonspire resonant.pdf",
     "Mythos/Mythrian species/Dragonspire resonant.md",
     "Mythos/Mythrian species/Echoclads.md",
-    "Mythos/Mythrian species/Feybloom.md",
     "Mythos/Mythrian species",
     "Species lores/Untitled",
     "Mythos",

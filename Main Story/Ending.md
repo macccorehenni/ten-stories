@@ -221,4 +221,4 @@ Especially since she felt that it was, almost intentionally, complex. But then a
 
 "Seems possible" was the only comment from Avery.
 
-"Alright, now where in Aisney— let's try flying over the Riverside first, huh?" What did she have to lose, after all? It would take but ten minutes to canvas the entirety of the Riverside Connect, one of three major highways that crossed the Ilford Approch Valley which the College of the Unheard had claimed as its own. 
+"Alright, now where in Aisney— let's try flying over the Riverside first, huh?" What did she have to lose, after all? It would take but ten minutes to canvas the entirety of the Riverside Connect, one of three major highways that crossed the Ilford Approch Valley which the College of the Unheard had claimed as its own.

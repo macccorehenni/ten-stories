@@ -71,130 +71,13 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "The Rapture/The Rapture.md": {
+    "Aeverath and the Shadow/The Shadow.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756049182823,
-      "modifiedDate": 1756049220720,
-      "sizeInBytes": 47,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 29,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
-    "The Rapture/The Problem.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1783,
-      "wordCountTowardGoal": 1783,
-      "wordGoal": 8000,
-      "pageCount": 5.943333333333333,
-      "characterCount": 10209,
-      "nonWhitespaceCharacterCount": 8325,
-      "newlineCount": 165,
-      "readingTimeInMinutes": 6.728301886792453,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756049356603,
-      "modifiedDate": 1756853807538,
-      "sizeInBytes": 10419,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.943333333333333,
-        "wordCount": 1783,
-        "characterCount": 10209,
-        "nonWhitespaceCharacterCount": 8325,
-        "newlineCount": 165
-      },
-      "frontmatter": {
-        "word-goal": 8000
-      }
-    },
-    "The Rapture/Main Story/Main Story.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
+      "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 6,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756520087840,
-      "modifiedDate": 1756520094223,
-      "sizeInBytes": 8,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 6,
-        "newlineCount": 3
-      }
-    },
-    "Tags/Tags.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 30,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755951166134,
-      "modifiedDate": 1755951166134,
-      "sizeInBytes": 50,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 30,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 3
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
-    "pass": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
+      "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -202,12 +85,174 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
+      "createdDate": 1755951164016,
+      "modifiedDate": 1755951164016,
+      "sizeInBytes": 14945,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Aeverath and the Shadow/Aeverath and the Shadow.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951164016,
+      "modifiedDate": 1755951164016,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "The Rapture/The Rapture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756049182823,
+      "modifiedDate": 1756049220720,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "The Rapture/The Problem.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756049356603,
+      "modifiedDate": 1756853807538,
+      "sizeInBytes": 10419,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "The Rapture/Main Story/Main Story.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756520087840,
+      "modifiedDate": 1756520094223,
+      "sizeInBytes": 8,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Tags/Tags.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951166134,
+      "modifiedDate": 1755951166134,
+      "sizeInBytes": 50,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "pass": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
       "createdDate": 1755951166134,
       "modifiedDate": 1755951166134,
       "sizeInBytes": 0,
       "sessionStart": {
-        "noteCount": 1,
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
@@ -233,6 +278,33 @@
       "createdDate": 1755951166118,
       "modifiedDate": 1756812605342,
       "sizeInBytes": 9850,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "One-offs/One-offs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951166118,
+      "modifiedDate": 1756262940214,
+      "sizeInBytes": 47,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -269,353 +341,13 @@
         "newlineCount": 0
       }
     },
-    "One-offs/One-offs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755951166118,
-      "modifiedDate": 1756262940214,
-      "sizeInBytes": 47,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 29,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
     "One-offs/Daily Routine of the Ten.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 122,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 651,
-      "nonWhitespaceCharacterCount": 522,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.46037735849056605,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Morning Routine of the Ten",
-        "Morning routine"
-      ],
-      "createdDate": 1755951165464,
-      "modifiedDate": 1756260401228,
-      "sizeInBytes": 795,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4066666666666667,
-        "wordCount": 122,
-        "characterCount": 651,
-        "nonWhitespaceCharacterCount": 522,
-        "newlineCount": 9
-      },
-      "frontmatter": {
-        "aliases": [
-          "Morning Routine of the Ten",
-          "Morning routine"
-        ],
-        "sticker": "lucide//sunrise",
-        "linter-yaml-title-alias": "Morning Routine of the Ten"
-      }
-    },
-    "One-offs/College of the Unheard Orientation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 916,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.0533333333333332,
-      "characterCount": 5554,
-      "nonWhitespaceCharacterCount": 4546,
-      "newlineCount": 114,
-      "readingTimeInMinutes": 3.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Orientation"
-      ],
-      "createdDate": 1755951165464,
-      "modifiedDate": 1756259618945,
-      "sizeInBytes": 5619,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.0533333333333332,
-        "wordCount": 916,
-        "characterCount": 5554,
-        "nonWhitespaceCharacterCount": 4546,
-        "newlineCount": 114
-      },
-      "frontmatter": {
-        "aliases": [
-          "Orientation"
-        ],
-        "sticker": "lucide//info"
-      }
-    },
-    "Mythos/Mythos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756254352031,
-      "modifiedDate": 1756262952458,
-      "sizeInBytes": 47,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 29,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
-    "Mythos/Mythrian species/Mythrian species.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756254380840,
-      "modifiedDate": 1756254618721,
-      "sizeInBytes": 47,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 29,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
-    "Mythos/Mythrian species/Moonelf.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 299,
-      "nonWhitespaceCharacterCount": 250,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "The Decendents of the Elder"
-      ],
-      "createdDate": 1756254795564,
-      "modifiedDate": 1756263289382,
-      "sizeInBytes": 400,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13333333333333333,
-        "wordCount": 40,
-        "characterCount": 299,
-        "nonWhitespaceCharacterCount": 250,
-        "newlineCount": 13
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Decendents of the Elder"
-        ],
-        "linter-yaml-title-alias": "The Decendents of the Elder"
-      }
-    },
-    "Mythos/Mythrian species/Feybloom.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 92,
-      "nonWhitespaceCharacterCount": 76,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Fey-enhanching Plant"
-      ],
-      "createdDate": 1756259407813,
-      "modifiedDate": 1756261322420,
-      "sizeInBytes": 187,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 92,
-        "nonWhitespaceCharacterCount": 76,
-        "newlineCount": 9
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Fey-enhanching Plant"
-        ],
-        "linter-yaml-title-alias": "The Fey-enhanching Plant"
-      }
-    },
-    "Mythos/Mythrian species/Echoclads.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 765,
-      "nonWhitespaceCharacterCount": 638,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.42641509433962266,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "Fragments of the Memories"
-      ],
-      "createdDate": 1756258643150,
-      "modifiedDate": 1756260676059,
-      "sizeInBytes": 862,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37666666666666665,
-        "wordCount": 113,
-        "characterCount": 765,
-        "nonWhitespaceCharacterCount": 638,
-        "newlineCount": 20
-      },
-      "frontmatter": {
-        "aliases": [
-          "Fragments of the Memories"
-        ],
-        "linter-yaml-title-alias": "Fragments of the Memories"
-      }
-    },
-    "Mythos/Mythrian species/Dragonspires.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 199,
-      "nonWhitespaceCharacterCount": 173,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": [
-        "Homeland of the Mythrian Sp."
-      ],
-      "createdDate": 1756254585847,
-      "modifiedDate": 1756259712146,
-      "sizeInBytes": 304,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 199,
-        "nonWhitespaceCharacterCount": 173,
-        "newlineCount": 5
-      },
-      "frontmatter": {
-        "aliases": [
-          "Homeland of the Mythrian Sp."
-        ],
-        "linter-yaml-title-alias": "Homeland of the Mythrian Sp."
-      }
-    },
-    "Mythos/Mythrian species/Dragonspire resonant.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 472,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5733333333333333,
-      "characterCount": 3058,
-      "nonWhitespaceCharacterCount": 2556,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 1.7811320754716982,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "The Veildragon-born",
-        "The Veildragon-born"
-      ],
-      "createdDate": 1756254386340,
-      "modifiedDate": 1756261684069,
-      "sizeInBytes": 3171,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5733333333333333,
-        "wordCount": 472,
-        "characterCount": 3058,
-        "nonWhitespaceCharacterCount": 2556,
-        "newlineCount": 38
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Veildragon-born",
-          "The Veildragon-born"
-        ],
-        "linter-yaml-title-alias": "The Veildragon-born"
-      }
-    },
-    "Main Story/Untitled.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
+      "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
+      "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -623,12 +355,12 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1755951165464,
-      "modifiedDate": 1755951165464,
-      "sizeInBytes": 0,
+      "modifiedDate": 1756260401228,
+      "sizeInBytes": 795,
       "sessionStart": {
-        "noteCount": 1,
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
@@ -636,108 +368,303 @@
         "newlineCount": 0
       }
     },
-    "Main Story/Main Story.md": {
+    "One-offs/College of the Unheard Orientation.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15529,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 51.763333333333335,
-      "characterCount": 88641,
-      "nonWhitespaceCharacterCount": 72456,
-      "newlineCount": 1128,
-      "readingTimeInMinutes": 58.6,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "The Academy of the Unheard",
-        "The College of the Unheard, or, the Songwalkers"
-      ],
-      "createdDate": 1755951165114,
-      "modifiedDate": 1756827739493,
-      "sizeInBytes": 89873,
+      "aliases": [],
+      "createdDate": 1755951165464,
+      "modifiedDate": 1756259618945,
+      "sizeInBytes": 5619,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 51.763333333333335,
-        "wordCount": 15529,
-        "characterCount": 88641,
-        "nonWhitespaceCharacterCount": 72456,
-        "newlineCount": 1128
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Academy of the Unheard",
-          "The College of the Unheard, or, the Songwalkers"
-        ],
-        "linter-yaml-title-alias": "The Academy of the Unheard"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Mythrian species.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756254380840,
+      "modifiedDate": 1756254618721,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Feybloom.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756259407813,
+      "modifiedDate": 1756261322420,
+      "sizeInBytes": 187,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Moonelf.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756254795564,
+      "modifiedDate": 1756263289382,
+      "sizeInBytes": 400,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Echoclads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756258643150,
+      "modifiedDate": 1756260676059,
+      "sizeInBytes": 862,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Dragonspires.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756254585847,
+      "modifiedDate": 1756259712146,
+      "sizeInBytes": 304,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythrian species/Dragonspire resonant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756254386340,
+      "modifiedDate": 1756261684069,
+      "sizeInBytes": 3171,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Mythos/Mythos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1756254352031,
+      "modifiedDate": 1756262952458,
+      "sizeInBytes": 47,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Main Story/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951165464,
+      "modifiedDate": 1755951165464,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/The College of the Unheard Prologue.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1746,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.82,
-      "characterCount": 10146,
-      "nonWhitespaceCharacterCount": 8304,
-      "newlineCount": 143,
-      "readingTimeInMinutes": 6.588679245283019,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "The Academy of the Unheard",
-        "Finale"
-      ],
+      "aliases": [],
       "createdDate": 1755951165464,
       "modifiedDate": 1756678269858,
       "sizeInBytes": 10372,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.82,
-        "wordCount": 1746,
-        "characterCount": 10146,
-        "nonWhitespaceCharacterCount": 8304,
-        "newlineCount": 143
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Academy of the Unheard",
-          "Finale"
-        ],
-        "sticker": "lucide//list-end",
-        "linter-yaml-title-alias": "The Academy of the Unheard"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/The College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6179,
-      "wordCountTowardGoal": 6179,
+      "wordCount": 6342,
+      "wordCountTowardGoal": 6342,
       "wordGoal": 8000,
-      "pageCount": 20.596666666666668,
-      "characterCount": 35435,
-      "nonWhitespaceCharacterCount": 28986,
-      "newlineCount": 476,
-      "readingTimeInMinutes": 23.316981132075473,
+      "pageCount": 21.14,
+      "characterCount": 36360,
+      "nonWhitespaceCharacterCount": 29742,
+      "newlineCount": 482,
+      "readingTimeInMinutes": 23.932075471698113,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Parents"
       ],
       "createdDate": 1755951165464,
-      "modifiedDate": 1756776197965,
-      "sizeInBytes": 36286,
+      "modifiedDate": 1756996547520,
+      "sizeInBytes": 37224,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 20.596666666666668,
-        "wordCount": 6179,
-        "characterCount": 35435,
-        "nonWhitespaceCharacterCount": 28986,
-        "newlineCount": 476
+        "pageCount": 21.14,
+        "wordCount": 6342,
+        "characterCount": 36360,
+        "nonWhitespaceCharacterCount": 29742,
+        "newlineCount": 482
       },
       "frontmatter": {
         "aliases": [
@@ -751,338 +678,244 @@
     "Main Story/The College of the Unheard Chapter 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3684,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.28,
-      "characterCount": 20876,
-      "nonWhitespaceCharacterCount": 17018,
-      "newlineCount": 311,
-      "readingTimeInMinutes": 13.90188679245283,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "Chapter 1 — And Thus, the Ten",
-        "And thus, The Ten"
-      ],
+      "aliases": [],
       "createdDate": 1755951165114,
       "modifiedDate": 1756678251204,
       "sizeInBytes": 21127,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 12.28,
-        "wordCount": 3684,
-        "characterCount": 20876,
-        "nonWhitespaceCharacterCount": 17018,
-        "newlineCount": 311
-      },
-      "frontmatter": {
-        "aliases": [
-          "Chapter 1 — And Thus, the Ten",
-          "And thus, The Ten"
-        ],
-        "sticker": "lucide//hourglass",
-        "linter-yaml-title-alias": "Chapter 1 — And Thus, the Ten"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/README.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 283,
-      "nonWhitespaceCharacterCount": 236,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 4,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "College of the Unheard"
-      ],
+      "aliases": [],
       "createdDate": 1755951165114,
       "modifiedDate": 1756804765322,
       "sizeInBytes": 401,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 283,
-        "nonWhitespaceCharacterCount": 236,
-        "newlineCount": 12
-      },
-      "frontmatter": {
-        "sticker": "lucide//book-open",
-        "aliases": [
-          "College of the Unheard"
-        ],
-        "linter-yaml-title-alias": "College of the Unheard"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/manuscript.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15548,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 51.82666666666667,
-      "characterCount": 88768,
-      "nonWhitespaceCharacterCount": 72552,
-      "newlineCount": 1140,
-      "readingTimeInMinutes": 58.67169811320755,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "The College of the Unheard Prologue"
-      ],
+      "aliases": [],
       "createdDate": 1756827196730,
       "modifiedDate": 1756827210473,
       "sizeInBytes": 89966,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 51.82666666666667,
-        "wordCount": 15548,
-        "characterCount": 88768,
-        "nonWhitespaceCharacterCount": 72552,
-        "newlineCount": 1140
-      },
-      "frontmatter": {
-        "aliases": [
-          "The College of the Unheard Prologue"
-        ],
-        "linter-yaml-title-alias": "The College of the Unheard Prologue"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Main Story/Main Story.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1755951165114,
+      "modifiedDate": 1756827739493,
+      "sizeInBytes": 89873,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Main Story/Index.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
+      "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
+      "wordGoal": 0,
       "pageCount": 0,
-      "characterCount": 1,
+      "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
+      "newlineCount": 0,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1756520074505,
       "modifiedDate": 1756911151953,
       "sizeInBytes": 332,
       "sessionStart": {
-        "noteCount": 1,
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
-        "characterCount": 1,
+        "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "longform": {
-          "format": "scenes",
-          "title": "Main Story",
-          "workflow": "Default Workflow",
-          "sceneFolder": "/",
-          "scenes": [],
-          "ignoredFiles": [
-            "Main Story",
-            "README",
-            "Untitled",
-            "manuscript"
-          ]
-        }
+        "newlineCount": 0
       }
     },
     "Main Story/Ending.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4405,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.683333333333334,
-      "characterCount": 25153,
-      "nonWhitespaceCharacterCount": 20402,
-      "newlineCount": 220,
-      "readingTimeInMinutes": 16.62264150943396,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "The Songwalkers"
-      ],
+      "aliases": [],
       "createdDate": 1756776196406,
-      "modifiedDate": 1756994345478,
-      "sizeInBytes": 25409,
+      "modifiedDate": 1756994648220,
+      "sizeInBytes": 25185,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.97,
-        "wordCount": 4191,
-        "characterCount": 23727,
-        "nonWhitespaceCharacterCount": 19414,
-        "newlineCount": 212
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Songwalkers"
-        ],
-        "linter-yaml-title-alias": "The Songwalkers"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "LICENSE": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1066,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.5533333333333332,
-      "characterCount": 7169,
-      "nonWhitespaceCharacterCount": 5821,
-      "newlineCount": 122,
-      "readingTimeInMinutes": 4.022641509433963,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1755951165114,
       "modifiedDate": 1755951165114,
       "sizeInBytes": 7169,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.5533333333333332,
-        "wordCount": 1066,
-        "characterCount": 7169,
-        "nonWhitespaceCharacterCount": 5821,
-        "newlineCount": 122
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Friend Stories/Soren sisters and Mariana.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 363,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.21,
-      "characterCount": 2041,
-      "nonWhitespaceCharacterCount": 1658,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 1.369811320754717,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "Soren Sisters and Mariana— Speaking of Their Tragic Pasts",
-        "Pasts"
-      ],
+      "aliases": [],
       "createdDate": 1755951164016,
       "modifiedDate": 1756853522736,
       "sizeInBytes": 2240,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.21,
-        "wordCount": 363,
-        "characterCount": 2041,
-        "nonWhitespaceCharacterCount": 1658,
-        "newlineCount": 35
-      },
-      "frontmatter": {
-        "aliases": [
-          "Soren Sisters and Mariana— Speaking of Their Tragic Pasts",
-          "Pasts"
-        ],
-        "linter-yaml-title-alias": "Soren Sisters and Mariana— Speaking of Their Tragic Pasts"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Friend Stories/Friend Stories.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1755951164016,
       "modifiedDate": 1756052742821,
       "sizeInBytes": 47,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 29,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
-      }
-    },
-    "Aeverath and the Shadow/The Shadow.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2562,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.54,
-      "characterCount": 14869,
-      "nonWhitespaceCharacterCount": 11999,
-      "newlineCount": 199,
-      "readingTimeInMinutes": 9.667924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755951164016,
-      "modifiedDate": 1755951164016,
-      "sizeInBytes": 14945,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.54,
-        "wordCount": 2562,
-        "characterCount": 14869,
-        "nonWhitespaceCharacterCount": 11999,
-        "newlineCount": 199
-      }
-    },
-    "Aeverath and the Shadow/Aeverath and the Shadow.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 26,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755951164016,
-      "modifiedDate": 1755951164016,
-      "sizeInBytes": 52,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 32,
-        "nonWhitespaceCharacterCount": 26,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": "MOCs"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
