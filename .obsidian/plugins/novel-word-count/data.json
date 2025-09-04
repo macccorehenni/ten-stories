@@ -1084,33 +1084,6 @@
       "frontmatter": {
         "tags": "MOCs"
       }
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 115,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38333333333333336,
-      "characterCount": 1069,
-      "nonWhitespaceCharacterCount": 929,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.4339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756994347205,
-      "modifiedDate": 1756994347234,
-      "sizeInBytes": 1069,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
     }
   }
 }

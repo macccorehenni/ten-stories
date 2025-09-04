@@ -57,20 +57,6 @@
             }
           },
           {
-            "id": "8af662e43504e905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "daca39cc9f0ced1e",
             "type": "leaf",
             "state": {
@@ -91,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -326,10 +312,10 @@
       "youhavebeenstaring-plugin:Start/stop staring counter": false
     }
   },
-  "active": "8af662e43504e905",
+  "active": "09bd82a96ce911be",
   "lastOpenFiles": [
-    "One-offs/The Ten and their Powers and Badges.md",
     "conflict-files-obsidian-git.md",
+    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Ending.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",
