@@ -77,7 +77,6 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       },
       {
@@ -95,12 +94,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Main Story/Ending.md",
+                    "file": "Main Story/The College of the Unheard Chapter Two.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ending"
+                  "title": "The College of the Unheard Chapter Two"
                 }
               }
             ],
@@ -194,7 +193,7 @@
             }
           },
           {
-            "id": "300de91cfbed05cf",
+            "id": "1e1a6f26780f857d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -313,9 +312,10 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "09bd82a96ce911be",
+  "active": "5bd39d44784f6a8c",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/Ending.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",
@@ -325,7 +325,6 @@
     "Main Story/manuscript.md",
     "Main Story/README.md",
     "Main Story/Index.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Prologue.md",
     "Main Story/The College of the Unheard Chapter 1.md",
     "The Rapture/Main Story",

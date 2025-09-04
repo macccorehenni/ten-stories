@@ -479,4 +479,12 @@ Elvy ignored him, instead conversating with the tawny falcon.
 
 "I dunno." Iris replied, shrugging her shoulders as Elvy smiled, sighing and settling in on Hades' down.
 
-Suddenly though, as Deviân sat, talking to
+Suddenly though, as Deviân sat, talking to Iris, Givly came and climbed back onto Hades' back as he chomped away tufts of fur. She sat right next to her friend. She— she saw something of a… was that more of a greater purpose?
+
+"So, isn't this place cool or what?" she asked him.
+
+"Yeah, I guess. Not many of my people would be able to say they sat on a bird."
+
+Givly frowned. "Your people?"
+
+"I… still have no idea how I ended up here." Deviân smiled, more a wistful expression of pain than joy. Something went terribly wrong. Why was he wanted? All he did was—
