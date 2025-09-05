@@ -27,7 +27,7 @@
     "2025-09-01": 2377,
     "2025-09-02": 1706,
     "2025-09-03": 165,
-    "2025-09-04": 51494
+    "2025-09-04": 51655
   },
   "todayWordCount": {
     "One-offs/The Ten and their Powers and Badges.md": {
@@ -48,12 +48,13 @@
     },
     "Main Story/The College of the Unheard Chapter Two.md": {
       "initial": 6218,
-      "current": 36472
+      "current": 36633
     }
   },
   "weeklyPlan": {
     "2025_33": 10000,
-    "2025_34": 8000
+    "2025_34": 8000,
+    "2025_36": 8000
   },
   "currentManuallyModifyWordCount": 0
 }

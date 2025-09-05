@@ -481,8 +481,11 @@ Elvy ignored him, instead conversating with the tawny falcon.
 
 Suddenly though, as Deviân sat, talking to the goddess, Givly climbed up onto the falcon's back and sat on its wing beside Deviân and smiled.
 
-"You know, Givly… you're… special." As he said this, she, subconsciously, perhaps, pulled her almost non-existent bangs over her eyes. Something had changed for the better, and Deviân had noticed. All he could do with this half dragonborn was _notice_, he mused. Both the Sorens were hard to look away from. He may have ended up here on… accident, but he intuitively knew that these girls held the key back to his homeland, away from these… police.  But he felt it would take a while. Why he was in this unfamiliar land he had no idea. But he could _just_ sense that they— they were destined for something. What, he didn't know. 
+"You know, Givly… you're… special." As he said this, she, subconsciously, perhaps, pulled her almost non-existent bangs over her eyes. Something had changed for the better, and Deviân had noticed. All he could do with this half dragonborn was _notice_, he mused. Both the Sorens were hard to look away from. He may have ended up here on… accident, but he intuitively knew that these girls held the key back to his homeland, away from these… police.  But he felt it would take a while. Why he was in this unfamiliar land he had no idea. But he could _just_ sense that they— they were destined for something. What, he didn't know.
 
-But right now, he slipped off the falcon's back as Hades rose. 
+But right now, he slipped off the falcon's back as Hades rose.
 
-"Giv, Iris, Deviân, you all should get off." Mariana called from under his left shoulder, and Givly and Iris immediatly complied
+"Giv, Iris, Deviân, you all should get off." Mariana called from under his left shoulder, and Givly and Iris immediatly complied. "We gotta go get the rest of my team mounts."
+
+"So, try and choose your mounts. Follow your heart."
+Yaereene smiled. She had been here last year, agonizing over 
