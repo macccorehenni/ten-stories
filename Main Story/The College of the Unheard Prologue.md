@@ -1,14 +1,13 @@
 ---
 aliases:
-  - The Academy of the Unheard
+  - Finale
   - Finale
 sticker: lucide//list-end
-linter-yaml-title-alias: The Academy of the Unheard
+linter-yaml-title-alias: Finale
+title: Finale
 ---
 
-# The Academy of the Unheard
-
-## Prologue— Finale
+# Finale
 
 "Listen up, team!" Anna said, her bright blue eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Maren—"
 
