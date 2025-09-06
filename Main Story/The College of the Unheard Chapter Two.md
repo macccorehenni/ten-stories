@@ -502,4 +502,4 @@ But right now, he slipped off the falcon's back as Hades rose.
 
 "So, try and choose your mounts. Follow your heart."
 
-Yaereene smiled. It had been an agonizing choice for man
+Yaereene smiled. It had been an agonizing choice for many hours before her. But helping her teammates chose their mounts brought a smile to her face.  She herself eschewed the hereculan efforts of the mounts to win her over— perhaps it was the aura she had been told followed her around, or perhaps they were just really keen beacuse of her goddessly or just good looks. She didn't know, but it was really hard to say no to all those creatures. But when she did, she found an even better mount— her father, as a minor image. 

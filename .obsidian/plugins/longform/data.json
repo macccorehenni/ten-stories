@@ -7,14 +7,14 @@
   "sessions": [
     {
       "start": "2025-09-06T23:37:30.919Z",
-      "total": 58,
+      "total": 146,
       "drafts": {
         "Main Story/Index.md": {
-          "total": 58,
+          "total": 146,
           "scenes": {
             "The College of the Unheard Prologue": 6,
             "The College of the Unheard Chapter 1": 17,
-            "The College of the Unheard Chapter Two": 35,
+            "The College of the Unheard Chapter Two": 123,
             "Ending": 0
           }
         }

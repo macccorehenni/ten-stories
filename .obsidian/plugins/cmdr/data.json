@@ -70,6 +70,12 @@
       "icon": "lucide-rotate-ccw",
       "name": "Relaumch",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:commit-push-specified-message",
+      "icon": "lucide-git-commit",
+      "name": "Push",
+      "mode": "any"
     }
   ],
   "pageHeader": [
