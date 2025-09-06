@@ -498,4 +498,8 @@ But right now, he slipped off the falcon's back as Hades rose.
 
 "Giv, Iris, Deviân, you all should get off." Mariana called from under his left shoulder, and Givly and Iris immediatly complied. "We gotta go get the rest of my team mounts."
 
+---
+
 "So, try and choose your mounts. Follow your heart."
+
+Yaereene smiled. It had been an agonizing choice for man

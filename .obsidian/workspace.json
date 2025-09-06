@@ -44,19 +44,6 @@
             }
           },
           {
-            "id": "09bd82a96ce911be",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "daca39cc9f0ced1e",
             "type": "leaf",
             "state": {
@@ -77,39 +64,36 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       },
       {
-        "id": "d5c378ef8b78c5ab",
+        "id": "0788f8b676a84c13",
         "type": "split",
         "children": [
           {
-            "id": "3be342ced2ab159e",
+            "id": "57caf1c2ed4beb01",
             "type": "tabs",
-            "dimension": 54.848484848484844,
             "children": [
               {
-                "id": "5bd39d44784f6a8c",
+                "id": "427c60ae09377faa",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "conflict-files-obsidian-git.md",
-                    "bFile": "conflict-files-obsidian-git.md",
-                    "aRef": ""
+                    "file": "Main Story/The College of the Unheard Chapter Two.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: conflict-files-obsidian-git"
+                  "icon": "lucide-file",
+                  "title": "The College of the Unheard Chapter Two"
                 }
               }
-            ],
-            "stacked": true
+            ]
           },
           {
             "id": "8f0ef3090a1feb6d",
             "type": "tabs",
-            "dimension": 45.151515151515156,
             "children": [
               {
                 "id": "6f1636e0f37f0477",
@@ -194,7 +178,7 @@
             }
           },
           {
-            "id": "288745d78c382c67",
+            "id": "50eb36f9cd7947b2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c5328bf8d50c40d",
@@ -312,11 +295,11 @@
       "youhavebeenstaring-plugin:Start/stop staring counter": false
     }
   },
-  "active": "5bd39d44784f6a8c",
+  "active": "822a8885b83d106e",
   "lastOpenFiles": [
     "Main Story/The College of the Unheard Chapter Two.md",
-    "conflict-files-obsidian-git.md",
     "One-offs/The Ten and their Powers and Badges.md",
+    "conflict-files-obsidian-git.md",
     "Main Story/Ending.md",
     "One-offs/Daily Routine of the Ten.md",
     "Main Story/Main Story.md",
