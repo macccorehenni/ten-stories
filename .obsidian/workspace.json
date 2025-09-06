@@ -13,14 +13,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
+                "file": "One-offs/The Ten and their Powers and Badges.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The College of the Unheard Chapter Two"
-            }
+              "title": "Outline of The Ten and their Powers and Badges"
+            },
+            "group": "add9aa166098afd8"
           },
           {
             "id": "23e6c3bbaa9b5f43",
@@ -43,16 +44,6 @@
             }
           },
           {
-            "id": "daca39cc9f0ced1e",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
-          },
-          {
             "id": "09bd82a96ce911be",
             "type": "leaf",
             "state": {
@@ -66,6 +57,16 @@
             }
           },
           {
+            "id": "daca39cc9f0ced1e",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
+          },
+          {
             "id": "822a8885b83d106e",
             "type": "leaf",
             "state": {
@@ -76,29 +77,60 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       },
       {
-        "id": "3be342ced2ab159e",
-        "type": "tabs",
+        "id": "d5c378ef8b78c5ab",
+        "type": "split",
         "children": [
           {
-            "id": "5bd39d44784f6a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Story/The College of the Unheard Chapter Two.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The College of the Unheard Chapter Two"
-            }
+            "id": "3be342ced2ab159e",
+            "type": "tabs",
+            "dimension": 54.848484848484844,
+            "children": [
+              {
+                "id": "5bd39d44784f6a8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Main Story/The College of the Unheard Chapter Two.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The College of the Unheard Chapter Two"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "8f0ef3090a1feb6d",
+            "type": "tabs",
+            "dimension": 45.151515151515156,
+            "children": [
+              {
+                "id": "6f1636e0f37f0477",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "One-offs/The Ten and their Powers and Badges.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Ten and their Powers and Badges"
+                },
+                "group": "add9aa166098afd8"
+              }
+            ],
+            "stacked": true
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -162,7 +194,7 @@
             }
           },
           {
-            "id": "f5c0b826340c0b3f",
+            "id": "288745d78c382c67",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -280,12 +312,12 @@
       "youhavebeenstaring-plugin:Start/stop staring counter": false
     }
   },
-  "active": "64df89abd0775f2f",
+  "active": "5bd39d44784f6a8c",
   "lastOpenFiles": [
-    "Main Story/Ending.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
-    "One-offs/Daily Routine of the Ten.md",
     "One-offs/The Ten and their Powers and Badges.md",
+    "Main Story/The College of the Unheard Chapter Two.md",
+    "Main Story/Ending.md",
+    "One-offs/Daily Routine of the Ten.md",
     "conflict-files-obsidian-git.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",

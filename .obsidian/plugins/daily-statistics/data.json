@@ -27,28 +27,13 @@
     "2025-09-01": 2377,
     "2025-09-02": 1706,
     "2025-09-03": 165,
-    "2025-09-04": 51655
+    "2025-09-04": 60344,
+    "2025-09-06": 44
   },
   "todayWordCount": {
-    "One-offs/The Ten and their Powers and Badges.md": {
-      "initial": 1475,
-      "current": 1475
-    },
-    "Main Story/Ending.md": {
-      "initial": 4429,
-      "current": 25010
-    },
-    "conflict-files-obsidian-git.md": {
-      "initial": 155,
-      "current": 162
-    },
-    "One-offs/Daily Routine of the Ten.md": {
-      "initial": 143,
-      "current": 795
-    },
     "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 6218,
-      "current": 36633
+      "initial": 37007,
+      "current": 37051
     }
   },
   "weeklyPlan": {

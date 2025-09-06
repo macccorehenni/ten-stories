@@ -488,4 +488,5 @@ But right now, he slipped off the falcon's back as Hades rose.
 "Giv, Iris, Deviân, you all should get off." Mariana called from under his left shoulder, and Givly and Iris immediatly complied. "We gotta go get the rest of my team mounts."
 
 "So, try and choose your mounts. Follow your heart."
-Yaereene smiled. She had been here last year, agonizing over 
+
+Yaereene smiled. She had been here last year, agonizing over which mount to take, before realizing— her father would be proud if she used a minor image of herself _every_ time she needed a mount. After all, she reflected, it was only cathartic that she get to talk to him when they went on a walk or run or flight. But for these two, it was up to them who they would choose. As a duskscale dragon shot a stinkeye at Emphelli, another mount caught her eyes. A peacock— a majestic
