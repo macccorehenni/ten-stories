@@ -4,6 +4,7 @@ aliases:
 sticker: lucide//hourglass
 linter-yaml-title-alias: The Parents
 word-goal: 8000
+title: The Parents
 ---
 
 # The Parents
@@ -479,6 +480,16 @@ Elvy ignored him, instead conversating with the tawny falcon.
 
 "I dunno." Iris replied, shrugging her shoulders as Elvy smiled, sighing and settling in on Hades' down.
 
+Suddenly though, as Deviân sat, talking to Iris, Givly came and climbed back onto Hades' back as he chomped away tufts of fur. She sat right next to her friend. She— she saw something of a… was that more of a greater purpose?
+
+"So, isn't this place cool or what?" she asked him.
+
+"Yeah, I guess. Not many of my people would be able to say they sat on a bird."
+
+Givly frowned. "Your people?"
+
+"I… still have no idea how I ended up here." Deviân smiled, more a wistful expression of pain than joy. Something went terribly wrong. Why was he wanted? All he did was—
+
 Suddenly though, as Deviân sat, talking to the goddess, Givly climbed up onto the falcon's back and sat on its wing beside Deviân and smiled.
 
 "You know, Givly… you're… special." As he said this, she, subconsciously, perhaps, pulled her almost non-existent bangs over her eyes. Something had changed for the better, and Deviân had noticed. All he could do with this half dragonborn was _notice_, he mused. Both the Sorens were hard to look away from. He may have ended up here on… accident, but he intuitively knew that these girls held the key back to his homeland, away from these… police.  But he felt it would take a while. Why he was in this unfamiliar land he had no idea. But he could _just_ sense that they— they were destined for something. What, he didn't know.
@@ -488,5 +499,3 @@ But right now, he slipped off the falcon's back as Hades rose.
 "Giv, Iris, Deviân, you all should get off." Mariana called from under his left shoulder, and Givly and Iris immediatly complied. "We gotta go get the rest of my team mounts."
 
 "So, try and choose your mounts. Follow your heart."
-
-Yaereene smiled. She had been here last year, agonizing over which mount to take, before realizing— her father would be proud if she used a minor image of herself _every_ time she needed a mount. After all, she reflected, it was only cathartic that she get to talk to him when they went on a walk or run or flight. But for these two, it was up to them who they would choose. As a duskscale dragon shot a stinkeye at Emphelli, another mount caught her eyes. A peacock— a majestic

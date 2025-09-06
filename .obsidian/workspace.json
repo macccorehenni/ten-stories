@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       },
       {
@@ -93,14 +93,14 @@
                 "id": "5bd39d44784f6a8c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "Main Story/The College of the Unheard Chapter Two.md",
-                    "mode": "source",
-                    "source": false
+                    "aFile": "conflict-files-obsidian-git.md",
+                    "bFile": "conflict-files-obsidian-git.md",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "The College of the Unheard Chapter Two"
+                  "icon": "diff",
+                  "title": "Diff: conflict-files-obsidian-git"
                 }
               }
             ],
@@ -314,11 +314,11 @@
   },
   "active": "5bd39d44784f6a8c",
   "lastOpenFiles": [
-    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Chapter Two.md",
+    "conflict-files-obsidian-git.md",
+    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/Ending.md",
     "One-offs/Daily Routine of the Ten.md",
-    "conflict-files-obsidian-git.md",
     "Main Story/Main Story.md",
     "The Rapture/The Problem.md",
     "The Rapture/Main Story/Main Story.md",

@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Chapter 1 — And Thus, the Ten
-  - And thus, The Ten
+  - And Thus, the Ten
 sticker: lucide//hourglass
-linter-yaml-title-alias: Chapter 1 — And Thus, the Ten
+linter-yaml-title-alias: And Thus, the Ten
+title: And Thus, the Ten
 ---
 
-# Chapter 1 — And Thus, the Ten
+# And Thus, the Ten
 
 _A few weeks after the graduation concert and the fight that broke out, Anna has all but been healed. She was in fact death touched by Minden, but by some miracle, the healers were able to save her life. She did not look good at all, but… it was an improvement over the state she was in on the stage. Her skin was blackened, almost as if necrosis had set in or if she were burnt alive. In the meantime, Celesteia, Yae and Amber survived. They were the Misfits, and they stuck together. We rejoin the Misfits as they talked to the Loud Ones._
 
