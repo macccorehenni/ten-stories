@@ -184,16 +184,6 @@
             }
           },
           {
-            "id": "12523f090718a8ae",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "7ec58d1ba055b8f4",
             "type": "leaf",
             "state": {
@@ -202,9 +192,19 @@
               "icon": "vertical-tabs",
               "title": "Vertical tabs"
             }
+          },
+          {
+            "id": "1a45340b6ff3aeb4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
