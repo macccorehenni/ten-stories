@@ -514,4 +514,6 @@ Meanwhile, Ildren smiled at a duskscale dragon a bit further along than Starry h
 
 ---
 
-A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we meet the"
+A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we take back Ammareth?"
+
+"Those Parents must be pretty hard to beat," Costa, whose 
