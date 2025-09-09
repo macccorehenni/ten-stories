@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "1a45340b6ff3aeb4",
+            "id": "0de82cd6152ffffe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
