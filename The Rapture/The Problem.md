@@ -4,7 +4,7 @@ word-goal: 8000
 
 # The Problem
 
-"Mail call!" The mailman who served Callendor entered the huge dorm door and put the mail down in the kitchen. There he found Givly and Deviân smiling, chatting with each other. Deviân had his usual long dreads on, and Givly her normal ponytails, what she called her "tiger buns[^1]". The recently proclaimed couple seemed like they were enjoying their tea (hopefully anyways).
+"Mail call!" The mailman who served Callendor entered the huge dorm door and put the mail down in the kitchen. There he found Givly and Deviân smiling, chatting with each other. Deviân had his usual long dreads on, and Givly her normal ponytails, what she called her "tiger buns[^1]". The couple seemed like they were enjoying their tea (hopefully anyways).
 
 "Paulo, hello, morning, how are you?" Givly said.
 

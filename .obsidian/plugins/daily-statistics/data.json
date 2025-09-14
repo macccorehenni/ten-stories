@@ -30,32 +30,17 @@
     "2025-09-04": 60344,
     "2025-09-06": 1068,
     "2025-09-07": 880,
-    "2025-09-08": 1271
+    "2025-09-08": 1271,
+    "2025-09-14": 0
   },
   "todayWordCount": {
-    "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 38886,
-      "current": 40137
-    },
     "One-offs/The Ten and their Powers and Badges.md": {
       "initial": 9790,
       "current": 9790
     },
-    "The Rapture/The Rapture.md": {
-      "initial": 47,
-      "current": 47
-    },
-    "Main Story/undefined.md": {
-      "initial": 0,
-      "current": 0
-    },
-    "Main Story/The Rapture/The Rapture.md": {
-      "initial": 47,
-      "current": 47
-    },
-    "Main Story/The Problem.md": {
-      "initial": 10350,
-      "current": 10370
+    "Main Story/The College of the Unheard Chapter Two.md": {
+      "initial": 40137,
+      "current": 39110
     }
   },
   "weeklyPlan": {
