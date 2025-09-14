@@ -24,16 +24,6 @@
             "group": "add9aa166098afd8"
           },
           {
-            "id": "23e6c3bbaa9b5f43",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
-          },
-          {
             "id": "64df89abd0775f2f",
             "type": "leaf",
             "state": {
@@ -77,7 +67,6 @@
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       },
       {
@@ -313,7 +302,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "3ca48baadf3bdb90",
+  "active": "d246e374cb2ae273",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Chapter Two.md",

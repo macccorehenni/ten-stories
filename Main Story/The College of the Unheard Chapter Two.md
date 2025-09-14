@@ -525,4 +525,5 @@ Then something crossed her mind.
 "You know, guys. I think I have an idea. The Parents won't expect us if we go to their house in Aisney. They'll be expecting us again at Gold House. Perhaps they have moved her to Aisney."
 
 "Huh, actually—" Deviân looked at Avery, who had been sulking as he had for the last few weeks, then asked his dragon, "What do you think? You think you could carry Ave on your back, Charry?"
-"Yes, yes, I do think as much," the orange dragon replied, his mouth over the nape 
+"Yes, yes, I do think as much," the orange dragon replied, his mouth over the nape of Avery. "Leader—" meaning Anna— "I will wait for the word."
+"Well, everyone ready?" Anna asked by way of resposne
