@@ -235,9 +235,9 @@ Home realm: Danae
 
 Age: 28
 
-Mount: Charizard (Charry)
+Mount: Orange dragon (Charry)
 
-Power: Fire plus Mega Evolution
+Power: Fire manipulation
 
 Badges: Ten, Mindplayers, Pokémon Power, Honor, Bravery, 3rd 2Y Music Battle I, 3rd 2Y Music Battle II, Technical I
 

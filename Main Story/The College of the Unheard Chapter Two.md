@@ -516,4 +516,13 @@ Meanwhile, Ildren smiled at a duskscale dragon a bit further along than Starry h
 
 A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we take back Ammareth?"
 
-"Those Parents must be pretty hard to beat," Costa, whose 
+"Those Parents must be pretty hard to beat," Costa, whose dragon sat next to him, itself unique, much like Ammareth's. Being just a rare dragon much like his younger teammate, Charry had kept by Avery's side. "After all, we've tried twice now, and they soundly beat our hides. The only way we were able to stay is with Deviân's help."
+
+Givly smiled.
+
+Then something crossed her mind.
+
+"You know, guys. I think I have an idea. The Parents won't expect us if we go to their house in Aisney. They'll be expecting us again at Gold House. Perhaps they have moved her to Aisney."
+
+"Huh, actually—" Deviân looked at Avery, who had been sulking as he had for the last few weeks, then asked his dragon, "What do you think? You think you could carry Ave on your back, Charry?"
+"Yes, yes, I do think as much," the orange dragon replied, his mouth over the nape 

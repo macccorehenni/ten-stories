@@ -31,16 +31,21 @@
     "2025-09-06": 1068,
     "2025-09-07": 880,
     "2025-09-08": 1271,
-    "2025-09-09": 0
+    "2025-09-09": 0,
+    "2025-09-14": 792
   },
   "todayWordCount": {
     "Main Story/The College of the Unheard Chapter Two.md": {
-      "initial": 40653,
-      "current": 40336
+      "initial": 40336,
+      "current": 41128
     },
     "One-offs/The Ten and their Powers and Badges.md": {
       "initial": 9790,
-      "current": 9790
+      "current": 9787
+    },
+    "The Rapture/The Rapture.md": {
+      "initial": 52,
+      "current": 52
     }
   },
   "weeklyPlan": {

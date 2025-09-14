@@ -59,8 +59,8 @@
             "state": {
               "type": "make-context-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "make-context-view"
+              "icon": "component",
+              "title": "Explorer"
             }
           },
           {
@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       },
       {
@@ -194,17 +194,17 @@
             }
           },
           {
-            "id": "e194b738495d842e",
+            "id": "5767cbe15ad4e42a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mk-path-view"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -313,11 +313,11 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "daca39cc9f0ced1e",
+  "active": "3ca48baadf3bdb90",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Chapter Two.md",
-    "One-offs/The Ten and their Powers and Badges.md",
+    "The Rapture/The Rapture.md",
     "Main Story/The Problem.md",
     "Main Story/The Rapture.md",
     "Main Story/undefined.md",
