@@ -535,14 +535,19 @@ Then something crossed her mind.
 "Actually, you're right. Costa, you, Charry and Avery, flank my right side so we can escape. Giv, which window should we land near?"
 
 "Well, _if_ the Parents are there— though I think that they'll be at Gold House— they'll be downstairs. So, perhaps the upstairs east window? Ammareth— she… she's hiding somewhere up on that side. We'd probably want someone nearby the front door, perhaps Ildren? I see a glimpse of your manifest, just when you're angry at Parvi."
+
 Ildren frowned. Is he really that readable? But no, the half dragonborn had a point. Even _before_ Parvi, he had noticed that the space around him over the past few days had become darker. Then again, for a while, he had forgotten her manifest— mind reader. He hadn't been able to keep that out of his mind.
+
 "You see a lot more— ah, nevermind, we'll discuss this later. Sure, I'll take lookout." Ildren smiled, almost jokingly, as if Givly was his little sister. "Let's go get the teifling, shall we? She probably needs it."
 
 ---
-_They are coming to Aisley, elder one_, the younger Parent said. They, as the Ten had predicted, had set up an ambush back in the Crag's hidden historical house. _How do you know this?_ the elder Parent retorted. _Their— their… magic powers are evident heading that way_, the younger one said. _How do you know that they are not just visiting the shops there?_ the elder one prompted. _I… I… I don't_, younger one said. _We stay._ The elder Parent said, with finality. _I have a bad feeling of this_, the younger one said, but made no movement to leave to Aisney. They waited, but nothing came of it. 
 
---- 
+_They are coming to Aisley, elder one_, the younger Parent said. They, as the Ten had predicted, had set up an ambush back in the Crag's hidden historical house. _How do you know this?_ the elder Parent retorted. _Their— their… magic powers are evident heading that way_, the younger one said. _How do you know that they are not just visiting the shops there?_ the elder one prompted. _I… I… I don't_, younger one said. _We stay._ The elder Parent said, with finality. _I have a bad feeling of this_, the younger one said, but made no movement to leave to Aisney. They waited, but nothing came of it.
+
+---
+
 "There." Givly felt nervous as they approched the house on the southeast side of Aisney. "
+
 "That's it. _The House._"
 
 "Okay, I've got north enterance," Ildren said. "What's confusing me here is… no bond dulling?"
@@ -550,4 +555,9 @@ _They are coming to Aisley, elder one_, the younger Parent said. They, as the Te
 "Waiiiiit…" Anna smiled, realizing. "They… aren't here."
 
 ---
-Around the back of the house, an half-elf, as of yet undetected, stood. With his long, disheveled hair, covering his whole face, he observed the Ten and smiled. The Parents 
+
+Around the back of the house, an half-elf, as of yet undetected, stood. With his long, disheveled hair, covering his whole face, he observed the Ten and smiled. The Parents should be here soon, he reckoned, yet his charges— the two demons whose white hair mirrored his own— should have realized that their quarry— Ammareth, the destined— was unsafe unprotected. He frowned, checking in with the Parents. "Where are you?"
+
+_I'm sorry, Leader,_ the younger one said through the bonds with the half-elf. 
+"Do I need to protect you two too? You forget the power I hold." The half-elf's frown deepened. 
+_But Leader—_ the elder Parent complained but was cut short by 

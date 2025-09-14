@@ -64,6 +64,12 @@
       "icon": "lucide-rotate-ccw",
       "name": "Relaumch",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push",
+      "icon": "sync-small",
+      "name": "Commit and sync",
+      "mode": "any"
     }
   ],
   "pageHeader": [
