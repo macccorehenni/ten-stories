@@ -525,5 +525,18 @@ Then something crossed her mind.
 "You know, guys. I think I have an idea. The Parents won't expect us if we go to their house in Aisney. They'll be expecting us again at Gold House. Perhaps they have moved her to Aisney."
 
 "Huh, actually—" Deviân looked at Avery, who had been sulking as he had for the last few weeks, then asked his dragon, "What do you think? You think you could carry Ave on your back, Charry?"
+
 "Yes, yes, I do think as much," the orange dragon replied, his mouth over the nape of Avery. "Leader—" meaning Anna— "I will wait for the word."
-"Well, everyone ready?" Anna asked by way of resposne
+
+"Well, everyone ready?" Anna asked by way of response. "Of course, Givly will be in front, given the circumstances, then me, then the Passarines. Others can choose their groups. Got it?"
+
+"So, just to be clear, Emmy and I are in front, followed by you and Ildren— Costa and Charry, since the plan is to have Avery with Charry, beside you, makes sense too?" Givly prompted.
+
+"Actually, you're right. Costa, you, Charry and Avery, flank my right side so we can escape. Giv, which window should we land near?"
+
+"Well, _if_ the Parents are there— though I think that they'll be at Gold House— they'll be downstairs. So, perhaps the upstairs east window? Ammareth— she… she's hiding somewhere up on that side. We'd probably want someone nearby the front door, perhaps Ildren? I see a glimpse of your manifest, just when you're angry at Parvi."
+Ildren frowned. Is he really that readable? But no, the half dragonborn had a point. Even _before_ Parvi, he had noticed that the space around him over the past few days had become darker. Then again, for a while, he had forgotten her manifest— mind reader. He hadn't been able to keep that out of his mind.
+"You see a lot more— ah, nevermind, we'll discuss this later. Sure, I'll take lookout." Ildren smiled, almost jokingly, as if Givly was his little sister. "Let's go get the teifling, shall we? She probably needs it."
+
+---
+_They are coming to Ais_
