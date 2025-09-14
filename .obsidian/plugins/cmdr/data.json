@@ -66,9 +66,9 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-git:push",
+      "id": "obsidian-git:commit-push-specified-message",
       "icon": "sync-small",
-      "name": "Commit and sync",
+      "name": "Commit",
       "mode": "any"
     }
   ],
