@@ -67,6 +67,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -302,7 +303,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "3ca48baadf3bdb90",
+  "active": "09bd82a96ce911be",
   "lastOpenFiles": [
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Chapter Two.md",
