@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "0de82cd6152ffffe",
+            "id": "e194b738495d842e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -292,9 +292,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -309,17 +306,16 @@
       "cmdr:Better Command Palette: Open better command palette": false,
       "cmdr:Toggle right sidebar": false,
       "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false,
       "obsidian42-brat:BRAT": false,
-      "youhavebeenstaring-plugin:Start/stop staring counter": false
+      "youhavebeenstaring-plugin:Start/stop staring counter": false,
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
   "active": "daca39cc9f0ced1e",
   "lastOpenFiles": [
-    "The Rapture/The Rapture.md",
-    "The Rapture/The Problem.md",
-    "The Rapture/Main Story/Main Story.md",
-    "The Rapture/Main Story",
-    "The Rapture",
+    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The College of the Unheard Chapter Two.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The Problem.md",

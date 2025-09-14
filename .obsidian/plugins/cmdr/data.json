@@ -60,21 +60,9 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-git:backup-and-close",
-      "icon": "lucide-x-octagon",
-      "name": "Push then close",
-      "mode": "any"
-    },
-    {
       "id": "app:reload",
       "icon": "lucide-rotate-ccw",
       "name": "Relaumch",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-git:commit-push-specified-message",
-      "icon": "lucide-git-commit",
-      "name": "Push",
       "mode": "any"
     }
   ],

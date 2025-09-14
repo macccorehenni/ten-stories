@@ -2,7 +2,6 @@
   "customFileOrder": {
     "/": [
       "Mythos",
-      "The Rapture",
       "pass",
       "Aeverath and the Shadow",
       "LICENSE",
@@ -20,6 +19,7 @@
       "Friend Stories/Soren sisters and Mariana.md"
     ],
     "Main Story": [
+      "Main Story/The Problem.md",
       "Main Story/Ending.md",
       "Main Story/Index.md",
       "Main Story/manuscript.md",
@@ -51,14 +51,6 @@
     ],
     "Tags": [
       "Tags/Tags.md"
-    ],
-    "The Rapture": [
-      "The Rapture/Main Story",
-      "The Rapture/The Problem.md",
-      "The Rapture/The Rapture.md"
-    ],
-    "The Rapture/Main Story": [
-      "The Rapture/Main Story/Main Story.md"
     ]
   },
   "draggingEnabled": true,
