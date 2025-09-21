@@ -558,6 +558,14 @@ _They are coming to Aisley, elder one_, the younger Parent said. They, as the Te
 
 Around the back of the house, an half-elf, as of yet undetected, stood. With his long, disheveled hair, covering his whole face, he observed the Ten and smiled. The Parents should be here soon, he reckoned, yet his charges— the two demons whose white hair mirrored his own— should have realized that their quarry— Ammareth, the destined— was unsafe unprotected. He frowned, checking in with the Parents. "Where are you?"
 
-_I'm sorry, Leader,_ the younger one said through the bonds with the half-elf. 
-"Do I need to protect you two too? You forget the power I hold." The half-elf's frown deepened. 
-_But Leader—_ the elder Parent complained but was cut short by 
+_I'm sorry, Leader,_ the younger one said through the bonds with the half-elf.
+
+"Do I need to protect you two too? You forget the power I hold." The half-elf's frown deepened.
+
+_But Leader—_ the elder Parent complained but was cut short by the one they called Leader.
+
+"I'm out of here. I may… I may have to take matters in my own hand. You two, meanwhile, are dismissed."
+
+_But_— both complained.
+
+"Goodbye, and good riddance." he said as he ran into the woods.
