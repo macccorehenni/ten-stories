@@ -569,3 +569,17 @@ _But Leader—_ the elder Parent complained but was cut short by the one they ca
 _But_— both complained.
 
 "Goodbye, and good riddance." he said as he ran into the woods.
+
+---
+
+Meanwhile, the Ten cleared the first floor. No one saw the teifling on this floor. But through her bonds, Givly had found her right where she expected her sister to be— in the basement.
+
+---
+
+"Ammereth!" Givly, despite her sister's obvious pain, jumped to hug her sister.
+
+"Givly, that hurts!" The teifling grimaced.
+
+"Did they…"
+
+"I'm fine, sister." Ammareth had lied to save her younger sister's

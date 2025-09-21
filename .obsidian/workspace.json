@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -85,12 +85,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Main Story/The College of the Unheard Chapter Two.md",
+                    "file": "White Ball/The Dance.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The College of the Unheard Chapter Two"
+                  "title": "The Dance"
                 }
               }
             ],
@@ -305,9 +305,15 @@
   },
   "active": "3ca48baadf3bdb90",
   "lastOpenFiles": [
+    "White Ball/White Ball.md",
+    "White Ball/The Dance.md",
+    "Tags/#mocs/#mocs.md",
+    "Tags/#mocs",
+    "One-offs/One-offs.md",
+    "White Ball",
+    "Main Story/The College of the Unheard Chapter Two.md",
     "The Rapture/The Problem.md",
     "The Rapture/The Rapture.md",
-    "Main Story/The College of the Unheard Chapter Two.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The Problem.md",
     "Main Story/The Rapture.md",
@@ -328,9 +334,6 @@
     "The Rapture/Main Story/Index.md",
     "Mythos/Mythrian species/Mythrian species.md",
     "Aeverath and the Shadow/Aeverath and the Shadow.md",
-    "Mythos/Mythos.md",
-    "Mythos/Mythrian species/Dragonspires.md",
-    "Mythos/Mythrian species/Moonelf.md",
     "Dragonspire resonant.pdf",
     "Mythos/Mythrian species",
     "Species lores/Untitled",
