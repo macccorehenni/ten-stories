@@ -5,7 +5,7 @@
 
 His thoughts were interrupted by a knock on their room door. "Ammy? Chibi? You two ready?"
 
-It was their host, Charlieze, dressed in her regalia. Her hair was down, but braided into a braid similar to the teifling she and Moderin were celebrating today. Her dark brown hair shone with a fire that Ammareth had not seen. "Well, I think—"
+It was their host, Charlieze, dressed in her regalia. Her hair was down, but braided into a braid similar to the teifling she and Moderin, her husband, were celebrating today. Her dark brown hair shone with a fire that Ammareth had not seen. "Well, I think—"
 
 Her husband, the King of the Fey Realms, came in. "Ammareth? Chibi? You two— oh, I take you were preparing them, Char?"
 
@@ -14,4 +14,5 @@ Charlie visibly grimaced— it was common knowlege Moderin called her that in pr
 "We shall," Charlie said, bowing at the Second Archfey, then, through the Songwalkers' bonds, said, "For the love of all the gods I know, use our names, Chibi!"
 
 ---
-Chibi and Ammareth were awed at the looks of the ballroom. It was modestly decorated, but almost not so— there were a lot of decorations in the ballroom, but all of them seemed to be fey-powered. Ammarerth had to shake her head to dismiss her feyvision— though Chibi, not accustomed to his Archfey powers, seemed to faint momentairily. He looked gorgeous too
+Chibi and Ammareth were awed at the looks of the ballroom. It was modestly decorated, but almost not so— there were a lot of decorations in the ballroom, but all of them seemed to be fey-powered. Ammarerth had only to shake her head to dim the bright colors this brought her due to her feyvision— though Chibi, not accustomed to his Archfey powers quite yet, seemed to lose consciousness and stumble momentairily. He looked gorgeous too— he wore a tuxedo mirroring his girlfriend's dress, something that fit his slim, impoverished frame. The ball room was almost blindingly white for all who didn't have feyvision, like the Archfey. "How is it? Fits the whole— theme— your outfits have." Moderin vaguely gestured to the grand outfit that the pair was wearing.
+"You seem jealous… Moderin." Chibi hesitated, recalling Charlie's request to call the monarchs of the Fey Realms b
