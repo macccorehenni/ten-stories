@@ -582,5 +582,4 @@ Meanwhile, the Ten cleared the first floor. No one saw the teifling on this floo
 
 "Did they…"
 
-"I'm fine, sister." Ammareth had lied to save her younger sister's
->>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
+"I'm fine, sister." Ammareth had lied to save her younger sister's face. After all, Ammerath
