@@ -582,4 +582,5 @@ Meanwhile, the Ten cleared the first floor. No one saw the teifling on this floo
 
 "Did they…"
 
-"I'm fine, sister." Ammareth had lied to save her younger sister's face. After all, Ammerath
+"I'm fine, sister." Ammareth had lied to save her younger sister's face. After all, Ammerath had done essentialy the same thing to Anna when she had her… her accident. 
+"Ammareth, Givly, sorry to disrupt your celebration, but it's time to go." Anna, Mariana and the others were at the door to the basement
