@@ -516,16 +516,71 @@ Meanwhile, Ildren smiled at a duskscale dragon a bit further along than Starry h
 
 A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we take back Ammareth?"
 
-"Those Parents must be pretty hard to beat," Costa, whose orange dragon his handler called Charry because of its propensity to use fire to establish boundaries.
+"Those Parents must be pretty hard to beat," Costa, whose dragon sat next to him, itself unique, much like Ammareth's. Being just a rare dragon much like his younger teammate, Charry had kept by Avery's side. "After all, we've tried twice now, and they soundly beat our hides. The only way we were able to stay is with Deviân's help."
 
-"So what's our plan of attack?"
+Givly smiled.
 
-The four factions began vehemently discussing their ideas on how to save their second–youngest teammate, until the youngest realized— the adults and Iris had no idea how to save her sister. But she did.
+Then something crossed her mind.
 
-"Hey, guys? I have an idea. They will expect us to go back to Gold House, so perhaps we sneak up on their house in Aisney."
+"You know, guys. I think I have an idea. The Parents won't expect us if we go to their house in Aisney. They'll be expecting us again at Gold House. Perhaps they have moved her to Aisney."
 
-Surprised, everyone turned to look at the half-dragonborn who had just so brazenly interrupted her team's meeting. She very rarely ever talked during team meetings, but it seemed like she _really_ meant what she said.
+"Huh, actually—" Deviân looked at Avery, who had been sulking as he had for the last few weeks, then asked his dragon, "What do you think? You think you could carry Ave on your back, Charry?"
 
-"They won't expect anyone but me and Ammareth to know where it is anyways. And seeing as Ammareth is still somewhat traumatized, I think I should lead."
+"Yes, yes, I do think as much," the orange dragon replied, his mouth over the nape of Avery. "Leader—" meaning Anna— "I will wait for the word."
 
-"Okay, any opposing ideas?" Anna querid
+"Well, everyone ready?" Anna asked by way of response. "Of course, Givly will be in front, given the circumstances, then me, then the Passarines. Others can choose their groups. Got it?"
+
+"So, just to be clear, Emmy and I are in front, followed by you and Ildren— Costa and Charry, since the plan is to have Avery with Charry, beside you, makes sense too?" Givly prompted.
+
+"Actually, you're right. Costa, you, Charry and Avery, flank my right side so we can escape. Giv, which window should we land near?"
+
+"Well, _if_ the Parents are there— though I think that they'll be at Gold House— they'll be downstairs. So, perhaps the upstairs east window? Ammareth— she… she's hiding somewhere up on that side. We'd probably want someone nearby the front door, perhaps Ildren? I see a glimpse of your manifest, just when you're angry at Parvi."
+
+Ildren frowned. Is he really that readable? But no, the half dragonborn had a point. Even _before_ Parvi, he had noticed that the space around him over the past few days had become darker. Then again, for a while, he had forgotten her manifest— mind reader. He hadn't been able to keep that out of his mind.
+
+"You see a lot more— ah, nevermind, we'll discuss this later. Sure, I'll take lookout." Ildren smiled, almost jokingly, as if Givly was his little sister. "Let's go get the teifling, shall we? She probably needs it."
+
+---
+
+_They are coming to Aisley, elder one_, the younger Parent said. They, as the Ten had predicted, had set up an ambush back in the Crag's hidden historical house. _How do you know this?_ the elder Parent retorted. _Their— their… magic powers are evident heading that way_, the younger one said. _How do you know that they are not just visiting the shops there?_ the elder one prompted. _I… I… I don't_, younger one said. _We stay._ The elder Parent said, with finality. _I have a bad feeling of this_, the younger one said, but made no movement to leave to Aisney. They waited, but nothing came of it.
+
+---
+
+"There." Givly felt nervous as they approched the house on the southeast side of Aisney. "
+
+"That's it. _The House._"
+
+"Okay, I've got north enterance," Ildren said. "What's confusing me here is… no bond dulling?"
+
+"Waiiiiit…" Anna smiled, realizing. "They… aren't here."
+
+---
+
+Around the back of the house, an half-elf, as of yet undetected, stood. With his long, disheveled hair, covering his whole face, he observed the Ten and smiled. The Parents should be here soon, he reckoned, yet his charges— the two demons whose white hair mirrored his own— should have realized that their quarry— Ammareth, the destined— was unsafe unprotected. He frowned, checking in with the Parents. "Where are you?"
+
+_I'm sorry, Leader,_ the younger one said through the bonds with the half-elf.
+
+"Do I need to protect you two too? You forget the power I hold." The half-elf's frown deepened.
+
+_But Leader—_ the elder Parent complained but was cut short by the one they called Leader.
+
+"I'm out of here. I may… I may have to take matters in my own hand. You two, meanwhile, are dismissed."
+
+_But_— both complained.
+
+"Goodbye, and good riddance." he said as he ran into the woods.
+
+---
+
+Meanwhile, the Ten cleared the first floor. No one saw the teifling on this floor. But through her bonds, Givly had found her right where she expected her sister to be— in the basement.
+
+---
+
+"Ammereth!" Givly, despite her sister's obvious pain, jumped to hug her sister.
+
+"Givly, that hurts!" The teifling grimaced.
+
+"Did they…"
+
+"I'm fine, sister." Ammareth had lied to save her younger sister's
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08

@@ -45,12 +45,18 @@
     "//Mythos/Mythos/Mythrian species",
     "//Friend Stories",
     "//The Rapture/The Rapture/Main Story",
-    "//The Rapture",
     "//Main Story/Main Story/The Rapture",
+    "//The Rapture",
+    "//Main Story",
     "//One-offs",
+<<<<<<< HEAD
     "//Aeverath and the Shadow",
+=======
+    "//One-offs/One-offs/Untitled",
+    "//Untitled",
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "/",
-    "//Main Story"
+    "//White Ball"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

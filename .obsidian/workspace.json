@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -85,12 +85,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Main Story/The College of the Unheard Chapter Two.md",
+                    "file": "White Ball/The Dance.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The College of the Unheard Chapter Two"
+                  "title": "The Dance"
                 }
               }
             ],
@@ -184,7 +184,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "6be9edb80d80fffa",
+=======
+            "id": "5f217194ba26bee6",
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -315,10 +319,23 @@
   },
   "active": "3ca48baadf3bdb90",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Main Story/The Shadow.md",
     "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Main Story/The College of the Unheard Chapter Two.md",
     "Main Story/The College of the Unheard Chapter 1.md",
+=======
+    "White Ball/White Ball.md",
+    "White Ball/The Dance.md",
+    "Tags/#mocs/#mocs.md",
+    "Tags/#mocs",
+    "One-offs/One-offs.md",
+    "White Ball",
+    "Main Story/The College of the Unheard Chapter Two.md",
+    "The Rapture/The Problem.md",
+    "The Rapture/The Rapture.md",
+    "One-offs/The Ten and their Powers and Badges.md",
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "Main Story/The Problem.md",
     "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The Rapture.md",
@@ -337,19 +354,21 @@
     "Main Story/The Rapture/Main Story",
     "The Rapture/Main Story/Index.md",
     "Mythos/Mythrian species/Mythrian species.md",
+<<<<<<< HEAD
     "Mythos/Mythos.md",
     "Mythos/Mythrian species/Dragonspires.md",
     "Mythos/Mythrian species/Moonelf.md",
     "One-offs/One-offs.md",
     "README.md",
+=======
+    "Aeverath and the Shadow/Aeverath and the Shadow.md",
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "Dragonspire resonant.pdf",
     "Mythos/Mythrian species",
     "Species lores/Untitled",
     "Mythos",
     "Main Story/The Rapture",
     "pass",
-    "Untitled.base",
-    "Aeverath and the Shadow",
-    "Main Story/Unconfirmed 853987.crdownload"
+    "Untitled.base"
   ]
 }
