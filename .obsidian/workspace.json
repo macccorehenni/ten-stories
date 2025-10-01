@@ -24,16 +24,6 @@
             "group": "add9aa166098afd8"
           },
           {
-            "id": "23e6c3bbaa9b5f43",
-            "type": "leaf",
-            "state": {
-              "type": "CalendarView",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
-            }
-          },
-          {
             "id": "64df89abd0775f2f",
             "type": "leaf",
             "state": {
@@ -194,7 +184,7 @@
             }
           },
           {
-            "id": "e194b738495d842e",
+            "id": "6be9edb80d80fffa",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,9 +271,19 @@
               "icon": "lucide-list",
               "title": "Outline of The Ten and their Powers and Badges"
             }
+          },
+          {
+            "id": "e7a9f05ed0354977",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -313,11 +313,14 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "daca39cc9f0ced1e",
+  "active": "3ca48baadf3bdb90",
   "lastOpenFiles": [
-    "One-offs/The Ten and their Powers and Badges.md",
+    "Main Story/The Shadow.md",
+    "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Main Story/The College of the Unheard Chapter Two.md",
+    "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The Problem.md",
+    "One-offs/The Ten and their Powers and Badges.md",
     "Main Story/The Rapture.md",
     "Main Story/undefined.md",
     "Main Story/Ending.md",
@@ -331,18 +334,15 @@
     "Main Story/README.md",
     "Main Story/Index.md",
     "Main Story/The College of the Unheard Prologue.md",
-    "Main Story/The College of the Unheard Chapter 1.md",
     "Main Story/The Rapture/Main Story",
     "The Rapture/Main Story/Index.md",
     "Mythos/Mythrian species/Mythrian species.md",
-    "Aeverath and the Shadow/Aeverath and the Shadow.md",
     "Mythos/Mythos.md",
     "Mythos/Mythrian species/Dragonspires.md",
     "Mythos/Mythrian species/Moonelf.md",
     "One-offs/One-offs.md",
     "README.md",
     "Dragonspire resonant.pdf",
-    "Mythos/Mythrian species/Dragonspire resonant.md",
     "Mythos/Mythrian species",
     "Species lores/Untitled",
     "Mythos",

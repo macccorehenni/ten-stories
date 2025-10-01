@@ -235,7 +235,7 @@ Home realm: Danae
 
 Age: 28
 
-Mount: Charizard (Charry)
+Mount: Orange dragon (Charry)
 
 Power: Fire plus Mega Evolution
 

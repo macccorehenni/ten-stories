@@ -512,8 +512,20 @@ Starry smiled, or at least what passed for a smile, as he moved to Emfelli's sid
 
 Meanwhile, Ildren smiled at a duskscale dragon a bit further along than Starry had stood. It was smaller than usual, prompting him to pull out a treat that he had had, which the dragon took, though none too gratefully. Amber smiled, knowing full well that the duskscale had reason to not trust the human. After all, her black dragon, Goren, had snubbed her too. But Goren had come to her side, and had told her it was just a test of strength and resolve. The small dragon, while strong, caved in much easier than Goren had, a year before. He flew and stood in front of Ildren, and kneeled. He, too had chosen Ildren as his handler.
 
----
+‘---
 
 A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we take back Ammareth?"
 
-"Those Parents must be pretty hard to beat," Costa, whose 
+"Those Parents must be pretty hard to beat," Costa, whose orange dragon his handler called Charry because of its propensity to use fire to establish boundaries.
+
+"So what's our plan of attack?"
+
+The four factions began vehemently discussing their ideas on how to save their second–youngest teammate, until the youngest realized— the adults and Iris had no idea how to save her sister. But she did.
+
+"Hey, guys? I have an idea. They will expect us to go back to Gold House, so perhaps we sneak up on their house in Aisney."
+
+Surprised, everyone turned to look at the half-dragonborn who had just so brazenly interrupted her team's meeting. She very rarely ever talked during team meetings, but it seemed like she _really_ meant what she said.
+
+"They won't expect anyone but me and Ammareth to know where it is anyways. And seeing as Ammareth is still somewhat traumatized, I think I should lead."
+
+"Okay, any opposing ideas?" Anna querid
