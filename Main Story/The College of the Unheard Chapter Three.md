@@ -1,4 +1,4 @@
-# Chapter 3— The Shadow Arrives
+21# Chapter 3— The Shadow Arrives
 It had been a few weeks since they had saved Ammareth from the house in Aisney. She had been badly bruised and found it painful to even walk for a few months. This reminded her of when she and Givly had ran away from the Parents. Still, Ammy and Giv both had premonitions that that would not be the last time they met the Parents. 
 
 "Hey, Givly?" Ammareth's little sister hadn't left her side since they returned from the Parents' house, and she now laid across her sister's lap. The teifling and half dragonborn hadn't been close like this since they ran from the Aisney house.
@@ -8,5 +8,9 @@ It had been a few weeks since they had saved Ammareth from the house in Aisney. 
 
 "You know, sister, I'll _always_ be with you. You don't have to ever, ever worry about that."
 
-Ammareth sighed. "I do love you, too, Givly. But I still feel you are 
+Ammareth sighed. "I do love you, too, Givly. But I still feel you are putting your life at risk doing this, sister. I've put you in enough danger as is, sister."
 
+Givly allowed herself a small, shaky sigh. "You aren't wrong, but… I still feel like I have to protect _you_, Ammy. Just as much as Avery expects to be by your side, forever."
+As if prompted by the half dragonborn, Avery lifted his head to say as much. "Little ones, I would never dream for any danger to you, or any of your team… and I only forsee that to grow like it has already. Danger may come, but your sister, red-haired, do you _truly_ trust her?"
+
+But did she?
