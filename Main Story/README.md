@@ -13,6 +13,6 @@ Chapter 1: [[The College of the Unheard Chapter One|And thus, The Ten]] (finishe
 
 Ch. 2: [[The College of the Unheard Chapter Two|The Parents]] (finished)
 
-Ch. 3: [[The College of the Unheard Chapter Three|The Shadow Awaits]]
+Ch. 3: [[The College of the Unheard Chapter Three|The Shadow Arrives]]
 
 Ch. ??? [[Ending|The Songwalkers]]
