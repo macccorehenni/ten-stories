@@ -151,27 +151,6 @@ Species: Goddess
 
 Home realm: Celestial Danae
 
-#### Givly (Giv)
-
-Age: 9
-
-Mount: Tiger (Emmersun)
-
-Power: Mind reader
-
-Badges: Ten, Loud Ones, Mind reader, Honor, Two Snakes, Youngest Faction, 1st 2Y Music Battle I, 2nd 2Y Music Battle II, Friendship of the Orphans (Ten)
-
-Tryout song: Cole’s Response/Yaekelore
-
-Species: Brass half dragonborn
-
-Home realm: Ethryia
-
-Relations:
-
-- Sister: Ammareth
-- Boyfriend: Daviân?
-
 #### Ammereth (Ammy)
 
 Age: 10
@@ -192,6 +171,27 @@ Relations:
 
 - Sister: Givly
 Title: Archfey
+
+#### Givly (Giv)
+
+Age: 9
+
+Mount: Tiger (Emmersun)
+
+Power: Mind reader
+
+Badges: Ten, Loud Ones, Mind reader, Honor, Two Snakes, Youngest Faction, 1st 2Y Music Battle I, 2nd 2Y Music Battle II, Friendship of the Orphans (Ten)
+
+Tryout song: Cole’s Response/Yaekelore
+
+Species: Brass half dragonborn
+
+Home realm: Ethryia
+
+Relations:
+
+- Sister: Ammareth
+- Boyfriend: Daviân?
 
 #### Daviân (Davi)
 
