@@ -9,8 +9,10 @@ linter-yaml-title-alias: College of the Unheard
 
 Prologue: [[The College of the Unheard Prologue|Finale]] (finished)
 
-Chapter 1: [[The College of the Unheard Chapter 1|And thus, The Ten]] (finished)
+Chapter 1: [[The College of the Unheard Chapter One|And thus, The Ten]] (finished)
 
-Ch. 2: [[The College of the Unheard Chapter Two|The Parents]] (70%)
+Ch. 2: [[The College of the Unheard Chapter Two|The Parents]] (finished)
+
+Ch. 3: [[The College of the Unheard Chapter Three|The Shadow Awaits]]
 
 Ch. ??? [[Ending|The Songwalkers]]
