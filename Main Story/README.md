@@ -8,7 +8,7 @@ linter-yaml-title-alias: College of the Unheard
 # College of the Unheard
 
 
-Prologue: [[The College of the Unheard Prologue|Finale]]) (finished)
+Prologue: [[The College of the Unheard Prologue|Finale]] (finished)
 
 Chapter 1: [[The College of the Unheard Chapter One|And thus, the Ten]] (finished)
 
