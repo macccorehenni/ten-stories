@@ -41,7 +41,6 @@
     "//Tags",
     "//Species lores",
     "//Species lores/Species lores/Mythrian species",
-    "//Aeverath and the Shadow",
     "//Mythos",
     "//Mythos/Mythos/Mythrian species",
     "//Friend Stories",
@@ -50,8 +49,12 @@
     "//The Rapture",
     "//Main Story",
     "//One-offs",
+<<<<<<< HEAD
+    "//Aeverath and the Shadow",
+=======
     "//One-offs/One-offs/Untitled",
     "//Untitled",
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "/",
     "//White Ball"
   ],

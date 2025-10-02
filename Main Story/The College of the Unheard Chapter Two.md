@@ -512,7 +512,7 @@ Starry smiled, or at least what passed for a smile, as he moved to Emfelli's sid
 
 Meanwhile, Ildren smiled at a duskscale dragon a bit further along than Starry had stood. It was smaller than usual, prompting him to pull out a treat that he had had, which the dragon took, though none too gratefully. Amber smiled, knowing full well that the duskscale had reason to not trust the human. After all, her black dragon, Goren, had snubbed her too. But Goren had come to her side, and had told her it was just a test of strength and resolve. The small dragon, while strong, caved in much easier than Goren had, a year before. He flew and stood in front of Ildren, and kneeled. He, too had chosen Ildren as his handler.
 
----
+‘---
 
 A few hours later, once Ildren, Parvi, Emfelli and Starry had settled in, Anna called the thirteen members of the Ten into her conference room slash office. "So, now how do we take back Ammareth?"
 
@@ -582,4 +582,5 @@ Meanwhile, the Ten cleared the first floor. No one saw the teifling on this floo
 
 "Did they…"
 
-"I'm fine, sister." Ammareth had lied to save her younger sister's
+"I'm fine, sister." Ammareth had lied to save her younger sister's face. After all, Ammerath had done essentialy the same thing to Anna when she had her… her accident. 
+"Ammareth, Givly, sorry to disrupt your celebration, but it's time to go." Anna, Mariana and the others were at the door to the basement

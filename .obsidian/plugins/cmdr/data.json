@@ -123,7 +123,8 @@
       "custom-sort",
       "editor-status",
       "last-position",
-      "word-count"
+      "word-count",
+      "daily-statistics"
     ],
     "leftRibbon": [
       "Cycle accent color",

@@ -19,3 +19,5 @@ Chibi and Ammareth were awed at the looks of the ballroom. It was modestly decor
 "Okay, let's go in. Annoucement, Ferris?"
 The tall half-elf, husband to 
 "Yae! Ferris!"
+=======
+"You seem jealous… Moderin." Chibi hesitated, recalling Charlie's request to call the monarchs of the Fey Realms by their names.

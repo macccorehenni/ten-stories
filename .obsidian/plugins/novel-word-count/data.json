@@ -71,6 +71,333 @@
     "debugMode": false
   },
   "cachedCounts": {
+<<<<<<< HEAD
+    "Mythos/Mythrian species/Moonelf.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 250,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "The Decendents of the Elder"
+      ],
+      "createdDate": 1757449308801,
+      "modifiedDate": 1757449308801,
+      "sizeInBytes": 416,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13333333333333333,
+        "wordCount": 40,
+        "characterCount": 311,
+        "nonWhitespaceCharacterCount": 250,
+        "newlineCount": 13
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Decendents of the Elder"
+        ],
+        "linter-yaml-title-alias": "The Decendents of the Elder"
+      }
+    },
+    "Mythos/Mythrian species/Mythrian species.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308801,
+      "modifiedDate": 1757449308801,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 32,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
+    "Mythos/Mythrian species/Echoclads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 784,
+      "nonWhitespaceCharacterCount": 638,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Fragments of the Memories"
+      ],
+      "createdDate": 1757449308800,
+      "modifiedDate": 1757449308800,
+      "sizeInBytes": 885,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 784,
+        "nonWhitespaceCharacterCount": 638,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "aliases": [
+          "Fragments of the Memories"
+        ],
+        "linter-yaml-title-alias": "Fragments of the Memories"
+      }
+    },
+    "Mythos/Mythrian species/Dragonspires.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 203,
+      "nonWhitespaceCharacterCount": 173,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "Homeland of the Mythrian Sp."
+      ],
+      "createdDate": 1757449308799,
+      "modifiedDate": 1757449308799,
+      "sizeInBytes": 312,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 203,
+        "nonWhitespaceCharacterCount": 173,
+        "newlineCount": 5
+      },
+      "frontmatter": {
+        "aliases": [
+          "Homeland of the Mythrian Sp."
+        ],
+        "linter-yaml-title-alias": "Homeland of the Mythrian Sp."
+      }
+    },
+    "Mythos/Mythrian species/Dragonspire resonant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 472,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5733333333333333,
+      "characterCount": 3095,
+      "nonWhitespaceCharacterCount": 2556,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 1.7811320754716982,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "The Veildragon-born",
+        "The Veildragon-born"
+      ],
+      "createdDate": 1757449308799,
+      "modifiedDate": 1757449308799,
+      "sizeInBytes": 3213,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5733333333333333,
+        "wordCount": 472,
+        "characterCount": 3095,
+        "nonWhitespaceCharacterCount": 2556,
+        "newlineCount": 38
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Veildragon-born",
+          "The Veildragon-born"
+        ],
+        "linter-yaml-title-alias": "The Veildragon-born"
+      }
+    },
+    "Mythos/Mythrian species/Feybloom.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 76,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Fey-enhanching Plant"
+      ],
+      "createdDate": 1757449308800,
+      "modifiedDate": 1757449308800,
+      "sizeInBytes": 199,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 100,
+        "nonWhitespaceCharacterCount": 76,
+        "newlineCount": 9
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Fey-enhanching Plant"
+        ],
+        "linter-yaml-title-alias": "The Fey-enhanching Plant"
+      }
+    },
+    "Mythos/Mythos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308797,
+      "modifiedDate": 1757449308797,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 32,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
+    "Tags/Tags.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308805,
+      "modifiedDate": 1757449308805,
+      "sizeInBytes": 50,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 30,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
+    "One-offs/The Ten and their Powers and Badges.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1757449308804,
+      "modifiedDate": 1757456140629,
+      "sizeInBytes": 9854,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "One-offs/One-offs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308803,
+      "modifiedDate": 1757449308804,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 32,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
+      }
+    },
+=======
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "One-offs/Descriptions of Characters.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -228,6 +555,20 @@
         "sticker": "lucide//info"
       }
     },
+<<<<<<< HEAD
+    "Main Story/The College of the Unheard Chapter Two.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7191,
+      "wordCountTowardGoal": 7191,
+      "wordGoal": 8000,
+      "pageCount": 23.97,
+      "characterCount": 41084,
+      "nonWhitespaceCharacterCount": 33595,
+      "newlineCount": 524,
+      "readingTimeInMinutes": 27.135849056603774,
+=======
     "The Rapture/The Rapture.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -392,11 +733,24 @@
       "nonWhitespaceCharacterCount": 76,
       "newlineCount": 9,
       "readingTimeInMinutes": 0.03773584905660377,
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "The Fey-enhanching Plant"
+        "The Parents"
       ],
+<<<<<<< HEAD
+      "createdDate": 1757449308791,
+      "modifiedDate": 1757609474239,
+      "sizeInBytes": 41991,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 23.893333333333334,
+        "wordCount": 7168,
+        "characterCount": 40942,
+        "nonWhitespaceCharacterCount": 33476,
+        "newlineCount": 522
+=======
       "createdDate": 1756259407813,
       "modifiedDate": 1756261322420,
       "sizeInBytes": 187,
@@ -407,11 +761,18 @@
         "characterCount": 92,
         "nonWhitespaceCharacterCount": 76,
         "newlineCount": 9
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
       },
       "frontmatter": {
         "aliases": [
-          "The Fey-enhanching Plant"
+          "The Parents"
         ],
+<<<<<<< HEAD
+        "sticker": "lucide//hourglass",
+        "linter-yaml-title-alias": "The Parents",
+        "word-goal": 8000,
+        "title": "The Parents"
+=======
         "linter-yaml-title-alias": "The Fey-enhanching Plant"
       }
     },
@@ -480,6 +841,7 @@
       },
       "frontmatter": {
         "tags": "MOCs"
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
       }
     },
     "Mythos/Mythrian species/Dragonspires.md": {
@@ -837,6 +1199,73 @@
         "newlineCount": 0
       }
     },
+<<<<<<< HEAD
+    "Main Story/The Shadow.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2562,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.54,
+      "characterCount": 14671,
+      "nonWhitespaceCharacterCount": 11999,
+      "newlineCount": 199,
+      "readingTimeInMinutes": 9.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308784,
+      "modifiedDate": 1757609180628,
+      "sizeInBytes": 14747,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.54,
+        "wordCount": 2562,
+        "characterCount": 14869,
+        "nonWhitespaceCharacterCount": 11999,
+        "newlineCount": 199
+      }
+    },
+    "Main Story/The College of the Unheard Chapter 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3682,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 12.273333333333333,
+      "characterCount": 20864,
+      "nonWhitespaceCharacterCount": 17009,
+      "newlineCount": 311,
+      "readingTimeInMinutes": 13.894339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "And Thus, the Ten"
+      ],
+      "createdDate": 1757449308791,
+      "modifiedDate": 1757456787563,
+      "sizeInBytes": 21088,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 12.273333333333333,
+        "wordCount": 3682,
+        "characterCount": 20864,
+        "nonWhitespaceCharacterCount": 17009,
+        "newlineCount": 311
+      },
+      "frontmatter": {
+        "aliases": [
+          "And Thus, the Ten"
+        ],
+        "sticker": "lucide//hourglass",
+        "linter-yaml-title-alias": "And Thus, the Ten",
+        "title": "And Thus, the Ten"
+      }
+    },
+=======
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "Main Story/The College of the Unheard Prologue.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -876,6 +1305,8 @@
         "title": "Finale"
       }
     },
+<<<<<<< HEAD
+=======
     "Main Story/The College of the Unheard Chapter Two.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -914,6 +1345,7 @@
         "title": "The Parents"
       }
     },
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "Main Story/README.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1022,6 +1454,33 @@
         "linter-yaml-title-alias": "The Songwalkers"
       }
     },
+    "pass": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308805,
+      "modifiedDate": 1757449308805,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "LICENSE": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1047,6 +1506,36 @@
         "characterCount": 7169,
         "nonWhitespaceCharacterCount": 5821,
         "newlineCount": 122
+      }
+    },
+    "Friend Stories/Friend Stories.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757449308786,
+      "modifiedDate": 1757449308786,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 32,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": "MOCs"
       }
     },
     "Friend Stories/Soren sisters and Mariana.md": {
@@ -1086,6 +1575,8 @@
         "linter-yaml-title-alias": "Soren Sisters and Mariana— Speaking of Their Tragic Pasts"
       }
     },
+<<<<<<< HEAD
+=======
     "Friend Stories/Friend Stories.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1143,6 +1634,7 @@
         "newlineCount": 199
       }
     },
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
     "Aeverath and the Shadow/Aeverath and the Shadow.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1151,21 +1643,27 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.0033333333333333335,
-      "characterCount": 32,
+      "characterCount": 29,
       "nonWhitespaceCharacterCount": 26,
       "newlineCount": 4,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
+<<<<<<< HEAD
+      "createdDate": 1757449308784,
+      "modifiedDate": 1757456854410,
+      "sizeInBytes": 47,
+=======
       "createdDate": 1755951164016,
       "modifiedDate": 1755951164016,
       "sizeInBytes": 52,
+>>>>>>> c57f1e22d551fb4985ce9883af4dcdd9f44f5d08
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
-        "characterCount": 32,
+        "characterCount": 29,
         "nonWhitespaceCharacterCount": 26,
         "newlineCount": 4
       },
