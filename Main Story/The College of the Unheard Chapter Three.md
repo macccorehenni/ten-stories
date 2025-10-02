@@ -8,5 +8,5 @@ It had been a few weeks since they had saved Ammareth from the house in Aisney. 
 
 "You know, sister, I'll _always_ be with you. You don't have to ever, ever worry about that."
 
-Ammareth sighed. "I do love you, too, Givly. But
+Ammareth sighed. "I do love you, too, Givly. But I still feel you are 
 
