@@ -8,7 +8,8 @@ title: Finale
 ---
 
 # Finale
-
+_The College sat, since time unknown, in a state of stasis. Both for magic and singing, it had yet to find its voices, and its leaders. But this story, starting here— in the rolling vallies where the magic flows freely, these voices, the ones predicted long, long ago, started._
+_Their first year— wrought with peril, as they both came into their magic that they had gained, as students at the College— had been… worrying. Their class had been under attack by a seemingly corrupt student. The Misfits, with their powers still unknown, had understandably _
 "Listen up, team!" Anna said, her bright blue eyes belying the panic that she had. What would happen if _any_ of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they _would surivive_. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna, shakily, continued, "We are the Misfits. We _will_ survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Maren—"
 
 "The prick," Amber said, still upset over their  betrayal, their attempt to use their deathtouch power to _kill_ her. "I condone the use of that word in this case, Iris." she  the Loud Ones, another faction of students, and great friends of the Misfits, returned to the green room with their mounts behind them, their heads down cast.

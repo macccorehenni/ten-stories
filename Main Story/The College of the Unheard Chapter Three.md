@@ -37,4 +37,8 @@ Of course, as one typically would, Givly found the leader of the team in her "of
 Anna looked at her hair. Huh, it _was_ shinier. "Is… Is Celesteia's hair… shinier as well?"
 "Yes, and not just yours, either… Emmersun's fur too!"
 Anna realized— was it? She only really had a basic knowledge of how the magic worked— you gain power, you pull power, you gain massive advantages, some, like hers. But something, intuitively, clicked into place for her.
-Both Anna and 
+
+Both Anna and Givly— understandably so— looked for both Celesteia and Yaereene to confirm that this was not confined to Anna's hair either. It was not— Celesteia's blue hair looked almost as if it were coated with some shiny substance— which was normal–ish for her red hair, but _not_ her blue hair! Something was up, and Celesteia's look of horror was almost palpable. _Something was messing with the magic, and pulling them in_.
+
+---
+Anna and Celesteia had met their junior year of high school. Recently both had become orphans much like the Soren sisters. Anna, understandably, took this hard, to the point where she attempted to jump off the Eisnore High cafeteria roof, which looked over the local highway. But luckily for Anna, Celesteia had just been given the job of protector of the Rainbow Bridge— where all who died went to be processed. Celesteia hadn't known Anna before she encountered her, trying to jump off the roof. But unbeknownst to both teens
