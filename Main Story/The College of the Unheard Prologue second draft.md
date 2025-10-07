@@ -1,12 +1,3 @@
----
-aliases:
-  - Finale
-  - Finale
-sticker: lucide//list-end
-linter-yaml-title-alias: Finale
-title: Finale
----
-
 # Finale
 _The College sat, since time unknown, in a state of stasis. Both for magic and singing, it had yet to find its voices, and its leaders. But this story, starting here— in the rolling vallies where the magic flows freely, these voices, the ones predicted long, long ago, started._
 _Their first year— wrought with peril, as they both came into their magic that they had gained, as students at the College— had been… worrying. Their class had been under attack by a seemingly corrupt student. The Misfits, with their powers still unknown, had understandably _
