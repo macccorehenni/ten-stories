@@ -6,7 +6,7 @@
 
 ---
 
-"Listen up, team!" Anna said, her bright blue eyes belying a sense of dread and panic, backstage in the music hall of the College of the Unheard. What would happen if *any* of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, she tried to reason with herself, they *would survive*. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna continued, shakily, "We are the Misfits. We *will* survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Minden—"
+"Listen up, team!" Anna said, her bright blue eyes belying a sense of dread and panic, backstage in the music hall of the College of the Unheard. What would happen if *any* of her faction was killed? Would they die, and their mounts after them? If one of them died, bringing down their mount with them, it would not reflect well on the college. Then again, qshe tried to reason with herself, they *would survive*. As she, Celesteia, Yae and Amber looked on as the Loud Ones went on stage, Anna continued, shakily, "We are the Misfits. We *will* survive, even if the Mindplayers try and attack us. Which at this point is likely. I've been observing Minden—"
 
 Anna stopped, out of breath, as the youngest faction, the one with the closest bonds to the Misfits, the ones who themselves had fought off the corruption of the Mindplayers, came back. Each of the Loud Ones looked upset as their mounts each tried to comfort them, Emmersun going over to Givly and softly purring.
 
@@ -16,11 +16,9 @@ Anna stopped, out of breath, as the youngest faction, the one with the closest b
 
 "Somehow my power knocked over the lighting lamp. We're not moving through." Givly replied, a sour taste forming in her mouth as she snuggled with her mount, his fur bright purple and orange, his love and devotion to his handler shown in the way he looked at her as she cried, her long, blonde locks once again covering her whole face.
 
-Iris confirmed this, frowning as her elephant mount came up to her.
-
-This statement seemed off, though. Celesteia knew that Givly's power didn't have any physical manifestation—she's a mind reader, her power not able to knock down any lights, only foretell their admissions. Something was off, for sure, and she frowned as she and her mount looked at each other.
-
 Palden said to Celesteia through their own bonds, “It’s Minden, isn’t it?”
+
+"I think so, Givly couldn't have done that all by herself. After all she is a mind reader, and last I checked, lighting doesn't have minds to read. And I don't think that Givly could have convinced the light to fall either, especially while she was singing."
 
 Anna thought for a moment, her eyes widening. "Huh. Waaait… Huddle up for a moment, Misfits."
 
@@ -92,6 +90,7 @@ She had realized that the Mindplayers were serious, they wanted *something*, som
 
 "I'm saying, have your mounts ready, hm?"
 
+
 "Misfits, you're up, you're holding up several other factions here!" The stage master chided the quartet from the other side of the greenroom, ready to lead the somehow often-forgotten faction—to their death?
 
 ---
@@ -113,11 +112,11 @@ Minden, the corrupt leader of the faction, came in and sang the middle verse of 
 > a feast for me  
 > in youthful splendor.
 
-Anna choked up as they moved closer. So, this was it, thought Anna, but the Mindplayers suddenly stopped, taunting Anna from afar.
+Anna choked up as they moved closer. So, this was it, thought Anna, but the Mindplayers suddenly stopped, taunting Anna from afar. She nontheless closed her eyes, expecting one of them to rush her and attack her, but none did. 
 
 “It’s your line, Anna Ildren. What’ll it be?”
 
-They tilted their head, waiting for Anna to continue, pure anger in their eyes.
+They tilted their head, waiting for Anna to continue, pure anger in their eyes. The other three o looking pensive, looking upset, but staying beside their leader
 
 Backstage, the Loud Ones and the Misfits' mounts stood in uneasy silence, their ears tuned to the chaos beyond the curtain. Despite the desperate cries of their handlers, they remained still, bound by rules and fear. Each heartbeat after the Mindplayers—save for Minden, thank the Gods—shoved past toward the stage throbbed with tension, like a drumbeat of impending doom. The Loud Ones were worried about their friends, and as much as they wanted to intervene they did not.
 
