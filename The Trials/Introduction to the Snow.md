@@ -1,5 +1,7 @@
 # Introduction to the Snow
+
 ## Or, the story of the Trial of the Snow
+
 Anna woke up in an unfamiliar hallway, her head throbbing. It was dark as she laid on her back, pain blurring her vision. "Where am I?". This didn't _feel_ like Mythra, or any of the Multi-world. It felt unfamiliar, yet familiar. She stumbled blindly to her feet, slipping a bit as her feet found purchase. She walked forward, the pain in her shoulder causing her to stop. Darkness continued as slowly but surely Anna continued, her feet— bare, she noted— falling on cold stone. She continued to walk, soon seeing a golden light in front of her. The light came back into her eyes, knowing only celestial beings could create such bright, shining lights. But soon, her vision faded as she began to feel the effects of her serious injuries. She, of course, had been aware of the injuries, but it dawned on her that she might have fallen far, but did not know _exactly_ how far. She remembered falling, but now her mind was elsewhere, just as her body was.
 
 She continued into the light despite her fatigue. Soon, she came to a wall, a tarnished mirror waiting.
