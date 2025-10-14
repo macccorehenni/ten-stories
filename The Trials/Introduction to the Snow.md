@@ -55,5 +55,7 @@ It sounded familiar— it felt like everything, but nothing at all. It felt like
 Anna stumbled up. Her skin was smooth, even more smooth than before, her hair and all decorations on her body— gone.
 
 "I have devised a set of trials— the first of which you have already experienced— that will reinforce these concepts— your power is for good, and you _will_ outlive all but a select few of your friends and family as a immortal. Unfortunately, the sands of times will continue to filter through my— your— grasp, and you will need to make the decisions for the good of not only Ethryia, but all of the Multi-world— and any potential worlds you may lead in the future— to prevent them from flowing. 
+
 "Your insecurity about your past shows you will take these decisions with a sense of purpose— with a sense of what was in the past. But as much as memory serves as a scaffold, it can _harm_. The poison you felt— it was your memories, them actively damaging you, the weight of them slowly corrupting you. But you, a mortal, let self-doubt creep in.
+
 "It harmed you, yet you continued.
