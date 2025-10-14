@@ -6,7 +6,7 @@ linter-yaml-title-alias: College of the Unheard
 ---
 
 # College of the Unheard
-
+[Up](../README.md)
 
 Prologue: [[The College of the Unheard Prologue|Finale]] (finished)
 

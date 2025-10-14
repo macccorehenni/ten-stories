@@ -42,7 +42,7 @@ Anna glared at her, and then shook her head. "Okay, yes, I think we are in dange
 
 Givly shrugged, and her shoulders—and mount—sagged. "We are going to be repeat years?"
 
-"I have faith that that will *not* be the case, Giv." Yae replied.
+"I have faith that that will *not* be the case, Giv." Yae replied, strongly.
 
 "I dunno bout that, Yae." Iris wasn't frowning, *per se*, but neither was she smiling. "But barring a miracle, we won't be moving on. But I may have a plan. If I may, Miss Anna?"
 
@@ -158,4 +158,4 @@ No matter what they tried, the Misfits and Loud Ones could not stop Minden or th
 
 Yae was then able to pick back up the stone and throw it at their bloodied body, dealing the final blow and killing them. Anna was alive, but didn't look well. The poison didn't work, or did it? Regardless, the show had to go on.
 
-After the song finished, Anna got taken to the hospital, with her final words through the bonds of magic shared between being, *"You're in charge, Celesteia."
+After the song finished, Anna got taken to the hospital, with her final words through the bonds of magic shared between the three Misfits being, "You're in charge, Celesteia."
