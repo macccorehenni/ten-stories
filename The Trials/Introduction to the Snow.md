@@ -58,4 +58,6 @@ Anna stumbled up. Her skin was smooth, even more smooth than before, her hair an
 
 "Your insecurity about your past shows you will take these decisions with a sense of purpose— with a sense of what was in the past. But as much as memory serves as a scaffold, it can _harm_. The poison you felt— it was your memories, them actively damaging you, the weight of them slowly corrupting you. But you, a mortal, let self-doubt creep in.
 
-"It harmed you, yet you continued.
+"It harmed you, yet you continued. It led to your downfall, to your _pain_"
+
+The more the voice spoke
