@@ -34,6 +34,26 @@ As she observed this clearing though, something shifted within her. The throbbin
 
 After a few hundred feet, she found another lamp. This sent chills through Anna's skin of rock. She had realized that this wasn't the end to the Tunnels, but the beginning. _Something wanted her dead_. The crystals below her were pulsating, _hard_, the voices coming to a crescendo. But this crescendo seemed even kinder, as if to say,  "_You shouldn't have continued, but we'll forgive you for thinking you should, thinking you were right._"  None of the voices in the walls had tried to stop her, yet they seemingly forebode her from going on. As she crested the hill she saw five obelisks, each marked with the same symbol now covering her left eye. The wind picked up voices of her loved ones— Celesteia, the one who saved her, but at what cost; the Soren sisters and Iris, looking up to her; the others, _Ethryia_, all looking for her to lead; each voice giving her _doubt_ but _purpose_, _pain_ but _growth_. As she looked up, the winds of her chosen family, all saying _could have_, _should have_. The lights were at their brightest, and the obelisks started mirroring this glow.  "Anna," the voices cried. "We love you, don't let go." She ignored them, certain that retreating brought pain but unsure if the same was true in front of her. She paused as a piece of the first obelisk fell, almost crushing her, its vibrant hues shifting violently. She felt the pain of dread ebbing and flowing, joined by _regret_. The crescendo had become harsher, to where it sounded like hissing, her found family corrupting into an entity she never had intended. Anna froze, unable to move, as another piece of obelisk fell, its weight coming close to throwing Anna off the cliff she was climbing.
 
-As she crouched to avoid it, she noticed her shoulder, which had been made out of stone before, was now corroding into some grey, lifeless form, devoid of light. She was crumbling apart. She felt as she had when she had first fallen— weak, unable to move by nothing but crawling. Her doubt— was it real, or imagined? Her pain— was it just another feeling, devoid of meaning? She didn't know anymore. All her memories seemed go _against_ her, yet they all seemed to go _for_ her. _None of this made sense._ She felt like what she felt that day she attemped to jump off of Eisnore High School's roof onto the highway— before her wife saved her. 
+As she crouched to avoid it, she noticed her shoulder, which had been made out of stone before, was now corroding into some grey, lifeless form, devoid of light. She was crumbling apart. She felt as she had when she had first fallen— weak, unable to move by nothing but crawling. Her doubt— was it real, or imagined? Her pain— was it just another feeling, devoid of meaning? She didn't know anymore. All her memories seemed go _against_ her, yet they all seemed to go _for_ her. _None of this made sense._ She felt like what she felt that day she attempted to jump off of Eisnore High School's roof onto the highway— before her wife saved her.
 
-Anna decided to let the third 
+Anna decided to let the third rock end it all. She never would get to see her loved ones again, but at this point, she didn't care. _This insanity needed to end._ But the rock barely scratched her side. "Shit!" She smiled, more a smile of insanity than kindness. The voices of her family, her _chosen_ family, echoed inside her head, seeding doubt. The fourth left a small wound. At this point, the pain, the doubt, the _insanity_, all deepened, her skin corroding. She hadn't felt this way since meeting her wife, but the self-doubt was too much. The fifth rock— it smashed directly into her, her light leaving her once and for all.
+
+---
+
+Anna awoke in the same type of room she had fallen into. Her life force still spent, she shuddered and looked down at herself. The rock she used to be, was now smooth glass. She slowly got up, her pain gone, replaced by hollow nothingness.
+
+A voice rang out.
+
+"Anna Ildren, you hold my title."
+
+It sounded familiar— it felt like everything, but nothing at all. It felt like everywhere, but nowhere. This couldn't have been the Elder, the one who created Ethyria and the land that birthed the Multi-world.
+
+"Yet, you remained mortal. That will simply not _do_.
+
+"However, my strength shalln't be used without idle cause. You have direct experience with this— how power can corrupt even the most incorrigible of mortals."
+
+Anna stumbled up. Her skin was smooth, even more smooth than before, her hair and all decorations on her body— gone.
+
+"I have devised a set of trials— the first of which you have already experienced— that will reinforce these concepts— your power is for good, and you _will_ outlive all but a select few of your friends and family as a immortal. Unfortunately, the sands of times will continue to filter through my— your— grasp, and you will need to make the decisions for the good of not only Ethryia, but all of the Multi-world— and any potential worlds you may lead in the future— to prevent them from flowing. 
+"Your insecurity about your past shows you will take these decisions with a sense of purpose— with a sense of what was in the past. But as much as memory serves as a scaffold, it can _harm_. The poison you felt— it was your memories, them actively damaging you, the weight of them slowly corrupting you. But you, a mortal, let self-doubt creep in.
+"It harmed you, yet you continued.
