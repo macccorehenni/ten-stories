@@ -14,4 +14,4 @@ Chapter 1: [[The College of the Unheard Chapter One|And thus, the Ten]] (finishe
 
 Ch. 2: [[The College of the Unheard Chapter Two|The Parents]] (finished)
 
-Ch. 3: [[The College of the Unheard Chapter Three|The Shadow Arrives]] (12%)
+Ch. 3: [[The College of the Unheard Chapter Three|The Shadow Arrives]] (19%)
