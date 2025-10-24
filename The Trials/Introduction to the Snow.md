@@ -58,6 +58,26 @@ Anna stumbled up. Her skin was smooth, even more smooth than before, her hair an
 
 "Your insecurity about your past shows you will take these decisions with a sense of purpose— with a sense of what was in the past. But as much as memory serves as a scaffold, it can _harm_. The poison you felt— it was your memories, them actively damaging you, the weight of them slowly corrupting you. But you, a mortal, let self-doubt creep in.
 
-"It harmed you, yet you continued. It led to your downfall, to your _pain_"
+"It harmed you, yet you continued. It led to your downfall, to your _pain_."
 
-The more the voice spoke
+The more the voice spoke, the more Anna realized that her inital premonitions were correct. It was the Elder.
+
+"Elder, why do you torture me so? Have I passed?" Anna frowned. 
+
+"First, that is _your_ title now. You should call me the _Creator_." The Creator frowned, then smiled. 
+
+"As to your question, yes, you have passed. The lesson I hope you learned is that… memories have just as much ability to hurt as they do to uplift. This is something that when you gain "
+
+Anna tilted her head in confusion. "I'm already immortal, am I not?" The Creator shook their head in dissent.
+
+"Yes, but only _temporarily_. Thalindra— your patron of the Earth, if I am not mistaken— taught you well. But still, even when trained, your patron could only give you immortality as long as your bonds stay true.
+
+"The pact you made upon your treehouse— your home, your sanctuary, your _life_— it was only temporary."
+
+Something clicked in Anna's mind. "So, wait. When I travelled to Mythra, the bonds between Thalindra and I broke when I went through the portal, and thusly I returned to being mortal?"
+
+The Creator nodded. "Yes. While it was not evident, when you fought the traitor, Minden, during your first year, you were mortal. The only reason why you survived the battle was beacuse _I_ saw the battle, saw you on the stage, dying, and realized— your story was destined for more."
+
+Anna frowned. "I thought that—" 
+
+Anna looked down. She had assumed that "temporary immortality" just meant that she would lose it if she disgraced or otherwise upset Thalindra. She didn't realize that 
