@@ -80,4 +80,4 @@ The Creator nodded. "Yes. While it was not evident, when you fought the traitor,
 
 Anna frowned. "I thought that—" 
 
-Anna looked down. She had assumed that "temporary immortality" just meant that she would lose it if she disgraced or otherwise upset Thalindra. She didn't realize that 
+Anna looked down. She had assumed that "temporary immortality" just meant that she would lose it if she disgraced or otherwise upset Thalindra. She didn't realize that she— and Celesteia— had lost their immortality
