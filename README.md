@@ -5,3 +5,4 @@
 [Main Story](<Main Story/README.md>)
 
 [The Trials](<The Trials/README.md>)
+[Orpheous and the Shattering](<Orpheous and the Shattering/README.md>)
