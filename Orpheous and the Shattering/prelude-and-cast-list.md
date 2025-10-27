@@ -5,11 +5,22 @@ This play follows ORPHEOUS, a young prince who has a falling out with his father
 
 ## In order of appearance, the characters and their actors and actresses:
 _Fate_, played by Casie Trevalo, the Titan of Shadow
+
 _Orpheous_, played by Costa Inverio
+
 _King of Castaria_, played by Ferris Enphyra
+
 _Talvet_, Orpheous' butler, played by Cavereo Ingells
+
+_Halgeon_, Orpheous' rival, played by Lisanna Soren
+
 _Princess Cristellia_, played by Ammareth Soren
+
 _King of Calfonia_, played by Costa Inverio
+
 _Prinve_, Cristellia's friend and confidant, played by Givly Soren
+
 _The voice of the Shattering_, played by Anna Ildren
 
+_The Shattering_, played by Ammareth Soren
+S
