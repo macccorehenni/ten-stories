@@ -80,7 +80,6 @@ The Creator nodded. "Yes. While it was not evident, when you fought the traitor,
 
 Anna frowned. "I thought that—" 
 
-<<<<<<< HEAD
 Anna looked down. She had assumed that "temporary immortality" just meant that she would lose it if she disgraced or otherwise upset Thalindra. She didn't realize that she— and Celesteia— had lost their immortality when they made it into Mythra. Luckily, both she and her wife were always careful, even when the stakes were high.
 
 Ever the pragmaticist, Anna asked the Creator what the next steps were. The Creator smiled. "You are quick, Anna. But let me ask this— your traumas, your mother and father passing in the accident, did that make you feel alone?"
