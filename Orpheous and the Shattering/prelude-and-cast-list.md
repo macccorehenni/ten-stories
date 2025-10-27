@@ -23,4 +23,3 @@ _Prinve_, Cristellia's friend and confidant, played by Givly Soren
 _The voice of the Shattering_, played by Anna Ildren
 
 _The Shattering_, played by Ammareth Soren
-S
